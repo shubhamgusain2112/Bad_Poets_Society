@@ -2,7 +2,7 @@
 ## Computational Creativity Assignment 2
 
 ### Contributors
-| Team | Student Number | Github |
+| Team | Student Number | GitHub |
 | - | - | - |
 | Rahul Ray | s4875710 |[LINK](https://github.com/rahulrayy) |
 | Shubham Gusain | s4846761| [LINK](https://github.com/shubhamgusain2112/)
