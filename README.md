@@ -10,7 +10,7 @@
 ### Sources 
 | Use | Name | Link |
 | - | - | - |
-| LLM | Qwen 3 (0.6B) | [LINK](https://huggingface.co/Qwen/Qwen3-0.6B) | 
+| LLM | Qwen 3 Base (0.6B) | [LINK](https://huggingface.co/Qwen/Qwen3-0.6B-Base) | 
 | Pronunciation Database | CMUDict | [LINK](https://github.com/Alexir/CMUdict) |
 | Rhyme Database | PeRDict Database | [LINK](https://github.com/scrosseye/PeRDict-database) | 
 | Syllable Database | English phonetic and syllable count dictionary | [LINK](https://www.kaggle.com/datasets/schwartstack/english-phonetic-and-syllable-count-dictionary) | 
