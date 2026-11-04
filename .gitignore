@@ -1,0 +1,12 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyCharm / JetBrains
+.idea/
+
+# Local planning notes
+poem_generator_plan.md
