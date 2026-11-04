@@ -10,3 +10,6 @@ __pycache__/
 
 # Local planning notes
 poem_generator_plan.md
+
+# Downloaded model weights (too large for GitHub)
+model/
