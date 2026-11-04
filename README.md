@@ -16,17 +16,26 @@
 | Syllable Database | English phonetic and syllable count dictionary | [LINK](https://www.kaggle.com/datasets/schwartstack/english-phonetic-and-syllable-count-dictionary) | 
 | Poetry Database | DanFosing/public-domain-poetry | [LINK](https://huggingface.co/datasets/DanFosing/public-domain-poetry) | 
 
+### Other downloads
+Also used by the project. Like the sources above, they go in `data/`, which is not in the repo.
+
+| Name | Why | Link |
+| - | - | - |
+| Gutenberg Poetry Corpus | Main training data: 3.1M lines of public-domain poetry from 1,191 books | [LINK](https://huggingface.co/datasets/biglam/gutenberg-poetry-corpus) |
+| Project Gutenberg catalogue | Finds the author of each book in the corpus | [LINK](https://www.gutenberg.org/cache/epub/feeds/pg_catalog.csv) |
+| GloVe word vectors (300d) | The "meaning" space the model predicts each next word in | [LINK](https://github.com/RaRe-Technologies/gensim-data/releases/tag/glove-wiki-gigaword-300) |
+
 ### Scripts
 Both scripts use the untuned Qwen 3 Base model. Type `quit` to exit either one.
 
 | File | What it does |
 | - | - |
-| `try_qwen.py` | Type any text and the model continues it, e.g. the first line of a poem. Type `\n` for a line break. Being a base model, it continues text rather than answering questions. |
-| `chat_qwen.py` | Makes the base model act like a chatbot. The conversation is written as a `User:` / `Assistant:` transcript that starts with two example exchanges, and each reply stops when the model begins a new `User:` line. It remembers the conversation (`reset` clears it) and shows tokens per second after each answer. |
+| `chatbot/try_qwen.py` | Type any text and the model continues it, e.g. the first line of a poem. Type `\n` for a line break. Being a base model, it continues text rather than answering questions. |
+| `chatbot/chat_qwen.py` | Makes the base model act like a chatbot. The conversation is written as a `User:` / `Assistant:` transcript that starts with two example exchanges, and each reply stops when the model begins a new `User:` line. It remembers the conversation (`reset` clears it) and shows tokens per second after each answer. |
 
 **Setup.** The model weights are not in the repo (`model/` is in `.gitignore`), so download them once:
 ```
 pip install torch transformers huggingface_hub
 python -c "from huggingface_hub import snapshot_download; snapshot_download('Qwen/Qwen3-0.6B-Base', local_dir='model/Qwen3-0.6B-Base')"
 ```
-Then run `python try_qwen.py` or `python chat_qwen.py`. 
+Then run `python chatbot/try_qwen.py` or `python chatbot/chat_qwen.py`. 

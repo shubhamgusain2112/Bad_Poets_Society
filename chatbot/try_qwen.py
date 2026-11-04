@@ -1,12 +1,15 @@
 """
-Run: \python.exe try_qwen.py
+Run: python chatbot/try_qwen.py
 
 
 """
+from pathlib import Path
+
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer, TextStreamer
 
-MODEL_DIR = "model/Qwen3-0.6B-Base"
+# the model lives in <project>/model/, one folder up from this script
+MODEL_DIR = Path(__file__).resolve().parent.parent / "model" / "Qwen3-0.6B-Base"
 MAX_NEW_TOKENS = 120
 TEMPERATURE = 0.8
 

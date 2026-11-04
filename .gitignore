@@ -8,9 +8,11 @@ __pycache__/
 # PyCharm / JetBrains
 .idea/
 
-# Local planning notes
-poem_generator_plan.md
-timeline.md
+# my notes
+notes/
 
 # Downloaded model weights (too large for GitHub)
 model/
+
+# Downloaded and generated data, and the scripts in it
+data/
