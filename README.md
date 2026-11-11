@@ -16,42 +16,57 @@
 | Syllable Database | English phonetic and syllable count dictionary | [LINK](https://www.kaggle.com/datasets/schwartstack/english-phonetic-and-syllable-count-dictionary) | 
 | Poetry Database | DanFosing/public-domain-poetry | [LINK](https://huggingface.co/datasets/DanFosing/public-domain-poetry) | 
 
-### Other downloads
-Also used by the project. Like the sources above, they go in `data/`, which is not in the repo.
+### Other stuff we use
+- [Gutenberg Poetry Corpus](https://huggingface.co/datasets/biglam/gutenberg-poetry-corpus) - main training data, 3.1M lines from 1,191 books
+- [Gutenberg catalogue](https://www.gutenberg.org/cache/epub/feeds/pg_catalog.csv) - to find out who wrote each of those books
+- [GloVe word vectors](https://github.com/RaRe-Technologies/gensim-data/releases/tag/glove-wiki-gigaword-300) - the "meaning" space we pick the last word of each line from
 
-| Name | Why | Link |
-| - | - | - |
-| Gutenberg Poetry Corpus | Main training data: 3.1M lines of public-domain poetry from 1,191 books | [LINK](https://huggingface.co/datasets/biglam/gutenberg-poetry-corpus) |
-| Project Gutenberg catalogue | Finds the author of each book in the corpus | [LINK](https://www.gutenberg.org/cache/epub/feeds/pg_catalog.csv) |
-| GloVe word vectors (300d) | The "meaning" space the model predicts each next word in | [LINK](https://github.com/RaRe-Technologies/gensim-data/releases/tag/glove-wiki-gigaword-300) |
+### How to run
+We used Windows + Python 3.12, should work on other setups too.
 
-### Chatbot scripts
-Both scripts use the untuned Qwen 3 Base model. Type `quit` to exit either one.
-
-| File | What it does |
-| - | - |
-| `chatbot/try_qwen.py` | Type any text and the model continues it, e.g. the first line of a poem. Type `\n` for a line break. Being a base model, it continues text rather than answering questions. |
-| `chatbot/chat_qwen.py` | Makes the base model act like a chatbot. The conversation is written as a `User:` / `Assistant:` transcript that starts with two example exchanges, and each reply stops when the model begins a new `User:` line. It remembers the conversation (`reset` clears it) and shows tokens per second after each answer. |
-
-**Setup.** The model weights are not in the repo (`model/` is in `.gitignore`), so download them once:
+**1. Install stuff**
 ```
-pip install torch transformers huggingface_hub
+python -m venv .venv
+.venv\Scripts\activate
+pip install torch --index-url https://download.pytorch.org/whl/cu128
+pip install transformers huggingface_hub pandas pyarrow jupyter
+```
+The torch line is the GPU version (Nvidia). No Nvidia GPU? just do `pip install torch`.
+
+**2. Get the model** (~1.2GB, goes in `model/` which isn't in the repo)
+```
 python -c "from huggingface_hub import snapshot_download; snapshot_download('Qwen/Qwen3-0.6B-Base', local_dir='model/Qwen3-0.6B-Base')"
 ```
-Then run `python chatbot/try_qwen.py` or `python chatbot/chat_qwen.py`. 
 
-### Data notebooks
-The notebooks in `scripts/` prepare the training data. They read the downloads from `data/` and write their results there too (none of it is in the repo). Open them from the `scripts/` folder.
+**3. Get the data**
 
-| Notebook | What it does | Output |
-| - | - | - |
-| `scripts/author_counts.ipynb` | Counts how many lines each poet has in the two corpora (each distinct line once), to choose the authors the model is conditioned on | `data/author_counts.csv` |
-| `scripts/clean_pdp.ipynb` | Cleans public-domain-poetry: drops very short poems, prose, translations and duplicates, fixes the OCR "0" → "O" slip, tidies author names | `data/pdp_clean.parquet` (34,245 poems) |
-| `scripts/clean_gutenberg.ipynb` | Cleans the Gutenberg Poetry Corpus: drops translations, prose and duplicate books and lines, fixes small text problems, and finds each book's author, checked against public-domain-poetry | `data/gutenberg_clean.parquet` (869 books) |
+The data isn't in the repo either. Easiest is to ask us for our `data/` folder, then you get the exact same files we used. Or download these 3 and put them here:
+```
+data/public-domain-poetry/poems.json
+data/gutenberg-poetry-corpus/data/train-00000-of-00001-fa9fb9e1f16eed7e.parquet
+data/gutenberg-catalog/pg_catalog.csv
+```
+- poems.json: https://huggingface.co/datasets/DanFosing/public-domain-poetry/resolve/main/poems.json
+- the parquet: https://huggingface.co/datasets/biglam/gutenberg-poetry-corpus/resolve/main/data/train-00000-of-00001-fa9fb9e1f16eed7e.parquet
+- pg_catalog.csv: https://www.gutenberg.org/cache/epub/feeds/pg_catalog.csv
 
-Run `clean_pdp.ipynb` before `clean_gutenberg.ipynb`, which uses its output.
+(Gutenberg updates the catalogue every day, so if you download it yourself a few author names might come out slightly different.)
 
-**Setup.** `pip install pandas pyarrow jupyter`. The notebooks expect these downloads in `data/`:
-- `gutenberg-poetry-corpus/data/train-00000-of-00001-fa9fb9e1f16eed7e.parquet`
-- `public-domain-poetry/poems.json`
-- `gutenberg-catalog/pg_catalog.csv`
+The later steps (rhymes and the meaning head) also need these two, not needed for the notebooks below yet:
+- `data/cmudict/cmudict-0.7b` from https://raw.githubusercontent.com/Alexir/CMUdict/HEAD/cmudict-0.7b
+- `data/glove/glove-wiki-gigaword-300.gz` (~400MB) from https://github.com/RaRe-Technologies/gensim-data/releases/download/glove-wiki-gigaword-300/glove-wiki-gigaword-300.gz
+
+**4. Run the notebooks**
+
+Open them from inside `scripts/` (Jupyter, PyCharm or VS Code all work) and run all cells, in this order:
+
+1. `clean_pdp.ipynb` - cleans the poetry dataset: removes short poems, prose, translations and duplicates, fixes the OCR thing where "O" became "0", tidies author names. Makes `data/pdp_clean.parquet` (should be 34,245 poems)
+2. `clean_gutenberg.ipynb` - same idea for the Gutenberg corpus, plus works out who wrote each book. Needs step 1 done first and takes a few minutes. Makes `data/gutenberg_clean.parquet` (869 books)
+3. `author_counts.ipynb` - optional, just counts how many lines each poet has. Makes `data/author_counts.csv`
+
+### Chatbot scripts
+Just for playing around with the untuned model (needs step 1 and 2).
+- `python chatbot/try_qwen.py` - type something and it continues it, `\n` for a new line
+- `python chatbot/chat_qwen.py` - makes the base model act like a chatbot and shows tokens/sec, `reset` clears the chat
+
+Type `quit` to exit either one.
