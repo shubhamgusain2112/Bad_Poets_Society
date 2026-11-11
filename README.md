@@ -28,10 +28,9 @@ We used Windows + Python 3.12, should work on other setups too.
 ```
 python -m venv .venv
 .venv\Scripts\activate
-pip install torch --index-url https://download.pytorch.org/whl/cu128
-pip install transformers huggingface_hub pandas pyarrow jupyter
+pip install -r requirements.txt
 ```
-The torch line is the GPU version (Nvidia). No Nvidia GPU? just do `pip install torch`.
+That's the exact versions we used. The torch in there is the Nvidia GPU version, so no Nvidia GPU? take the torch line out of `requirements.txt` and just do `pip install torch`. To open the notebooks in the browser also do `pip install jupyter` (PyCharm / VS Code don't need it).
 
 **2. Get the model** (~1.2GB, goes in `model/` which isn't in the repo)
 ```
