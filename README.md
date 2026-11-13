@@ -4,17 +4,17 @@
 ### Contributors
 | Team | Student Number | GitHub |
 | - | - | - |
-| Rahul Ray | s4875710 |[LINK](https://github.com/rahulrayy) |
-| Shubham Gusain | s4846761| [LINK](https://github.com/shubhamgusain2112/)
+| Rahul Ray | s4875710 |[[LINK]](https://github.com/rahulrayy) |
+| Shubham Gusain | s4846761| [[LINK]](https://github.com/shubhamgusain2112/)
 
 ### Sources 
 | Use | Name | Link |
 | - | - | - |
-| LLM | Qwen 3 Base (0.6B) | [LINK](https://huggingface.co/Qwen/Qwen3-0.6B-Base) | 
-| Pronunciation Database | CMUDict | [LINK](https://github.com/Alexir/CMUdict) |
-| Rhyme Database | PeRDict Database | [LINK](https://github.com/scrosseye/PeRDict-database) | 
-| Syllable Database | English phonetic and syllable count dictionary | [LINK](https://www.kaggle.com/datasets/schwartstack/english-phonetic-and-syllable-count-dictionary) | 
-| Poetry Database | DanFosing/public-domain-poetry | [LINK](https://huggingface.co/datasets/DanFosing/public-domain-poetry) | 
+| LLM | Qwen 3 Base (0.6B) | [[LINK]](https://huggingface.co/Qwen/Qwen3-0.6B-Base) | 
+| Pronunciation Database | CMUDict | [[LINK]](https://github.com/Alexir/CMUdict) |
+| Rhyme Database | PeRDict Database | [[LINK]](https://github.com/scrosseye/PeRDict-database) | 
+| Syllable Database | English phonetic and syllable count dictionary | [[LINK]](https://www.kaggle.com/datasets/schwartstack/english-phonetic-and-syllable-count-dictionary) | 
+| Poetry Database | DanFosing/public-domain-poetry | [[LINK]](https://huggingface.co/datasets/DanFosing/public-domain-poetry) | 
 
 ### Other stuff we use
 - [Gutenberg Poetry Corpus](https://huggingface.co/datasets/biglam/gutenberg-poetry-corpus) - main training data, 3.1M lines from 1,191 books
@@ -45,15 +45,15 @@ data/public-domain-poetry/poems.json
 data/gutenberg-poetry-corpus/data/train-00000-of-00001-fa9fb9e1f16eed7e.parquet
 data/gutenberg-catalog/pg_catalog.csv
 ```
-- poems.json: https://huggingface.co/datasets/DanFosing/public-domain-poetry/resolve/main/poems.json
-- the parquet: https://huggingface.co/datasets/biglam/gutenberg-poetry-corpus/resolve/main/data/train-00000-of-00001-fa9fb9e1f16eed7e.parquet
-- pg_catalog.csv: https://www.gutenberg.org/cache/epub/feeds/pg_catalog.csv
+- poems.json: [[LINK]](https://huggingface.co/datasets/DanFosing/public-domain-poetry/resolve/main/poems.json)
+- the parquet: [[LINK]](https://huggingface.co/datasets/biglam/gutenberg-poetry-corpus/resolve/main/data/train-00000-of-00001-fa9fb9e1f16eed7e.parquet)
+- pg_catalog.csv: [[LINK]](https://www.gutenberg.org/cache/epub/feeds/pg_catalog.csv)
 
 (Gutenberg updates the catalogue every day, so if you download it yourself a few author names might come out slightly different.)
 
 The later steps (rhymes and the meaning head) also need these two, not needed for the notebooks below yet:
-- `data/cmudict/cmudict-0.7b` from https://raw.githubusercontent.com/Alexir/CMUdict/HEAD/cmudict-0.7b
-- `data/glove/glove-wiki-gigaword-300.gz` (~400MB) from https://github.com/RaRe-Technologies/gensim-data/releases/download/glove-wiki-gigaword-300/glove-wiki-gigaword-300.gz
+- `data/cmudict/cmudict-0.7b` [[LINK]](https://raw.githubusercontent.com/Alexir/CMUdict/HEAD/cmudict-0.7b)
+- `data/glove/glove-wiki-gigaword-300.gz` (~400MB) from [[LINK]](https://github.com/RaRe-Technologies/gensim-data/releases/download/glove-wiki-gigaword-300/glove-wiki-gigaword-300.gz)
 
 **4. Run the notebooks**
 

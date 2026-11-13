@@ -1,4 +1,4 @@
-# Python virtual environment
+# Virtual environment
 .venv/
 
 # Python cache
@@ -11,8 +11,8 @@ __pycache__/
 # my notes
 notes/
 
-# Downloaded model weights (too large for GitHub)
+# Downloaded model weights
 model/
 
-# Downloaded and generated data, and the scripts in it
+# Downloaded and generated data + the scripts in it
 data/
