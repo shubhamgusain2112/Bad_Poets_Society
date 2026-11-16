@@ -61,7 +61,8 @@ Open them from inside `scripts/` (Jupyter, PyCharm or VS Code all work) and run 
 
 1. `clean_pdp.ipynb` - cleans the poetry dataset: removes short poems, prose, translations and duplicates, fixes the OCR thing where "O" became "0", tidies author names. Makes `data/pdp_clean.parquet` (should be 34,245 poems)
 2. `clean_gutenberg.ipynb` - same idea for the Gutenberg corpus, plus works out who wrote each book. Needs step 1 done first and takes a few minutes. Makes `data/gutenberg_clean.parquet` (869 books)
-3. `author_counts.ipynb` - optional, just counts how many lines each poet has. Makes `data/author_counts.csv`
+3. `data_prep.ipynb` - builds the training data: takes out the Gutenberg bits that are also in the poetry dataset, every poet with 500+ lines keeps their name (rest become "Unknown"), cuts everything into 40-line pieces that start with `Author: <name>`, splits 90/5/5 by poem/book and tokenises. Needs 1 and 2 done first, takes ~10 mins. Makes `data/train_test/train.parquet`, `val.parquet`, `test.parquet` (about 89k / 5.8k / 5k pieces) and `named_poets.csv` (486 poets)
+4. `author_counts.ipynb` - optional, just counts how many lines each poet has. Makes `data/author_counts.csv`
 
 ### Chatbot scripts
 Just for playing around with the untuned model (needs step 1 and 2).
