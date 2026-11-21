@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 0.25,
+ "scheme": "ABAB",
+ "seed": 3,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "XIII. OMNES DE ILLUMINUS domine.\n145    Now come, and now go; for th' midnight,\nWith the pale moon's pale light, shall be probably\nThe going of all these dunces, obliged\nIn time to feed on lies; for again\nI hear thee crying aloud: behold!\nWhat though (and what have I not enough!) then,\nIf thou, as thou art, dost not drink alone,\nOr satiate thyself with more delight,\nYet will it comfort me that alone\nI am a dull sinner, who can't recite\nA word in defence of that monstrous known,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "XIII. OMNES DE ILLUMINUS domine.",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "domine",
+   "chosen": "domine",
+   "candidates": [
+    {
+     "word": "domine",
+     "p": 0.0389,
+     "rhyme": 0,
+     "score": 0.446
+    },
+    {
+     "word": "est",
+     "p": 0.0339,
+     "rhyme": 0,
+     "score": 0.436
+    },
+    {
+     "word": "et",
+     "p": 0.0225,
+     "rhyme": 0,
+     "score": 0.38
+    },
+    {
+     "word": "esse",
+     "p": 0.024,
+     "rhyme": 0,
+     "score": 0.378
+    },
+    {
+     "word": "jus",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.318
+    },
+    {
+     "word": "si",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.311
+    },
+    {
+     "word": "quod",
+     "p": 0.0247,
+     "rhyme": 0,
+     "score": 0.309
+    },
+    {
+     "word": "ni",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "te",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.302
+    },
+    {
+     "word": "tre",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.293
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "145    Now come, and now go; for th' midnight,",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "hour",
+   "meant": "hour",
+   "chosen": "midnight",
+   "candidates": [
+    {
+     "word": "midnight",
+     "p": 0.0118,
+     "rhyme": 0,
+     "score": 0.43
+    },
+    {
+     "word": "duration",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.415
+    },
+    {
+     "word": "hour",
+     "p": 0.014,
+     "rhyme": 0,
+     "score": 0.411
+    },
+    {
+     "word": "day",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.335
+    },
+    {
+     "word": "location",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "an",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "twilight",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "sky",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.314
+    },
+    {
+     "word": "sunrise",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.309
+    },
+    {
+     "word": "eye",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.3
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "With the pale moon's pale light, shall be probably",
+   "syllables": 11,
+   "target": 11,
+   "partner": "domine",
+   "qwen_top": "mine",
+   "meant": "gone",
+   "chosen": "probably",
+   "candidates": [
+    {
+     "word": "probably",
+     "p": 0.0012,
+     "rhyme": 0.9,
+     "score": 0.74
+    },
+    {
+     "word": "being",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.542
+    },
+    {
+     "word": "believed",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.535
+    },
+    {
+     "word": "indeed",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.506
+    },
+    {
+     "word": "even",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.505
+    },
+    {
+     "word": "believe",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.498
+    },
+    {
+     "word": "really",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.484
+    },
+    {
+     "word": "people",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.483
+    },
+    {
+     "word": "revealed",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.479
+    },
+    {
+     "word": "seeing",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.478
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "The going of all these dunces, obliged",
+   "syllables": 10,
+   "target": 11,
+   "partner": "midnight",
+   "qwen_top": "who",
+   "meant": "alone",
+   "chosen": "obliged",
+   "candidates": [
+    {
+     "word": "obliged",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.478
+    },
+    {
+     "word": "otherwise",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.468
+    },
+    {
+     "word": "reconciled",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.467
+    },
+    {
+     "word": "terrified",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.465
+    },
+    {
+     "word": "either",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.465
+    },
+    {
+     "word": "meantime",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.464
+    },
+    {
+     "word": "likewise",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "preoccupied",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.462
+    },
+    {
+     "word": "realized",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.462
+    },
+    {
+     "word": "mortified",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.46
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "In time to feed on lies; for again",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "truth",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0146,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "indeed",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.393
+    },
+    {
+     "word": "temptation",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.363
+    },
+    {
+     "word": "situation",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.336
+    },
+    {
+     "word": "information",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.331
+    },
+    {
+     "word": "anyway",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "realized",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "nobody",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "reality",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "today",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.29
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "I hear thee crying aloud: behold!",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "o",
+   "meant": "behold",
+   "chosen": "behold",
+   "candidates": [
+    {
+     "word": "behold",
+     "p": 0.0349,
+     "rhyme": 0,
+     "score": 0.439
+    },
+    {
+     "word": "temptation",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "hesitate",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "meditate",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "disobey",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "obey",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "again",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "nobody",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "hello",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.267
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "What though (and what have I not enough!) then,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "again",
+   "qwen_top": "i",
+   "meant": "thee",
+   "chosen": "then",
+   "candidates": [
+    {
+     "word": "then",
+     "p": 0.0057,
+     "rhyme": 1.0,
+     "score": 0.767
+    },
+    {
+     "word": "when",
+     "p": 0.0019,
+     "rhyme": 1.0,
+     "score": 0.756
+    },
+    {
+     "word": "where",
+     "p": 0.0095,
+     "rhyme": 0.6,
+     "score": 0.479
+    },
+    {
+     "word": "they",
+     "p": 0.0082,
+     "rhyme": 0.6,
+     "score": 0.475
+    },
+    {
+     "word": "ye",
+     "p": 0.0079,
+     "rhyme": 0.6,
+     "score": 0.474
+    },
+    {
+     "word": "never",
+     "p": 0.0064,
+     "rhyme": 0.6,
+     "score": 0.469
+    },
+    {
+     "word": "let",
+     "p": 0.0055,
+     "rhyme": 0.6,
+     "score": 0.467
+    },
+    {
+     "word": "there",
+     "p": 0.0055,
+     "rhyme": 0.6,
+     "score": 0.467
+    },
+    {
+     "word": "well",
+     "p": 0.0051,
+     "rhyme": 0.6,
+     "score": 0.465
+    },
+    {
+     "word": "always",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.462
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "If thou, as thou art, dost not drink alone,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "behold",
+   "qwen_top": "the",
+   "meant": "again",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0041,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "going",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "over",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "only",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "october",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "although",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "almost",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "again",
+     "p": 0.3364,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "finally",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.004
+    },
+    {
+     "word": "until",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.002
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Or satiate thyself with more delight,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "than",
+   "meant": "pleasure",
+   "chosen": "delight",
+   "candidates": [
+    {
+     "word": "delight",
+     "p": 0.0276,
+     "rhyme": 0,
+     "score": 0.382
+    },
+    {
+     "word": "divine",
+     "p": 0.0217,
+     "rhyme": 0,
+     "score": 0.347
+    },
+    {
+     "word": "pleasure",
+     "p": 0.0406,
+     "rhyme": 0,
+     "score": 0.34
+    },
+    {
+     "word": "inspiration",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "imitation",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "contemplation",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.327
+    },
+    {
+     "word": "revelation",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "temptation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "moderation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "consolation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.323
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Yet will it comfort me that alone",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "thou",
+   "meant": "thee",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.041,
+     "rhyme": 0,
+     "score": 0.468
+    },
+    {
+     "word": "again",
+     "p": 0.029,
+     "rhyme": 0,
+     "score": 0.431
+    },
+    {
+     "word": "temptation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "meditate",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "nobody",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "today",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "anew",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "somebody",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "anyway",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.272
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "I am a dull sinner, who can't recite",
+   "syllables": 10,
+   "target": 11,
+   "partner": "delight",
+   "qwen_top": "be",
+   "meant": "eat",
+   "chosen": "recite",
+   "candidates": [
+    {
+     "word": "recite",
+     "p": 0.0013,
+     "rhyme": 1.0,
+     "score": 0.761
+    },
+    {
+     "word": "tonight",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 0.754
+    },
+    {
+     "word": "unite",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.681
+    },
+    {
+     "word": "survive",
+     "p": 0.0083,
+     "rhyme": 0.6,
+     "score": 0.52
+    },
+    {
+     "word": "forget",
+     "p": 0.0297,
+     "rhyme": 0.3,
+     "score": 0.475
+    },
+    {
+     "word": "suffice",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.462
+    },
+    {
+     "word": "decide",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "inspire",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "realize",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "admire",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.457
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "A word in defence of that monstrous known,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "alone",
+   "qwen_top": "thing",
+   "meant": "thing",
+   "chosen": "known",
+   "candidates": [
+    {
+     "word": "known",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 0.763
+    },
+    {
+     "word": "goes",
+     "p": 0.0041,
+     "rhyme": 0.6,
+     "score": 0.511
+    },
+    {
+     "word": "whole",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.496
+    },
+    {
+     "word": "no",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.494
+    },
+    {
+     "word": "joke",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.486
+    },
+    {
+     "word": "o",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.477
+    },
+    {
+     "word": "know",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.47
+    },
+    {
+     "word": "soul",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.466
+    },
+    {
+     "word": "oh",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.465
+    },
+    {
+     "word": "show",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.463
+    }
+   ]
+  }
+ ]
+}

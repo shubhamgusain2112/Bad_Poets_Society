@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "ABAB",
+ "seed": 1,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "183, The Commencement of the Composition he\nWas given to with his fate into\n254 thir own. The first one which bore her very\nThe Lamentatio will be published\nIn four volumes, which are hoped for publication\nSoon after this; the second volume he\nIs preparing already, and begun\nTo publish some part of it, but ce\nMorationi, &c., vol. i., translation\nBy Humphrey Froude, May 1792, 30s.; Vol. cit.\nVol. i. edition (out) by Wainwright Dun,\n&c., 3s. each ; plates in Bk. ii. copy",
+ "lines": [
+  {
+   "line": 1,
+   "text": "183, The Commencement of the Composition he",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "he",
+   "candidates": [
+    {
+     "word": "he",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "pre",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "re",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "de",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "vi",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ot",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Was given to with his fate into",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "into",
+   "candidates": [
+    {
+     "word": "into",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "unseen",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "between",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "upon",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "before",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "severe",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.228
+    },
+    {
+     "word": "denied",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.222
+    },
+    {
+     "word": "implied",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.222
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "254 thir own. The first one which bore her very",
+   "syllables": 10,
+   "target": 11,
+   "partner": "he",
+   "qwen_top": "name",
+   "meant": "name",
+   "chosen": "very",
+   "candidates": [
+    {
+     "word": "very",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "memory",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "body",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "only",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "early",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "beauty",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "baby",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "story",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "many",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "title",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "The Lamentatio will be published",
+   "syllables": 9,
+   "target": 10,
+   "partner": "into",
+   "qwen_top": "read",
+   "meant": "read",
+   "chosen": "published",
+   "candidates": [
+    {
+     "word": "published",
+     "p": 0.034,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "given",
+     "p": 0.0206,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "written",
+     "p": 0.0086,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "printed",
+     "p": 0.0052,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "delivered",
+     "p": 0.0038,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "considered",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "finished",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "omitted",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "discovered",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "discussed",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "In four volumes, which are hoped for publication",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "publication",
+   "candidates": [
+    {
+     "word": "publication",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "today",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "into",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "thirty",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "probably",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "below",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "july",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "between",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.248
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Soon after this; the second volume he",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "will",
+   "meant": "will",
+   "chosen": "he",
+   "candidates": [
+    {
+     "word": "he",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "pre",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "re",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "de",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "e",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "may",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "they",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Is preparing already, and begun",
+   "syllables": 10,
+   "target": 11,
+   "partner": "publication",
+   "qwen_top": "will",
+   "meant": "will",
+   "chosen": "begun",
+   "candidates": [
+    {
+     "word": "begun",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "contains",
+     "p": 0.0037,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "containing",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awaits",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awaiting",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "later",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "relates",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "contain",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remains",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "contained",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "To publish some part of it, but ce",
+   "syllables": 10,
+   "target": 11,
+   "partner": "he",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "ce",
+   "candidates": [
+    {
+     "word": "ce",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "only",
+     "p": 0.0035,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "very",
+     "p": 0.0017,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "many",
+     "p": 0.0014,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "scarcely",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "probably",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "wholly",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "presently",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "already",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "sadly",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Morationi, &c., vol. i., translation",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "which",
+   "meant": "which",
+   "chosen": "translation",
+   "candidates": [
+    {
+     "word": "translation",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "publication",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "cit",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "probably",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "contain",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "july",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "between",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "january",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "feb",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "february",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.244
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "By Humphrey Froude, May 1792, 30s.; Vol. cit.",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "i",
+   "meant": "i",
+   "chosen": "cit",
+   "candidates": [
+    {
+     "word": "cit",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ce",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "mit",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ee",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "aa",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "again",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "before",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "our",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "edition",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.222
+    },
+    {
+     "word": "inter",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.201
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Vol. i. edition (out) by Wainwright Dun,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "translation",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "dun",
+   "candidates": [
+    {
+     "word": "dun",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "an",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "son",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "a",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "may",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "re",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "taylor",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "james",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "hay",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "gray",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "&c., 3s. each ; plates in Bk. ii. copy",
+   "syllables": 9,
+   "target": 10,
+   "partner": "cit",
+   "qwen_top": "edition",
+   "meant": "edition",
+   "chosen": "copy",
+   "candidates": [
+    {
+     "word": "copy",
+     "p": 0.0032,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "only",
+     "p": 0.0024,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "every",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "very",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "murray",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "many",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "nearly",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "quantity",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "society",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "feb",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "AABB",
+ "seed": 0,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "This is my poor heart's life, o'er sixty three\nThe light of which it spake, all wild beauty,\nAll oldness in new creation:\nAnd though the sweet song be no consolation,\nI cannot wean it from its power be\nIts vileness. I think of her beauty,\nMy heart's life and mine, the love away,\nWhich loves us both forever now: again\nWe shall meet as young men once anew;\nFor long ago to him beautiful\nWas that my heart: let them separate\nWho knew not one another ever.",
+ "lines": [
+  {
+   "line": 1,
+   "text": "This is my poor heart's life, o'er sixty three",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "years",
+   "meant": "years",
+   "chosen": "three",
+   "candidates": [
+    {
+     "word": "three",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ye",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "free",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "de",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "e",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "day",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "fe",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The light of which it spake, all wild beauty,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "three",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "beauty",
+   "candidates": [
+    {
+     "word": "beauty",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "ecstasy",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "agony",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "folly",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "glory",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "fancy",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "fever",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "evil",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "disease",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "seasons",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "All oldness in new creation:",
+   "syllables": 8,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "life",
+   "meant": "life",
+   "chosen": "creation",
+   "candidates": [
+    {
+     "word": "creation",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "degree",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "array",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "decay",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "display",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "disease",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.231
+    },
+    {
+     "word": "delight",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.212
+    },
+    {
+     "word": "fire",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "desire",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.197
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "And though the sweet song be no consolation,",
+   "syllables": 11,
+   "target": 10,
+   "partner": "creation",
+   "qwen_top": "more",
+   "meant": "more",
+   "chosen": "consolation",
+   "candidates": [
+    {
+     "word": "consolation",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "greater",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "angel",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "stranger",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "sacred",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "passion",
+     "p": 0.0006,
+     "rhyme": 0.3,
+     "score": 0.3
+    },
+    {
+     "word": "longer",
+     "p": 0.0478,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "better",
+     "p": 0.0094,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "music",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "other",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "I cannot wean it from its power be",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "be",
+   "candidates": [
+    {
+     "word": "be",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "free",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ye",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "e",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "away",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "decay",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "they",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "day",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Its vileness. I think of her beauty,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "be",
+   "qwen_top": "who",
+   "meant": "who",
+   "chosen": "beauty",
+   "candidates": [
+    {
+     "word": "beauty",
+     "p": 0.0071,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "only",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "many",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "early",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "very",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "already",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "lovely",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "body",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "happy",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "every",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "My heart's life and mine, the love away,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "into",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "anew",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "whereby",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "between",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "unseen",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "inside",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.242
+    },
+    {
+     "word": "forget",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.237
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Which loves us both forever now: again",
+   "syllables": 10,
+   "target": 11,
+   "partner": "away",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awake",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "namely",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "behold",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "alas",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "indeed",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "above",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "never",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "remember",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "farewell",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "We shall meet as young men once anew;",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "met",
+   "meant": "met",
+   "chosen": "anew",
+   "candidates": [
+    {
+     "word": "anew",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "ago",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0675,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "between",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "upon",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "betrayed",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "before",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "our",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "began",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.228
+    },
+    {
+     "word": "arose",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.22
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "For long ago to him beautiful",
+   "syllables": 9,
+   "target": 9,
+   "partner": "anew",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "beautiful",
+   "candidates": [
+    {
+     "word": "beautiful",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "our",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "alone",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "before",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "again",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "away",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "also",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "departed",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "belongs",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "unseen",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Was that my heart: let them separate",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "be",
+   "meant": "be",
+   "chosen": "separate",
+   "candidates": [
+    {
+     "word": "separate",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "away",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "renew",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "again",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "forget",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "beware",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "compare",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "our",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "abide",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.222
+    },
+    {
+     "word": "divide",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.222
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Who knew not one another ever.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "separate",
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "ever",
+   "candidates": [
+    {
+     "word": "ever",
+     "p": 0.0048,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "better",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "never",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "already",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "any",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "except",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "forever",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "away",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "together",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  }
+ ]
+}

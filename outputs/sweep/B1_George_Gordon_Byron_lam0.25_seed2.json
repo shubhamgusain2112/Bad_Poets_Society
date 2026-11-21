@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 0.25,
+ "scheme": "ABAB",
+ "seed": 2,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "FROM HER ROBING-SHIP - REV. JONAS A.\nO sweet old Tower of Judah! O,\nA tomb that bared the pillars away,\nAnd, bearing all thy dead in thy shadow,\nThou girt thou art to love and sorrow!\nNo wretched remains to thy unsorrowed walls,\nOr scattered ashes on thy lone plateau;\nNot even a remnant of former,\nWhere thy strong citadel shook before;\nBut was not cast aside for ever,\nSince the footsteps fell upon the altar?\nTo-day is thy very fate disgraced: never",
+ "lines": [
+  {
+   "line": 1,
+   "text": "FROM HER ROBING-SHIP - REV. JONAS A.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "a",
+   "chosen": "a",
+   "candidates": [
+    {
+     "word": "a",
+     "p": 0.0132,
+     "rhyme": 0,
+     "score": 0.52
+    },
+    {
+     "word": "e",
+     "p": 0.0117,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "co",
+     "p": 0.0091,
+     "rhyme": 0,
+     "score": 0.434
+    },
+    {
+     "word": "de",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.407
+    },
+    {
+     "word": "ro",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.38
+    },
+    {
+     "word": "bo",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.38
+    },
+    {
+     "word": "o",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.378
+    },
+    {
+     "word": "be",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.373
+    },
+    {
+     "word": "re",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.367
+    },
+    {
+     "word": "jo",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.354
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "O sweet old Tower of Judah! O,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "o",
+   "meant": "o",
+   "chosen": "o",
+   "candidates": [
+    {
+     "word": "o",
+     "p": 0.073,
+     "rhyme": 0,
+     "score": 0.51
+    },
+    {
+     "word": "where",
+     "p": 0.0561,
+     "rhyme": 0,
+     "score": 0.429
+    },
+    {
+     "word": "thy",
+     "p": 0.0275,
+     "rhyme": 0,
+     "score": 0.344
+    },
+    {
+     "word": "whose",
+     "p": 0.0307,
+     "rhyme": 0,
+     "score": 0.333
+    },
+    {
+     "word": "thou",
+     "p": 0.0342,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "i",
+     "p": 0.0199,
+     "rhyme": 0,
+     "score": 0.314
+    },
+    {
+     "word": "to",
+     "p": 0.0118,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "how",
+     "p": 0.0287,
+     "rhyme": 0,
+     "score": 0.309
+    },
+    {
+     "word": "who",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.299
+    },
+    {
+     "word": "a",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 0.299
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "A tomb that bared the pillars away,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "a",
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 0.793
+    },
+    {
+     "word": "above",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.7
+    },
+    {
+     "word": "naked",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.531
+    },
+    {
+     "word": "ancient",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.514
+    },
+    {
+     "word": "thereof",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.496
+    },
+    {
+     "word": "sacred",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.478
+    },
+    {
+     "word": "upward",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.468
+    },
+    {
+     "word": "unto",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.465
+    },
+    {
+     "word": "again",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "purple",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.161
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "And, bearing all thy dead in thy shadow,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "o",
+   "qwen_top": "shade",
+   "meant": "shade",
+   "chosen": "shadow",
+   "candidates": [
+    {
+     "word": "shadow",
+     "p": 0.0098,
+     "rhyme": 0.9,
+     "score": 0.925
+    },
+    {
+     "word": "shadows",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.473
+    },
+    {
+     "word": "towers",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.201
+    },
+    {
+     "word": "tower",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.112
+    },
+    {
+     "word": "bas",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.043
+    },
+    {
+     "word": "glory",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.041
+    },
+    {
+     "word": "marble",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.036
+    },
+    {
+     "word": "ashes",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.028
+    },
+    {
+     "word": "fire",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.026
+    },
+    {
+     "word": "cover",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.026
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Thou girt thou art to love and sorrow!",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "sorrow",
+   "candidates": [
+    {
+     "word": "sorrow",
+     "p": 0.0561,
+     "rhyme": 0,
+     "score": 0.402
+    },
+    {
+     "word": "admiration",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.34
+    },
+    {
+     "word": "salvation",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "despair",
+     "p": 0.0151,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "disdain",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "dismay",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "decay",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "away",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "shadow",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "obey",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.278
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "No wretched remains to thy unsorrowed walls,",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "walls",
+   "meant": "walls",
+   "chosen": "walls",
+   "candidates": [
+    {
+     "word": "walls",
+     "p": 0.0468,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "tomb",
+     "p": 0.0415,
+     "rhyme": 0,
+     "score": 0.398
+    },
+    {
+     "word": "floor",
+     "p": 0.0221,
+     "rhyme": 0,
+     "score": 0.347
+    },
+    {
+     "word": "shade",
+     "p": 0.0172,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "brow",
+     "p": 0.0162,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "bow",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "day",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "sea",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "way",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "clay",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.283
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Or scattered ashes on thy lone plateau;",
+   "syllables": 10,
+   "target": 11,
+   "partner": "sorrow",
+   "qwen_top": "walls",
+   "meant": "walls",
+   "chosen": "plateau",
+   "candidates": [
+    {
+     "word": "plateau",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.681
+    },
+    {
+     "word": "marble",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.48
+    },
+    {
+     "word": "columns",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.466
+    },
+    {
+     "word": "bas",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.466
+    },
+    {
+     "word": "monuments",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "hollow",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "margin",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "margins",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "column",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "garden",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.456
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Not even a remnant of former,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "walls",
+   "qwen_top": "thy",
+   "meant": "thy",
+   "chosen": "former",
+   "candidates": [
+    {
+     "word": "former",
+     "p": 0.0051,
+     "rhyme": 0.6,
+     "score": 0.531
+    },
+    {
+     "word": "glory",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.487
+    },
+    {
+     "word": "immortal",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "mourning",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "mortal",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "fortune",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "glorious",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "our",
+     "p": 0.0159,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "human",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.134
+    },
+    {
+     "word": "beauty",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.05
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Where thy strong citadel shook before;",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "before",
+   "candidates": [
+    {
+     "word": "before",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.479
+    },
+    {
+     "word": "away",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.427
+    },
+    {
+     "word": "itself",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.349
+    },
+    {
+     "word": "beneath",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.345
+    },
+    {
+     "word": "below",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.343
+    },
+    {
+     "word": "upon",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "dismay",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "decay",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "array",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "again",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.277
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "But was not cast aside for ever,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "ever",
+   "candidates": [
+    {
+     "word": "ever",
+     "p": 0.0395,
+     "rhyme": 0,
+     "score": 0.382
+    },
+    {
+     "word": "salvation",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "our",
+     "p": 0.0106,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "decay",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "liberty",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "forget",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.242
+    },
+    {
+     "word": "despair",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.239
+    },
+    {
+     "word": "progress",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.226
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Since the footsteps fell upon the altar?",
+   "syllables": 10,
+   "target": 11,
+   "partner": "before",
+   "qwen_top": "earth",
+   "meant": "earth",
+   "chosen": "altar",
+   "candidates": [
+    {
+     "word": "altar",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.481
+    },
+    {
+     "word": "waters",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.477
+    },
+    {
+     "word": "water",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.464
+    },
+    {
+     "word": "torrent",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "marble",
+     "p": 0.0113,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "fire",
+     "p": 0.0007,
+     "rhyme": 0.3,
+     "score": 0.241
+    },
+    {
+     "word": "ruins",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.117
+    },
+    {
+     "word": "desert",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.092
+    },
+    {
+     "word": "tower",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.073
+    },
+    {
+     "word": "pavement",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.071
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "To-day is thy very fate disgraced: never",
+   "syllables": 11,
+   "target": 11,
+   "partner": "ever",
+   "qwen_top": "o",
+   "meant": "o",
+   "chosen": "never",
+   "candidates": [
+    {
+     "word": "never",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 0.751
+    },
+    {
+     "word": "for",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.697
+    },
+    {
+     "word": "her",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.676
+    },
+    {
+     "word": "are",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.676
+    },
+    {
+     "word": "sir",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.676
+    },
+    {
+     "word": "there",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.514
+    },
+    {
+     "word": "yet",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.477
+    },
+    {
+     "word": "where",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.472
+    },
+    {
+     "word": "let",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.469
+    },
+    {
+     "word": "ye",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.463
+    }
+   ]
+  }
+ ]
+}

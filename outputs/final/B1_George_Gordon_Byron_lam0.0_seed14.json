@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "ABAB",
+ "seed": 14,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Fragments of a youth, far relieved be\nFrom his former sins, and blest regenerate;\nThee shall by Nature thus recompense thee,\nAnd yet have chance to do me more appropriate,\nBy thy bosom may the wine of salvation\nTo my heart withal be added me.\nMay the Spirit of Solitude again\nTurn from this weak world; and let Hope decree\nHeaven for us to reign in our salvation.\nGreat is thy mission here; great also be\nThe tasks which thou dost perform. And again\nThou shalt be a mighty hero the",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Fragments of a youth, far relieved be",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "from",
+   "meant": "from",
+   "chosen": "be",
+   "candidates": [
+    {
+     "word": "be",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ne",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ye",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "thee",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "de",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "re",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "From his former sins, and blest regenerate;",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "with",
+   "meant": "with",
+   "chosen": "regenerate",
+   "candidates": [
+    {
+     "word": "regenerate",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "away",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "array",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "anew",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "into",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "attain",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "retain",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "again",
+     "p": 0.0106,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "remain",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.253
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Thee shall by Nature thus recompense thee,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "be",
+   "qwen_top": "thee",
+   "meant": "thee",
+   "chosen": "thee",
+   "candidates": [
+    {
+     "word": "thee",
+     "p": 0.0134,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "the",
+     "p": 0.0093,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "me",
+     "p": 0.0092,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "ye",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "we",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "he",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "e",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "de",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "free",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "te",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "And yet have chance to do me more appropriate,",
+   "syllables": 12,
+   "target": 11,
+   "partner": "regenerate",
+   "qwen_top": "than",
+   "meant": "than",
+   "chosen": "appropriate",
+   "candidates": [
+    {
+     "word": "appropriate",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "compensate",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "appreciate",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "disgrace",
+     "p": 0.0062,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "against",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "compensation",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "away",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "disdain",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "decay",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "By thy bosom may the wine of salvation",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "life",
+   "meant": "life",
+   "chosen": "salvation",
+   "candidates": [
+    {
+     "word": "salvation",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "consolation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "creation",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "temptation",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "inspiration",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "decay",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "liberty",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "adversity",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "regret",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "forget",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.237
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "To my heart withal be added me.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "me",
+   "candidates": [
+    {
+     "word": "me",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "three",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "agree",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "e",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "away",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "to",
+     "p": 0.3195,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "a",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "into",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "too",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.27
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "May the Spirit of Solitude again",
+   "syllables": 10,
+   "target": 11,
+   "partner": "salvation",
+   "qwen_top": "be",
+   "meant": "be",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0043,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remain",
+     "p": 0.0043,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "prevail",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awake",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "always",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "embrace",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "invade",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "sustain",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awaken",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "attain",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Turn from this weak world; and let Hope decree",
+   "syllables": 10,
+   "target": 11,
+   "partner": "me",
+   "qwen_top": "be",
+   "meant": "be",
+   "chosen": "decree",
+   "candidates": [
+    {
+     "word": "decree",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "accompany",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "proceed",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "succeed",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "receive",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "repeat",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "emerge",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "increase",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "retreat",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "perceive",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Heaven for us to reign in our salvation.",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "own",
+   "meant": "own",
+   "chosen": "salvation",
+   "candidates": [
+    {
+     "word": "salvation",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "alternate",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "separate",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "we",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "free",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "de",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "re",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "fee",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "day",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Great is thy mission here; great also be",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "is",
+   "meant": "is",
+   "chosen": "be",
+   "candidates": [
+    {
+     "word": "be",
+     "p": 0.0111,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "thee",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ye",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "see",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "free",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "de",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "The tasks which thou dost perform. And again",
+   "syllables": 10,
+   "target": 11,
+   "partner": "salvation",
+   "qwen_top": "thou",
+   "meant": "thou",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "greatest",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "greater",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remain",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "always",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "away",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remember",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "above",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "therefore",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "behold",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Thou shalt be a mighty hero the",
+   "syllables": 9,
+   "target": 10,
+   "partner": "be",
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "the",
+   "candidates": [
+    {
+     "word": "the",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "de",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "e",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "free",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "re",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "ne",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "we",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "thee",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "worthy",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "mighty",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  }
+ ]
+}

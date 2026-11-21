@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 1.0,
+ "scheme": "AABB",
+ "seed": 13,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "The Spirit, who kept not them alive,\nWas weeping on the dead and dying,\nAnd hid His face from all unseen.\nTo him was drawn the holiest soul,\nA flame and a glory aflame,\nTill the Earth's crown, when she afterward\nFell open unto Her, afterward\nWith that pure breath of joy arose\nThe loud and glorious cry,\nFrom a land where none have remembered,\nNo one has called of the souls unknown.\nWe did our owne doing,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "The Spirit, who kept not them alive,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "from",
+   "meant": "alive",
+   "chosen": "alive",
+   "candidates": [
+    {
+     "word": "alive",
+     "p": 0.0198,
+     "rhyme": 0,
+     "score": 1.142
+    },
+    {
+     "word": "behind",
+     "p": 0.0151,
+     "rhyme": 0,
+     "score": 0.958
+    },
+    {
+     "word": "forever",
+     "p": 0.0138,
+     "rhyme": 0,
+     "score": 0.838
+    },
+    {
+     "word": "alone",
+     "p": 0.0104,
+     "rhyme": 0,
+     "score": 0.746
+    },
+    {
+     "word": "untouched",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.675
+    },
+    {
+     "word": "away",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.643
+    },
+    {
+     "word": "remain",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.627
+    },
+    {
+     "word": "remained",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.568
+    },
+    {
+     "word": "nowhere",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.538
+    },
+    {
+     "word": "awake",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.445
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Was weeping on the dead and dying,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "alive",
+   "qwen_top": "dying",
+   "meant": "dead",
+   "chosen": "dying",
+   "candidates": [
+    {
+     "word": "dying",
+     "p": 0.0663,
+     "rhyme": 0.6,
+     "score": 1.0
+    },
+    {
+     "word": "crying",
+     "p": 0.0083,
+     "rhyme": 0.6,
+     "score": 0.126
+    },
+    {
+     "word": "tired",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.059
+    },
+    {
+     "word": "afraid",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.053
+    },
+    {
+     "word": "woman",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.053
+    },
+    {
+     "word": "mother",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.052
+    },
+    {
+     "word": "horribly",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.038
+    },
+    {
+     "word": "murdered",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.037
+    },
+    {
+     "word": "helpless",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.034
+    },
+    {
+     "word": "killing",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.034
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "And hid His face from all unseen.",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "sight",
+   "chosen": "unseen",
+   "candidates": [
+    {
+     "word": "unseen",
+     "p": 0.0182,
+     "rhyme": 0,
+     "score": 1.248
+    },
+    {
+     "word": "seeing",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 0.783
+    },
+    {
+     "word": "apart",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.587
+    },
+    {
+     "word": "alone",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.482
+    },
+    {
+     "word": "away",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.38
+    },
+    {
+     "word": "lurking",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.366
+    },
+    {
+     "word": "mankind",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.363
+    },
+    {
+     "word": "behold",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.356
+    },
+    {
+     "word": "communicate",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.348
+    },
+    {
+     "word": "again",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.347
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "To him was drawn the holiest soul,",
+   "syllables": 9,
+   "target": 9,
+   "partner": "unseen",
+   "qwen_top": "thing",
+   "meant": "soul",
+   "chosen": "soul",
+   "candidates": [
+    {
+     "word": "soul",
+     "p": 0.0126,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "god",
+     "p": 0.0112,
+     "rhyme": 0,
+     "score": 0.882
+    },
+    {
+     "word": "thing",
+     "p": 0.0111,
+     "rhyme": 0,
+     "score": 0.88
+    },
+    {
+     "word": "man",
+     "p": 0.0101,
+     "rhyme": 0.3,
+     "score": 0.797
+    },
+    {
+     "word": "place",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 0.794
+    },
+    {
+     "word": "breath",
+     "p": 0.0093,
+     "rhyme": 0,
+     "score": 0.737
+    },
+    {
+     "word": "kind",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.711
+    },
+    {
+     "word": "day",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.56
+    },
+    {
+     "word": "you",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.471
+    },
+    {
+     "word": "word",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.425
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "A flame and a glory aflame,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "aflame",
+   "chosen": "aflame",
+   "candidates": [
+    {
+     "word": "aflame",
+     "p": 0.0154,
+     "rhyme": 0,
+     "score": 1.181
+    },
+    {
+     "word": "alight",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.563
+    },
+    {
+     "word": "ablaze",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.548
+    },
+    {
+     "word": "aglow",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.515
+    },
+    {
+     "word": "everywhere",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.448
+    },
+    {
+     "word": "unknown",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.447
+    },
+    {
+     "word": "wholly",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.423
+    },
+    {
+     "word": "conflagration",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.384
+    },
+    {
+     "word": "divine",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.372
+    },
+    {
+     "word": "nowhere",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.349
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Till the Earth's crown, when she afterward",
+   "syllables": 9,
+   "target": 9,
+   "partner": "aflame",
+   "qwen_top": "was",
+   "meant": "stood",
+   "chosen": "afterward",
+   "candidates": [
+    {
+     "word": "afterward",
+     "p": 0.014,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "emerged",
+     "p": 0.0106,
+     "rhyme": 0,
+     "score": 0.759
+    },
+    {
+     "word": "shortly",
+     "p": 0.0089,
+     "rhyme": 0,
+     "score": 0.635
+    },
+    {
+     "word": "arose",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.524
+    },
+    {
+     "word": "later",
+     "p": 0.0059,
+     "rhyme": 0.6,
+     "score": 0.421
+    },
+    {
+     "word": "awoke",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "ago",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "before",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.242
+    },
+    {
+     "word": "finally",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.239
+    },
+    {
+     "word": "flourished",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.23
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Fell open unto Her, afterward",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "was",
+   "meant": "afterward",
+   "chosen": "afterward",
+   "candidates": [
+    {
+     "word": "afterward",
+     "p": 0.0186,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "realized",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "showered",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.499
+    },
+    {
+     "word": "shortly",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.491
+    },
+    {
+     "word": "whereupon",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.438
+    },
+    {
+     "word": "again",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.428
+    },
+    {
+     "word": "awoke",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.425
+    },
+    {
+     "word": "disappeared",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.4
+    },
+    {
+     "word": "replied",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.379
+    },
+    {
+     "word": "suddenly",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.374
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "With that pure breath of joy arose",
+   "syllables": 8,
+   "target": 9,
+   "partner": "afterward",
+   "qwen_top": "and",
+   "meant": "arose",
+   "chosen": "arose",
+   "candidates": [
+    {
+     "word": "arose",
+     "p": 0.0306,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "shortly",
+     "p": 0.0126,
+     "rhyme": 0,
+     "score": 0.411
+    },
+    {
+     "word": "anew",
+     "p": 0.0106,
+     "rhyme": 0,
+     "score": 0.345
+    },
+    {
+     "word": "divine",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.216
+    },
+    {
+     "word": "afterwards",
+     "p": 0.0063,
+     "rhyme": 0.6,
+     "score": 0.207
+    },
+    {
+     "word": "thereafter",
+     "p": 0.0061,
+     "rhyme": 0.6,
+     "score": 0.198
+    },
+    {
+     "word": "secretly",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.16
+    },
+    {
+     "word": "arisen",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.159
+    },
+    {
+     "word": "restored",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.148
+    },
+    {
+     "word": "revived",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.14
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "The loud and glorious cry,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "sound",
+   "meant": "voice",
+   "chosen": "cry",
+   "candidates": [
+    {
+     "word": "cry",
+     "p": 0.0224,
+     "rhyme": 0,
+     "score": 1.23
+    },
+    {
+     "word": "voice",
+     "p": 0.0228,
+     "rhyme": 0,
+     "score": 1.104
+    },
+    {
+     "word": "chorus",
+     "p": 0.0185,
+     "rhyme": 0,
+     "score": 0.923
+    },
+    {
+     "word": "cries",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 0.742
+    },
+    {
+     "word": "voices",
+     "p": 0.0126,
+     "rhyme": 0,
+     "score": 0.608
+    },
+    {
+     "word": "alarm",
+     "p": 0.0103,
+     "rhyme": 0,
+     "score": 0.568
+    },
+    {
+     "word": "song",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.566
+    },
+    {
+     "word": "hymn",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.536
+    },
+    {
+     "word": "wail",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.439
+    },
+    {
+     "word": "speech",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.422
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "From a land where none have remembered,",
+   "syllables": 9,
+   "target": 9,
+   "partner": "cry",
+   "qwen_top": "heard",
+   "meant": "heard",
+   "chosen": "remembered",
+   "candidates": [
+    {
+     "word": "remembered",
+     "p": 0.0195,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "forgotten",
+     "p": 0.0137,
+     "rhyme": 0,
+     "score": 0.701
+    },
+    {
+     "word": "believed",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.473
+    },
+    {
+     "word": "never",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.405
+    },
+    {
+     "word": "admired",
+     "p": 0.0075,
+     "rhyme": 0.6,
+     "score": 0.385
+    },
+    {
+     "word": "adored",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "worshipped",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "spoken",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "understood",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "ever",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.27
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "No one has called of the souls unknown.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "unknown",
+   "chosen": "unknown",
+   "candidates": [
+    {
+     "word": "unknown",
+     "p": 0.0247,
+     "rhyme": 0,
+     "score": 1.22
+    },
+    {
+     "word": "alive",
+     "p": 0.023,
+     "rhyme": 0,
+     "score": 1.074
+    },
+    {
+     "word": "entombed",
+     "p": 0.0227,
+     "rhyme": 0,
+     "score": 1.053
+    },
+    {
+     "word": "buried",
+     "p": 0.0229,
+     "rhyme": 0,
+     "score": 1.04
+    },
+    {
+     "word": "somewhere",
+     "p": 0.0118,
+     "rhyme": 0,
+     "score": 0.675
+    },
+    {
+     "word": "dying",
+     "p": 0.0106,
+     "rhyme": 0,
+     "score": 0.602
+    },
+    {
+     "word": "believed",
+     "p": 0.0093,
+     "rhyme": 0,
+     "score": 0.514
+    },
+    {
+     "word": "forgotten",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.446
+    },
+    {
+     "word": "deceased",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.41
+    },
+    {
+     "word": "unseen",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.385
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "We did our owne doing,",
+   "syllables": 7,
+   "target": 8,
+   "partner": "unknown",
+   "qwen_top": "work",
+   "meant": "done",
+   "chosen": "doing",
+   "candidates": [
+    {
+     "word": "doing",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "our",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.903
+    },
+    {
+     "word": "blessings",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.823
+    },
+    {
+     "word": "sacrifices",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.548
+    },
+    {
+     "word": "blessing",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.483
+    },
+    {
+     "word": "dedication",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.442
+    },
+    {
+     "word": "pilgrimage",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.425
+    },
+    {
+     "word": "accomplish",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.423
+    },
+    {
+     "word": "perseverance",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.391
+    },
+    {
+     "word": "sacrifice",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.333
+    }
+   ]
+  }
+ ]
+}

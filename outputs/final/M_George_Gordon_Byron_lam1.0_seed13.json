@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 1.0,
+ "scheme": "ABAB",
+ "seed": 13,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "The damsel of the Isaurian mountain\nHer youth is golden, and her youth appears\nThe first bliss to all by education born;\nBut she with a trembling tenderness,\nLike some unmarred sunbeam fallen,\nYet finds satisfaction in herself;\nFor when he that led this habitant through\nThese steps hath been gone no more, alone\nShe has a thought as beautiful still,\nThat may be the life of others still.\nThey who know that a day was turn'd away,\nA thing without which nothing remains,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "The damsel of the Isaurian mountain",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "hills",
+   "meant": "mountain",
+   "chosen": "mountain",
+   "candidates": [
+    {
+     "word": "mountain",
+     "p": 0.0149,
+     "rhyme": 0,
+     "score": 1.035
+    },
+    {
+     "word": "mountains",
+     "p": 0.011,
+     "rhyme": 0,
+     "score": 0.772
+    },
+    {
+     "word": "border",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.495
+    },
+    {
+     "word": "battle",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.489
+    },
+    {
+     "word": "desert",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.485
+    },
+    {
+     "word": "northern",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.419
+    },
+    {
+     "word": "river",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.395
+    },
+    {
+     "word": "elevation",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.393
+    },
+    {
+     "word": "valley",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.365
+    },
+    {
+     "word": "rocky",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.363
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Her youth is golden, and her youth appears",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "is",
+   "meant": "appears",
+   "chosen": "appears",
+   "candidates": [
+    {
+     "word": "appears",
+     "p": 0.0955,
+     "rhyme": 0,
+     "score": 1.187
+    },
+    {
+     "word": "remains",
+     "p": 0.0377,
+     "rhyme": 0,
+     "score": 0.602
+    },
+    {
+     "word": "destination",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "incarnation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "location",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.327
+    },
+    {
+     "word": "although",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.293
+    },
+    {
+     "word": "afterglow",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "indicate",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "remain",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "again",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.271
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "The first bliss to all by education born;",
+   "syllables": 11,
+   "target": 10,
+   "partner": "mountain",
+   "qwen_top": "born",
+   "meant": "born",
+   "chosen": "born",
+   "candidates": [
+    {
+     "word": "born",
+     "p": 0.0309,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "brought",
+     "p": 0.0229,
+     "rhyme": 0,
+     "score": 0.741
+    },
+    {
+     "word": "bred",
+     "p": 0.0226,
+     "rhyme": 0,
+     "score": 0.732
+    },
+    {
+     "word": "won",
+     "p": 0.0098,
+     "rhyme": 0.9,
+     "score": 0.319
+    },
+    {
+     "word": "by",
+     "p": 0.0093,
+     "rhyme": 0,
+     "score": 0.302
+    },
+    {
+     "word": "wrought",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.261
+    },
+    {
+     "word": "has",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "was",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.235
+    },
+    {
+     "word": "had",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.218
+    },
+    {
+     "word": "been",
+     "p": 0.0061,
+     "rhyme": 0.9,
+     "score": 0.199
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "But she with a trembling tenderness,",
+   "syllables": 10,
+   "target": 10,
+   "partner": "appears",
+   "qwen_top": "hand",
+   "meant": "eye",
+   "chosen": "tenderness",
+   "candidates": [
+    {
+     "word": "tenderness",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "palate",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.545
+    },
+    {
+     "word": "beauty",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.474
+    },
+    {
+     "word": "exquisite",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.458
+    },
+    {
+     "word": "delicate",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.413
+    },
+    {
+     "word": "deformity",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.408
+    },
+    {
+     "word": "tremulous",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.391
+    },
+    {
+     "word": "finger",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.346
+    },
+    {
+     "word": "senses",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.332
+    },
+    {
+     "word": "numbness",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.329
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Like some unmarred sunbeam fallen,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "that",
+   "meant": "mysteriously",
+   "chosen": "fallen",
+   "candidates": [
+    {
+     "word": "fallen",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 1.062
+    },
+    {
+     "word": "slipping",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 1.057
+    },
+    {
+     "word": "vanished",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 1.035
+    },
+    {
+     "word": "drifting",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.955
+    },
+    {
+     "word": "overthrown",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.942
+    },
+    {
+     "word": "retreating",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.904
+    },
+    {
+     "word": "disappeared",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.897
+    },
+    {
+     "word": "falling",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.853
+    },
+    {
+     "word": "fading",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.839
+    },
+    {
+     "word": "disappearing",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.78
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Yet finds satisfaction in herself;",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "her",
+   "chosen": "herself",
+   "candidates": [
+    {
+     "word": "herself",
+     "p": 0.0205,
+     "rhyme": 0,
+     "score": 1.124
+    },
+    {
+     "word": "oneself",
+     "p": 0.0106,
+     "rhyme": 0,
+     "score": 0.647
+    },
+    {
+     "word": "contemplation",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.541
+    },
+    {
+     "word": "alone",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.534
+    },
+    {
+     "word": "despair",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.383
+    },
+    {
+     "word": "itself",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.366
+    },
+    {
+     "word": "meditation",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.363
+    },
+    {
+     "word": "moderation",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.354
+    },
+    {
+     "word": "salvation",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.353
+    },
+    {
+     "word": "dying",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.311
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "For when he that led this habitant through",
+   "syllables": 10,
+   "target": 10,
+   "partner": "fallen",
+   "qwen_top": "down",
+   "meant": "through",
+   "chosen": "through",
+   "candidates": [
+    {
+     "word": "through",
+     "p": 0.027,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "where",
+     "p": 0.0161,
+     "rhyme": 0,
+     "score": 0.595
+    },
+    {
+     "word": "on",
+     "p": 0.0135,
+     "rhyme": 0.6,
+     "score": 0.502
+    },
+    {
+     "word": "down",
+     "p": 0.0112,
+     "rhyme": 0,
+     "score": 0.416
+    },
+    {
+     "word": "came",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "back",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.315
+    },
+    {
+     "word": "across",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 0.311
+    },
+    {
+     "word": "out",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "forth",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "along",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.241
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "These steps hath been gone no more, alone",
+   "syllables": 9,
+   "target": 10,
+   "partner": "herself",
+   "qwen_top": "she",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.1111,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "again",
+     "p": 0.02,
+     "rhyme": 0.6,
+     "score": 0.18
+    },
+    {
+     "word": "indeed",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.069
+    },
+    {
+     "word": "alas",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.058
+    },
+    {
+     "word": "never",
+     "p": 0.0062,
+     "rhyme": 0.6,
+     "score": 0.055
+    },
+    {
+     "word": "finally",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.047
+    },
+    {
+     "word": "returned",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.034
+    },
+    {
+     "word": "forgot",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.032
+    },
+    {
+     "word": "anyway",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.03
+    },
+    {
+     "word": "forgotten",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.027
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "She has a thought as beautiful still,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "as",
+   "meant": "still",
+   "chosen": "still",
+   "candidates": [
+    {
+     "word": "still",
+     "p": 0.1655,
+     "rhyme": 0,
+     "score": 1.21
+    },
+    {
+     "word": "now",
+     "p": 0.0914,
+     "rhyme": 0,
+     "score": 0.763
+    },
+    {
+     "word": "there",
+     "p": 0.0359,
+     "rhyme": 0,
+     "score": 0.454
+    },
+    {
+     "word": "is",
+     "p": 0.0407,
+     "rhyme": 0,
+     "score": 0.381
+    },
+    {
+     "word": "yet",
+     "p": 0.0163,
+     "rhyme": 0,
+     "score": 0.336
+    },
+    {
+     "word": "no",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.308
+    },
+    {
+     "word": "far",
+     "p": 0.0129,
+     "rhyme": 0,
+     "score": 0.307
+    },
+    {
+     "word": "are",
+     "p": 0.0127,
+     "rhyme": 0,
+     "score": 0.307
+    },
+    {
+     "word": "be",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "so",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.3
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "That may be the life of others still.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "too",
+   "meant": "still",
+   "chosen": "still",
+   "candidates": [
+    {
+     "word": "still",
+     "p": 0.1784,
+     "rhyme": 0,
+     "score": 1.21
+    },
+    {
+     "word": "now",
+     "p": 0.0817,
+     "rhyme": 0,
+     "score": 0.669
+    },
+    {
+     "word": "been",
+     "p": 0.0237,
+     "rhyme": 0,
+     "score": 0.35
+    },
+    {
+     "word": "far",
+     "p": 0.0182,
+     "rhyme": 0,
+     "score": 0.331
+    },
+    {
+     "word": "so",
+     "p": 0.0122,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "be",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "yet",
+     "p": 0.0132,
+     "rhyme": 0,
+     "score": 0.311
+    },
+    {
+     "word": "he",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "too",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "she",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.293
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "They who know that a day was turn'd away,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "still",
+   "qwen_top": "to",
+   "meant": "away",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0212,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "over",
+     "p": 0.0151,
+     "rhyme": 0,
+     "score": 0.71
+    },
+    {
+     "word": "victory",
+     "p": 0.0038,
+     "rhyme": 0.6,
+     "score": 0.179
+    },
+    {
+     "word": "coming",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.149
+    },
+    {
+     "word": "flying",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "distant",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.112
+    },
+    {
+     "word": "yellow",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.099
+    },
+    {
+     "word": "going",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.094
+    },
+    {
+     "word": "defeated",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.085
+    },
+    {
+     "word": "being",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.075
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "A thing without which nothing remains,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "still",
+   "qwen_top": "is",
+   "meant": "remains",
+   "chosen": "remains",
+   "candidates": [
+    {
+     "word": "remains",
+     "p": 0.0466,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "appears",
+     "p": 0.0316,
+     "rhyme": 0.6,
+     "score": 0.677
+    },
+    {
+     "word": "alone",
+     "p": 0.0116,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "remained",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.157
+    },
+    {
+     "word": "becomes",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.131
+    },
+    {
+     "word": "only",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.124
+    },
+    {
+     "word": "survives",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.109
+    },
+    {
+     "word": "although",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.101
+    },
+    {
+     "word": "until",
+     "p": 0.0043,
+     "rhyme": 1.0,
+     "score": 0.091
+    },
+    {
+     "word": "itself",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.086
+    }
+   ]
+  }
+ ]
+}

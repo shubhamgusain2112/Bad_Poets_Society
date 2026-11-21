@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "M",
+ "lam": 0.5,
+ "scheme": "ABCB",
+ "seed": 2,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "(Areion and Peleus together.\nBEAR - a lapin lion.\nCELESTE - the face divine.\nCOLOMBOS - brothers of poseidon.\nDANAX - the god of darkness.\nDEATH - death's ghostly lover. Another\nWho looks upon him in despair.\nDISZI - an ashen mother.\nDMASON-ES - moon-wind wind.\nEMPEROR [while speaking the\n\"Be joyful, beauty!  The palm flower\nIs blossomed in thy bosom. Glory",
+ "lines": [
+  {
+   "line": 1,
+   "text": "(Areion and Peleus together.",
+   "syllables": 8,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "together",
+   "chosen": "together",
+   "candidates": [
+    {
+     "word": "together",
+     "p": 0.029,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "here",
+     "p": 0.0149,
+     "rhyme": 0,
+     "score": 0.513
+    },
+    {
+     "word": "they",
+     "p": 0.0145,
+     "rhyme": 0,
+     "score": 0.498
+    },
+    {
+     "word": "are",
+     "p": 0.0134,
+     "rhyme": 0,
+     "score": 0.461
+    },
+    {
+     "word": "come",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "were",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.232
+    },
+    {
+     "word": "met",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.219
+    },
+    {
+     "word": "with",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.218
+    },
+    {
+     "word": "today",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "now",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.159
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "BEAR - a lapin lion.",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "or",
+   "meant": "horse",
+   "chosen": "lion",
+   "candidates": [
+    {
+     "word": "lion",
+     "p": 0.0171,
+     "rhyme": 0,
+     "score": 0.538
+    },
+    {
+     "word": "elephant",
+     "p": 0.0221,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "rhino",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.341
+    },
+    {
+     "word": "shadow",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "pony",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "gazelle",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "runaway",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "sanctuary",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.26
+    },
+    {
+     "word": "solitary",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.258
+    },
+    {
+     "word": "porcupine",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.256
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "CELESTE - the face divine.",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "divine",
+   "chosen": "divine",
+   "candidates": [
+    {
+     "word": "divine",
+     "p": 0.087,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "deity",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.141
+    },
+    {
+     "word": "goddess",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.094
+    },
+    {
+     "word": "beauty",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.089
+    },
+    {
+     "word": "heaven",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.076
+    },
+    {
+     "word": "above",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.076
+    },
+    {
+     "word": "appears",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.057
+    },
+    {
+     "word": "incarnation",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "heavens",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.051
+    },
+    {
+     "word": "figure",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.041
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "COLOMBOS - brothers of poseidon.",
+   "syllables": 9,
+   "target": 9,
+   "partner": "lion",
+   "qwen_top": "the",
+   "meant": "jove",
+   "chosen": "poseidon",
+   "candidates": [
+    {
+     "word": "poseidon",
+     "p": 0.0145,
+     "rhyme": 0.6,
+     "score": 0.651
+    },
+    {
+     "word": "aphrodite",
+     "p": 0.0126,
+     "rhyme": 0.6,
+     "score": 0.604
+    },
+    {
+     "word": "orion",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 0.518
+    },
+    {
+     "word": "dian",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 0.511
+    },
+    {
+     "word": "apollo",
+     "p": 0.0207,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "titan",
+     "p": 0.0043,
+     "rhyme": 0.6,
+     "score": 0.403
+    },
+    {
+     "word": "viking",
+     "p": 0.0037,
+     "rhyme": 0.6,
+     "score": 0.389
+    },
+    {
+     "word": "priam",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.379
+    },
+    {
+     "word": "io",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.34
+    },
+    {
+     "word": "isis",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.336
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "DANAX - the god of darkness.",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "dawn",
+   "chosen": "darkness",
+   "candidates": [
+    {
+     "word": "darkness",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "summer",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.979
+    },
+    {
+     "word": "fire",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.83
+    },
+    {
+     "word": "winter",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.729
+    },
+    {
+     "word": "water",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.721
+    },
+    {
+     "word": "began",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.674
+    },
+    {
+     "word": "silver",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.612
+    },
+    {
+     "word": "morning",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.608
+    },
+    {
+     "word": "autumn",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.561
+    },
+    {
+     "word": "afternoon",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.422
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "DEATH - death's ghostly lover. Another",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "another",
+   "candidates": [
+    {
+     "word": "another",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.59
+    },
+    {
+     "word": "return",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.423
+    },
+    {
+     "word": "also",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.377
+    },
+    {
+     "word": "translation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.346
+    },
+    {
+     "word": "appears",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "into",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.299
+    },
+    {
+     "word": "shadow",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.299
+    },
+    {
+     "word": "between",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "again",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "alone",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.285
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Who looks upon him in despair.",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "despair",
+   "chosen": "despair",
+   "candidates": [
+    {
+     "word": "despair",
+     "p": 0.0209,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "eternal",
+     "p": 0.0183,
+     "rhyme": 0,
+     "score": 0.878
+    },
+    {
+     "word": "agony",
+     "p": 0.0148,
+     "rhyme": 0,
+     "score": 0.706
+    },
+    {
+     "word": "madness",
+     "p": 0.0141,
+     "rhyme": 0,
+     "score": 0.677
+    },
+    {
+     "word": "darkness",
+     "p": 0.0125,
+     "rhyme": 0,
+     "score": 0.596
+    },
+    {
+     "word": "glory",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.504
+    },
+    {
+     "word": "serenity",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.423
+    },
+    {
+     "word": "longing",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.39
+    },
+    {
+     "word": "sorrow",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.385
+    },
+    {
+     "word": "happiness",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.279
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "DISZI - an ashen mother.",
+   "syllables": 7,
+   "target": 8,
+   "partner": "another",
+   "qwen_top": "god",
+   "meant": "dragon",
+   "chosen": "mother",
+   "candidates": [
+    {
+     "word": "mother",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 0.513
+    },
+    {
+     "word": "dragon",
+     "p": 0.0316,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "ruddy",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.33
+    },
+    {
+     "word": "monkey",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.329
+    },
+    {
+     "word": "lover",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.327
+    },
+    {
+     "word": "mushroom",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.318
+    },
+    {
+     "word": "chestnut",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.316
+    },
+    {
+     "word": "honey",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.314
+    },
+    {
+     "word": "runner",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.311
+    },
+    {
+     "word": "hunter",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.311
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "DMASON-ES - moon-wind wind.",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "spirits",
+   "meant": "wind",
+   "chosen": "wind",
+   "candidates": [
+    {
+     "word": "wind",
+     "p": 0.0222,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "spirits",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.553
+    },
+    {
+     "word": "birds",
+     "p": 0.0114,
+     "rhyme": 0,
+     "score": 0.514
+    },
+    {
+     "word": "witches",
+     "p": 0.0109,
+     "rhyme": 0,
+     "score": 0.492
+    },
+    {
+     "word": "creatures",
+     "p": 0.0109,
+     "rhyme": 0,
+     "score": 0.491
+    },
+    {
+     "word": "voices",
+     "p": 0.0089,
+     "rhyme": 0,
+     "score": 0.4
+    },
+    {
+     "word": "elves",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "nymphs",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "deities",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.26
+    },
+    {
+     "word": "gods",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.246
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "EMPEROR [while speaking the",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "the",
+   "chosen": "the",
+   "candidates": [
+    {
+     "word": "the",
+     "p": 0.0807,
+     "rhyme": 0,
+     "score": 0.62
+    },
+    {
+     "word": "this",
+     "p": 0.0354,
+     "rhyme": 0,
+     "score": 0.386
+    },
+    {
+     "word": "to",
+     "p": 0.0112,
+     "rhyme": 0,
+     "score": 0.34
+    },
+    {
+     "word": "a",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.335
+    },
+    {
+     "word": "as",
+     "p": 0.0268,
+     "rhyme": 0,
+     "score": 0.331
+    },
+    {
+     "word": "into",
+     "p": 0.0094,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "way",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "translation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "and",
+     "p": 0.0202,
+     "rhyme": 0,
+     "score": 0.314
+    },
+    {
+     "word": "in",
+     "p": 0.0149,
+     "rhyme": 0,
+     "score": 0.31
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "\"Be joyful, beauty!  The palm flower",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "tree",
+   "chosen": "flower",
+   "candidates": [
+    {
+     "word": "flower",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "foliage",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.87
+    },
+    {
+     "word": "flowers",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.606
+    },
+    {
+     "word": "evergreen",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.558
+    },
+    {
+     "word": "blossoms",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.539
+    },
+    {
+     "word": "willow",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.485
+    },
+    {
+     "word": "moisture",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.413
+    },
+    {
+     "word": "clusters",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.353
+    },
+    {
+     "word": "maple",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.327
+    },
+    {
+     "word": "victory",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.322
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Is blossomed in thy bosom. Glory",
+   "syllables": 9,
+   "target": 10,
+   "partner": "the",
+   "qwen_top": "the",
+   "meant": "love",
+   "chosen": "glory",
+   "candidates": [
+    {
+     "word": "glory",
+     "p": 0.0022,
+     "rhyme": 0.9,
+     "score": 0.566
+    },
+    {
+     "word": "happy",
+     "p": 0.0018,
+     "rhyme": 0.9,
+     "score": 0.546
+    },
+    {
+     "word": "allah",
+     "p": 0.0014,
+     "rhyme": 0.9,
+     "score": 0.525
+    },
+    {
+     "word": "every",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.521
+    },
+    {
+     "word": "baby",
+     "p": 0.0012,
+     "rhyme": 0.9,
+     "score": 0.515
+    },
+    {
+     "word": "only",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.51
+    },
+    {
+     "word": "ready",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.502
+    },
+    {
+     "word": "city",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.502
+    },
+    {
+     "word": "behold",
+     "p": 0.0094,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "heavenly",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.498
+    }
+   ]
+  }
+ ]
+}

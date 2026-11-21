@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 0.25,
+ "scheme": "ABAB",
+ "seed": 10,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Though, in a little walk by adriatic,\nThe dust of the marches may be believed;\nBut I cannot tell you how much perhaps\nI loved those mountains in a Shakespeare.\nIII - Old Island and Lagoon. Again.\n'T is rather hard to write myself again,\nFor there's something of a poet's disdain,\nWhen, in the course of life, I have never\nRecalled the laurel 'twixt my fingers.\nAs for 'the sublime,' that thing, indeed,\nIs one of the wonders of the history,\nIf not of men, at least of age, even,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Though, in a little walk by adriatic,",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "day",
+   "chosen": "adriatic",
+   "candidates": [
+    {
+     "word": "adriatic",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.339
+    },
+    {
+     "word": "vacation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "sunday",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.331
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.304
+    },
+    {
+     "word": "monday",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "jubilee",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "rainbow",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.293
+    },
+    {
+     "word": "cafe",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "glasgow",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "hotel",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.29
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The dust of the marches may be believed;",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "seen",
+   "meant": "found",
+   "chosen": "believed",
+   "candidates": [
+    {
+     "word": "believed",
+     "p": 0.0333,
+     "rhyme": 0,
+     "score": 0.389
+    },
+    {
+     "word": "identified",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "debris",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "probably",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "ago",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "although",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "realized",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.26
+    },
+    {
+     "word": "realised",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.258
+    },
+    {
+     "word": "testified",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.255
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "But I cannot tell you how much perhaps",
+   "syllables": 10,
+   "target": 11,
+   "partner": "adriatic",
+   "qwen_top": "i",
+   "meant": "it",
+   "chosen": "perhaps",
+   "candidates": [
+    {
+     "word": "perhaps",
+     "p": 0.0092,
+     "rhyme": 0.6,
+     "score": 0.7
+    },
+    {
+     "word": "happiness",
+     "p": 0.0052,
+     "rhyme": 0.6,
+     "score": 0.593
+    },
+    {
+     "word": "sadness",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.497
+    },
+    {
+     "word": "imagine",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.482
+    },
+    {
+     "word": "satisfaction",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.481
+    },
+    {
+     "word": "tragedy",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.477
+    },
+    {
+     "word": "latter",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.477
+    },
+    {
+     "word": "audacity",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.474
+    },
+    {
+     "word": "sadder",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.473
+    },
+    {
+     "word": "tragic",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.47
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "I loved those mountains in a Shakespeare.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "believed",
+   "qwen_top": "little",
+   "meant": "paradise",
+   "chosen": "shakespeare",
+   "candidates": [
+    {
+     "word": "shakespeare",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "retreat",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "liberty",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "jubilee",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "elegy",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "theatre",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "dreaming",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "zealand",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "reading",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "jesus",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.453
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "III - Old Island and Lagoon. Again.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "i",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0101,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "july",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.437
+    },
+    {
+     "word": "february",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.404
+    },
+    {
+     "word": "january",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.384
+    },
+    {
+     "word": "between",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "essay",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "review",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "december",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.266
+    },
+    {
+     "word": "goodbye",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.261
+    },
+    {
+     "word": "interview",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.252
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "'T is rather hard to write myself again,",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0681,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "away",
+     "p": 0.011,
+     "rhyme": 0,
+     "score": 0.315
+    },
+    {
+     "word": "alone",
+     "p": 0.022,
+     "rhyme": 0,
+     "score": 0.299
+    },
+    {
+     "word": "me",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "he",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "then",
+     "p": 0.0225,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "she",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "be",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "we",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "they",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.284
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "For there's something of a poet's disdain,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "again",
+   "qwen_top": "pain",
+   "meant": "pain",
+   "chosen": "disdain",
+   "candidates": [
+    {
+     "word": "disdain",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 0.761
+    },
+    {
+     "word": "despair",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.53
+    },
+    {
+     "word": "tenderness",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.522
+    },
+    {
+     "word": "pleasure",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.498
+    },
+    {
+     "word": "patience",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.486
+    },
+    {
+     "word": "elegance",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.483
+    },
+    {
+     "word": "desperation",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.482
+    },
+    {
+     "word": "evident",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.481
+    },
+    {
+     "word": "effort",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.477
+    },
+    {
+     "word": "whatever",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.477
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "When, in the course of life, I have never",
+   "syllables": 10,
+   "target": 11,
+   "partner": "again",
+   "qwen_top": "to",
+   "meant": "had",
+   "chosen": "never",
+   "candidates": [
+    {
+     "word": "never",
+     "p": 0.0173,
+     "rhyme": 0.6,
+     "score": 0.606
+    },
+    {
+     "word": "already",
+     "p": 0.0059,
+     "rhyme": 0.6,
+     "score": 0.503
+    },
+    {
+     "word": "later",
+     "p": 0.0041,
+     "rhyme": 0.6,
+     "score": 0.487
+    },
+    {
+     "word": "however",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.475
+    },
+    {
+     "word": "ever",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.473
+    },
+    {
+     "word": "taken",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.472
+    },
+    {
+     "word": "decade",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.472
+    },
+    {
+     "word": "lately",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.471
+    },
+    {
+     "word": "regretted",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.467
+    },
+    {
+     "word": "nevertheless",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.465
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Recalled the laurel 'twixt my fingers.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "lips",
+   "meant": "fingers",
+   "chosen": "fingers",
+   "candidates": [
+    {
+     "word": "fingers",
+     "p": 0.1856,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "amputate",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "away",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "elbow",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "thirty",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "sixteen",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "beside",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.222
+    },
+    {
+     "word": "piano",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.21
+    },
+    {
+     "word": "elbows",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.203
+    },
+    {
+     "word": "behind",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.195
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "As for 'the sublime,' that thing, indeed,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "i",
+   "meant": "indeed",
+   "chosen": "indeed",
+   "candidates": [
+    {
+     "word": "indeed",
+     "p": 0.0449,
+     "rhyme": 0,
+     "score": 0.464
+    },
+    {
+     "word": "alas",
+     "p": 0.0424,
+     "rhyme": 0,
+     "score": 0.42
+    },
+    {
+     "word": "anyway",
+     "p": 0.0138,
+     "rhyme": 0,
+     "score": 0.332
+    },
+    {
+     "word": "likewise",
+     "p": 0.0099,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "contemplate",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "nobody",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "probably",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "hitherto",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "untrue",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "again",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.267
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Is one of the wonders of the history,",
+   "syllables": 11,
+   "target": 11,
+   "partner": "fingers",
+   "qwen_top": "mind",
+   "meant": "world",
+   "chosen": "history",
+   "candidates": [
+    {
+     "word": "history",
+     "p": 0.0037,
+     "rhyme": 0.6,
+     "score": 0.61
+    },
+    {
+     "word": "vision",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.563
+    },
+    {
+     "word": "spirit",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.532
+    },
+    {
+     "word": "mysterious",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.501
+    },
+    {
+     "word": "era",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.498
+    },
+    {
+     "word": "thinking",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.493
+    },
+    {
+     "word": "fiction",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.487
+    },
+    {
+     "word": "artificial",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.482
+    },
+    {
+     "word": "into",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.481
+    },
+    {
+     "word": "everything",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.48
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "If not of men, at least of age, even,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "indeed",
+   "qwen_top": "and",
+   "meant": "alone",
+   "chosen": "even",
+   "candidates": [
+    {
+     "word": "even",
+     "p": 0.0043,
+     "rhyme": 0.6,
+     "score": 0.485
+    },
+    {
+     "word": "probably",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.466
+    },
+    {
+     "word": "believe",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "either",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "reveal",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "being",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "really",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "ability",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "equally",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "unseen",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.455
+    }
+   ]
+  }
+ ]
+}

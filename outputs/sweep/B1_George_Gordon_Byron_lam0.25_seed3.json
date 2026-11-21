@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 0.25,
+ "scheme": "ABAB",
+ "seed": 3,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "XIII. OMNES DE ILLUMINUS in\nThe World and the Soul to die, alas!\nThou hast ne'er been born a man of spirit;\nNot even thy golden age was happy.\nNot happy was the realm of our\nLonely night - and wilder fires were\nForlornly blazed, till one such flame afar\nShone burning on the sun's bright brow, our\nMorning star! - but no immortal flame\nHad anything like thee; yet our\nStars must burn for ever; and 'twere fatal,\nSome 'gainst some, that thine own image cannot",
+ "lines": [
+  {
+   "line": 1,
+   "text": "XIII. OMNES DE ILLUMINUS in",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "in",
+   "candidates": [
+    {
+     "word": "in",
+     "p": 0.0207,
+     "rhyme": 0,
+     "score": 0.467
+    },
+    {
+     "word": "a",
+     "p": 0.0108,
+     "rhyme": 0,
+     "score": 0.401
+    },
+    {
+     "word": "i",
+     "p": 0.0107,
+     "rhyme": 0,
+     "score": 0.375
+    },
+    {
+     "word": "e",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.363
+    },
+    {
+     "word": "et",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 0.356
+    },
+    {
+     "word": "est",
+     "p": 0.0103,
+     "rhyme": 0,
+     "score": 0.343
+    },
+    {
+     "word": "de",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.339
+    },
+    {
+     "word": "non",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.318
+    },
+    {
+     "word": "re",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.318
+    },
+    {
+     "word": "vi",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.314
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The World and the Soul to die, alas!",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "alas",
+   "candidates": [
+    {
+     "word": "alas",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.434
+    },
+    {
+     "word": "our",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.338
+    },
+    {
+     "word": "before",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.306
+    },
+    {
+     "word": "away",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "again",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "decay",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "into",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "although",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "below",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "remain",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.261
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Thou hast ne'er been born a man of spirit;",
+   "syllables": 10,
+   "target": 11,
+   "partner": "in",
+   "qwen_top": "men",
+   "meant": "men",
+   "chosen": "spirit",
+   "candidates": [
+    {
+     "word": "spirit",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "pity",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "wisdom",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "little",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "renown",
+     "p": 0.0028,
+     "rhyme": 0.3,
+     "score": 0.265
+    },
+    {
+     "word": "power",
+     "p": 0.0176,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "science",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.069
+    },
+    {
+     "word": "ours",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.045
+    },
+    {
+     "word": "action",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.044
+    },
+    {
+     "word": "feeling",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.043
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Not even thy golden age was happy.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "alas",
+   "qwen_top": "a",
+   "meant": "a",
+   "chosen": "happy",
+   "candidates": [
+    {
+     "word": "happy",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.519
+    },
+    {
+     "word": "happier",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.468
+    },
+    {
+     "word": "advanced",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "barren",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "lacking",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "divine",
+     "p": 0.0097,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "immortal",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 0.213
+    },
+    {
+     "word": "ours",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.2
+    },
+    {
+     "word": "glorious",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.122
+    },
+    {
+     "word": "our",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.095
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Not happy was the realm of our",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "thy",
+   "meant": "thy",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.447
+    },
+    {
+     "word": "human",
+     "p": 0.0101,
+     "rhyme": 0,
+     "score": 0.385
+    },
+    {
+     "word": "nations",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.352
+    },
+    {
+     "word": "heaven",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "liberty",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.307
+    },
+    {
+     "word": "shadow",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "glory",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "mankind",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "fire",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.245
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Lonely night - and wilder fires were",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "were",
+   "meant": "were",
+   "chosen": "were",
+   "candidates": [
+    {
+     "word": "were",
+     "p": 0.135,
+     "rhyme": 0,
+     "score": 0.451
+    },
+    {
+     "word": "than",
+     "p": 0.0928,
+     "rhyme": 0,
+     "score": 0.401
+    },
+    {
+     "word": "we",
+     "p": 0.0111,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "to",
+     "p": 0.0111,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "are",
+     "p": 0.0301,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "be",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "grew",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "he",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "re",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "she",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Forlornly blazed, till one such flame afar",
+   "syllables": 10,
+   "target": 11,
+   "partner": "our",
+   "qwen_top": "was",
+   "meant": "was",
+   "chosen": "afar",
+   "candidates": [
+    {
+     "word": "afar",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 0.755
+    },
+    {
+     "word": "resolved",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.464
+    },
+    {
+     "word": "upon",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "forgot",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "around",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "arose",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "appear",
+     "p": 0.0004,
+     "rhyme": 0.3,
+     "score": 0.248
+    },
+    {
+     "word": "retire",
+     "p": 0.0001,
+     "rhyme": 0.3,
+     "score": 0.23
+    },
+    {
+     "word": "fire",
+     "p": 0.0001,
+     "rhyme": 0.3,
+     "score": 0.228
+    },
+    {
+     "word": "before",
+     "p": 0.0,
+     "rhyme": 0.3,
+     "score": 0.227
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Shone burning on the sun's bright brow, our",
+   "syllables": 10,
+   "target": 11,
+   "partner": "were",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.688
+    },
+    {
+     "word": "after",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.686
+    },
+    {
+     "word": "fire",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.678
+    },
+    {
+     "word": "never",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.677
+    },
+    {
+     "word": "another",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.677
+    },
+    {
+     "word": "nearer",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.677
+    },
+    {
+     "word": "power",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.677
+    },
+    {
+     "word": "ever",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.677
+    },
+    {
+     "word": "burning",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.465
+    },
+    {
+     "word": "afar",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.25
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Morning star! - but no immortal flame",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "flame",
+   "meant": "flame",
+   "chosen": "flame",
+   "candidates": [
+    {
+     "word": "flame",
+     "p": 0.1757,
+     "rhyme": 0,
+     "score": 0.431
+    },
+    {
+     "word": "soul",
+     "p": 0.0774,
+     "rhyme": 0,
+     "score": 0.309
+    },
+    {
+     "word": "ray",
+     "p": 0.0208,
+     "rhyme": 0,
+     "score": 0.304
+    },
+    {
+     "word": "day",
+     "p": 0.0107,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "we",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "key",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "be",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "he",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "tree",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "e",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.28
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Had anything like thee; yet our",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "thou",
+   "meant": "thou",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.479
+    },
+    {
+     "word": "never",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.336
+    },
+    {
+     "word": "again",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "alone",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "afar",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.261
+    },
+    {
+     "word": "unseen",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.259
+    },
+    {
+     "word": "indeed",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.252
+    },
+    {
+     "word": "many",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "before",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "forget",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.248
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Stars must burn for ever; and 'twere fatal,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "flame",
+   "qwen_top": "vain",
+   "meant": "vain",
+   "chosen": "fatal",
+   "candidates": [
+    {
+     "word": "fatal",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "safer",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "better",
+     "p": 0.0411,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "heaven",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.039
+    },
+    {
+     "word": "our",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.025
+    },
+    {
+     "word": "only",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.023
+    },
+    {
+     "word": "ours",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.021
+    },
+    {
+     "word": "easy",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.015
+    },
+    {
+     "word": "never",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.012
+    },
+    {
+     "word": "rather",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.009
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Some 'gainst some, that thine own image cannot",
+   "syllables": 10,
+   "target": 11,
+   "partner": "our",
+   "qwen_top": "should",
+   "meant": "should",
+   "chosen": "cannot",
+   "candidates": [
+    {
+     "word": "cannot",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.496
+    },
+    {
+     "word": "appear",
+     "p": 0.0007,
+     "rhyme": 0.3,
+     "score": 0.311
+    },
+    {
+     "word": "fire",
+     "p": 0.0004,
+     "rhyme": 0.3,
+     "score": 0.278
+    },
+    {
+     "word": "never",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "faded",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "perish",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.172
+    },
+    {
+     "word": "passes",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.161
+    },
+    {
+     "word": "ever",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.142
+    },
+    {
+     "word": "remain",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.086
+    },
+    {
+     "word": "remains",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.086
+    }
+   ]
+  }
+ ]
+}

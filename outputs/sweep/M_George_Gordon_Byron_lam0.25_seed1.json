@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 0.25,
+ "scheme": "ABAB",
+ "seed": 1,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "183, The Commencement of the Composition of\nI. Adieu! Some Maidens have ago,\nTheir rose-lit cheeks and languid eyes because\n(To wear a happier mistress so\nWorthy, I grant you) let me speak again:\nIf left alone by Nature's self alone,\nOr any creature but the human brain,\nFor me with all that is true, you only,\nAnd not to charm me in your beauty,\nThe happiest act was once begun:\nIn former days, when in union liberty,\nUncheated passions and free passion,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "183, The Commencement of the Composition of",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "of",
+   "candidates": [
+    {
+     "word": "of",
+     "p": 0.4715,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "be",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "three",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "may",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "they",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "day",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "way",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "to",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "a",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.271
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "I. Adieu! Some Maidens have ago,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "gone",
+   "meant": "gone",
+   "chosen": "ago",
+   "candidates": [
+    {
+     "word": "ago",
+     "p": 0.017,
+     "rhyme": 0,
+     "score": 0.418
+    },
+    {
+     "word": "disappeared",
+     "p": 0.0272,
+     "rhyme": 0,
+     "score": 0.415
+    },
+    {
+     "word": "away",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "probably",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "generations",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "hussein",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "anyway",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "realized",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.257
+    },
+    {
+     "word": "decade",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "goodbye",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.254
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Their rose-lit cheeks and languid eyes because",
+   "syllables": 10,
+   "target": 11,
+   "partner": "of",
+   "qwen_top": "of",
+   "meant": "seen",
+   "chosen": "because",
+   "candidates": [
+    {
+     "word": "because",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.562
+    },
+    {
+     "word": "others",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.532
+    },
+    {
+     "word": "something",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.472
+    },
+    {
+     "word": "become",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.471
+    },
+    {
+     "word": "other",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.47
+    },
+    {
+     "word": "colors",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.467
+    },
+    {
+     "word": "nothing",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.467
+    },
+    {
+     "word": "hunted",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.466
+    },
+    {
+     "word": "colours",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.464
+    },
+    {
+     "word": "alive",
+     "p": 0.0017,
+     "rhyme": 0.3,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "(To wear a happier mistress so",
+   "syllables": 9,
+   "target": 10,
+   "partner": "ago",
+   "qwen_top": "than",
+   "meant": "alone",
+   "chosen": "so",
+   "candidates": [
+    {
+     "word": "so",
+     "p": 0.0049,
+     "rhyme": 1.0,
+     "score": 0.762
+    },
+    {
+     "word": "no",
+     "p": 0.0029,
+     "rhyme": 1.0,
+     "score": 0.757
+    },
+    {
+     "word": "though",
+     "p": 0.0029,
+     "rhyme": 1.0,
+     "score": 0.757
+    },
+    {
+     "word": "although",
+     "p": 0.0012,
+     "rhyme": 1.0,
+     "score": 0.753
+    },
+    {
+     "word": "know",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 0.752
+    },
+    {
+     "word": "alone",
+     "p": 0.1045,
+     "rhyme": 0.6,
+     "score": 0.7
+    },
+    {
+     "word": "only",
+     "p": 0.0134,
+     "rhyme": 0.6,
+     "score": 0.482
+    },
+    {
+     "word": "almost",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "home",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "most",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.455
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Worthy, I grant you) let me speak again:",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.2849,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "today",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "away",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "anew",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "into",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "somebody",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "probably",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "anyway",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.257
+    },
+    {
+     "word": "july",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.25
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "If left alone by Nature's self alone,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "i",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.468
+    },
+    {
+     "word": "divine",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.38
+    },
+    {
+     "word": "creation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.344
+    },
+    {
+     "word": "moderation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.344
+    },
+    {
+     "word": "education",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.341
+    },
+    {
+     "word": "content",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "subordinate",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.311
+    },
+    {
+     "word": "decree",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.309
+    },
+    {
+     "word": "himself",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.307
+    },
+    {
+     "word": "communicate",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.307
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Or any creature but the human brain,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "again",
+   "qwen_top": "kind",
+   "meant": "soul",
+   "chosen": "brain",
+   "candidates": [
+    {
+     "word": "brain",
+     "p": 0.004,
+     "rhyme": 1.0,
+     "score": 0.765
+    },
+    {
+     "word": "strain",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 0.753
+    },
+    {
+     "word": "when",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 0.753
+    },
+    {
+     "word": "pain",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 0.752
+    },
+    {
+     "word": "then",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 0.752
+    },
+    {
+     "word": "shape",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "same",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "a",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "flesh",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "race",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.46
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "For me with all that is true, you only,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "alone",
+   "qwen_top": "may",
+   "meant": "are",
+   "chosen": "only",
+   "candidates": [
+    {
+     "word": "only",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.571
+    },
+    {
+     "word": "suppose",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.478
+    },
+    {
+     "word": "going",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.476
+    },
+    {
+     "word": "although",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.467
+    },
+    {
+     "word": "supposed",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.467
+    },
+    {
+     "word": "remain",
+     "p": 0.0007,
+     "rhyme": 0.3,
+     "score": 0.256
+    },
+    {
+     "word": "appear",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "others",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.209
+    },
+    {
+     "word": "many",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.192
+    },
+    {
+     "word": "belong",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.175
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "And not to charm me in your beauty,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "own",
+   "meant": "beauty",
+   "chosen": "beauty",
+   "candidates": [
+    {
+     "word": "beauty",
+     "p": 0.0581,
+     "rhyme": 0,
+     "score": 0.365
+    },
+    {
+     "word": "admiration",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.345
+    },
+    {
+     "word": "decoration",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.332
+    },
+    {
+     "word": "fascination",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.331
+    },
+    {
+     "word": "consternation",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "contemplation",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "adulation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "inspiration",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "indignation",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "ostentation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.322
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "The happiest act was once begun:",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "done",
+   "chosen": "begun",
+   "candidates": [
+    {
+     "word": "begun",
+     "p": 0.0244,
+     "rhyme": 0,
+     "score": 0.444
+    },
+    {
+     "word": "preparation",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "began",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "doing",
+     "p": 0.0159,
+     "rhyme": 0,
+     "score": 0.315
+    },
+    {
+     "word": "recreated",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "emulate",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "elaborate",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "dedicate",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "recreate",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "imitate",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.285
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "In former days, when in union liberty,",
+   "syllables": 11,
+   "target": 11,
+   "partner": "beauty",
+   "qwen_top": "with",
+   "meant": "together",
+   "chosen": "liberty",
+   "candidates": [
+    {
+     "word": "liberty",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.68
+    },
+    {
+     "word": "produced",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "beautiful",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "newly",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "together",
+     "p": 0.0495,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "settled",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.047
+    },
+    {
+     "word": "married",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.02
+    },
+    {
+     "word": "traveled",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.013
+    },
+    {
+     "word": "along",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.011
+    },
+    {
+     "word": "founded",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.01
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Uncheated passions and free passion,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "begun",
+   "qwen_top": "will",
+   "meant": "desire",
+   "chosen": "passion",
+   "candidates": [
+    {
+     "word": "passion",
+     "p": 0.0045,
+     "rhyme": 0.9,
+     "score": 0.691
+    },
+    {
+     "word": "abandon",
+     "p": 0.0029,
+     "rhyme": 0.9,
+     "score": 0.685
+    },
+    {
+     "word": "intention",
+     "p": 0.0019,
+     "rhyme": 0.9,
+     "score": 0.682
+    },
+    {
+     "word": "inclination",
+     "p": 0.0015,
+     "rhyme": 0.9,
+     "score": 0.68
+    },
+    {
+     "word": "ambition",
+     "p": 0.0014,
+     "rhyme": 0.9,
+     "score": 0.68
+    },
+    {
+     "word": "relaxation",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.679
+    },
+    {
+     "word": "devotion",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.679
+    },
+    {
+     "word": "mission",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.678
+    },
+    {
+     "word": "expression",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.678
+    },
+    {
+     "word": "tension",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.678
+    }
+   ]
+  }
+ ]
+}

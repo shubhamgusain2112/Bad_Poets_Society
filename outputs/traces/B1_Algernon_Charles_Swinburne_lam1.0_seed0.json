@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 1.0,
+ "scheme": "AABB",
+ "seed": 0,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "This is my poor heart's life, o'er sixty years,\nThe love I had for thee; it has never\nLoved the wronged heart which cannot,\nAlas! Love him more than you ever.\nYou are good men and have done me many\nFathers and sons not worth the coin given,\nBut I am yours from that first hour\nWhen my arms were bound and fasten'd about,\nMy hands clasped in your fingers, ever\nOft night by night as night upon\nLight to keep the light of our\nSoul together unseen between us,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "This is my poor heart's life, o'er sixty years,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "years",
+   "meant": "years",
+   "chosen": "years",
+   "candidates": [
+    {
+     "word": "years",
+     "p": 0.6492,
+     "rhyme": 0,
+     "score": 1.189
+    },
+    {
+     "word": "three",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "ye",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "free",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "de",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "e",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "fe",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.276
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The love I had for thee; it has never",
+   "syllables": 10,
+   "target": 11,
+   "partner": "years",
+   "qwen_top": "been",
+   "meant": "been",
+   "chosen": "never",
+   "candidates": [
+    {
+     "word": "never",
+     "p": 0.013,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "given",
+     "p": 0.0095,
+     "rhyme": 0.6,
+     "score": 0.732
+    },
+    {
+     "word": "decay",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "fallen",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.444
+    },
+    {
+     "word": "broken",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.444
+    },
+    {
+     "word": "become",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "ended",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.392
+    },
+    {
+     "word": "nothing",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.346
+    },
+    {
+     "word": "wasted",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.346
+    },
+    {
+     "word": "begun",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.253
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Loved the wronged heart which cannot,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "is",
+   "meant": "is",
+   "chosen": "cannot",
+   "candidates": [
+    {
+     "word": "cannot",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 1.197
+    },
+    {
+     "word": "never",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 1.081
+    },
+    {
+     "word": "ever",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.667
+    },
+    {
+     "word": "hated",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.446
+    },
+    {
+     "word": "denies",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.338
+    },
+    {
+     "word": "rebel",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.311
+    },
+    {
+     "word": "denied",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "betrayed",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "alone",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "only",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.287
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Alas! Love him more than you ever.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "cannot",
+   "qwen_top": "have",
+   "meant": "have",
+   "chosen": "ever",
+   "candidates": [
+    {
+     "word": "ever",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "desire",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.612
+    },
+    {
+     "word": "alone",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.473
+    },
+    {
+     "word": "myself",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "yourself",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.154
+    },
+    {
+     "word": "our",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.12
+    },
+    {
+     "word": "because",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.119
+    },
+    {
+     "word": "before",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.106
+    },
+    {
+     "word": "deserve",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.099
+    },
+    {
+     "word": "upon",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.082
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "You are good men and have done me many",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "wrong",
+   "meant": "wrong",
+   "chosen": "many",
+   "candidates": [
+    {
+     "word": "many",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 1.157
+    },
+    {
+     "word": "little",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 1.11
+    },
+    {
+     "word": "very",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.821
+    },
+    {
+     "word": "service",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.757
+    },
+    {
+     "word": "kindness",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.641
+    },
+    {
+     "word": "evil",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.639
+    },
+    {
+     "word": "honor",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.587
+    },
+    {
+     "word": "better",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.541
+    },
+    {
+     "word": "enough",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.477
+    },
+    {
+     "word": "justice",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.472
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Fathers and sons not worth the coin given,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "many",
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "given",
+   "candidates": [
+    {
+     "word": "given",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "beside",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "above",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "thereof",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "money",
+     "p": 0.0002,
+     "rhyme": 0.3,
+     "score": 0.255
+    },
+    {
+     "word": "our",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "below",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "upon",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "taken",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "alone",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.174
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "But I am yours from that first hour",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "day",
+   "meant": "day",
+   "chosen": "hour",
+   "candidates": [
+    {
+     "word": "hour",
+     "p": 0.0375,
+     "rhyme": 0,
+     "score": 1.161
+    },
+    {
+     "word": "morning",
+     "p": 0.0331,
+     "rhyme": 0,
+     "score": 0.972
+    },
+    {
+     "word": "moment",
+     "p": 0.0258,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "meeting",
+     "p": 0.0177,
+     "rhyme": 0,
+     "score": 0.628
+    },
+    {
+     "word": "summer",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "sunday",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "shadow",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "midnight",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "thursday",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.267
+    },
+    {
+     "word": "sunrise",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.264
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "When my arms were bound and fasten'd about,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "hour",
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "about",
+   "candidates": [
+    {
+     "word": "about",
+     "p": 0.0111,
+     "rhyme": 0.6,
+     "score": 1.0
+    },
+    {
+     "word": "upon",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.779
+    },
+    {
+     "word": "within",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "again",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "against",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "around",
+     "p": 0.0052,
+     "rhyme": 0.6,
+     "score": 0.472
+    },
+    {
+     "word": "under",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "before",
+     "p": 0.0032,
+     "rhyme": 0.3,
+     "score": 0.287
+    },
+    {
+     "word": "below",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "behind",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.197
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "My hands clasped in your fingers, ever",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "my",
+   "meant": "my",
+   "chosen": "ever",
+   "candidates": [
+    {
+     "word": "ever",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 1.132
+    },
+    {
+     "word": "never",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.92
+    },
+    {
+     "word": "until",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.897
+    },
+    {
+     "word": "tender",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.88
+    },
+    {
+     "word": "our",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.767
+    },
+    {
+     "word": "holding",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.681
+    },
+    {
+     "word": "before",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.672
+    },
+    {
+     "word": "leaning",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.596
+    },
+    {
+     "word": "heaven",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.56
+    },
+    {
+     "word": "mother",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.552
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Oft night by night as night upon",
+   "syllables": 8,
+   "target": 9,
+   "partner": "ever",
+   "qwen_top": "by",
+   "meant": "by",
+   "chosen": "upon",
+   "candidates": [
+    {
+     "word": "upon",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "passes",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "before",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "watches",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "descended",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.253
+    },
+    {
+     "word": "without",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "over",
+     "p": 0.0016,
+     "rhyme": 0.3,
+     "score": 0.238
+    },
+    {
+     "word": "returns",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.21
+    },
+    {
+     "word": "approaches",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.21
+    },
+    {
+     "word": "after",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.197
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Light to keep the light of our",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "day",
+   "meant": "day",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0132,
+     "rhyme": 0,
+     "score": 1.229
+    },
+    {
+     "word": "heaven",
+     "p": 0.0125,
+     "rhyme": 0,
+     "score": 1.069
+    },
+    {
+     "word": "fire",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.733
+    },
+    {
+     "word": "daylight",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.587
+    },
+    {
+     "word": "morning",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.507
+    },
+    {
+     "word": "twilight",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.384
+    },
+    {
+     "word": "summer",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.383
+    },
+    {
+     "word": "shadow",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.336
+    },
+    {
+     "word": "ever",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "desire",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.285
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Soul together unseen between us,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "our",
+   "qwen_top": "us",
+   "meant": "us",
+   "chosen": "us",
+   "candidates": [
+    {
+     "word": "us",
+     "p": 0.153,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "the",
+     "p": 0.0301,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "you",
+     "p": 0.0142,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "your",
+     "p": 0.0059,
+     "rhyme": 0.3,
+     "score": 0.039
+    },
+    {
+     "word": "two",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.03
+    },
+    {
+     "word": "and",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.03
+    },
+    {
+     "word": "them",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.03
+    },
+    {
+     "word": "eyes",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.016
+    },
+    {
+     "word": "me",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.014
+    },
+    {
+     "word": "each",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.01
+    }
+   ]
+  }
+ ]
+}

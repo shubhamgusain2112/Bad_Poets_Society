@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 0.0,
+ "scheme": "AABB",
+ "seed": 14,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "This Thursday, you left away\nYour soul to wake from sleepless day,\nThe rest of us, all for ours me\nToo dull a year and too deep solitary.\nI thought of you as you had away,\nAnd said the great words today\nAs if they were not past in years away:\n'Our souls are weary when anyway;\nBut let the world's wrongings sleep no today,\nOr let our souls be purged hereafter.' They\nSmiled back: I took my lips and smote separate\nMy clenched hands that clung meditate",
+ "lines": [
+  {
+   "line": 1,
+   "text": "This Thursday, you left away",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "me",
+   "meant": "me",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "today",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "astray",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "somebody",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "nobody",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "ago",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "anyway",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "again",
+     "p": 0.0207,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "goodbye",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "before",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.229
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Your soul to wake from sleepless day,",
+   "syllables": 8,
+   "target": 9,
+   "partner": "away",
+   "qwen_top": "dreams",
+   "meant": "sleep",
+   "chosen": "day",
+   "candidates": [
+    {
+     "word": "day",
+     "p": 0.0105,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "lay",
+     "p": 0.0015,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "pray",
+     "p": 0.0012,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "stay",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "may",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "saturday",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "sunday",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "monday",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "thursday",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "wednesday",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "The rest of us, all for ours me",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "alone",
+   "chosen": "me",
+   "candidates": [
+    {
+     "word": "me",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "see",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "three",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "away",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "they",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "ca",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Too dull a year and too deep solitary.",
+   "syllables": 11,
+   "target": 10,
+   "partner": "me",
+   "qwen_top": "a",
+   "meant": "sleep",
+   "chosen": "solitary",
+   "candidates": [
+    {
+     "word": "solitary",
+     "p": 0.0018,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "maybe",
+     "p": 0.0015,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "agony",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "only",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "journey",
+     "p": 0.0012,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "pity",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "lonely",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "every",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "melancholy",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "very",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "I thought of you as you had away,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "been",
+   "meant": "gone",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "today",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "probably",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "nobody",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "ago",
+     "p": 0.02,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "although",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "anyway",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "monday",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "tuesday",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "thursday",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.256
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "And said the great words today",
+   "syllables": 7,
+   "target": 8,
+   "partner": "away",
+   "qwen_top": "of",
+   "meant": "we",
+   "chosen": "today",
+   "candidates": [
+    {
+     "word": "today",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "anyway",
+     "p": 0.0024,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "again",
+     "p": 0.0286,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "always",
+     "p": 0.0046,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "praying",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "later",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "occasions",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "saying",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "bravely",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "proclaim",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "As if they were not past in years away:",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "away",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.3117,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "into",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "generations",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "probably",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "ago",
+     "p": 0.0392,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "anyway",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "hussein",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "again",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "realized",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "forget",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.237
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "'Our souls are weary when anyway;",
+   "syllables": 10,
+   "target": 10,
+   "partner": "away",
+   "qwen_top": "we",
+   "meant": "together",
+   "chosen": "anyway",
+   "candidates": [
+    {
+     "word": "anyway",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "always",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "taken",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "strangers",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "able",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "maybe",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "safely",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "afraid",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "generations",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "But let the world's wrongings sleep no today,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "more",
+   "meant": "more",
+   "chosen": "today",
+   "candidates": [
+    {
+     "word": "today",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "although",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "ago",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "remain",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "before",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "addition",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "provide",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.222
+    },
+    {
+     "word": "very",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "carry",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "create",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.213
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Or let our souls be purged hereafter.' They",
+   "syllables": 11,
+   "target": 11,
+   "partner": "today",
+   "qwen_top": "then",
+   "meant": "you",
+   "chosen": "they",
+   "candidates": [
+    {
+     "word": "they",
+     "p": 0.0062,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "ca",
+     "p": 0.0051,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "way",
+     "p": 0.0029,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "may",
+     "p": 0.0023,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "say",
+     "p": 0.0021,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "hey",
+     "p": 0.0017,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "a",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "play",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "stay",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "pay",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Smiled back: I took my lips and smote separate",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "them",
+   "meant": "them",
+   "chosen": "separate",
+   "candidates": [
+    {
+     "word": "separate",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "away",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "into",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "somebody",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "ability",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "again",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "upon",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "before",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "our",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "alone",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.218
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "My clenched hands that clung meditate",
+   "syllables": 8,
+   "target": 8,
+   "partner": "separate",
+   "qwen_top": "to",
+   "meant": "together",
+   "chosen": "meditate",
+   "candidates": [
+    {
+     "word": "meditate",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "together",
+     "p": 0.3214,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "somewhere",
+     "p": 0.0041,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "arrayed",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awake",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "separated",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "strangers",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "ourselves",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "gently",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  }
+ ]
+}

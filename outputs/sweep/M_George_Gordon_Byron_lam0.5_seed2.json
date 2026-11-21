@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 0.5,
+ "scheme": "ABAB",
+ "seed": 2,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "FROM HER ROBING-SHIP - REV. JONAS John\nTo him in long balm, which gave relief,\nA soul to health, and a breast within\nWhereof the soul was blest; but his breathing\nAt one moment all made him feeling\nAneering and uneasy as before;\nHe hung by his necks, by his haunches reeling;\nAnd it seemed he could not wake again.\nVIII - THE BALLAD OF SAVIOUR Thomas\nThe Ballad of Savoir et travail\n(Igloi & Rulion) - English Edition The\nGlorious King who first tore the ancient",
+ "lines": [
+  {
+   "line": 1,
+   "text": "FROM HER ROBING-SHIP - REV. JONAS John",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "john",
+   "chosen": "john",
+   "candidates": [
+    {
+     "word": "john",
+     "p": 0.1231,
+     "rhyme": 0,
+     "score": 0.734
+    },
+    {
+     "word": "jay",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "leigh",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "gray",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "mcgee",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "anthony",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "barlow",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "joe",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.267
+    },
+    {
+     "word": "crowe",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "lane",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.258
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "To him in long balm, which gave relief,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "him",
+   "meant": "him",
+   "chosen": "relief",
+   "candidates": [
+    {
+     "word": "relief",
+     "p": 0.0129,
+     "rhyme": 0,
+     "score": 0.647
+    },
+    {
+     "word": "delight",
+     "p": 0.0094,
+     "rhyme": 0,
+     "score": 0.576
+    },
+    {
+     "word": "divine",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.404
+    },
+    {
+     "word": "elation",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.372
+    },
+    {
+     "word": "again",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.367
+    },
+    {
+     "word": "admiration",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.354
+    },
+    {
+     "word": "sensation",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.354
+    },
+    {
+     "word": "ability",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.344
+    },
+    {
+     "word": "inspiration",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.344
+    },
+    {
+     "word": "consternation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.341
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "A soul to health, and a breast within",
+   "syllables": 9,
+   "target": 10,
+   "partner": "john",
+   "qwen_top": "to",
+   "meant": "within",
+   "chosen": "within",
+   "candidates": [
+    {
+     "word": "within",
+     "p": 0.0228,
+     "rhyme": 0.3,
+     "score": 0.65
+    },
+    {
+     "word": "beyond",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.329
+    },
+    {
+     "word": "again",
+     "p": 0.0081,
+     "rhyme": 0.3,
+     "score": 0.327
+    },
+    {
+     "word": "dissolved",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.319
+    },
+    {
+     "word": "content",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.318
+    },
+    {
+     "word": "conscience",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.317
+    },
+    {
+     "word": "regain",
+     "p": 0.0015,
+     "rhyme": 0.3,
+     "score": 0.182
+    },
+    {
+     "word": "retain",
+     "p": 0.0012,
+     "rhyme": 0.3,
+     "score": 0.176
+    },
+    {
+     "word": "remain",
+     "p": 0.0011,
+     "rhyme": 0.3,
+     "score": 0.174
+    },
+    {
+     "word": "return",
+     "p": 0.001,
+     "rhyme": 0.3,
+     "score": 0.172
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Whereof the soul was blest; but his breathing",
+   "syllables": 10,
+   "target": 11,
+   "partner": "relief",
+   "qwen_top": "heart",
+   "meant": "heart",
+   "chosen": "breathing",
+   "candidates": [
+    {
+     "word": "breathing",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.536
+    },
+    {
+     "word": "meaning",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.528
+    },
+    {
+     "word": "vision",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "healing",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.498
+    },
+    {
+     "word": "disease",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.409
+    },
+    {
+     "word": "bleeding",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.399
+    },
+    {
+     "word": "mother",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.39
+    },
+    {
+     "word": "reason",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.358
+    },
+    {
+     "word": "fever",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.352
+    },
+    {
+     "word": "freedom",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.35
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "At one moment all made him feeling",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "sick",
+   "meant": "sleep",
+   "chosen": "feeling",
+   "candidates": [
+    {
+     "word": "feeling",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.595
+    },
+    {
+     "word": "shudder",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.555
+    },
+    {
+     "word": "tired",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.528
+    },
+    {
+     "word": "afraid",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.521
+    },
+    {
+     "word": "dying",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.488
+    },
+    {
+     "word": "waking",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.445
+    },
+    {
+     "word": "awake",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.419
+    },
+    {
+     "word": "rumbling",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.405
+    },
+    {
+     "word": "breathing",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.385
+    },
+    {
+     "word": "despair",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.352
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Aneering and uneasy as before;",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "before",
+   "chosen": "before",
+   "candidates": [
+    {
+     "word": "before",
+     "p": 0.0887,
+     "rhyme": 0,
+     "score": 0.729
+    },
+    {
+     "word": "again",
+     "p": 0.0127,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "starvation",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "into",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "probably",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "sunday",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "until",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 0.267
+    },
+    {
+     "word": "saturday",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.259
+    },
+    {
+     "word": "disease",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "necessary",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.247
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "He hung by his necks, by his haunches reeling;",
+   "syllables": 11,
+   "target": 11,
+   "partner": "feeling",
+   "qwen_top": "and",
+   "meant": "down",
+   "chosen": "reeling",
+   "candidates": [
+    {
+     "word": "reeling",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 0.527
+    },
+    {
+     "word": "knees",
+     "p": 0.0073,
+     "rhyme": 0.6,
+     "score": 0.518
+    },
+    {
+     "word": "down",
+     "p": 0.0167,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "bent",
+     "p": 0.0159,
+     "rhyme": 0,
+     "score": 0.476
+    },
+    {
+     "word": "laid",
+     "p": 0.0154,
+     "rhyme": 0,
+     "score": 0.461
+    },
+    {
+     "word": "stretched",
+     "p": 0.0141,
+     "rhyme": 0,
+     "score": 0.422
+    },
+    {
+     "word": "leaned",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.36
+    },
+    {
+     "word": "squeezed",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.354
+    },
+    {
+     "word": "feet",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.35
+    },
+    {
+     "word": "weak",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.338
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "And it seemed he could not wake again.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "before",
+   "qwen_top": "or",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.493,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "ashore",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 0.5
+    },
+    {
+     "word": "yourself",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.301
+    },
+    {
+     "word": "longer",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.301
+    },
+    {
+     "word": "shortly",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.3
+    },
+    {
+     "word": "victorious",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.3
+    },
+    {
+     "word": "along",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.3
+    },
+    {
+     "word": "restored",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.3
+    },
+    {
+     "word": "walking",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.3
+    },
+    {
+     "word": "because",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.3
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "VIII - THE BALLAD OF SAVIOUR Thomas",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "de",
+   "meant": "john",
+   "chosen": "thomas",
+   "candidates": [
+    {
+     "word": "thomas",
+     "p": 0.0144,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "william",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.462
+    },
+    {
+     "word": "francis",
+     "p": 0.0095,
+     "rhyme": 0,
+     "score": 0.367
+    },
+    {
+     "word": "oliver",
+     "p": 0.0104,
+     "rhyme": 0,
+     "score": 0.361
+    },
+    {
+     "word": "anthony",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.355
+    },
+    {
+     "word": "marie",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.353
+    },
+    {
+     "word": "russell",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.337
+    },
+    {
+     "word": "mcgee",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "pierre",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "barlow",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.315
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "The Ballad of Savoir et travail",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "de",
+   "meant": "et",
+   "chosen": "travail",
+   "candidates": [
+    {
+     "word": "travail",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.718
+    },
+    {
+     "word": "maison",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.554
+    },
+    {
+     "word": "ami",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.514
+    },
+    {
+     "word": "madame",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.485
+    },
+    {
+     "word": "monsieur",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.427
+    },
+    {
+     "word": "decorum",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.416
+    },
+    {
+     "word": "chapelle",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.405
+    },
+    {
+     "word": "critique",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.4
+    },
+    {
+     "word": "marie",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.389
+    },
+    {
+     "word": "suis",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.378
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "(Igloi & Rulion) - English Edition The",
+   "syllables": 10,
+   "target": 11,
+   "partner": "thomas",
+   "qwen_top": "by",
+   "meant": "the",
+   "chosen": "the",
+   "candidates": [
+    {
+     "word": "the",
+     "p": 0.0719,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "was",
+     "p": 0.0133,
+     "rhyme": 0.6,
+     "score": 0.393
+    },
+    {
+     "word": "of",
+     "p": 0.0562,
+     "rhyme": 0,
+     "score": 0.391
+    },
+    {
+     "word": "march",
+     "p": 0.0058,
+     "rhyme": 0.6,
+     "score": 0.34
+    },
+    {
+     "word": "followed",
+     "p": 0.0049,
+     "rhyme": 0.6,
+     "score": 0.334
+    },
+    {
+     "word": "august",
+     "p": 0.0034,
+     "rhyme": 0.6,
+     "score": 0.324
+    },
+    {
+     "word": "part",
+     "p": 0.0034,
+     "rhyme": 0.6,
+     "score": 0.323
+    },
+    {
+     "word": "on",
+     "p": 0.0034,
+     "rhyme": 0.6,
+     "score": 0.323
+    },
+    {
+     "word": "john",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.321
+    },
+    {
+     "word": "washington",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.316
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Glorious King who first tore the ancient",
+   "syllables": 10,
+   "target": 11,
+   "partner": "travail",
+   "qwen_top": "world",
+   "meant": "sea",
+   "chosen": "ancient",
+   "candidates": [
+    {
+     "word": "ancient",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.528
+    },
+    {
+     "word": "shadow",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "breaking",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "sacred",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.393
+    },
+    {
+     "word": "layer",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.391
+    },
+    {
+     "word": "raven",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.389
+    },
+    {
+     "word": "chaos",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.373
+    },
+    {
+     "word": "arabian",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.365
+    },
+    {
+     "word": "nation",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.364
+    },
+    {
+     "word": "breakers",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.354
+    }
+   ]
+  }
+ ]
+}

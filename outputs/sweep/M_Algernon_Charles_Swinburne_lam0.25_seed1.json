@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 0.25,
+ "scheme": "AABB",
+ "seed": 1,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "And May is all sweet the flower\nThat makes the dawn so flowers;\nMore sweet than plum in snow-white flower,\nShe who wept on her our;\nMore sweet than blue in blood-red line again\nThe life of red and blue now, God's heaven.\nThen to the slain an angel came again,\nAs one the darkened sun that fled away,\nThrough paths of darkness where salvation\nHe raised a light for temptation,\nWhere love was hope and pain was dear admiration;\nTo tell us even temptation",
+ "lines": [
+  {
+   "line": 1,
+   "text": "And May is all sweet the flower",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "more",
+   "meant": "day",
+   "chosen": "flower",
+   "candidates": [
+    {
+     "word": "flower",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.413
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.407
+    },
+    {
+     "word": "july",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "today",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.307
+    },
+    {
+     "word": "ago",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "sunday",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.299
+    },
+    {
+     "word": "friday",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "maggie",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "monday",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "although",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.292
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "That makes the dawn so flowers;",
+   "syllables": 7,
+   "target": 8,
+   "partner": "flower",
+   "qwen_top": "fair",
+   "meant": "fair",
+   "chosen": "flowers",
+   "candidates": [
+    {
+     "word": "flowers",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.474
+    },
+    {
+     "word": "sounded",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.469
+    },
+    {
+     "word": "very",
+     "p": 0.0093,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "fire",
+     "p": 0.0004,
+     "rhyme": 0.3,
+     "score": 0.235
+    },
+    {
+     "word": "lovely",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.161
+    },
+    {
+     "word": "beautiful",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.16
+    },
+    {
+     "word": "pretty",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.079
+    },
+    {
+     "word": "honest",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.073
+    },
+    {
+     "word": "fragrant",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "violet",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.068
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "More sweet than plum in snow-white flower,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "bloom",
+   "meant": "flower",
+   "chosen": "flower",
+   "candidates": [
+    {
+     "word": "flower",
+     "p": 0.0386,
+     "rhyme": 0,
+     "score": 0.413
+    },
+    {
+     "word": "flowers",
+     "p": 0.0222,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "bouquet",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "potato",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "monday",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.259
+    },
+    {
+     "word": "thursday",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.258
+    },
+    {
+     "word": "champagne",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.257
+    },
+    {
+     "word": "degrees",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "july",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "raspberry",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.252
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "She who wept on her our;",
+   "syllables": 7,
+   "target": 8,
+   "partner": "flower",
+   "qwen_top": "lips",
+   "meant": "daughter",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 0.759
+    },
+    {
+     "word": "mountain",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.492
+    },
+    {
+     "word": "pronounced",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.47
+    },
+    {
+     "word": "mountains",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "daughter",
+     "p": 0.0162,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "mother",
+     "p": 0.0144,
+     "rhyme": 0,
+     "score": 0.221
+    },
+    {
+     "word": "forehead",
+     "p": 0.0091,
+     "rhyme": 0,
+     "score": 0.139
+    },
+    {
+     "word": "father",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 0.129
+    },
+    {
+     "word": "dying",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.074
+    },
+    {
+     "word": "brother",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.067
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "More sweet than blue in blood-red line again",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "in",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.439
+    },
+    {
+     "word": "before",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.387
+    },
+    {
+     "word": "away",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "january",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "july",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "ago",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.293
+    },
+    {
+     "word": "into",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.293
+    },
+    {
+     "word": "although",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "only",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "february",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.282
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "The life of red and blue now, God's heaven.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "again",
+   "qwen_top": "own",
+   "meant": "own",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.524
+    },
+    {
+     "word": "herself",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.515
+    },
+    {
+     "word": "lady",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.501
+    },
+    {
+     "word": "himself",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.493
+    },
+    {
+     "word": "every",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.489
+    },
+    {
+     "word": "instead",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.484
+    },
+    {
+     "word": "marriage",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.48
+    },
+    {
+     "word": "despair",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.478
+    },
+    {
+     "word": "second",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.476
+    },
+    {
+     "word": "america",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.473
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Then to the slain an angel came again,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.2619,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "away",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "today",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "anew",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "somebody",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "july",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "between",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "january",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.246
+    },
+    {
+     "word": "february",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.245
+    },
+    {
+     "word": "before",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.235
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "As one the darkened sun that fled away,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "again",
+   "qwen_top": "away",
+   "meant": "away",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.3016,
+     "rhyme": 0.6,
+     "score": 0.7
+    },
+    {
+     "word": "later",
+     "p": 0.0094,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "taken",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "taking",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "instead",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "however",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "himself",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "heading",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "somewhere",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "never",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.451
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Through paths of darkness where salvation",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "darkness",
+   "chosen": "salvation",
+   "candidates": [
+    {
+     "word": "salvation",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "damnation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "darkness",
+     "p": 0.0252,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "again",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "although",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "remain",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.261
+    },
+    {
+     "word": "alone",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "shadows",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "despair",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.245
+    },
+    {
+     "word": "eternal",
+     "p": 0.0106,
+     "rhyme": 0,
+     "score": 0.244
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "He raised a light for temptation,",
+   "syllables": 8,
+   "target": 8,
+   "partner": "salvation",
+   "qwen_top": "all",
+   "meant": "heaven",
+   "chosen": "temptation",
+   "candidates": [
+    {
+     "word": "temptation",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 0.752
+    },
+    {
+     "word": "revelation",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 0.752
+    },
+    {
+     "word": "everyone",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.679
+    },
+    {
+     "word": "anyone",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.678
+    },
+    {
+     "word": "someone",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.677
+    },
+    {
+     "word": "satan",
+     "p": 0.0042,
+     "rhyme": 0.6,
+     "score": 0.464
+    },
+    {
+     "word": "greatest",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "betrayed",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "escape",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "always",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.452
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Where love was hope and pain was dear admiration;",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "joy",
+   "chosen": "admiration",
+   "candidates": [
+    {
+     "word": "admiration",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "inspiration",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "dedication",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "consternation",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "jubilation",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "temptation",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "adoration",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "sensation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "adulation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "celebration",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.323
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "To tell us even temptation",
+   "syllables": 8,
+   "target": 8,
+   "partner": "admiration",
+   "qwen_top": "as",
+   "meant": "now",
+   "chosen": "temptation",
+   "candidates": [
+    {
+     "word": "temptation",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 0.756
+    },
+    {
+     "word": "again",
+     "p": 0.025,
+     "rhyme": 0.6,
+     "score": 0.7
+    },
+    {
+     "word": "everyone",
+     "p": 0.0016,
+     "rhyme": 0.9,
+     "score": 0.691
+    },
+    {
+     "word": "always",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.475
+    },
+    {
+     "word": "today",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.467
+    },
+    {
+     "word": "painfully",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "anyway",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "strangely",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "remains",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "grateful",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.457
+    }
+   ]
+  }
+ ]
+}

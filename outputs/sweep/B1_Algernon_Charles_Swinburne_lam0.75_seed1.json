@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 0.75,
+ "scheme": "AABB",
+ "seed": 1,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "And May is all sweet the morning,\nIs all sweet the night after,\nHeaven and earth have turned to flower,\nWhat else do they call beauty?\nO Night, whose pale hand seals up life's fire,\nAll things are smooth and gay as grasses grow,\nAs wind that gives no sound of its power\nThe dark night around it blows from afar,\nHow fast their lightnings run away\nA woman's face is lovely,\nA man's face in fire made clear; alas,\nIf night were not so lovely,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "And May is all sweet the morning,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "more",
+   "meant": "more",
+   "chosen": "morning",
+   "candidates": [
+    {
+     "word": "morning",
+     "p": 0.0117,
+     "rhyme": 0,
+     "score": 0.84
+    },
+    {
+     "word": "flower",
+     "p": 0.0094,
+     "rhyme": 0,
+     "score": 0.764
+    },
+    {
+     "word": "flowers",
+     "p": 0.0091,
+     "rhyme": 0,
+     "score": 0.722
+    },
+    {
+     "word": "summer",
+     "p": 0.0095,
+     "rhyme": 0,
+     "score": 0.721
+    },
+    {
+     "word": "hour",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.475
+    },
+    {
+     "word": "little",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.465
+    },
+    {
+     "word": "very",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.427
+    },
+    {
+     "word": "better",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.398
+    },
+    {
+     "word": "beauty",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.393
+    },
+    {
+     "word": "season",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.388
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Is all sweet the night after,",
+   "syllables": 7,
+   "target": 8,
+   "partner": "morning",
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "after",
+   "candidates": [
+    {
+     "word": "after",
+     "p": 0.0257,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "before",
+     "p": 0.0138,
+     "rhyme": 0.6,
+     "score": 0.551
+    },
+    {
+     "word": "beyond",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.204
+    },
+    {
+     "word": "also",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.166
+    },
+    {
+     "word": "along",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.157
+    },
+    {
+     "word": "anon",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.153
+    },
+    {
+     "word": "because",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.152
+    },
+    {
+     "word": "towards",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.152
+    },
+    {
+     "word": "across",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.151
+    },
+    {
+     "word": "toward",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.151
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Heaven and earth have turned to flower,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "one",
+   "meant": "one",
+   "chosen": "flower",
+   "candidates": [
+    {
+     "word": "flower",
+     "p": 0.0215,
+     "rhyme": 0,
+     "score": 0.912
+    },
+    {
+     "word": "flowers",
+     "p": 0.0215,
+     "rhyme": 0,
+     "score": 0.889
+    },
+    {
+     "word": "heaven",
+     "p": 0.0094,
+     "rhyme": 0,
+     "score": 0.448
+    },
+    {
+     "word": "music",
+     "p": 0.0115,
+     "rhyme": 0,
+     "score": 0.402
+    },
+    {
+     "word": "delight",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.351
+    },
+    {
+     "word": "shadow",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.302
+    },
+    {
+     "word": "beauty",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "our",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "fire",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "glory",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "What else do they call beauty?",
+   "syllables": 7,
+   "target": 8,
+   "partner": "flower",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "beauty",
+   "candidates": [
+    {
+     "word": "beauty",
+     "p": 0.0235,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "our",
+     "p": 0.0048,
+     "rhyme": 1.0,
+     "score": 0.404
+    },
+    {
+     "word": "flowers",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.228
+    },
+    {
+     "word": "heaven",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "delight",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.195
+    },
+    {
+     "word": "ours",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.157
+    },
+    {
+     "word": "aloud",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.154
+    },
+    {
+     "word": "about",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.153
+    },
+    {
+     "word": "after",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.143
+    },
+    {
+     "word": "summer",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.125
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "O Night, whose pale hand seals up life's fire,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "day",
+   "meant": "day",
+   "chosen": "fire",
+   "candidates": [
+    {
+     "word": "fire",
+     "p": 0.0173,
+     "rhyme": 0,
+     "score": 0.947
+    },
+    {
+     "word": "flower",
+     "p": 0.0099,
+     "rhyme": 0,
+     "score": 0.59
+    },
+    {
+     "word": "hour",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.351
+    },
+    {
+     "word": "decay",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.304
+    },
+    {
+     "word": "delight",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.26
+    },
+    {
+     "word": "glory",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "desire",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.234
+    },
+    {
+     "word": "flowers",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.228
+    },
+    {
+     "word": "power",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.225
+    },
+    {
+     "word": "fires",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.224
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "All things are smooth and gay as grasses grow,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "fire",
+   "qwen_top": "grow",
+   "meant": "grow",
+   "chosen": "grow",
+   "candidates": [
+    {
+     "word": "grow",
+     "p": 0.0296,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "in",
+     "p": 0.0159,
+     "rhyme": 0,
+     "score": 0.401
+    },
+    {
+     "word": "are",
+     "p": 0.0045,
+     "rhyme": 0.9,
+     "score": 0.34
+    },
+    {
+     "word": "lie",
+     "p": 0.0058,
+     "rhyme": 0.6,
+     "score": 0.298
+    },
+    {
+     "word": "that",
+     "p": 0.0109,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "or",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.248
+    },
+    {
+     "word": "for",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.241
+    },
+    {
+     "word": "by",
+     "p": 0.0035,
+     "rhyme": 0.6,
+     "score": 0.24
+    },
+    {
+     "word": "were",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.229
+    },
+    {
+     "word": "stir",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.227
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "As wind that gives no sound of its power",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "breath",
+   "meant": "breath",
+   "chosen": "power",
+   "candidates": [
+    {
+     "word": "power",
+     "p": 0.0129,
+     "rhyme": 0,
+     "score": 0.909
+    },
+    {
+     "word": "desire",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.344
+    },
+    {
+     "word": "coming",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "decay",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "fire",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "delight",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "refrain",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "disdain",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "farewell",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "distress",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.263
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "The dark night around it blows from afar,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "power",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "afar",
+   "candidates": [
+    {
+     "word": "afar",
+     "p": 0.1691,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "flower",
+     "p": 0.004,
+     "rhyme": 1.0,
+     "score": 0.268
+    },
+    {
+     "word": "our",
+     "p": 0.0033,
+     "rhyme": 1.0,
+     "score": 0.265
+    },
+    {
+     "word": "hour",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 0.254
+    },
+    {
+     "word": "shower",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 0.251
+    },
+    {
+     "word": "tower",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 0.251
+    },
+    {
+     "word": "flowers",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.165
+    },
+    {
+     "word": "outer",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.156
+    },
+    {
+     "word": "hours",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.152
+    },
+    {
+     "word": "without",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.152
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "How fast their lightnings run away",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0553,
+     "rhyme": 0,
+     "score": 1.025
+    },
+    {
+     "word": "along",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.351
+    },
+    {
+     "word": "into",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.293
+    },
+    {
+     "word": "between",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "before",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "below",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "across",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "again",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "anew",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "ago",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.262
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "A woman's face is lovely,",
+   "syllables": 7,
+   "target": 8,
+   "partner": "away",
+   "qwen_top": "all",
+   "meant": "all",
+   "chosen": "lovely",
+   "candidates": [
+    {
+     "word": "lovely",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "shining",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.662
+    },
+    {
+     "word": "beautiful",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.584
+    },
+    {
+     "word": "heaven",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.432
+    },
+    {
+     "word": "ever",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.427
+    },
+    {
+     "word": "never",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.427
+    },
+    {
+     "word": "against",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.365
+    },
+    {
+     "word": "painted",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.365
+    },
+    {
+     "word": "burning",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.333
+    },
+    {
+     "word": "over",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.333
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "A man's face in fire made clear; alas,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "alas",
+   "candidates": [
+    {
+     "word": "alas",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.934
+    },
+    {
+     "word": "behold",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.894
+    },
+    {
+     "word": "away",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.624
+    },
+    {
+     "word": "indeed",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.493
+    },
+    {
+     "word": "asleep",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.483
+    },
+    {
+     "word": "neither",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.459
+    },
+    {
+     "word": "again",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.393
+    },
+    {
+     "word": "below",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.346
+    },
+    {
+     "word": "our",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "awake",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.315
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "If night were not so lovely,",
+   "syllables": 7,
+   "target": 8,
+   "partner": "alas",
+   "qwen_top": "sweet",
+   "meant": "sweet",
+   "chosen": "lovely",
+   "candidates": [
+    {
+     "word": "lovely",
+     "p": 0.0437,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "beautiful",
+     "p": 0.0341,
+     "rhyme": 0,
+     "score": 0.584
+    },
+    {
+     "word": "happy",
+     "p": 0.0043,
+     "rhyme": 0.6,
+     "score": 0.224
+    },
+    {
+     "word": "angry",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.161
+    },
+    {
+     "word": "sadly",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.154
+    },
+    {
+     "word": "cruel",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.101
+    },
+    {
+     "word": "very",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.079
+    },
+    {
+     "word": "gentle",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.079
+    },
+    {
+     "word": "merry",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.045
+    },
+    {
+     "word": "holy",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.042
+    }
+   ]
+  }
+ ]
+}

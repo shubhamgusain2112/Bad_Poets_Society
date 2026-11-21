@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 1.0,
+ "scheme": "AABB",
+ "seed": 13,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "The Spirit, who kept not them under,\nSaw the flame of Death's soul come burning\nDown from out the world-soul's burning\nAnd fallen on the Fallen world,\nLike a kindle coming upon\nA fallen world to light itself.\nHe heard that fire hear itself,\nHe saw it see its face; behold,\nAs if an hour before,\nA moment like itself within\nIts time to live and die in heaven,\nAnd here were dead therein and",
+ "lines": [
+  {
+   "line": 1,
+   "text": "The Spirit, who kept not them under,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "from",
+   "meant": "from",
+   "chosen": "under",
+   "candidates": [
+    {
+     "word": "under",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 1.096
+    },
+    {
+     "word": "captive",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 1.032
+    },
+    {
+     "word": "silent",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "alive",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.828
+    },
+    {
+     "word": "awake",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.648
+    },
+    {
+     "word": "alone",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.635
+    },
+    {
+     "word": "within",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.633
+    },
+    {
+     "word": "away",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.561
+    },
+    {
+     "word": "secure",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.553
+    },
+    {
+     "word": "ever",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.549
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Saw the flame of Death's soul come burning",
+   "syllables": 9,
+   "target": 10,
+   "partner": "under",
+   "qwen_top": "up",
+   "meant": "up",
+   "chosen": "burning",
+   "candidates": [
+    {
+     "word": "burning",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "into",
+     "p": 0.0061,
+     "rhyme": 0.6,
+     "score": 0.779
+    },
+    {
+     "word": "upon",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "forward",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "alive",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "over",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.392
+    },
+    {
+     "word": "before",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "shining",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "rising",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.346
+    },
+    {
+     "word": "flying",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.325
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Down from out the world-soul's burning",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "burning",
+   "meant": "burning",
+   "chosen": "burning",
+   "candidates": [
+    {
+     "word": "burning",
+     "p": 0.0244,
+     "rhyme": 0,
+     "score": 1.12
+    },
+    {
+     "word": "fire",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.614
+    },
+    {
+     "word": "golden",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.521
+    },
+    {
+     "word": "fiery",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.394
+    },
+    {
+     "word": "shadow",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.384
+    },
+    {
+     "word": "heaven",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.377
+    },
+    {
+     "word": "dying",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.344
+    },
+    {
+     "word": "abyss",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.341
+    },
+    {
+     "word": "eternal",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "darkness",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.321
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "And fallen on the Fallen world,",
+   "syllables": 8,
+   "target": 9,
+   "partner": "burning",
+   "qwen_top": "world",
+   "meant": "world",
+   "chosen": "world",
+   "candidates": [
+    {
+     "word": "world",
+     "p": 0.0652,
+     "rhyme": 0.6,
+     "score": 1.0
+    },
+    {
+     "word": "one",
+     "p": 0.0534,
+     "rhyme": 0,
+     "score": 0.818
+    },
+    {
+     "word": "soul",
+     "p": 0.028,
+     "rhyme": 0,
+     "score": 0.429
+    },
+    {
+     "word": "and",
+     "p": 0.0235,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "of",
+     "p": 0.0233,
+     "rhyme": 0,
+     "score": 0.358
+    },
+    {
+     "word": "man",
+     "p": 0.0187,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "spirit",
+     "p": 0.0184,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "earth",
+     "p": 0.0179,
+     "rhyme": 0.6,
+     "score": 0.274
+    },
+    {
+     "word": "ones",
+     "p": 0.0146,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "flame",
+     "p": 0.0135,
+     "rhyme": 0,
+     "score": 0.207
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Like a kindle coming upon",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "down",
+   "meant": "down",
+   "chosen": "upon",
+   "candidates": [
+    {
+     "word": "upon",
+     "p": 0.0152,
+     "rhyme": 0,
+     "score": 1.233
+    },
+    {
+     "word": "burning",
+     "p": 0.0152,
+     "rhyme": 0,
+     "score": 1.12
+    },
+    {
+     "word": "into",
+     "p": 0.0118,
+     "rhyme": 0,
+     "score": 1.049
+    },
+    {
+     "word": "over",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.71
+    },
+    {
+     "word": "after",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.497
+    },
+    {
+     "word": "before",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.403
+    },
+    {
+     "word": "under",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.366
+    },
+    {
+     "word": "fire",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "away",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "about",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.29
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "A fallen world to light itself.",
+   "syllables": 8,
+   "target": 9,
+   "partner": "upon",
+   "qwen_top": "it",
+   "meant": "it",
+   "chosen": "itself",
+   "candidates": [
+    {
+     "word": "itself",
+     "p": 0.0264,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "again",
+     "p": 0.0182,
+     "rhyme": 0.3,
+     "score": 0.688
+    },
+    {
+     "word": "within",
+     "p": 0.0041,
+     "rhyme": 0.3,
+     "score": 0.153
+    },
+    {
+     "word": "above",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.12
+    },
+    {
+     "word": "therein",
+     "p": 0.0032,
+     "rhyme": 0.3,
+     "score": 0.119
+    },
+    {
+     "word": "thereof",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "away",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "anew",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "before",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "alone",
+     "p": 0.0015,
+     "rhyme": 0.3,
+     "score": 0.056
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "He heard that fire hear itself,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "itself",
+   "candidates": [
+    {
+     "word": "itself",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 1.128
+    },
+    {
+     "word": "again",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 1.034
+    },
+    {
+     "word": "heaven",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 1.018
+    },
+    {
+     "word": "fire",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.787
+    },
+    {
+     "word": "within",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.721
+    },
+    {
+     "word": "himself",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.67
+    },
+    {
+     "word": "divine",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.652
+    },
+    {
+     "word": "before",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.575
+    },
+    {
+     "word": "nothing",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.418
+    },
+    {
+     "word": "about",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.416
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "He saw it see its face; behold,",
+   "syllables": 8,
+   "target": 9,
+   "partner": "itself",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "behold",
+   "candidates": [
+    {
+     "word": "behold",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "seeing",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.447
+    },
+    {
+     "word": "within",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.418
+    },
+    {
+     "word": "fire",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "neither",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.213
+    },
+    {
+     "word": "above",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.212
+    },
+    {
+     "word": "indeed",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.199
+    },
+    {
+     "word": "into",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.185
+    },
+    {
+     "word": "heaven",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.127
+    },
+    {
+     "word": "himself",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 0.127
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "As if an hour before,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "had",
+   "meant": "had",
+   "chosen": "before",
+   "candidates": [
+    {
+     "word": "before",
+     "p": 0.0108,
+     "rhyme": 0,
+     "score": 1.229
+    },
+    {
+     "word": "upon",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.706
+    },
+    {
+     "word": "ago",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.653
+    },
+    {
+     "word": "after",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.426
+    },
+    {
+     "word": "between",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.347
+    },
+    {
+     "word": "away",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "into",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.314
+    },
+    {
+     "word": "began",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "within",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "alone",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.278
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "A moment like itself within",
+   "syllables": 8,
+   "target": 9,
+   "partner": "before",
+   "qwen_top": "came",
+   "meant": "came",
+   "chosen": "within",
+   "candidates": [
+    {
+     "word": "within",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "passing",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "upon",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.78
+    },
+    {
+     "word": "behold",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.645
+    },
+    {
+     "word": "began",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.606
+    },
+    {
+     "word": "appeared",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.606
+    },
+    {
+     "word": "unto",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.606
+    },
+    {
+     "word": "coming",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "alone",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "itself",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.503
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Its time to live and die in heaven,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "death",
+   "meant": "death",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0138,
+     "rhyme": 0,
+     "score": 1.12
+    },
+    {
+     "word": "itself",
+     "p": 0.0091,
+     "rhyme": 0,
+     "score": 0.784
+    },
+    {
+     "word": "fire",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.405
+    },
+    {
+     "word": "decay",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "shadow",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "again",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.267
+    },
+    {
+     "word": "seeing",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "between",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.255
+    },
+    {
+     "word": "before",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "dying",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.248
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "And here were dead therein and",
+   "syllables": 7,
+   "target": 8,
+   "partner": "heaven",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "and",
+   "candidates": [
+    {
+     "word": "and",
+     "p": 0.0223,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "to",
+     "p": 0.0153,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "as",
+     "p": 0.0093,
+     "rhyme": 0.6,
+     "score": 0.417
+    },
+    {
+     "word": "for",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "again",
+     "p": 0.0064,
+     "rhyme": 0.6,
+     "score": 0.287
+    },
+    {
+     "word": "in",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "now",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "with",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "dying",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "yet",
+     "p": 0.0044,
+     "rhyme": 0.6,
+     "score": 0.197
+    }
+   ]
+  }
+ ]
+}

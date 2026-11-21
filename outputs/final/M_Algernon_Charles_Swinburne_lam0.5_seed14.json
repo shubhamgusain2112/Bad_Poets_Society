@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 0.5,
+ "scheme": "AABB",
+ "seed": 14,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "This Thursday, you left again\nThe light of your face and forehead;\nAnd now these shadows darken again.\nIt is enough for me to remember\nThat I have seen the world without me,\nOr parted, as a lovely,\nIn any good day or evil hour.\nThere was no one here before again.\nAh! little thing this one beauty remains,\nThe veil which covers it so; but again\nWe will pass away together again.\nMarch 1945. (A requiem poem",
+ "lines": [
+  {
+   "line": 1,
+   "text": "This Thursday, you left again",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "me",
+   "meant": "me",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0207,
+     "rhyme": 0,
+     "score": 0.753
+    },
+    {
+     "word": "alone",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 0.509
+    },
+    {
+     "word": "away",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.314
+    },
+    {
+     "word": "somebody",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.311
+    },
+    {
+     "word": "behind",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "nobody",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "today",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "astray",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "ago",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "beside",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.273
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The light of your face and forehead;",
+   "syllables": 8,
+   "target": 9,
+   "partner": "again",
+   "qwen_top": "your",
+   "meant": "eyes",
+   "chosen": "forehead",
+   "candidates": [
+    {
+     "word": "forehead",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "always",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.44
+    },
+    {
+     "word": "every",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.432
+    },
+    {
+     "word": "better",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.394
+    },
+    {
+     "word": "away",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.379
+    },
+    {
+     "word": "gentle",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.368
+    },
+    {
+     "word": "maybe",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.36
+    },
+    {
+     "word": "perfect",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.354
+    },
+    {
+     "word": "instead",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.35
+    },
+    {
+     "word": "never",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.348
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "And now these shadows darken again.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "you",
+   "meant": "there",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.032,
+     "rhyme": 0,
+     "score": 0.753
+    },
+    {
+     "word": "today",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "probably",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "very",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "below",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "although",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "going",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "between",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.261
+    },
+    {
+     "word": "before",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "upon",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.245
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "It is enough for me to remember",
+   "syllables": 10,
+   "target": 10,
+   "partner": "again",
+   "qwen_top": "know",
+   "meant": "say",
+   "chosen": "remember",
+   "candidates": [
+    {
+     "word": "remember",
+     "p": 0.0071,
+     "rhyme": 0.6,
+     "score": 0.667
+    },
+    {
+     "word": "expect",
+     "p": 0.0059,
+     "rhyme": 0.6,
+     "score": 0.604
+    },
+    {
+     "word": "believe",
+     "p": 0.0097,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "maybe",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "afraid",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.411
+    },
+    {
+     "word": "forever",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.399
+    },
+    {
+     "word": "today",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.386
+    },
+    {
+     "word": "forget",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.385
+    },
+    {
+     "word": "expected",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.383
+    },
+    {
+     "word": "never",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.362
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "That I have seen the world without me,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "you",
+   "meant": "me",
+   "chosen": "me",
+   "candidates": [
+    {
+     "word": "me",
+     "p": 0.1841,
+     "rhyme": 0,
+     "score": 0.781
+    },
+    {
+     "word": "you",
+     "p": 0.168,
+     "rhyme": 0,
+     "score": 0.726
+    },
+    {
+     "word": "see",
+     "p": 0.0094,
+     "rhyme": 0,
+     "score": 0.306
+    },
+    {
+     "word": "thee",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.302
+    },
+    {
+     "word": "your",
+     "p": 0.0246,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "ca",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "we",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "she",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "be",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "my",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 0.282
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Or parted, as a lovely,",
+   "syllables": 7,
+   "target": 8,
+   "partner": "me",
+   "qwen_top": "man",
+   "meant": "boy",
+   "chosen": "lovely",
+   "candidates": [
+    {
+     "word": "lovely",
+     "p": 0.0018,
+     "rhyme": 0.9,
+     "score": 0.533
+    },
+    {
+     "word": "lady",
+     "p": 0.0018,
+     "rhyme": 0.9,
+     "score": 0.53
+    },
+    {
+     "word": "lily",
+     "p": 0.0017,
+     "rhyme": 0.9,
+     "score": 0.529
+    },
+    {
+     "word": "billy",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.507
+    },
+    {
+     "word": "baby",
+     "p": 0.0012,
+     "rhyme": 0.9,
+     "score": 0.503
+    },
+    {
+     "word": "lonely",
+     "p": 0.0012,
+     "rhyme": 0.9,
+     "score": 0.503
+    },
+    {
+     "word": "every",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.501
+    },
+    {
+     "word": "flower",
+     "p": 0.011,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "lucky",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.497
+    },
+    {
+     "word": "tiny",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.494
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "In any good day or evil hour.",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "hour",
+   "meant": "time",
+   "chosen": "hour",
+   "candidates": [
+    {
+     "word": "hour",
+     "p": 0.1291,
+     "rhyme": 0,
+     "score": 0.661
+    },
+    {
+     "word": "celebration",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "vacation",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "duration",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "hours",
+     "p": 0.0478,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "sunday",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "today",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "celebrated",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "saturday",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.267
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "There was no one here before again.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "hour",
+   "qwen_top": "me",
+   "meant": "me",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "myself",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.397
+    },
+    {
+     "word": "our",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.322
+    },
+    {
+     "word": "around",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.313
+    },
+    {
+     "word": "really",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "going",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "yourself",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.195
+    },
+    {
+     "word": "before",
+     "p": 0.0003,
+     "rhyme": 0.3,
+     "score": 0.179
+    },
+    {
+     "word": "somebody",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.175
+    },
+    {
+     "word": "anywhere",
+     "p": 0.0001,
+     "rhyme": 0.3,
+     "score": 0.16
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Ah! little thing this one beauty remains,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "is",
+   "meant": "is",
+   "chosen": "remains",
+   "candidates": [
+    {
+     "word": "remains",
+     "p": 0.0089,
+     "rhyme": 0,
+     "score": 0.708
+    },
+    {
+     "word": "only",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.434
+    },
+    {
+     "word": "away",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.383
+    },
+    {
+     "word": "always",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.377
+    },
+    {
+     "word": "again",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.362
+    },
+    {
+     "word": "alone",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.336
+    },
+    {
+     "word": "although",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "alive",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "nobody",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "today",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.328
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "The veil which covers it so; but again",
+   "syllables": 10,
+   "target": 11,
+   "partner": "remains",
+   "qwen_top": "i",
+   "meant": "so",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0307,
+     "rhyme": 0.6,
+     "score": 0.8
+    },
+    {
+     "word": "always",
+     "p": 0.0055,
+     "rhyme": 0.6,
+     "score": 0.39
+    },
+    {
+     "word": "today",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.345
+    },
+    {
+     "word": "anyway",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.334
+    },
+    {
+     "word": "away",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.327
+    },
+    {
+     "word": "able",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.319
+    },
+    {
+     "word": "later",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.318
+    },
+    {
+     "word": "taken",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.316
+    },
+    {
+     "word": "maybe",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.312
+    },
+    {
+     "word": "waiting",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.31
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "We will pass away together again.",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.5358,
+     "rhyme": 0,
+     "score": 0.753
+    },
+    {
+     "word": "separated",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "away",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "today",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "nobody",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "anew",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "somebody",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "although",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "anyway",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.257
+    },
+    {
+     "word": "remain",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.254
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "March 1945. (A requiem poem",
+   "syllables": 7,
+   "target": 8,
+   "partner": "again",
+   "qwen_top": "for",
+   "meant": "poem",
+   "chosen": "poem",
+   "candidates": [
+    {
+     "word": "poem",
+     "p": 0.036,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "letter",
+     "p": 0.0078,
+     "rhyme": 0.6,
+     "score": 0.408
+    },
+    {
+     "word": "statement",
+     "p": 0.0041,
+     "rhyme": 0.6,
+     "score": 0.357
+    },
+    {
+     "word": "translation",
+     "p": 0.004,
+     "rhyme": 0.6,
+     "score": 0.355
+    },
+    {
+     "word": "sunday",
+     "p": 0.0038,
+     "rhyme": 0.6,
+     "score": 0.353
+    },
+    {
+     "word": "saying",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.343
+    },
+    {
+     "word": "message",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.34
+    },
+    {
+     "word": "second",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.339
+    },
+    {
+     "word": "farewell",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.337
+    },
+    {
+     "word": "laying",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.336
+    }
+   ]
+  }
+ ]
+}

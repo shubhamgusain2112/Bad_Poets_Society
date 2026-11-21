@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "ABCB",
+ "seed": 13,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "I thought I had seen the sunset\nAt twilight in the vineyard's me\nBut all was black and silent\nIn memory of yesterday.\nI saw no moon, nor any\nClouds that shone o'er the shadow\nOf trees to make a shadow\nThat clung round them like sorrow.\nNow my thoughts are wandering\nAbout forgotten situations;\nSo I wonder at life again\nFor some other occasion.",
+ "lines": [
+  {
+   "line": 1,
+   "text": "I thought I had seen the sunset",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "sun",
+   "meant": "sun",
+   "chosen": "sunset",
+   "candidates": [
+    {
+     "word": "sunset",
+     "p": 0.0241,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "morning",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.406
+    },
+    {
+     "word": "river",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.246
+    },
+    {
+     "word": "city",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "evening",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.167
+    },
+    {
+     "word": "golden",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.158
+    },
+    {
+     "word": "shadow",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.155
+    },
+    {
+     "word": "little",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.15
+    },
+    {
+     "word": "rainbow",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.148
+    },
+    {
+     "word": "summer",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.145
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "At twilight in the vineyard's me",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "shade",
+   "meant": "shade",
+   "chosen": "me",
+   "candidates": [
+    {
+     "word": "me",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "lee",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "tree",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "bree",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "re",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "sea",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "e",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "sway",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "way",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "But all was black and silent",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "still",
+   "meant": "still",
+   "chosen": "silent",
+   "candidates": [
+    {
+     "word": "silent",
+     "p": 0.0703,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "shadow",
+     "p": 0.0138,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "quiet",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "empty",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.068
+    },
+    {
+     "word": "motion",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.053
+    },
+    {
+     "word": "nothing",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "shadows",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.047
+    },
+    {
+     "word": "heavy",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.047
+    },
+    {
+     "word": "faded",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.044
+    },
+    {
+     "word": "frozen",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.036
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "In memory of yesterday.",
+   "syllables": 8,
+   "target": 8,
+   "partner": "me",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "yesterday",
+   "candidates": [
+    {
+     "word": "yesterday",
+     "p": 0.0025,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "many",
+     "p": 0.0017,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "memory",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "every",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "beauty",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "early",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "glory",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "mary",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "lonely",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "happy",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "I saw no moon, nor any",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "stars",
+   "meant": "stars",
+   "chosen": "any",
+   "candidates": [
+    {
+     "word": "any",
+     "p": 0.0424,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "even",
+     "p": 0.0138,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "sunset",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "shadows",
+     "p": 0.0114,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "twilight",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.185
+    },
+    {
+     "word": "shadow",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.112
+    },
+    {
+     "word": "heaven",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.101
+    },
+    {
+     "word": "evening",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.088
+    },
+    {
+     "word": "morning",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "river",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.077
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Clouds that shone o'er the shadow",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "river",
+   "meant": "river",
+   "chosen": "shadow",
+   "candidates": [
+    {
+     "word": "shadow",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "rainbow",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "highway",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.255
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.231
+    },
+    {
+     "word": "twilight",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "woodland",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.203
+    },
+    {
+     "word": "shadows",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.2
+    },
+    {
+     "word": "fire",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "desert",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.181
+    },
+    {
+     "word": "gentle",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.176
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Of trees to make a shadow",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "moon",
+   "meant": "moon",
+   "chosen": "shadow",
+   "candidates": [
+    {
+     "word": "shadow",
+     "p": 0.0195,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "heaven",
+     "p": 0.0112,
+     "rhyme": 0,
+     "score": 0.576
+    },
+    {
+     "word": "canopy",
+     "p": 0.0111,
+     "rhyme": 0,
+     "score": 0.57
+    },
+    {
+     "word": "garden",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.445
+    },
+    {
+     "word": "rainbow",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "sunset",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "picture",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "forest",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "vision",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "golden",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.287
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "That clung round them like sorrow.",
+   "syllables": 7,
+   "target": 8,
+   "partner": "shadow",
+   "qwen_top": "a",
+   "meant": "a",
+   "chosen": "sorrow",
+   "candidates": [
+    {
+     "word": "sorrow",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "shadows",
+     "p": 0.0045,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "golden",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "ocean",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "frozen",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "silver",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "velvet",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "darkness",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "something",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "iron",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Now my thoughts are wandering",
+   "syllables": 7,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "like",
+   "meant": "like",
+   "chosen": "wandering",
+   "candidates": [
+    {
+     "word": "wandering",
+     "p": 0.011,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "silent",
+     "p": 0.0104,
+     "rhyme": 0,
+     "score": 0.94
+    },
+    {
+     "word": "scattered",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.779
+    },
+    {
+     "word": "heavy",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.646
+    },
+    {
+     "word": "drifting",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "restless",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "gathered",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.392
+    },
+    {
+     "word": "only",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "racing",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "broken",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.305
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "About forgotten situations;",
+   "syllables": 9,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "things",
+   "meant": "things",
+   "chosen": "situations",
+   "candidates": [
+    {
+     "word": "situations",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "sensations",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "childhood",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.217
+    },
+    {
+     "word": "delight",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.212
+    },
+    {
+     "word": "shadows",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.2
+    },
+    {
+     "word": "details",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.194
+    },
+    {
+     "word": "realities",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.191
+    },
+    {
+     "word": "affairs",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.19
+    },
+    {
+     "word": "glory",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.183
+    },
+    {
+     "word": "subjects",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.182
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "So I wonder at life again",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0163,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "itself",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "alone",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "without",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.044
+    },
+    {
+     "word": "anew",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.039
+    },
+    {
+     "word": "forever",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.03
+    },
+    {
+     "word": "being",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.024
+    },
+    {
+     "word": "passing",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.024
+    },
+    {
+     "word": "sometimes",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.021
+    },
+    {
+     "word": "beyond",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.018
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "For some other occasion.",
+   "syllables": 7,
+   "target": 7,
+   "partner": "situations",
+   "qwen_top": "time",
+   "meant": "time",
+   "chosen": "occasion",
+   "candidates": [
+    {
+     "word": "occasion",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "holiday",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "waking",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "situation",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "stranger",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "sunday",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "destination",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "lady",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "landscape",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "sunset",
+     "p": 0.0487,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  }
+ ]
+}

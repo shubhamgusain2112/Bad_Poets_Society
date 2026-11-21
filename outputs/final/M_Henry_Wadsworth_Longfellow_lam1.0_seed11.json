@@ -1,0 +1,1452 @@
+{
+ "poet": "Henry Wadsworth Longfellow",
+ "system": "M",
+ "lam": 1.0,
+ "scheme": "none",
+ "seed": 11,
+ "model": "lora",
+ "stop": "20 lines",
+ "poem": "Cricket-filled, where it pitched again,\nThe castle parades.  The battle battle\nWould never be done for, again.\nVIII.  AURORE'S ACCOUNT about\nTHE BATTLE OF LATEENFIELD. Again\nShe spake; but his eyes were fixed again,\nAnd he could not picture again\nThe ambuscade of defeated.\nIX.  THOMAS FARALLIS'T BARON then\nREFUSED to join the battle again,\nTo the church-yard in the city, where\nHe now rested all day long, alone;\nHis master's leaving again.\nX.  HURRY!  Hurry, Uncle!\nHurry, Madam!  I will follow,\nI will follow and follow, dear!\nYea! oh, may I see again\nThese lives and faces again!\nHush! hush, my lassie!  Oh, don't worry,\nFor in the grassy vale before me,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Cricket-filled, where it pitched again,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0897,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "around",
+     "p": 0.0185,
+     "rhyme": 0,
+     "score": 0.207
+    },
+    {
+     "word": "about",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.117
+    },
+    {
+     "word": "over",
+     "p": 0.0094,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "together",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.095
+    },
+    {
+     "word": "along",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.087
+    },
+    {
+     "word": "before",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "until",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.067
+    },
+    {
+     "word": "above",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "between",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.051
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The castle parades.  The battle battle",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "is",
+   "meant": "battle",
+   "chosen": "battle",
+   "candidates": [
+    {
+     "word": "battle",
+     "p": 0.0217,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "fighting",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.569
+    },
+    {
+     "word": "fight",
+     "p": 0.011,
+     "rhyme": 0,
+     "score": 0.507
+    },
+    {
+     "word": "cry",
+     "p": 0.0108,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "war",
+     "p": 0.0107,
+     "rhyme": 0,
+     "score": 0.493
+    },
+    {
+     "word": "fought",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.473
+    },
+    {
+     "word": "end",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "night",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.343
+    },
+    {
+     "word": "day",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "ended",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.234
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Would never be done for, again.",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0522,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "never",
+     "p": 0.0157,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "anyway",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 0.232
+    },
+    {
+     "word": "finally",
+     "p": 0.0115,
+     "rhyme": 0,
+     "score": 0.221
+    },
+    {
+     "word": "indeed",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.169
+    },
+    {
+     "word": "convinced",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.166
+    },
+    {
+     "word": "until",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.138
+    },
+    {
+     "word": "forever",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.114
+    },
+    {
+     "word": "simply",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.099
+    },
+    {
+     "word": "quickly",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.092
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "VIII.  AURORE'S ACCOUNT about",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "about",
+   "candidates": [
+    {
+     "word": "about",
+     "p": 0.0174,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "followed",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 0.479
+    },
+    {
+     "word": "second",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.408
+    },
+    {
+     "word": "published",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "written",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "story",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "history",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "final",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.191
+    },
+    {
+     "word": "letter",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.154
+    },
+    {
+     "word": "another",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.151
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "THE BATTLE OF LATEENFIELD. Again",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "final",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.888
+    },
+    {
+     "word": "another",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.821
+    },
+    {
+     "word": "before",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.738
+    },
+    {
+     "word": "second",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.588
+    },
+    {
+     "word": "followed",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.495
+    },
+    {
+     "word": "return",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.483
+    },
+    {
+     "word": "after",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.459
+    },
+    {
+     "word": "between",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.43
+    },
+    {
+     "word": "later",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.374
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "She spake; but his eyes were fixed again,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "on",
+   "meant": "on",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.029,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "around",
+     "p": 0.0192,
+     "rhyme": 0,
+     "score": 0.662
+    },
+    {
+     "word": "above",
+     "p": 0.0131,
+     "rhyme": 0,
+     "score": 0.453
+    },
+    {
+     "word": "over",
+     "p": 0.0109,
+     "rhyme": 0,
+     "score": 0.376
+    },
+    {
+     "word": "upon",
+     "p": 0.0101,
+     "rhyme": 0,
+     "score": 0.349
+    },
+    {
+     "word": "about",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.2
+    },
+    {
+     "word": "before",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.152
+    },
+    {
+     "word": "below",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.116
+    },
+    {
+     "word": "almost",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.111
+    },
+    {
+     "word": "along",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.108
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "And he could not picture again",
+   "syllables": 8,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.12,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "it",
+     "p": 0.0424,
+     "rhyme": 0,
+     "score": 0.353
+    },
+    {
+     "word": "now",
+     "p": 0.0242,
+     "rhyme": 0,
+     "score": 0.202
+    },
+    {
+     "word": "then",
+     "p": 0.016,
+     "rhyme": 0,
+     "score": 0.133
+    },
+    {
+     "word": "this",
+     "p": 0.014,
+     "rhyme": 0,
+     "score": 0.116
+    },
+    {
+     "word": "them",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 0.1
+    },
+    {
+     "word": "so",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "what",
+     "p": 0.0091,
+     "rhyme": 0,
+     "score": 0.076
+    },
+    {
+     "word": "she",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.073
+    },
+    {
+     "word": "that",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.064
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "The ambuscade of defeated.",
+   "syllables": 8,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "defeated",
+   "chosen": "defeated",
+   "candidates": [
+    {
+     "word": "defeated",
+     "p": 0.0152,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "defeat",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.691
+    },
+    {
+     "word": "battle",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.558
+    },
+    {
+     "word": "waterloo",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.302
+    },
+    {
+     "word": "whitehall",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.243
+    },
+    {
+     "word": "crusader",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.232
+    },
+    {
+     "word": "burgoyne",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "coventry",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "crusaders",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "barbarians",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.211
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "IX.  THOMAS FARALLIS'T BARON then",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "then",
+   "chosen": "then",
+   "candidates": [
+    {
+     "word": "then",
+     "p": 0.0108,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "again",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.751
+    },
+    {
+     "word": "william",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.565
+    },
+    {
+     "word": "back",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.509
+    },
+    {
+     "word": "before",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "finally",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "hall",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.475
+    },
+    {
+     "word": "came",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.473
+    },
+    {
+     "word": "calls",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.47
+    },
+    {
+     "word": "returned",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.462
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "REFUSED to join the battle again,",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "again",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0772,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "now",
+     "p": 0.0278,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "then",
+     "p": 0.0175,
+     "rhyme": 0,
+     "score": 0.226
+    },
+    {
+     "word": "back",
+     "p": 0.016,
+     "rhyme": 0,
+     "score": 0.207
+    },
+    {
+     "word": "battle",
+     "p": 0.0135,
+     "rhyme": 0,
+     "score": 0.175
+    },
+    {
+     "word": "so",
+     "p": 0.0122,
+     "rhyme": 0,
+     "score": 0.158
+    },
+    {
+     "word": "once",
+     "p": 0.0113,
+     "rhyme": 0,
+     "score": 0.147
+    },
+    {
+     "word": "war",
+     "p": 0.0112,
+     "rhyme": 0,
+     "score": 0.145
+    },
+    {
+     "word": "still",
+     "p": 0.0095,
+     "rhyme": 0,
+     "score": 0.123
+    },
+    {
+     "word": "soon",
+     "p": 0.0091,
+     "rhyme": 0,
+     "score": 0.118
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "To the church-yard in the city, where",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "where",
+   "meant": "where",
+   "chosen": "where",
+   "candidates": [
+    {
+     "word": "where",
+     "p": 0.043,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "stood",
+     "p": 0.0333,
+     "rhyme": 0,
+     "score": 0.775
+    },
+    {
+     "word": "then",
+     "p": 0.0291,
+     "rhyme": 0,
+     "score": 0.677
+    },
+    {
+     "word": "he",
+     "p": 0.0252,
+     "rhyme": 0,
+     "score": 0.587
+    },
+    {
+     "word": "and",
+     "p": 0.018,
+     "rhyme": 0,
+     "score": 0.419
+    },
+    {
+     "word": "alone",
+     "p": 0.0159,
+     "rhyme": 0,
+     "score": 0.371
+    },
+    {
+     "word": "left",
+     "p": 0.0125,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "went",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "when",
+     "p": 0.0119,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "she",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.237
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "He now rested all day long, alone;",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.1431,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "together",
+     "p": 0.0176,
+     "rhyme": 0,
+     "score": 0.123
+    },
+    {
+     "word": "quietly",
+     "p": 0.0122,
+     "rhyme": 0,
+     "score": 0.086
+    },
+    {
+     "word": "leaving",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.063
+    },
+    {
+     "word": "sitting",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.062
+    },
+    {
+     "word": "before",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.042
+    },
+    {
+     "word": "afterward",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.041
+    },
+    {
+     "word": "about",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.032
+    },
+    {
+     "word": "afterwards",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.027
+    },
+    {
+     "word": "around",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.024
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "text": "His master's leaving again.",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "him",
+   "meant": "him",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "himself",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.829
+    },
+    {
+     "word": "leaving",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.616
+    },
+    {
+     "word": "before",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.545
+    },
+    {
+     "word": "away",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.443
+    },
+    {
+     "word": "father",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.386
+    },
+    {
+     "word": "returned",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.381
+    },
+    {
+     "word": "someone",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "later",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.327
+    },
+    {
+     "word": "after",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.301
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "text": "X.  HURRY!  Hurry, Uncle!",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "for",
+   "meant": "cries",
+   "chosen": "uncle",
+   "candidates": [
+    {
+     "word": "uncle",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "hurry",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.669
+    },
+    {
+     "word": "arrive",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.536
+    },
+    {
+     "word": "goodbye",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.393
+    },
+    {
+     "word": "father",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "brother",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "arrives",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "thomas",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "accompany",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "stephen",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.247
+    }
+   ]
+  },
+  {
+   "line": 15,
+   "text": "Hurry, Madam!  I will follow,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "not",
+   "meant": "go",
+   "chosen": "follow",
+   "candidates": [
+    {
+     "word": "follow",
+     "p": 0.0135,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "arrive",
+     "p": 0.0114,
+     "rhyme": 0,
+     "score": 0.847
+    },
+    {
+     "word": "cannot",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.363
+    },
+    {
+     "word": "going",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.358
+    },
+    {
+     "word": "expected",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.34
+    },
+    {
+     "word": "able",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "ready",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "depart",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.255
+    },
+    {
+     "word": "likely",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.216
+    }
+   ]
+  },
+  {
+   "line": 16,
+   "text": "I will follow and follow, dear!",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "dear",
+   "chosen": "dear",
+   "candidates": [
+    {
+     "word": "dear",
+     "p": 0.0241,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "please",
+     "p": 0.0238,
+     "rhyme": 0,
+     "score": 0.988
+    },
+    {
+     "word": "yes",
+     "p": 0.022,
+     "rhyme": 0,
+     "score": 0.911
+    },
+    {
+     "word": "you",
+     "p": 0.0177,
+     "rhyme": 0,
+     "score": 0.735
+    },
+    {
+     "word": "too",
+     "p": 0.0164,
+     "rhyme": 0,
+     "score": 0.679
+    },
+    {
+     "word": "go",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.437
+    },
+    {
+     "word": "hurry",
+     "p": 0.0101,
+     "rhyme": 0,
+     "score": 0.42
+    },
+    {
+     "word": "so",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.405
+    },
+    {
+     "word": "i",
+     "p": 0.0094,
+     "rhyme": 0,
+     "score": 0.388
+    },
+    {
+     "word": "me",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.359
+    }
+   ]
+  },
+  {
+   "line": 17,
+   "text": "Yea! oh, may I see again",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "you",
+   "meant": "you",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0607,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "going",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.134
+    },
+    {
+     "word": "yourself",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.053
+    },
+    {
+     "word": "really",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.053
+    },
+    {
+     "word": "somebody",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.049
+    },
+    {
+     "word": "never",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.045
+    },
+    {
+     "word": "finally",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.035
+    },
+    {
+     "word": "myself",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.033
+    },
+    {
+     "word": "better",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.032
+    },
+    {
+     "word": "forget",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.03
+    }
+   ]
+  },
+  {
+   "line": 18,
+   "text": "These lives and faces again!",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.2625,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "finally",
+     "p": 0.0093,
+     "rhyme": 0,
+     "score": 0.036
+    },
+    {
+     "word": "returned",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 0.032
+    },
+    {
+     "word": "forever",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.029
+    },
+    {
+     "word": "until",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.024
+    },
+    {
+     "word": "suddenly",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.015
+    },
+    {
+     "word": "before",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.015
+    },
+    {
+     "word": "restored",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.011
+    },
+    {
+     "word": "everywhere",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.011
+    },
+    {
+     "word": "never",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.011
+    }
+   ]
+  },
+  {
+   "line": 19,
+   "text": "Hush! hush, my lassie!  Oh, don't worry,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "cry",
+   "meant": "cry",
+   "chosen": "worry",
+   "candidates": [
+    {
+     "word": "worry",
+     "p": 0.013,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "whisper",
+     "p": 0.0101,
+     "rhyme": 0,
+     "score": 0.774
+    },
+    {
+     "word": "crying",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.661
+    },
+    {
+     "word": "afraid",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.558
+    },
+    {
+     "word": "holler",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.186
+    },
+    {
+     "word": "going",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.179
+    },
+    {
+     "word": "hurry",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.168
+    },
+    {
+     "word": "complain",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.167
+    },
+    {
+     "word": "screaming",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.165
+    },
+    {
+     "word": "yelling",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.161
+    }
+   ]
+  },
+  {
+   "line": 20,
+   "text": "For in the grassy vale before me,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "us",
+   "meant": "me",
+   "chosen": "me",
+   "candidates": [
+    {
+     "word": "me",
+     "p": 0.3218,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "us",
+     "p": 0.306,
+     "rhyme": 0,
+     "score": 0.951
+    },
+    {
+     "word": "you",
+     "p": 0.0753,
+     "rhyme": 0,
+     "score": 0.234
+    },
+    {
+     "word": "i",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.033
+    },
+    {
+     "word": "see",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.031
+    },
+    {
+     "word": "thee",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.025
+    },
+    {
+     "word": "we",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.017
+    },
+    {
+     "word": "them",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.014
+    },
+    {
+     "word": "ca",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.013
+    },
+    {
+     "word": "can",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.011
+    }
+   ]
+  }
+ ]
+}

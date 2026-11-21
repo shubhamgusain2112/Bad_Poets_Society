@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "M",
+ "lam": 0.5,
+ "scheme": "ABCB",
+ "seed": 12,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Or a lingering heave of breathing,\nOr the shafts that flit in darkness\nFrom the edges of shadowed hills.\nThe wild wind whispers, buzzing\nIn the distance and rolling over\nThe distant hill-top's edge,\nAnd a shuddering breath disappears.\nI hear a voice.  Away from again!\nA sound like a sudden sudden\nGibbering with laughter at again,\nWith an exultant melody.\nAh, but is it never",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Or a lingering heave of breathing,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "breath",
+   "chosen": "breathing",
+   "candidates": [
+    {
+     "word": "breathing",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "fatigue",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.68
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.628
+    },
+    {
+     "word": "agony",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.587
+    },
+    {
+     "word": "melancholy",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.584
+    },
+    {
+     "word": "sadness",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "sudden",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.514
+    },
+    {
+     "word": "heavy",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.462
+    },
+    {
+     "word": "darkness",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.428
+    },
+    {
+     "word": "body",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.428
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Or the shafts that flit in darkness",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "air",
+   "chosen": "darkness",
+   "candidates": [
+    {
+     "word": "darkness",
+     "p": 0.0169,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "sunlight",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 0.47
+    },
+    {
+     "word": "vibration",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.375
+    },
+    {
+     "word": "shadows",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.357
+    },
+    {
+     "word": "propagation",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.351
+    },
+    {
+     "word": "fire",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.335
+    },
+    {
+     "word": "debris",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.317
+    },
+    {
+     "word": "vibrations",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.306
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "between",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.293
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "From the edges of shadowed hills.",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "trees",
+   "meant": "hills",
+   "chosen": "hills",
+   "candidates": [
+    {
+     "word": "hills",
+     "p": 0.042,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "sky",
+     "p": 0.0311,
+     "rhyme": 0,
+     "score": 0.741
+    },
+    {
+     "word": "skies",
+     "p": 0.0294,
+     "rhyme": 0,
+     "score": 0.7
+    },
+    {
+     "word": "trees",
+     "p": 0.0207,
+     "rhyme": 0,
+     "score": 0.492
+    },
+    {
+     "word": "walls",
+     "p": 0.0147,
+     "rhyme": 0,
+     "score": 0.351
+    },
+    {
+     "word": "air",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "towers",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.202
+    },
+    {
+     "word": "forests",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.17
+    },
+    {
+     "word": "lights",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.169
+    },
+    {
+     "word": "valleys",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.165
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "The wild wind whispers, buzzing",
+   "syllables": 7,
+   "target": 8,
+   "partner": "darkness",
+   "qwen_top": "and",
+   "meant": "buzzing",
+   "chosen": "buzzing",
+   "candidates": [
+    {
+     "word": "buzzing",
+     "p": 0.019,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "constantly",
+     "p": 0.0054,
+     "rhyme": 0.6,
+     "score": 0.442
+    },
+    {
+     "word": "whispers",
+     "p": 0.0146,
+     "rhyme": 0,
+     "score": 0.383
+    },
+    {
+     "word": "ominous",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.375
+    },
+    {
+     "word": "audible",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.372
+    },
+    {
+     "word": "falling",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.371
+    },
+    {
+     "word": "humming",
+     "p": 0.0135,
+     "rhyme": 0,
+     "score": 0.355
+    },
+    {
+     "word": "alarming",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.353
+    },
+    {
+     "word": "alarmed",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.335
+    },
+    {
+     "word": "darting",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.335
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "In the distance and rolling over",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "hills",
+   "meant": "by",
+   "chosen": "over",
+   "candidates": [
+    {
+     "word": "over",
+     "p": 0.0235,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "falling",
+     "p": 0.0107,
+     "rhyme": 0,
+     "score": 0.458
+    },
+    {
+     "word": "above",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "rising",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.236
+    },
+    {
+     "word": "along",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.216
+    },
+    {
+     "word": "rises",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.176
+    },
+    {
+     "word": "ravines",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.169
+    },
+    {
+     "word": "away",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.161
+    },
+    {
+     "word": "across",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.144
+    },
+    {
+     "word": "narrow",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.13
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "The distant hill-top's edge,",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "crest",
+   "meant": "edge",
+   "chosen": "edge",
+   "candidates": [
+    {
+     "word": "edge",
+     "p": 0.0287,
+     "rhyme": 0,
+     "score": 0.615
+    },
+    {
+     "word": "brow",
+     "p": 0.0225,
+     "rhyme": 0,
+     "score": 0.603
+    },
+    {
+     "word": "ridges",
+     "p": 0.0233,
+     "rhyme": 0,
+     "score": 0.475
+    },
+    {
+     "word": "grey",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.378
+    },
+    {
+     "word": "height",
+     "p": 0.0091,
+     "rhyme": 0,
+     "score": 0.372
+    },
+    {
+     "word": "crest",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "gray",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.308
+    },
+    {
+     "word": "peaks",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "tree",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "low",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.283
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "And a shuddering breath disappears.",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "comes",
+   "chosen": "disappears",
+   "candidates": [
+    {
+     "word": "disappears",
+     "p": 0.0118,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "reappears",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.58
+    },
+    {
+     "word": "enters",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.458
+    },
+    {
+     "word": "emerges",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.457
+    },
+    {
+     "word": "survives",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.452
+    },
+    {
+     "word": "occurs",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.378
+    },
+    {
+     "word": "lingers",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "begins",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.341
+    },
+    {
+     "word": "descends",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.309
+    },
+    {
+     "word": "arrives",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.29
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "I hear a voice.  Away from again!",
+   "syllables": 9,
+   "target": 10,
+   "partner": "edge",
+   "qwen_top": "me",
+   "meant": "me",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.504
+    },
+    {
+     "word": "going",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "myself",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.495
+    },
+    {
+     "word": "every",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.483
+    },
+    {
+     "word": "anyone",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.473
+    },
+    {
+     "word": "nothing",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.448
+    },
+    {
+     "word": "remember",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.439
+    },
+    {
+     "word": "heaven",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.43
+    },
+    {
+     "word": "enemy",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.427
+    },
+    {
+     "word": "really",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.426
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "A sound like a sudden sudden",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "wind",
+   "meant": "sigh",
+   "chosen": "sudden",
+   "candidates": [
+    {
+     "word": "sudden",
+     "p": 0.014,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "darkness",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.374
+    },
+    {
+     "word": "alarm",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.373
+    },
+    {
+     "word": "effect",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "panic",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.268
+    },
+    {
+     "word": "warning",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "silence",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.252
+    },
+    {
+     "word": "thunder",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.221
+    },
+    {
+     "word": "whisper",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.207
+    },
+    {
+     "word": "echoes",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.193
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Gibbering with laughter at again,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "last",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0143,
+     "rhyme": 0,
+     "score": 0.753
+    },
+    {
+     "word": "saturday",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.496
+    },
+    {
+     "word": "sunday",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.451
+    },
+    {
+     "word": "friday",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.377
+    },
+    {
+     "word": "thursday",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.349
+    },
+    {
+     "word": "monday",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.342
+    },
+    {
+     "word": "wednesday",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.337
+    },
+    {
+     "word": "tuesday",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.336
+    },
+    {
+     "word": "ago",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "before",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.32
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "With an exultant melody.",
+   "syllables": 8,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "voice",
+   "chosen": "melody",
+   "candidates": [
+    {
+     "word": "melody",
+     "p": 0.0091,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "audible",
+     "p": 0.0089,
+     "rhyme": 0,
+     "score": 0.976
+    },
+    {
+     "word": "delight",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 0.913
+    },
+    {
+     "word": "alarm",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.871
+    },
+    {
+     "word": "laughter",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.86
+    },
+    {
+     "word": "chorus",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.758
+    },
+    {
+     "word": "voices",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.646
+    },
+    {
+     "word": "whisper",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.576
+    },
+    {
+     "word": "chatter",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.552
+    },
+    {
+     "word": "noises",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.528
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Ah, but is it never",
+   "syllables": 6,
+   "target": 7,
+   "partner": "again",
+   "qwen_top": "the",
+   "meant": "i",
+   "chosen": "never",
+   "candidates": [
+    {
+     "word": "never",
+     "p": 0.0075,
+     "rhyme": 0.6,
+     "score": 0.8
+    },
+    {
+     "word": "always",
+     "p": 0.0067,
+     "rhyme": 0.6,
+     "score": 0.744
+    },
+    {
+     "word": "every",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.491
+    },
+    {
+     "word": "ever",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.484
+    },
+    {
+     "word": "myself",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.432
+    },
+    {
+     "word": "very",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.425
+    },
+    {
+     "word": "any",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.415
+    },
+    {
+     "word": "anyone",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.409
+    },
+    {
+     "word": "heaven",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.405
+    },
+    {
+     "word": "remember",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.405
+    }
+   ]
+  }
+ ]
+}

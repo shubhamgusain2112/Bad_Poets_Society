@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 0.25,
+ "scheme": "ABAB",
+ "seed": 14,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Fragments of a youth, far relieved from\nThe burden of this earth's harsh occupation,\nA wasp-brought world has lured him forth into\nThe green and verdant suburb of creation:\nHis life is but one year; the whole duration\nOf which he dwells is all that Heaven\nHath given Him by His gracious creation.\nI have heard them talk on his death's effect\nOn all that were in love with him: indeed\nThere seems an unwept sorrow at our\nConstancy to follow these fragrant leaves\nThrough every flower'd garden. Are",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Fragments of a youth, far relieved from",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "from",
+   "meant": "from",
+   "chosen": "from",
+   "candidates": [
+    {
+     "word": "from",
+     "p": 0.2978,
+     "rhyme": 0,
+     "score": 0.423
+    },
+    {
+     "word": "by",
+     "p": 0.1095,
+     "rhyme": 0,
+     "score": 0.341
+    },
+    {
+     "word": "of",
+     "p": 0.2628,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "be",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ne",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ye",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "thee",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The burden of this earth's harsh occupation,",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "occupation",
+   "candidates": [
+    {
+     "word": "occupation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.332
+    },
+    {
+     "word": "temptation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.327
+    },
+    {
+     "word": "reality",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.308
+    },
+    {
+     "word": "decay",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "array",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "decree",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "shadow",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "operations",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "adversity",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "obligations",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.278
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "A wasp-brought world has lured him forth into",
+   "syllables": 10,
+   "target": 11,
+   "partner": "from",
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "into",
+   "candidates": [
+    {
+     "word": "into",
+     "p": 0.0403,
+     "rhyme": 0.6,
+     "score": 0.7
+    },
+    {
+     "word": "unto",
+     "p": 0.0062,
+     "rhyme": 0.6,
+     "score": 0.488
+    },
+    {
+     "word": "among",
+     "p": 0.0043,
+     "rhyme": 0.6,
+     "score": 0.476
+    },
+    {
+     "word": "above",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.471
+    },
+    {
+     "word": "under",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "because",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "rather",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "thereof",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "enough",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "another",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.45
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "The green and verdant suburb of creation:",
+   "syllables": 11,
+   "target": 11,
+   "partner": "occupation",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "creation",
+   "candidates": [
+    {
+     "word": "creation",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 0.753
+    },
+    {
+     "word": "nature",
+     "p": 0.0126,
+     "rhyme": 0.6,
+     "score": 0.578
+    },
+    {
+     "word": "plato",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "asia",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "naples",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "april",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "europe",
+     "p": 0.0246,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "ocean",
+     "p": 0.0003,
+     "rhyme": 0.3,
+     "score": 0.229
+    },
+    {
+     "word": "passion",
+     "p": 0.0003,
+     "rhyme": 0.3,
+     "score": 0.228
+    },
+    {
+     "word": "heaven",
+     "p": 0.0201,
+     "rhyme": 0,
+     "score": 0.204
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "His life is but one year; the whole duration",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "world",
+   "meant": "world",
+   "chosen": "duration",
+   "candidates": [
+    {
+     "word": "duration",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.337
+    },
+    {
+     "word": "creation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "nation",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.318
+    },
+    {
+     "word": "universe",
+     "p": 0.0353,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "degree",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "decay",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "array",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "company",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "domain",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "enterprise",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.247
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Of which he dwells is all that Heaven",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "he",
+   "meant": "he",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0321,
+     "rhyme": 0,
+     "score": 0.37
+    },
+    {
+     "word": "reality",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "remains",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.266
+    },
+    {
+     "word": "our",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.241
+    },
+    {
+     "word": "ever",
+     "p": 0.0116,
+     "rhyme": 0,
+     "score": 0.222
+    },
+    {
+     "word": "divine",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.216
+    },
+    {
+     "word": "nature",
+     "p": 0.0269,
+     "rhyme": 0,
+     "score": 0.21
+    },
+    {
+     "word": "mankind",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.203
+    },
+    {
+     "word": "desire",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.199
+    },
+    {
+     "word": "mortal",
+     "p": 0.0202,
+     "rhyme": 0,
+     "score": 0.192
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Hath given Him by His gracious creation.",
+   "syllables": 11,
+   "target": 11,
+   "partner": "duration",
+   "qwen_top": "will",
+   "meant": "will",
+   "chosen": "creation",
+   "candidates": [
+    {
+     "word": "creation",
+     "p": 0.0062,
+     "rhyme": 1.0,
+     "score": 0.765
+    },
+    {
+     "word": "revelation",
+     "p": 0.0031,
+     "rhyme": 1.0,
+     "score": 0.757
+    },
+    {
+     "word": "inspiration",
+     "p": 0.0017,
+     "rhyme": 1.0,
+     "score": 0.754
+    },
+    {
+     "word": "relation",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 0.752
+    },
+    {
+     "word": "operation",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 0.752
+    },
+    {
+     "word": "declaration",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 0.751
+    },
+    {
+     "word": "invitation",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 0.751
+    },
+    {
+     "word": "preservation",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 0.751
+    },
+    {
+     "word": "incarnation",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 0.751
+    },
+    {
+     "word": "creator",
+     "p": 0.013,
+     "rhyme": 0.6,
+     "score": 0.481
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "I have heard them talk on his death's effect",
+   "syllables": 10,
+   "target": 11,
+   "partner": "heaven",
+   "qwen_top": "day",
+   "meant": "day",
+   "chosen": "effect",
+   "candidates": [
+    {
+     "word": "effect",
+     "p": 0.0064,
+     "rhyme": 0.6,
+     "score": 0.473
+    },
+    {
+     "word": "sentence",
+     "p": 0.0037,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "progress",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "impending",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "descent",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "entry",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "lament",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "expense",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "effects",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "present",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.456
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "On all that were in love with him: indeed",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "they",
+   "meant": "they",
+   "chosen": "indeed",
+   "candidates": [
+    {
+     "word": "indeed",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.464
+    },
+    {
+     "word": "many",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.354
+    },
+    {
+     "word": "into",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "again",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "although",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "upon",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "before",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.257
+    },
+    {
+     "word": "our",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.255
+    },
+    {
+     "word": "compare",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "despair",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.248
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "There seems an unwept sorrow at our",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "his",
+   "meant": "his",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "separation",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "observation",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "salvation",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "expectation",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "restoration",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "creation",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "every",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "decay",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "away",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Constancy to follow these fragrant leaves",
+   "syllables": 10,
+   "target": 11,
+   "partner": "indeed",
+   "qwen_top": "flowers",
+   "meant": "flowers",
+   "chosen": "leaves",
+   "candidates": [
+    {
+     "word": "leaves",
+     "p": 0.0127,
+     "rhyme": 0.6,
+     "score": 0.462
+    },
+    {
+     "word": "scenes",
+     "p": 0.0092,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "feet",
+     "p": 0.0064,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "dreams",
+     "p": 0.006,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "streams",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "sweets",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "fields",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "trees",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "weeds",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "themes",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.452
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Through every flower'd garden. Are",
+   "syllables": 9,
+   "target": 10,
+   "partner": "our",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "are",
+   "candidates": [
+    {
+     "word": "are",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 0.753
+    },
+    {
+     "word": "far",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 0.751
+    },
+    {
+     "word": "for",
+     "p": 0.015,
+     "rhyme": 0.9,
+     "score": 0.734
+    },
+    {
+     "word": "or",
+     "p": 0.0016,
+     "rhyme": 0.9,
+     "score": 0.681
+    },
+    {
+     "word": "her",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.677
+    },
+    {
+     "word": "were",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.677
+    },
+    {
+     "word": "cur",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.676
+    },
+    {
+     "word": "sir",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.676
+    },
+    {
+     "word": "ver",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.675
+    },
+    {
+     "word": "how",
+     "p": 0.0117,
+     "rhyme": 0.6,
+     "score": 0.496
+    }
+   ]
+  }
+ ]
+}

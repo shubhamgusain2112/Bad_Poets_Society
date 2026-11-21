@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 0.0,
+ "scheme": "AABB",
+ "seed": 13,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "The Spirit, who kept not them away,\nSaw the body of his son anyway,\nAnd blessed it and anointed he\nWith blood from his own mother's knee.\nXII. - The Death-Floor: The Dawn-Height He\nThat swoon'd to itself as finally\nHe lifted up her dead incarnation\nHis spirit wound like a maiden\nTo lift upon another tree.\nAnd with it all day long shortly\nOn earth a death-flower sprung consecrated,\nOf which on every day",
+ "lines": [
+  {
+   "line": 1,
+   "text": "The Spirit, who kept not them away,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "from",
+   "meant": "alive",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "astray",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "hitherto",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "nobody",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "anyway",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "remain",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "again",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "unseen",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "otherwise",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.245
+    },
+    {
+     "word": "terrified",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.243
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Saw the body of his son anyway,",
+   "syllables": 10,
+   "target": 10,
+   "partner": "away",
+   "qwen_top": "and",
+   "meant": "die",
+   "chosen": "anyway",
+   "candidates": [
+    {
+     "word": "anyway",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "again",
+     "p": 0.0067,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "later",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "afraid",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "prevail",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "arraigned",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awaken",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "hussein",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "arabs",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "proclaim",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "And blessed it and anointed he",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "it",
+   "meant": "him",
+   "chosen": "he",
+   "candidates": [
+    {
+     "word": "he",
+     "p": 0.0342,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0174,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "three",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "away",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "they",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "way",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "stay",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "say",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "With blood from his own mother's knee.",
+   "syllables": 8,
+   "target": 9,
+   "partner": "he",
+   "qwen_top": "blood",
+   "meant": "blood",
+   "chosen": "knee",
+   "candidates": [
+    {
+     "word": "knee",
+     "p": 0.0014,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "she",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "bloody",
+     "p": 0.0032,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "body",
+     "p": 0.0022,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "baby",
+     "p": 0.0015,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "surgery",
+     "p": 0.0012,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "kidney",
+     "p": 0.0012,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "injury",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "holy",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "belly",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "XII. - The Death-Floor: The Dawn-Height He",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "near",
+   "chosen": "he",
+   "candidates": [
+    {
+     "word": "he",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "tree",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "three",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "sea",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "may",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "day",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "shadow",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "through",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "flew",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.27
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "That swoon'd to itself as finally",
+   "syllables": 9,
+   "target": 9,
+   "partner": "he",
+   "qwen_top": "it",
+   "meant": "before",
+   "chosen": "finally",
+   "candidates": [
+    {
+     "word": "finally",
+     "p": 0.0054,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "shortly",
+     "p": 0.0039,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "only",
+     "p": 0.0028,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "suddenly",
+     "p": 0.0021,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "eternity",
+     "p": 0.0021,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "early",
+     "p": 0.0019,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "every",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "any",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "very",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "enemy",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "He lifted up her dead incarnation",
+   "syllables": 10,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "head",
+   "meant": "face",
+   "chosen": "incarnation",
+   "candidates": [
+    {
+     "word": "incarnation",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "devotee",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "away",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "shadow",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "identity",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "again",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "whereupon",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.234
+    },
+    {
+     "word": "upon",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "before",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "statue",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.226
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "His spirit wound like a maiden",
+   "syllables": 8,
+   "target": 9,
+   "partner": "incarnation",
+   "qwen_top": "wound",
+   "meant": "sword",
+   "chosen": "maiden",
+   "candidates": [
+    {
+     "word": "maiden",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "raven",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "serpent",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "feather",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "shadow",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "arrow",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "coffin",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "circle",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "ribbon",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "flower",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "To lift upon another tree.",
+   "syllables": 8,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "maiden",
+   "meant": "woman",
+   "chosen": "tree",
+   "candidates": [
+    {
+     "word": "tree",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "knee",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "sea",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "lay",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "bouquet",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "true",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "a",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "so",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "plane",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.254
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "And with it all day long shortly",
+   "syllables": 8,
+   "target": 9,
+   "partner": "tree",
+   "qwen_top": "the",
+   "meant": "arose",
+   "chosen": "shortly",
+   "candidates": [
+    {
+     "word": "shortly",
+     "p": 0.0118,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "triumphantly",
+     "p": 0.0057,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "briefly",
+     "p": 0.0047,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "quietly",
+     "p": 0.0046,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "finally",
+     "p": 0.0036,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "suddenly",
+     "p": 0.0031,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "secretly",
+     "p": 0.0018,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "quickly",
+     "p": 0.0017,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "steadily",
+     "p": 0.0015,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "silently",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "On earth a death-flower sprung consecrated,",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "again",
+   "chosen": "consecrated",
+   "candidates": [
+    {
+     "word": "consecrated",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "anew",
+     "p": 0.0213,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0587,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "realized",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "realised",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "july",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "between",
+     "p": 0.0115,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "compromise",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.245
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Of which on every day",
+   "syllables": 7,
+   "target": 8,
+   "partner": "consecrated",
+   "qwen_top": "leaf",
+   "meant": "tree",
+   "chosen": "day",
+   "candidates": [
+    {
+     "word": "day",
+     "p": 0.0073,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "place",
+     "p": 0.0032,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "takes",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "maple",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "shade",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "lane",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "gate",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "eighth",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "gable",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "placed",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  }
+ ]
+}

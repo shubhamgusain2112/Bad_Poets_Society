@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "AABB",
+ "seed": 11,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "West Wind, bring to us a delicate re\nStair-by-stair of winds that come and away\nTo blind and to wash the lids of shadow,\nThat sweetly follow our sorrow.\nThe water heaves with the shadow\nAs it comes and goes and dies or roses\nOf another day that forget\nHave met this same waxed sunset\nOver some barren hill's lone tower. We\nAnd he alone are sorrowfully free\nBecause we have him by shadow.\nThere shall he move as sorrow",
+ "lines": [
+  {
+   "line": 1,
+   "text": "West Wind, bring to us a delicate re",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "breath",
+   "meant": "breath",
+   "chosen": "re",
+   "candidates": [
+    {
+     "word": "re",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "tree",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "bree",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "sea",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "e",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "day",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "way",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Stair-by-stair of winds that come and away",
+   "syllables": 10,
+   "target": 11,
+   "partner": "re",
+   "qwen_top": "go",
+   "meant": "go",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "decay",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "ce",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "carry",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "glory",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "hurry",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "remain",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "disappear",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "retreat",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "To blind and to wash the lids of shadow,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "our",
+   "meant": "our",
+   "chosen": "shadow",
+   "candidates": [
+    {
+     "word": "shadow",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "forget",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "despair",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "our",
+     "p": 0.2899,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "twilight",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "childhood",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.217
+    },
+    {
+     "word": "airy",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "delight",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.212
+    },
+    {
+     "word": "shadows",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.2
+    },
+    {
+     "word": "desire",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.197
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "That sweetly follow our sorrow.",
+   "syllables": 9,
+   "target": 9,
+   "partner": "shadow",
+   "qwen_top": "steps",
+   "meant": "steps",
+   "chosen": "sorrow",
+   "candidates": [
+    {
+     "word": "sorrow",
+     "p": 0.0017,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "low",
+     "p": 0.0016,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "slow",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "bow",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "lo",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "mo",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "so",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "flow",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "ho",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "o",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "The water heaves with the shadow",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "wind",
+   "meant": "wind",
+   "chosen": "shadow",
+   "candidates": [
+    {
+     "word": "shadow",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "shadows",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.2
+    },
+    {
+     "word": "fire",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "bending",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.178
+    },
+    {
+     "word": "gentle",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.176
+    },
+    {
+     "word": "return",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.173
+    },
+    {
+     "word": "flying",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.17
+    },
+    {
+     "word": "yellow",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.167
+    },
+    {
+     "word": "shower",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "swelling",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.163
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "As it comes and goes and dies or roses",
+   "syllables": 10,
+   "target": 11,
+   "partner": "shadow",
+   "qwen_top": "dies",
+   "meant": "dies",
+   "chosen": "roses",
+   "candidates": [
+    {
+     "word": "roses",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "rises",
+     "p": 0.0172,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "survives",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "passes",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "flowers",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "arises",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "exists",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "never",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "remains",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "ce",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Of another day that forget",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "is",
+   "meant": "is",
+   "chosen": "forget",
+   "candidates": [
+    {
+     "word": "forget",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "our",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "before",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "shadows",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.2
+    },
+    {
+     "word": "cannot",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "return",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.173
+    },
+    {
+     "word": "flower",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "faded",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.15
+    },
+    {
+     "word": "never",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 0.142
+    },
+    {
+     "word": "closes",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.142
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Have met this same waxed sunset",
+   "syllables": 7,
+   "target": 8,
+   "partner": "forget",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "sunset",
+   "candidates": [
+    {
+     "word": "sunset",
+     "p": 0.0022,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "memory",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "heaven",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "temple",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "measure",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "level",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "western",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "yellow",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "festival",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "twilight",
+     "p": 0.0022,
+     "rhyme": 0.3,
+     "score": 0.3
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Over some barren hill's lone tower. We",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "we",
+   "candidates": [
+    {
+     "word": "we",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "see",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ye",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "three",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "re",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "sea",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.28
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "And he alone are sorrowfully free",
+   "syllables": 10,
+   "target": 10,
+   "partner": "we",
+   "qwen_top": "sad",
+   "meant": "sad",
+   "chosen": "free",
+   "candidates": [
+    {
+     "word": "free",
+     "p": 0.0069,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "he",
+     "p": 0.0042,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "re",
+     "p": 0.0013,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "three",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "be",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "she",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "de",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "ve",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "weary",
+     "p": 0.0146,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "lonely",
+     "p": 0.0048,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Because we have him by shadow.",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "our",
+   "meant": "our",
+   "chosen": "shadow",
+   "candidates": [
+    {
+     "word": "shadow",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "company",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "again",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "degrees",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "unseen",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "forget",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "our",
+     "p": 0.4553,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "midnight",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "twilight",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "surprise",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.219
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "There shall he move as sorrow",
+   "syllables": 7,
+   "target": 8,
+   "partner": "shadow",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "sorrow",
+   "candidates": [
+    {
+     "word": "sorrow",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "shadows",
+     "p": 0.0088,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "only",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "slowly",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "over",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "alone",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "motion",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "ocean",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "lonely",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "our",
+     "p": 0.0127,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "B1",
+ "lam": 0.5,
+ "scheme": "ABCB",
+ "seed": 3,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "O'er the new moon's golden rim,\nAnd far up aloft above,\nThe stars from silver shimmerings creep,\nLike the dreams of a dreamer's fever.\nMiles and miles, like silver,\nThey trace their way across\nThe violet sky of the morning.\nOn the southern horizon they\nHang a curtain of silver.\nSome are in charge; some follow\nAs air fans on snow-white furze. etc.\nAs the young sun flies upward higher",
+ "lines": [
+  {
+   "line": 1,
+   "text": "O'er the new moon's golden rim,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "rim",
+   "meant": "rim",
+   "chosen": "rim",
+   "candidates": [
+    {
+     "word": "rim",
+     "p": 0.0387,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "light",
+     "p": 0.0301,
+     "rhyme": 0,
+     "score": 0.779
+    },
+    {
+     "word": "breast",
+     "p": 0.0283,
+     "rhyme": 0,
+     "score": 0.732
+    },
+    {
+     "word": "edge",
+     "p": 0.025,
+     "rhyme": 0,
+     "score": 0.646
+    },
+    {
+     "word": "crest",
+     "p": 0.0207,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "face",
+     "p": 0.0207,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "glow",
+     "p": 0.0194,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "dome",
+     "p": 0.0126,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "wave",
+     "p": 0.0111,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "hand",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.253
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "And far up aloft above,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "above",
+   "candidates": [
+    {
+     "word": "above",
+     "p": 0.0195,
+     "rhyme": 0,
+     "score": 0.61
+    },
+    {
+     "word": "upon",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.345
+    },
+    {
+     "word": "into",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.317
+    },
+    {
+     "word": "away",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.311
+    },
+    {
+     "word": "below",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.308
+    },
+    {
+     "word": "again",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "anew",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "afar",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "between",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "unseen",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.259
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "The stars from silver shimmerings creep,",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "creep",
+   "meant": "creep",
+   "chosen": "creep",
+   "candidates": [
+    {
+     "word": "creep",
+     "p": 0.0244,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "come",
+     "p": 0.0168,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "shine",
+     "p": 0.0168,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "fall",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "rise",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "rim",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "play",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "fly",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "glide",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "glow",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.325
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Like the dreams of a dreamer's fever.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "above",
+   "qwen_top": "eye",
+   "meant": "eye",
+   "chosen": "fever",
+   "candidates": [
+    {
+     "word": "fever",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "hour",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.366
+    },
+    {
+     "word": "lover",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.341
+    },
+    {
+     "word": "mother",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.319
+    },
+    {
+     "word": "summer",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.309
+    },
+    {
+     "word": "pillow",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "spirit",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.099
+    },
+    {
+     "word": "fire",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.099
+    },
+    {
+     "word": "weary",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.068
+    },
+    {
+     "word": "waking",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.046
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Miles and miles, like silver,",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "silver",
+   "candidates": [
+    {
+     "word": "silver",
+     "p": 0.0111,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "shadows",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "distant",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.606
+    },
+    {
+     "word": "phantom",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "golden",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.445
+    },
+    {
+     "word": "drifting",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.345
+    },
+    {
+     "word": "rivers",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "endless",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "restless",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "wandering",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.305
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "They trace their way across",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "through",
+   "meant": "through",
+   "chosen": "across",
+   "candidates": [
+    {
+     "word": "across",
+     "p": 0.0739,
+     "rhyme": 0,
+     "score": 0.663
+    },
+    {
+     "word": "along",
+     "p": 0.0652,
+     "rhyme": 0,
+     "score": 0.624
+    },
+    {
+     "word": "away",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.307
+    },
+    {
+     "word": "into",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.299
+    },
+    {
+     "word": "between",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "afar",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "array",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "anew",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "below",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "unseen",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.263
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "The violet sky of the morning.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "new",
+   "meant": "new",
+   "chosen": "morning",
+   "candidates": [
+    {
+     "word": "morning",
+     "p": 0.0204,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "heavens",
+     "p": 0.0187,
+     "rhyme": 0,
+     "score": 0.919
+    },
+    {
+     "word": "midnight",
+     "p": 0.0168,
+     "rhyme": 0,
+     "score": 0.826
+    },
+    {
+     "word": "twilight",
+     "p": 0.0095,
+     "rhyme": 0,
+     "score": 0.465
+    },
+    {
+     "word": "evening",
+     "p": 0.0091,
+     "rhyme": 0,
+     "score": 0.448
+    },
+    {
+     "word": "golden",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.351
+    },
+    {
+     "word": "eastern",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.344
+    },
+    {
+     "word": "violet",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.299
+    },
+    {
+     "word": "rising",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "northern",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.285
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "On the southern horizon they",
+   "syllables": 8,
+   "target": 9,
+   "partner": "across",
+   "qwen_top": "they",
+   "meant": "they",
+   "chosen": "they",
+   "candidates": [
+    {
+     "word": "they",
+     "p": 0.02,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "all",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.341
+    },
+    {
+     "word": "falls",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.322
+    },
+    {
+     "word": "broad",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.313
+    },
+    {
+     "word": "drop",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.31
+    },
+    {
+     "word": "wall",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.309
+    },
+    {
+     "word": "watch",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.308
+    },
+    {
+     "word": "gone",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.308
+    },
+    {
+     "word": "fall",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.308
+    },
+    {
+     "word": "long",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.307
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Hang a curtain of silver.",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "gold",
+   "meant": "gold",
+   "chosen": "silver",
+   "candidates": [
+    {
+     "word": "silver",
+     "p": 0.0952,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "crimson",
+     "p": 0.0226,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "golden",
+     "p": 0.0146,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "glory",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 0.127
+    },
+    {
+     "word": "fire",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "purple",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "amber",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 0.087
+    },
+    {
+     "word": "shining",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.077
+    },
+    {
+     "word": "glowing",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.06
+    },
+    {
+     "word": "violet",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.05
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Some are in charge; some follow",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "are",
+   "meant": "are",
+   "chosen": "follow",
+   "candidates": [
+    {
+     "word": "follow",
+     "p": 0.0282,
+     "rhyme": 0,
+     "score": 0.632
+    },
+    {
+     "word": "below",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.424
+    },
+    {
+     "word": "alone",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.311
+    },
+    {
+     "word": "behind",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.306
+    },
+    {
+     "word": "away",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "obey",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "shadow",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "pursue",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "remain",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "appear",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.267
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "As air fans on snow-white furze. etc.",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "etc",
+   "candidates": [
+    {
+     "word": "etc",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "below",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.71
+    },
+    {
+     "word": "indeed",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "meanwhile",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "beyond",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "many",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.306
+    },
+    {
+     "word": "sometimes",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "perhaps",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.21
+    },
+    {
+     "word": "behind",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.21
+    },
+    {
+     "word": "after",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.186
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "As the young sun flies upward higher",
+   "syllables": 9,
+   "target": 10,
+   "partner": "follow",
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "higher",
+   "candidates": [
+    {
+     "word": "higher",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "into",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "below",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.475
+    },
+    {
+     "word": "afar",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.36
+    },
+    {
+     "word": "upon",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.346
+    },
+    {
+     "word": "above",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.343
+    },
+    {
+     "word": "toward",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.343
+    },
+    {
+     "word": "beyond",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.322
+    },
+    {
+     "word": "over",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.236
+    },
+    {
+     "word": "slowly",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.236
+    }
+   ]
+  }
+ ]
+}

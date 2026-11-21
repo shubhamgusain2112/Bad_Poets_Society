@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 0.0,
+ "scheme": "ABAB",
+ "seed": 10,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Though, in a little walk by vacation,\nThe wandering traveller may destination\nFind to some fixed point in the country's location,\nWhere he might return with one invitation,\nFull broad of travel on the navigation\nOf two or three months' duration: information\nShould be given for the love-struck destination,\nKnowing where each is safe and sound location,\nAnd said to take what places information,\nOr advice had been given information,\nBy the war-worn traveller most location,\nWhose journey was far too long to duration.",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Though, in a little walk by vacation,",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "day",
+   "chosen": "vacation",
+   "candidates": [
+    {
+     "word": "vacation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "jubilee",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "cafe",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "today",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "rainbow",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "glasgow",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "sunday",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "monday",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "saturday",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.256
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The wandering traveller may destination",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "be",
+   "meant": "discover",
+   "chosen": "destination",
+   "candidates": [
+    {
+     "word": "destination",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "appreciate",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "anticipate",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "contemplate",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "meditate",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "hesitate",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "recreate",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "agree",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "disagree",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "betray",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Find to some fixed point in the country's location,",
+   "syllables": 12,
+   "target": 11,
+   "partner": "vacation",
+   "qwen_top": "way",
+   "meant": "sky",
+   "chosen": "location",
+   "candidates": [
+    {
+     "word": "location",
+     "p": 0.0018,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "can",
+     "p": 0.0018,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "sun",
+     "p": 0.0018,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "one",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "way",
+     "p": 0.0093,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "landscape",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "plain",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "place",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "away",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "range",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Where he might return with one invitation,",
+   "syllables": 11,
+   "target": 10,
+   "partner": "destination",
+   "qwen_top": "or",
+   "meant": "journey",
+   "chosen": "invitation",
+   "candidates": [
+    {
+     "word": "invitation",
+     "p": 0.0018,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "vacation",
+     "p": 0.0017,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "duration",
+     "p": 0.0013,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "explanation",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "consolation",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "operation",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "preparation",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "inclination",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "hesitation",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "vocation",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Full broad of travel on the navigation",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "way",
+   "meant": "journey",
+   "chosen": "navigation",
+   "candidates": [
+    {
+     "word": "navigation",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "destination",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "observation",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "calculation",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "vacation",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "duration",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "elevation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "location",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "station",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "desolate",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.282
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Of two or three months' duration: information",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "but",
+   "meant": "then",
+   "chosen": "information",
+   "candidates": [
+    {
+     "word": "information",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "appropriate",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "nobody",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "probably",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "somebody",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "anyway",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "again",
+     "p": 0.0228,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "likewise",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.245
+    },
+    {
+     "word": "otherwise",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.245
+    },
+    {
+     "word": "necessary",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.244
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Should be given for the love-struck destination,",
+   "syllables": 12,
+   "target": 11,
+   "partner": "navigation",
+   "qwen_top": "traveller",
+   "meant": "lover",
+   "chosen": "destination",
+   "candidates": [
+    {
+     "word": "destination",
+     "p": 0.0014,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "aspiration",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "sailor",
+     "p": 0.0047,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "patron",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "lady",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "stranger",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "maiden",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "acquaintance",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "angel",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "neighbor",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Knowing where each is safe and sound location,",
+   "syllables": 11,
+   "target": 11,
+   "partner": "information",
+   "qwen_top": "in",
+   "meant": "within",
+   "chosen": "location",
+   "candidates": [
+    {
+     "word": "location",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "begun",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "again",
+     "p": 0.019,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "safely",
+     "p": 0.0103,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remain",
+     "p": 0.0048,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "danger",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remained",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "staying",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remains",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "later",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "And said to take what places information,",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "he",
+   "meant": "present",
+   "chosen": "information",
+   "candidates": [
+    {
+     "word": "information",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "destination",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "location",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "indicate",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "appropriate",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "communicate",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "congregate",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "today",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "probably",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "entertain",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.254
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Or advice had been given information,",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "by",
+   "meant": "him",
+   "chosen": "information",
+   "candidates": [
+    {
+     "word": "information",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "away",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "into",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "ability",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "somebody",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "probably",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "ago",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "thereby",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "upon",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.233
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "By the war-worn traveller most location,",
+   "syllables": 11,
+   "target": 11,
+   "partner": "information",
+   "qwen_top": "likely",
+   "meant": "informed",
+   "chosen": "location",
+   "candidates": [
+    {
+     "word": "location",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "observation",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "destination",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "vacation",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "navigation",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "appropriate",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "undertake",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "grateful",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "conveyed",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "undertaking",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Whose journey was far too long to duration.",
+   "syllables": 11,
+   "target": 11,
+   "partner": "information",
+   "qwen_top": "be",
+   "meant": "prolong",
+   "chosen": "duration",
+   "candidates": [
+    {
+     "word": "duration",
+     "p": 0.0119,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "vacation",
+     "p": 0.0015,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "separation",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "destination",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "begun",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "delay",
+     "p": 0.0121,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "undertake",
+     "p": 0.005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "maintain",
+     "p": 0.0037,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "contemplate",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "sustain",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  }
+ ]
+}

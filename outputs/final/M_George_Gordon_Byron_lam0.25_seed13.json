@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 0.25,
+ "scheme": "ABAB",
+ "seed": 13,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "The damsel of the Isaurian elevation\nShee dropt her eyes, and fell with soft dismay;\nAnd she cried aloud: \"Was it anyone\nWho struck thee?\" She said. - The dame yesterday\nUnto herself did girdle'd admiration.\nNow in all that knelt beneath herself\nThere was no one but 'the damsel' one.\nAs a son's cry upon his parents\nI answered (and such cries must arise,\nIn fatal dress) - \"She hath been astray,\nOne oh! For us both!\" - \"Ah, but ye realize\nThat not the moment shall be away,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "The damsel of the Isaurian elevation",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "hills",
+   "meant": "mountain",
+   "chosen": "elevation",
+   "candidates": [
+    {
+     "word": "elevation",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.338
+    },
+    {
+     "word": "nation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "mountain",
+     "p": 0.0149,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "meadow",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "plateau",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "shadow",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "sunday",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "norway",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "saturday",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "nearby",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.26
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Shee dropt her eyes, and fell with soft dismay;",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "sigh",
+   "meant": "dismay",
+   "chosen": "dismay",
+   "candidates": [
+    {
+     "word": "dismay",
+     "p": 0.0145,
+     "rhyme": 0,
+     "score": 0.525
+    },
+    {
+     "word": "hesitation",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.377
+    },
+    {
+     "word": "elation",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.357
+    },
+    {
+     "word": "contemplation",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.353
+    },
+    {
+     "word": "consternation",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.349
+    },
+    {
+     "word": "relaxation",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.343
+    },
+    {
+     "word": "consummation",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.337
+    },
+    {
+     "word": "exhalation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "meditation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "respiration",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.333
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "And she cried aloud: \"Was it anyone",
+   "syllables": 10,
+   "target": 10,
+   "partner": "elevation",
+   "qwen_top": "not",
+   "meant": "i",
+   "chosen": "anyone",
+   "candidates": [
+    {
+     "word": "anyone",
+     "p": 0.0016,
+     "rhyme": 0.9,
+     "score": 0.701
+    },
+    {
+     "word": "everyone",
+     "p": 0.0012,
+     "rhyme": 0.9,
+     "score": 0.693
+    },
+    {
+     "word": "someone",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.692
+    },
+    {
+     "word": "again",
+     "p": 0.0059,
+     "rhyme": 0.6,
+     "score": 0.541
+    },
+    {
+     "word": "always",
+     "p": 0.005,
+     "rhyme": 0.6,
+     "score": 0.527
+    },
+    {
+     "word": "anyway",
+     "p": 0.0038,
+     "rhyme": 0.6,
+     "score": 0.509
+    },
+    {
+     "word": "crazy",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.484
+    },
+    {
+     "word": "maybe",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.474
+    },
+    {
+     "word": "afraid",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.468
+    },
+    {
+     "word": "insane",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.467
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Who struck thee?\" She said. - The dame yesterday",
+   "syllables": 10,
+   "target": 10,
+   "partner": "dismay",
+   "qwen_top": "replied",
+   "meant": "replied",
+   "chosen": "yesterday",
+   "candidates": [
+    {
+     "word": "yesterday",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.675
+    },
+    {
+     "word": "anyway",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.675
+    },
+    {
+     "word": "exclaimed",
+     "p": 0.0156,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "explained",
+     "p": 0.0048,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "exclaims",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "stated",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "saying",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "hesitation",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "again",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "forgave",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.45
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Unto herself did girdle'd admiration.",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "her",
+   "meant": "her",
+   "chosen": "admiration",
+   "candidates": [
+    {
+     "word": "admiration",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.35
+    },
+    {
+     "word": "dedication",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "shoulders",
+     "p": 0.0091,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "aching",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.318
+    },
+    {
+     "word": "again",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "ability",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "upon",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "despite",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "elbows",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.246
+    },
+    {
+     "word": "alone",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.245
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Now in all that knelt beneath herself",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "her",
+   "meant": "her",
+   "chosen": "herself",
+   "candidates": [
+    {
+     "word": "herself",
+     "p": 0.0473,
+     "rhyme": 0,
+     "score": 0.374
+    },
+    {
+     "word": "ability",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "somebody",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "again",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "bestow",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "upon",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "thereby",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "whereupon",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.239
+    },
+    {
+     "word": "alone",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "before",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.232
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "There was no one but 'the damsel' one.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "admiration",
+   "qwen_top": "she",
+   "meant": "he",
+   "chosen": "one",
+   "candidates": [
+    {
+     "word": "one",
+     "p": 0.0059,
+     "rhyme": 0.9,
+     "score": 0.725
+    },
+    {
+     "word": "none",
+     "p": 0.0034,
+     "rhyme": 0.9,
+     "score": 0.704
+    },
+    {
+     "word": "someone",
+     "p": 0.0012,
+     "rhyme": 0.9,
+     "score": 0.685
+    },
+    {
+     "word": "son",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.685
+    },
+    {
+     "word": "won",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.684
+    },
+    {
+     "word": "been",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.683
+    },
+    {
+     "word": "everyone",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.681
+    },
+    {
+     "word": "anyone",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.68
+    },
+    {
+     "word": "came",
+     "p": 0.0139,
+     "rhyme": 0.6,
+     "score": 0.568
+    },
+    {
+     "word": "became",
+     "p": 0.0045,
+     "rhyme": 0.6,
+     "score": 0.488
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "As a son's cry upon his parents",
+   "syllables": 9,
+   "target": 10,
+   "partner": "herself",
+   "qwen_top": "mother",
+   "meant": "mother",
+   "chosen": "parents",
+   "candidates": [
+    {
+     "word": "parents",
+     "p": 0.0074,
+     "rhyme": 0.6,
+     "score": 0.466
+    },
+    {
+     "word": "elder",
+     "p": 0.004,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "resting",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "nephew",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "caring",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "ancestors",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "footsteps",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "distress",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "descent",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "married",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.452
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "I answered (and such cries must arise,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "be",
+   "meant": "be",
+   "chosen": "arise",
+   "candidates": [
+    {
+     "word": "arise",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 0.468
+    },
+    {
+     "word": "appear",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.464
+    },
+    {
+     "word": "cannot",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.442
+    },
+    {
+     "word": "occur",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.338
+    },
+    {
+     "word": "remain",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.306
+    },
+    {
+     "word": "agree",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.302
+    },
+    {
+     "word": "ensue",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "separated",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "appropriate",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "degenerate",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.29
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "In fatal dress) - \"She hath been astray,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "my",
+   "meant": "murdered",
+   "chosen": "astray",
+   "candidates": [
+    {
+     "word": "astray",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.293
+    },
+    {
+     "word": "betrayed",
+     "p": 0.0103,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "hussein",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "overthrown",
+     "p": 0.0097,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "nobody",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "ago",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.267
+    },
+    {
+     "word": "crucified",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.252
+    },
+    {
+     "word": "murdered",
+     "p": 0.0448,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "testified",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "mortified",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.249
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "One oh! For us both!\" - \"Ah, but ye realize",
+   "syllables": 11,
+   "target": 11,
+   "partner": "arise",
+   "qwen_top": "know",
+   "meant": "see",
+   "chosen": "realize",
+   "candidates": [
+    {
+     "word": "realize",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.693
+    },
+    {
+     "word": "sometimes",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.498
+    },
+    {
+     "word": "arrive",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.483
+    },
+    {
+     "word": "likely",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.479
+    },
+    {
+     "word": "decide",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.466
+    },
+    {
+     "word": "goodbye",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.465
+    },
+    {
+     "word": "always",
+     "p": 0.0013,
+     "rhyme": 0.3,
+     "score": 0.275
+    },
+    {
+     "word": "others",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "because",
+     "p": 0.0006,
+     "rhyme": 0.3,
+     "score": 0.247
+    },
+    {
+     "word": "believe",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.132
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "That not the moment shall be away,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "astray",
+   "qwen_top": "the",
+   "meant": "gone",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.002,
+     "rhyme": 1.0,
+     "score": 0.801
+    },
+    {
+     "word": "delay",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 0.767
+    },
+    {
+     "word": "anyway",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.709
+    },
+    {
+     "word": "decade",
+     "p": 0.0057,
+     "rhyme": 0.6,
+     "score": 0.593
+    },
+    {
+     "word": "later",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.548
+    },
+    {
+     "word": "delayed",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.515
+    },
+    {
+     "word": "again",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.507
+    },
+    {
+     "word": "mistake",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.477
+    },
+    {
+     "word": "wasted",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.475
+    },
+    {
+     "word": "delays",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.473
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "ABAB",
+ "seed": 13,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "The damsel of the Isaurian nation\nMade her young husband's love immortalize thee,\nTo me it is but a laughing one.\nYea, I have seen my lady; many,\nIn truth all in vain, shall try away\nMy wilful love and this long expectation\nOf any real union - she remains,\nThough used to face death alone. Away!\nOh, well may those fair faces decay,\nAnd greyish hair grow with milder decay!\nEvil luck and misfortune make delay\nFor sweet come-upon. The world away,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "The damsel of the Isaurian nation",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "hills",
+   "meant": "hills",
+   "chosen": "nation",
+   "candidates": [
+    {
+     "word": "nation",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.315
+    },
+    {
+     "word": "nations",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "domain",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "estate",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.213
+    },
+    {
+     "word": "era",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.189
+    },
+    {
+     "word": "story",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.183
+    },
+    {
+     "word": "desert",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.181
+    },
+    {
+     "word": "valley",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "tower",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "flower",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.163
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Made her young husband's love immortalize thee,",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "him",
+   "meant": "him",
+   "chosen": "thee",
+   "candidates": [
+    {
+     "word": "thee",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "de",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ye",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "te",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ne",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "re",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "To me it is but a laughing one.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "nation",
+   "qwen_top": "matter",
+   "meant": "matter",
+   "chosen": "one",
+   "candidates": [
+    {
+     "word": "one",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "fun",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "pun",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "nun",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "can",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "tale",
+     "p": 0.0376,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "face",
+     "p": 0.0114,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "play",
+     "p": 0.0037,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "game",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "phrase",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Yea, I have seen my lady; many,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "thee",
+   "qwen_top": "she",
+   "meant": "she",
+   "chosen": "many",
+   "candidates": [
+    {
+     "word": "many",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "lady",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "only",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "happy",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "every",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "truly",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "surely",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "fancy",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "pity",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "very",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "In truth all in vain, shall try away",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "today",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "anew",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "into",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "attain",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "again",
+     "p": 0.0174,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "thereby",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "unseen",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.248
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "My wilful love and this long expectation",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "delay",
+   "meant": "delay",
+   "chosen": "expectation",
+   "candidates": [
+    {
+     "word": "expectation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "separation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "duration",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "delay",
+     "p": 0.0154,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "shadow",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "ago",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "disdain",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "refrain",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "farewell",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "solitary",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.244
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Of any real union - she remains,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "away",
+   "qwen_top": "is",
+   "meant": "is",
+   "chosen": "remains",
+   "candidates": [
+    {
+     "word": "remains",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "escapes",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "escaped",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remained",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awaits",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "disdain",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "always",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "became",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remain",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Though used to face death alone. Away!",
+   "syllables": 9,
+   "target": 10,
+   "partner": "expectation",
+   "qwen_top": "i",
+   "meant": "i",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "lady",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "nature",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "always",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "indeed",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "perhaps",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "even",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "our",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Oh, well may those fair faces decay,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "be",
+   "meant": "be",
+   "chosen": "decay",
+   "candidates": [
+    {
+     "word": "decay",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "display",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "betray",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "away",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "disdain",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "remain",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "again",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "regain",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "rebel",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "forget",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.237
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "And greyish hair grow with milder decay!",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "hue",
+   "meant": "hue",
+   "chosen": "decay",
+   "candidates": [
+    {
+     "word": "decay",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "disease",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.231
+    },
+    {
+     "word": "sunlight",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "unrest",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.218
+    },
+    {
+     "word": "fire",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "glory",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.183
+    },
+    {
+     "word": "yellow",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.167
+    },
+    {
+     "word": "flower",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "shower",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.163
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Evil luck and misfortune make delay",
+   "syllables": 10,
+   "target": 11,
+   "partner": "decay",
+   "qwen_top": "me",
+   "meant": "me",
+   "chosen": "delay",
+   "candidates": [
+    {
+     "word": "delay",
+     "p": 0.0011,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "away",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "fatal",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "our",
+     "p": 0.0167,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "heaven",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "alike",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "women",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "happy",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "progress",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "For sweet come-upon. The world away,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "decay",
+   "qwen_top": "is",
+   "meant": "is",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "today",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "remains",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awaits",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "changes",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "contains",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "complains",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "always",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remain",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  }
+ ]
+}

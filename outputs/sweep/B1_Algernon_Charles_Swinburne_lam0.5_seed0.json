@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 0.5,
+ "scheme": "AABB",
+ "seed": 0,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "This is my poor heart's life, o'er sixty years,\nThe love I had for thee; it has given\nTo me this love and sorrow.\nVI. Now the war-souls that sleep upon\nAll earths' air do weep on the death thereof,\nFor ever: their restless spirits above\nFell silent in their graves to heaven.\nIt was not love enough for them seven;\nThey knew what happiness is above,\nThat each has a meaning thereof,\nA doom as one by reason set,\nIn which he moves nevermore again.",
+ "lines": [
+  {
+   "line": 1,
+   "text": "This is my poor heart's life, o'er sixty years,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "years",
+   "meant": "years",
+   "chosen": "years",
+   "candidates": [
+    {
+     "word": "years",
+     "p": 0.6492,
+     "rhyme": 0,
+     "score": 0.689
+    },
+    {
+     "word": "three",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "ye",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "free",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "de",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "e",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "fe",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.276
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The love I had for thee; it has given",
+   "syllables": 10,
+   "target": 11,
+   "partner": "years",
+   "qwen_top": "been",
+   "meant": "been",
+   "chosen": "given",
+   "candidates": [
+    {
+     "word": "given",
+     "p": 0.0095,
+     "rhyme": 0.6,
+     "score": 0.666
+    },
+    {
+     "word": "never",
+     "p": 0.013,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "risen",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.328
+    },
+    {
+     "word": "driven",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.326
+    },
+    {
+     "word": "little",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.325
+    },
+    {
+     "word": "drifted",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.322
+    },
+    {
+     "word": "weary",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.319
+    },
+    {
+     "word": "fulfilled",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.315
+    },
+    {
+     "word": "decay",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.268
+    },
+    {
+     "word": "fallen",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.222
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "To me this love and sorrow.",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "this",
+   "meant": "this",
+   "chosen": "sorrow",
+   "candidates": [
+    {
+     "word": "sorrow",
+     "p": 0.0213,
+     "rhyme": 0,
+     "score": 0.652
+    },
+    {
+     "word": "beauty",
+     "p": 0.0114,
+     "rhyme": 0,
+     "score": 0.383
+    },
+    {
+     "word": "shadow",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "never",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.268
+    },
+    {
+     "word": "given",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "power",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.246
+    },
+    {
+     "word": "glory",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.239
+    },
+    {
+     "word": "desire",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.231
+    },
+    {
+     "word": "nothing",
+     "p": 0.0095,
+     "rhyme": 0,
+     "score": 0.222
+    },
+    {
+     "word": "fire",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.215
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "VI. Now the war-souls that sleep upon",
+   "syllables": 9,
+   "target": 10,
+   "partner": "sorrow",
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "upon",
+   "candidates": [
+    {
+     "word": "upon",
+     "p": 0.0253,
+     "rhyme": 0.6,
+     "score": 0.644
+    },
+    {
+     "word": "below",
+     "p": 0.0064,
+     "rhyme": 0.9,
+     "score": 0.537
+    },
+    {
+     "word": "within",
+     "p": 0.0368,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "apart",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.317
+    },
+    {
+     "word": "beyond",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.312
+    },
+    {
+     "word": "afar",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.306
+    },
+    {
+     "word": "our",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.304
+    },
+    {
+     "word": "beneath",
+     "p": 0.0223,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "forgotten",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.302
+    },
+    {
+     "word": "content",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.301
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "All earths' air do weep on the death thereof,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "thereof",
+   "candidates": [
+    {
+     "word": "thereof",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.61
+    },
+    {
+     "word": "before",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.381
+    },
+    {
+     "word": "upon",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "below",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.367
+    },
+    {
+     "word": "within",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.304
+    },
+    {
+     "word": "array",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "away",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "again",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "wherein",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.266
+    },
+    {
+     "word": "beneath",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.259
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "For ever: their restless spirits above",
+   "syllables": 10,
+   "target": 11,
+   "partner": "thereof",
+   "qwen_top": "we",
+   "meant": "we",
+   "chosen": "above",
+   "candidates": [
+    {
+     "word": "above",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 0.568
+    },
+    {
+     "word": "awake",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "suffer",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.35
+    },
+    {
+     "word": "arise",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.344
+    },
+    {
+     "word": "hover",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.33
+    },
+    {
+     "word": "weary",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "never",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.268
+    },
+    {
+     "word": "cannot",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.173
+    },
+    {
+     "word": "abide",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.126
+    },
+    {
+     "word": "alone",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.105
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Fell silent in their graves to heaven.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.62
+    },
+    {
+     "word": "our",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.558
+    },
+    {
+     "word": "listen",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.359
+    },
+    {
+     "word": "behold",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.353
+    },
+    {
+     "word": "decay",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.34
+    },
+    {
+     "word": "forget",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.331
+    },
+    {
+     "word": "shadow",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "despair",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "lament",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "await",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.286
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "It was not love enough for them seven;",
+   "syllables": 10,
+   "target": 11,
+   "partner": "heaven",
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "seven",
+   "candidates": [
+    {
+     "word": "seven",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 0.501
+    },
+    {
+     "word": "alone",
+     "p": 0.0138,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "ever",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.328
+    },
+    {
+     "word": "never",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.313
+    },
+    {
+     "word": "against",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.31
+    },
+    {
+     "word": "again",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.309
+    },
+    {
+     "word": "any",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.305
+    },
+    {
+     "word": "many",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.303
+    },
+    {
+     "word": "instead",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.303
+    },
+    {
+     "word": "except",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.302
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "They knew what happiness is above,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "for",
+   "meant": "for",
+   "chosen": "above",
+   "candidates": [
+    {
+     "word": "above",
+     "p": 0.0094,
+     "rhyme": 0,
+     "score": 0.61
+    },
+    {
+     "word": "below",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.565
+    },
+    {
+     "word": "without",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.432
+    },
+    {
+     "word": "beyond",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.415
+    },
+    {
+     "word": "beneath",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "before",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.34
+    },
+    {
+     "word": "beside",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "away",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "divine",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.313
+    },
+    {
+     "word": "within",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.304
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "That each has a meaning thereof,",
+   "syllables": 8,
+   "target": 9,
+   "partner": "above",
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "thereof",
+   "candidates": [
+    {
+     "word": "thereof",
+     "p": 0.0023,
+     "rhyme": 1.0,
+     "score": 0.643
+    },
+    {
+     "word": "unto",
+     "p": 0.0038,
+     "rhyme": 0.6,
+     "score": 0.536
+    },
+    {
+     "word": "beyond",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "other",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.353
+    },
+    {
+     "word": "enough",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.341
+    },
+    {
+     "word": "because",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.334
+    },
+    {
+     "word": "among",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.319
+    },
+    {
+     "word": "under",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.315
+    },
+    {
+     "word": "rather",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.313
+    },
+    {
+     "word": "something",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.305
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "A doom as one by reason set,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "set",
+   "meant": "set",
+   "chosen": "set",
+   "candidates": [
+    {
+     "word": "set",
+     "p": 0.0706,
+     "rhyme": 0,
+     "score": 0.736
+    },
+    {
+     "word": "wrought",
+     "p": 0.0623,
+     "rhyme": 0,
+     "score": 0.602
+    },
+    {
+     "word": "made",
+     "p": 0.0378,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "of",
+     "p": 0.0485,
+     "rhyme": 0,
+     "score": 0.454
+    },
+    {
+     "word": "knows",
+     "p": 0.0179,
+     "rhyme": 0,
+     "score": 0.346
+    },
+    {
+     "word": "known",
+     "p": 0.0168,
+     "rhyme": 0,
+     "score": 0.338
+    },
+    {
+     "word": "may",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.332
+    },
+    {
+     "word": "knew",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "we",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.313
+    },
+    {
+     "word": "he",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.309
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "In which he moves nevermore again.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "set",
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0098,
+     "rhyme": 0.6,
+     "score": 0.8
+    },
+    {
+     "word": "forget",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 0.51
+    },
+    {
+     "word": "ever",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.315
+    },
+    {
+     "word": "except",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.315
+    },
+    {
+     "word": "against",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.306
+    },
+    {
+     "word": "forever",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.306
+    },
+    {
+     "word": "content",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.305
+    },
+    {
+     "word": "together",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.304
+    },
+    {
+     "word": "any",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.303
+    },
+    {
+     "word": "unless",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.303
+    }
+   ]
+  }
+ ]
+}

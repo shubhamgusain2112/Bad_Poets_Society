@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "M",
+ "lam": 0.0,
+ "scheme": "ABCB",
+ "seed": 1,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "The current world with wonder\nBasks in the reflected debris.\nWe have discovered things unknown,\nAnd left our earthly,\nThere's life to see and feel anew, and\nWith all its delight out of inspiration.\nAll that you know has been lost again,\nAnd we may still be glad of everyone.\nBut let your mind no fewer\nHave the tears for revelation.\nFrom the depths of darkness I expect\nTo find a new observation.",
+ "lines": [
+  {
+   "line": 1,
+   "text": "The current world with wonder",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "its",
+   "meant": "me",
+   "chosen": "wonder",
+   "candidates": [
+    {
+     "word": "wonder",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "sadness",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.991
+    },
+    {
+     "word": "silence",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.98
+    },
+    {
+     "word": "laughter",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.774
+    },
+    {
+     "word": "echoes",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.691
+    },
+    {
+     "word": "beauty",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.594
+    },
+    {
+     "word": "emotion",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.57
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.56
+    },
+    {
+     "word": "singing",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.528
+    },
+    {
+     "word": "melody",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.51
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Basks in the reflected debris.",
+   "syllables": 8,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "light",
+   "meant": "light",
+   "chosen": "debris",
+   "candidates": [
+    {
+     "word": "debris",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "lee",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "see",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "sea",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "gray",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "grey",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "spray",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "day",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "bay",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "ray",
+     "p": 0.0168,
+     "rhyme": 0,
+     "score": 0.274
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "We have discovered things unknown,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "that",
+   "meant": "there",
+   "chosen": "unknown",
+   "candidates": [
+    {
+     "word": "unknown",
+     "p": 0.0167,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "happened",
+     "p": 0.011,
+     "rhyme": 0,
+     "score": 0.66
+    },
+    {
+     "word": "somewhere",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.463
+    },
+    {
+     "word": "indeed",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.432
+    },
+    {
+     "word": "exactly",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.42
+    },
+    {
+     "word": "something",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.374
+    },
+    {
+     "word": "nothing",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "unseen",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.302
+    },
+    {
+     "word": "happening",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "mysterious",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.224
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "And left our earthly,",
+   "syllables": 6,
+   "target": 7,
+   "partner": "debris",
+   "qwen_top": "own",
+   "meant": "universe",
+   "chosen": "earthly",
+   "candidates": [
+    {
+     "word": "earthly",
+     "p": 0.0049,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "destiny",
+     "p": 0.0048,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "geography",
+     "p": 0.0041,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "humanity",
+     "p": 0.0024,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "astronomy",
+     "p": 0.0021,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "discovery",
+     "p": 0.0021,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "mystery",
+     "p": 0.002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "journey",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "memory",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "mythology",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "There's life to see and feel anew, and",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "and",
+   "candidates": [
+    {
+     "word": "and",
+     "p": 0.1354,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "again",
+     "p": 0.0365,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "in",
+     "p": 0.0274,
+     "rhyme": 0,
+     "score": 0.203
+    },
+    {
+     "word": "then",
+     "p": 0.0137,
+     "rhyme": 0,
+     "score": 0.101
+    },
+    {
+     "word": "as",
+     "p": 0.0127,
+     "rhyme": 0,
+     "score": 0.094
+    },
+    {
+     "word": "may",
+     "p": 0.0107,
+     "rhyme": 0,
+     "score": 0.079
+    },
+    {
+     "word": "the",
+     "p": 0.0103,
+     "rhyme": 0,
+     "score": 0.076
+    },
+    {
+     "word": "for",
+     "p": 0.0096,
+     "rhyme": 0,
+     "score": 0.071
+    },
+    {
+     "word": "you",
+     "p": 0.0089,
+     "rhyme": 0,
+     "score": 0.066
+    },
+    {
+     "word": "well",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.054
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "With all its delight out of inspiration.",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "sight",
+   "meant": "sight",
+   "chosen": "inspiration",
+   "candidates": [
+    {
+     "word": "inspiration",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "location",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "communicate",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "intimate",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "appreciate",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "display",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "array",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "everyday",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "ability",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "reality",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.269
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "All that you know has been lost again,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0423,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "away",
+     "p": 0.0422,
+     "rhyme": 0,
+     "score": 0.999
+    },
+    {
+     "word": "before",
+     "p": 0.0374,
+     "rhyme": 0,
+     "score": 0.885
+    },
+    {
+     "word": "finally",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.14
+    },
+    {
+     "word": "about",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.116
+    },
+    {
+     "word": "somewhere",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.106
+    },
+    {
+     "word": "leaving",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.098
+    },
+    {
+     "word": "within",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.096
+    },
+    {
+     "word": "around",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.095
+    },
+    {
+     "word": "until",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.088
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "And we may still be glad of everyone.",
+   "syllables": 10,
+   "target": 10,
+   "partner": "inspiration",
+   "qwen_top": "it",
+   "meant": "it",
+   "chosen": "everyone",
+   "candidates": [
+    {
+     "word": "everyone",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "anyone",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "someone",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "today",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "amazing",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "able",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "making",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "always",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "places",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "But let your mind no fewer",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "more",
+   "meant": "more",
+   "chosen": "fewer",
+   "candidates": [
+    {
+     "word": "fewer",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "perhaps",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.73
+    },
+    {
+     "word": "enough",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.631
+    },
+    {
+     "word": "even",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.563
+    },
+    {
+     "word": "further",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.563
+    },
+    {
+     "word": "about",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.383
+    },
+    {
+     "word": "little",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.337
+    },
+    {
+     "word": "deeper",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.309
+    },
+    {
+     "word": "thoughtful",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "any",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.283
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Have the tears for revelation.",
+   "syllables": 8,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "me",
+   "chosen": "revelation",
+   "candidates": [
+    {
+     "word": "revelation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "information",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "admiration",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "appreciate",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "today",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "nobody",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "somebody",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "adversity",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "stupidity",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "liberty",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.269
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "From the depths of darkness I expect",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "have",
+   "meant": "see",
+   "chosen": "expect",
+   "candidates": [
+    {
+     "word": "expect",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "able",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.815
+    },
+    {
+     "word": "listen",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.555
+    },
+    {
+     "word": "gather",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.496
+    },
+    {
+     "word": "believe",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.475
+    },
+    {
+     "word": "coming",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.422
+    },
+    {
+     "word": "expected",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.356
+    },
+    {
+     "word": "descend",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.332
+    },
+    {
+     "word": "follow",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.314
+    },
+    {
+     "word": "hoping",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.28
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "To find a new observation.",
+   "syllables": 8,
+   "target": 7,
+   "partner": "revelation",
+   "qwen_top": "light",
+   "meant": "light",
+   "chosen": "observation",
+   "candidates": [
+    {
+     "word": "observation",
+     "p": 0.002,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "inspiration",
+     "p": 0.0015,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "sensation",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "information",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "destination",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "contemplation",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "creation",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "fascination",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "celebration",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "alien",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  }
+ ]
+}

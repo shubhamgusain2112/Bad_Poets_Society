@@ -1,0 +1,1452 @@
+{
+ "poet": "Henry Wadsworth Longfellow",
+ "system": "B1",
+ "lam": 1.0,
+ "scheme": "none",
+ "seed": 0,
+ "model": "lora",
+ "stop": "20 lines",
+ "poem": "On the isle of Sarsunya the\nVenus sits in splendor; behold,\nIn her own narrow chamber\nThe three daughters sit beside her,\nAnd mingle their voices at even.\nAlas, who could have dreamed before\nTheir flight was planned for this hour!\nThou that dost smile on every face,\nDost greet with all thy friendship each\nClose companion to-morrow! Ah,\nI know not if thee I can forget;\nFor once thou lovedst Venus!\nSince thou hast known her smiles and faces,\nEre to my heart's good-natured eyes\nA shadow fell a moment ago,\nLet me remember, remembering,\nWhat she said when we parted.\nSo saying it I sat him waiting,\nAnd though he called me 'thee' again\nBy the same name long since in heaven,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "On the isle of Sarsunya the",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "the",
+   "candidates": [
+    {
+     "word": "the",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "there",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "was",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 0.999
+    },
+    {
+     "word": "they",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.882
+    },
+    {
+     "word": "he",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.783
+    },
+    {
+     "word": "is",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "in",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.473
+    },
+    {
+     "word": "stood",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "lies",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "she",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.326
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Venus sits in splendor; behold,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "behold",
+   "candidates": [
+    {
+     "word": "behold",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "above",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.732
+    },
+    {
+     "word": "upon",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "beautiful",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.57
+    },
+    {
+     "word": "over",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.369
+    },
+    {
+     "word": "seated",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "afar",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.346
+    },
+    {
+     "word": "beneath",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "among",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "around",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.253
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "In her own narrow chamber",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "chamber",
+   "meant": "chamber",
+   "chosen": "chamber",
+   "candidates": [
+    {
+     "word": "chamber",
+     "p": 0.0532,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "palace",
+     "p": 0.0415,
+     "rhyme": 0,
+     "score": 0.781
+    },
+    {
+     "word": "garden",
+     "p": 0.0196,
+     "rhyme": 0,
+     "score": 0.369
+    },
+    {
+     "word": "little",
+     "p": 0.0162,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "window",
+     "p": 0.0152,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "circle",
+     "p": 0.0134,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "temple",
+     "p": 0.0127,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "valley",
+     "p": 0.0119,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "domain",
+     "p": 0.0112,
+     "rhyme": 0,
+     "score": 0.21
+    },
+    {
+     "word": "dwelling",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.197
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "The three daughters sit beside her,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "her",
+   "meant": "her",
+   "chosen": "her",
+   "candidates": [
+    {
+     "word": "her",
+     "p": 0.8723,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "the",
+     "p": 0.0181,
+     "rhyme": 0,
+     "score": 0.021
+    },
+    {
+     "word": "him",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.002
+    },
+    {
+     "word": "each",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.002
+    },
+    {
+     "word": "their",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.001
+    },
+    {
+     "word": "one",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.001
+    },
+    {
+     "word": "thee",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.001
+    },
+    {
+     "word": "them",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "a",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "and",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "And mingle their voices at even.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "her",
+   "meant": "her",
+   "chosen": "even",
+   "candidates": [
+    {
+     "word": "even",
+     "p": 0.0885,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "every",
+     "p": 0.0113,
+     "rhyme": 0,
+     "score": 0.127
+    },
+    {
+     "word": "pleasure",
+     "p": 0.0112,
+     "rhyme": 0,
+     "score": 0.127
+    },
+    {
+     "word": "intervals",
+     "p": 0.0099,
+     "rhyme": 0,
+     "score": 0.112
+    },
+    {
+     "word": "leisure",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.032
+    },
+    {
+     "word": "equal",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.027
+    },
+    {
+     "word": "variance",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.027
+    },
+    {
+     "word": "evening",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.024
+    },
+    {
+     "word": "table",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.022
+    },
+    {
+     "word": "music",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.021
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Alas, who could have dreamed before",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "before",
+   "candidates": [
+    {
+     "word": "before",
+     "p": 0.0265,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "thereof",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "upon",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "among",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.034
+    },
+    {
+     "word": "even",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.018
+    },
+    {
+     "word": "during",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.014
+    },
+    {
+     "word": "about",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.01
+    },
+    {
+     "word": "within",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.01
+    },
+    {
+     "word": "perhaps",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.009
+    },
+    {
+     "word": "above",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.009
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Their flight was planned for this hour!",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "day",
+   "meant": "day",
+   "chosen": "hour",
+   "candidates": [
+    {
+     "word": "hour",
+     "p": 0.0524,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "evening",
+     "p": 0.0117,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "morning",
+     "p": 0.0103,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "very",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.144
+    },
+    {
+     "word": "moment",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "season",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.101
+    },
+    {
+     "word": "winter",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.101
+    },
+    {
+     "word": "summer",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.095
+    },
+    {
+     "word": "mortal",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.087
+    },
+    {
+     "word": "little",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.072
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Thou that dost smile on every face,",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "face",
+   "meant": "face",
+   "chosen": "face",
+   "candidates": [
+    {
+     "word": "face",
+     "p": 0.2121,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "day",
+     "p": 0.1003,
+     "rhyme": 0,
+     "score": 0.473
+    },
+    {
+     "word": "scene",
+     "p": 0.0504,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "sight",
+     "p": 0.0503,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "shore",
+     "p": 0.0369,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "side",
+     "p": 0.0368,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "page",
+     "p": 0.0254,
+     "rhyme": 0,
+     "score": 0.12
+    },
+    {
+     "word": "one",
+     "p": 0.0227,
+     "rhyme": 0,
+     "score": 0.107
+    },
+    {
+     "word": "thing",
+     "p": 0.021,
+     "rhyme": 0,
+     "score": 0.099
+    },
+    {
+     "word": "breeze",
+     "p": 0.0163,
+     "rhyme": 0,
+     "score": 0.077
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Dost greet with all thy friendship each",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "each",
+   "meant": "each",
+   "chosen": "each",
+   "candidates": [
+    {
+     "word": "each",
+     "p": 0.0942,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "all",
+     "p": 0.0832,
+     "rhyme": 0,
+     "score": 0.883
+    },
+    {
+     "word": "the",
+     "p": 0.0211,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "and",
+     "p": 0.0186,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "every",
+     "p": 0.0164,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "here",
+     "p": 0.0145,
+     "rhyme": 0,
+     "score": 0.154
+    },
+    {
+     "word": "me",
+     "p": 0.0128,
+     "rhyme": 0,
+     "score": 0.136
+    },
+    {
+     "word": "those",
+     "p": 0.0128,
+     "rhyme": 0,
+     "score": 0.136
+    },
+    {
+     "word": "grace",
+     "p": 0.0089,
+     "rhyme": 0,
+     "score": 0.095
+    },
+    {
+     "word": "these",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.073
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Close companion to-morrow! Ah,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "ah",
+   "meant": "ah",
+   "chosen": "ah",
+   "candidates": [
+    {
+     "word": "ah",
+     "p": 0.0404,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "but",
+     "p": 0.0377,
+     "rhyme": 0,
+     "score": 0.934
+    },
+    {
+     "word": "i",
+     "p": 0.0301,
+     "rhyme": 0,
+     "score": 0.746
+    },
+    {
+     "word": "yet",
+     "p": 0.0177,
+     "rhyme": 0,
+     "score": 0.439
+    },
+    {
+     "word": "see",
+     "p": 0.0174,
+     "rhyme": 0,
+     "score": 0.431
+    },
+    {
+     "word": "for",
+     "p": 0.0164,
+     "rhyme": 0,
+     "score": 0.405
+    },
+    {
+     "word": "and",
+     "p": 0.0152,
+     "rhyme": 0,
+     "score": 0.377
+    },
+    {
+     "word": "o",
+     "p": 0.0135,
+     "rhyme": 0,
+     "score": 0.333
+    },
+    {
+     "word": "now",
+     "p": 0.0129,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "thou",
+     "p": 0.0113,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "I know not if thee I can forget;",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "love",
+   "meant": "love",
+   "chosen": "forget",
+   "candidates": [
+    {
+     "word": "forget",
+     "p": 0.0928,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "forgive",
+     "p": 0.0235,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "recall",
+     "p": 0.0161,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "repay",
+     "p": 0.0111,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "behold",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "adore",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "reply",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "cherish",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "believe",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "remember",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.05
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "For once thou lovedst Venus!",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "me",
+   "meant": "me",
+   "chosen": "venus",
+   "candidates": [
+    {
+     "word": "venus",
+     "p": 0.0199,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "even",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.073
+    },
+    {
+     "word": "mary",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.06
+    },
+    {
+     "word": "our",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.057
+    },
+    {
+     "word": "beauty",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.055
+    },
+    {
+     "word": "helen",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "another",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.044
+    },
+    {
+     "word": "every",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.041
+    },
+    {
+     "word": "also",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.041
+    },
+    {
+     "word": "myself",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.039
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "text": "Since thou hast known her smiles and faces,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "eyes",
+   "meant": "eyes",
+   "chosen": "faces",
+   "candidates": [
+    {
+     "word": "faces",
+     "p": 0.0206,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "laughter",
+     "p": 0.016,
+     "rhyme": 0,
+     "score": 0.779
+    },
+    {
+     "word": "voices",
+     "p": 0.0142,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "kisses",
+     "p": 0.0125,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "whispers",
+     "p": 0.0097,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "praises",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.099
+    },
+    {
+     "word": "dances",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.077
+    },
+    {
+     "word": "shadows",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "gestures",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "secrets",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.053
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "text": "Ere to my heart's good-natured eyes",
+   "syllables": 8,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "eyes",
+   "meant": "eyes",
+   "chosen": "eyes",
+   "candidates": [
+    {
+     "word": "eyes",
+     "p": 0.0846,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "heart",
+     "p": 0.0514,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "eye",
+     "p": 0.0376,
+     "rhyme": 0,
+     "score": 0.444
+    },
+    {
+     "word": "love",
+     "p": 0.0333,
+     "rhyme": 0,
+     "score": 0.393
+    },
+    {
+     "word": "grace",
+     "p": 0.0245,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "gaze",
+     "p": 0.0242,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "glance",
+     "p": 0.0201,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "joy",
+     "p": 0.0167,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "ears",
+     "p": 0.0147,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "depths",
+     "p": 0.0138,
+     "rhyme": 0,
+     "score": 0.163
+    }
+   ]
+  },
+  {
+   "line": 15,
+   "text": "A shadow fell a moment ago,",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "ago",
+   "meant": "ago",
+   "chosen": "ago",
+   "candidates": [
+    {
+     "word": "ago",
+     "p": 0.093,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "long",
+     "p": 0.0821,
+     "rhyme": 0,
+     "score": 0.883
+    },
+    {
+     "word": "ere",
+     "p": 0.0388,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "last",
+     "p": 0.0342,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "of",
+     "p": 0.0266,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "more",
+     "p": 0.0126,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "or",
+     "p": 0.0111,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "there",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "and",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "past",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.082
+    }
+   ]
+  },
+  {
+   "line": 16,
+   "text": "Let me remember, remembering,",
+   "syllables": 9,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "remembering",
+   "candidates": [
+    {
+     "word": "remembering",
+     "p": 0.0218,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "remember",
+     "p": 0.0205,
+     "rhyme": 0,
+     "score": 0.941
+    },
+    {
+     "word": "alas",
+     "p": 0.0116,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "even",
+     "p": 0.0091,
+     "rhyme": 0,
+     "score": 0.418
+    },
+    {
+     "word": "without",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "venus",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "happy",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.168
+    },
+    {
+     "word": "beloved",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.144
+    },
+    {
+     "word": "therefore",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.12
+    },
+    {
+     "word": "however",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.119
+    }
+   ]
+  },
+  {
+   "line": 17,
+   "text": "What she said when we parted.",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "met",
+   "meant": "met",
+   "chosen": "parted",
+   "candidates": [
+    {
+     "word": "parted",
+     "p": 0.1447,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "entered",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.032
+    },
+    {
+     "word": "began",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.024
+    },
+    {
+     "word": "married",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.015
+    },
+    {
+     "word": "together",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.011
+    },
+    {
+     "word": "approached",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.008
+    },
+    {
+     "word": "exchanged",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.008
+    },
+    {
+     "word": "wandered",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.008
+    },
+    {
+     "word": "separated",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.007
+    },
+    {
+     "word": "seated",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.006
+    }
+   ]
+  },
+  {
+   "line": 18,
+   "text": "So saying it I sat him waiting,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "down",
+   "meant": "down",
+   "chosen": "waiting",
+   "candidates": [
+    {
+     "word": "waiting",
+     "p": 0.0482,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "leaning",
+     "p": 0.0228,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "aside",
+     "p": 0.0138,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "listening",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "alone",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "silent",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "beside",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "thinking",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "reading",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "smiling",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.082
+    }
+   ]
+  },
+  {
+   "line": 19,
+   "text": "And though he called me 'thee' again",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0404,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "every",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "before",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "often",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "many",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "instead",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "without",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "never",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "frequently",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "always",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.034
+    }
+   ]
+  },
+  {
+   "line": 20,
+   "text": "By the same name long since in heaven,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "vain",
+   "meant": "vain",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0217,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "passing",
+     "p": 0.0144,
+     "rhyme": 0,
+     "score": 0.662
+    },
+    {
+     "word": "memory",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.485
+    },
+    {
+     "word": "prison",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.259
+    },
+    {
+     "word": "hearing",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.259
+    },
+    {
+     "word": "hiding",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "silence",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.179
+    },
+    {
+     "word": "despair",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.13
+    },
+    {
+     "word": "dying",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.115
+    }
+   ]
+  }
+ ]
+}

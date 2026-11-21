@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 0.75,
+ "scheme": "AABB",
+ "seed": 2,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Glared gleam from the lurid light\nOf wedlock and marriage and\nDisease of hate, the disease\nOf which the hands are moist with fire.\nThe eyes in grey were full again\nWith blood that had been dry before them.\nThey fought for two and seven hundred\nAnd fifty years, over many,\nThrough many a burning day,\nBlazing all night through to morning,\nTill one at last was given voice again,\nAnd blithe-birded breath in sleepless heaven",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Glared gleam from the lurid light",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "light",
+   "meant": "light",
+   "chosen": "light",
+   "candidates": [
+    {
+     "word": "light",
+     "p": 0.0314,
+     "rhyme": 0,
+     "score": 0.962
+    },
+    {
+     "word": "moon",
+     "p": 0.0278,
+     "rhyme": 0,
+     "score": 0.873
+    },
+    {
+     "word": "sky",
+     "p": 0.0203,
+     "rhyme": 0,
+     "score": 0.733
+    },
+    {
+     "word": "sun",
+     "p": 0.0217,
+     "rhyme": 0,
+     "score": 0.712
+    },
+    {
+     "word": "sea",
+     "p": 0.0149,
+     "rhyme": 0,
+     "score": 0.636
+    },
+    {
+     "word": "eyes",
+     "p": 0.0168,
+     "rhyme": 0,
+     "score": 0.62
+    },
+    {
+     "word": "flame",
+     "p": 0.0109,
+     "rhyme": 0,
+     "score": 0.44
+    },
+    {
+     "word": "and",
+     "p": 0.0096,
+     "rhyme": 0,
+     "score": 0.418
+    },
+    {
+     "word": "night",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.413
+    },
+    {
+     "word": "fire",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.412
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Of wedlock and marriage and",
+   "syllables": 7,
+   "target": 8,
+   "partner": "light",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "and",
+   "candidates": [
+    {
+     "word": "and",
+     "p": 0.0569,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "night",
+     "p": 0.0163,
+     "rhyme": 1.0,
+     "score": 0.465
+    },
+    {
+     "word": "right",
+     "p": 0.0032,
+     "rhyme": 1.0,
+     "score": 0.292
+    },
+    {
+     "word": "bright",
+     "p": 0.003,
+     "rhyme": 1.0,
+     "score": 0.29
+    },
+    {
+     "word": "tonight",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 0.255
+    },
+    {
+     "word": "white",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 0.255
+    },
+    {
+     "word": "day",
+     "p": 0.0186,
+     "rhyme": 0,
+     "score": 0.245
+    },
+    {
+     "word": "wrought",
+     "p": 0.0099,
+     "rhyme": 0.3,
+     "score": 0.205
+    },
+    {
+     "word": "strife",
+     "p": 0.0041,
+     "rhyme": 0.6,
+     "score": 0.204
+    },
+    {
+     "word": "rites",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.169
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Disease of hate, the disease",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "death",
+   "meant": "death",
+   "chosen": "disease",
+   "candidates": [
+    {
+     "word": "disease",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 1.001
+    },
+    {
+     "word": "shadow",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.706
+    },
+    {
+     "word": "fire",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.557
+    },
+    {
+     "word": "poison",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.484
+    },
+    {
+     "word": "dying",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.462
+    },
+    {
+     "word": "bitter",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.459
+    },
+    {
+     "word": "hour",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.439
+    },
+    {
+     "word": "darkness",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.436
+    },
+    {
+     "word": "cruel",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.425
+    },
+    {
+     "word": "deadly",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.424
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Of which the hands are moist with fire.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "disease",
+   "qwen_top": "blood",
+   "meant": "blood",
+   "chosen": "fire",
+   "candidates": [
+    {
+     "word": "fire",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "fever",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.298
+    },
+    {
+     "word": "bleeding",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.195
+    },
+    {
+     "word": "healing",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.156
+    },
+    {
+     "word": "poison",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.148
+    },
+    {
+     "word": "ashes",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.089
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.048
+    },
+    {
+     "word": "burning",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.035
+    },
+    {
+     "word": "dying",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.031
+    },
+    {
+     "word": "water",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.026
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "The eyes in grey were full again",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 1.003
+    },
+    {
+     "word": "upon",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.423
+    },
+    {
+     "word": "content",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "anew",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.299
+    },
+    {
+     "word": "array",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "away",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "display",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "dismay",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "within",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "before",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.271
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "With blood that had been dry before them.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "again",
+   "qwen_top": "them",
+   "meant": "them",
+   "chosen": "them",
+   "candidates": [
+    {
+     "word": "them",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.9
+    },
+    {
+     "word": "it",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.585
+    },
+    {
+     "word": "when",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 0.266
+    },
+    {
+     "word": "then",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 0.258
+    },
+    {
+     "word": "us",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.252
+    },
+    {
+     "word": "un",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 0.251
+    },
+    {
+     "word": "ten",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 0.251
+    },
+    {
+     "word": "men",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 0.251
+    },
+    {
+     "word": "pain",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 0.25
+    },
+    {
+     "word": "rain",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 0.25
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "They fought for two and seven hundred",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "years",
+   "meant": "years",
+   "chosen": "hundred",
+   "candidates": [
+    {
+     "word": "hundred",
+     "p": 0.0131,
+     "rhyme": 0,
+     "score": 0.83
+    },
+    {
+     "word": "hours",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.72
+    },
+    {
+     "word": "degrees",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "generations",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "again",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "thirty",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "ages",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "between",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.255
+    },
+    {
+     "word": "before",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "until",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.217
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "And fifty years, over many,",
+   "syllables": 8,
+   "target": 9,
+   "partner": "hundred",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "many",
+   "candidates": [
+    {
+     "word": "many",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "seven",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.586
+    },
+    {
+     "word": "again",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.516
+    },
+    {
+     "word": "fifty",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.26
+    },
+    {
+     "word": "against",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.178
+    },
+    {
+     "word": "another",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.176
+    },
+    {
+     "word": "money",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.173
+    },
+    {
+     "word": "hundreds",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.17
+    },
+    {
+     "word": "forty",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.168
+    },
+    {
+     "word": "london",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.165
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Through many a burning day,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "day",
+   "meant": "day",
+   "chosen": "day",
+   "candidates": [
+    {
+     "word": "day",
+     "p": 0.0945,
+     "rhyme": 0,
+     "score": 1.025
+    },
+    {
+     "word": "year",
+     "p": 0.061,
+     "rhyme": 0,
+     "score": 0.714
+    },
+    {
+     "word": "night",
+     "p": 0.0507,
+     "rhyme": 0,
+     "score": 0.613
+    },
+    {
+     "word": "and",
+     "p": 0.0506,
+     "rhyme": 0,
+     "score": 0.591
+    },
+    {
+     "word": "hour",
+     "p": 0.0288,
+     "rhyme": 0,
+     "score": 0.39
+    },
+    {
+     "word": "of",
+     "p": 0.0254,
+     "rhyme": 0,
+     "score": 0.312
+    },
+    {
+     "word": "city",
+     "p": 0.0226,
+     "rhyme": 0,
+     "score": 0.308
+    },
+    {
+     "word": "sea",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "way",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "war",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 0.294
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Blazing all night through to morning,",
+   "syllables": 8,
+   "target": 9,
+   "partner": "day",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "morning",
+   "candidates": [
+    {
+     "word": "morning",
+     "p": 0.0467,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "breaking",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.173
+    },
+    {
+     "word": "waking",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.157
+    },
+    {
+     "word": "awake",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.152
+    },
+    {
+     "word": "daylight",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.079
+    },
+    {
+     "word": "early",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.058
+    },
+    {
+     "word": "midnight",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.054
+    },
+    {
+     "word": "sunrise",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.054
+    },
+    {
+     "word": "seven",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.022
+    },
+    {
+     "word": "many",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.02
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Till one at last was given voice again,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 1.003
+    },
+    {
+     "word": "alone",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.349
+    },
+    {
+     "word": "anew",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "away",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "below",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "today",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "into",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "before",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.258
+    },
+    {
+     "word": "upon",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "between",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.252
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "And blithe-birded breath in sleepless heaven",
+   "syllables": 10,
+   "target": 11,
+   "partner": "again",
+   "qwen_top": "eyes",
+   "meant": "eyes",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0171,
+     "rhyme": 0.6,
+     "score": 0.9
+    },
+    {
+     "word": "hour",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.346
+    },
+    {
+     "word": "hours",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "faces",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.17
+    },
+    {
+     "word": "frenzy",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.17
+    },
+    {
+     "word": "ecstasy",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.164
+    },
+    {
+     "word": "waking",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.164
+    },
+    {
+     "word": "silence",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.106
+    },
+    {
+     "word": "wonder",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "agony",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.082
+    }
+   ]
+  }
+ ]
+}

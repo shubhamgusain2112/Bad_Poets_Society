@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 1.0,
+ "scheme": "AABB",
+ "seed": 14,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "This Thursday, you left our\nTuesday at the door and never\nReturning till now by night before;\nThe great host there for morn or even\nThis time of year in summer weather\nFor table, and fruit basket,\nAnd Sunday school on the green lawn, etc.\nHad he his flowers no more before\nThan these which now lie in a jar? etc.\nHe lived as we think him, but here again\nWe read it harder than he when writing,\nSinging or playing, singing",
+ "lines": [
+  {
+   "line": 1,
+   "text": "This Thursday, you left our",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "me",
+   "meant": "me",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 1.229
+    },
+    {
+     "word": "before",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.425
+    },
+    {
+     "word": "alone",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.415
+    },
+    {
+     "word": "behind",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.404
+    },
+    {
+     "word": "again",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.397
+    },
+    {
+     "word": "london",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.379
+    },
+    {
+     "word": "without",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.374
+    },
+    {
+     "word": "away",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "upon",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "today",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.297
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Tuesday at the door and never",
+   "syllables": 8,
+   "target": 9,
+   "partner": "our",
+   "qwen_top": "came",
+   "meant": "came",
+   "chosen": "never",
+   "candidates": [
+    {
+     "word": "never",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "entered",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.646
+    },
+    {
+     "word": "friday",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.569
+    },
+    {
+     "word": "thursday",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.569
+    },
+    {
+     "word": "morning",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.393
+    },
+    {
+     "word": "monday",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.306
+    },
+    {
+     "word": "opened",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "waited",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "wednesday",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "before",
+     "p": 0.0021,
+     "rhyme": 0.3,
+     "score": 0.21
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Returning till now by night before;",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "or",
+   "meant": "or",
+   "chosen": "before",
+   "candidates": [
+    {
+     "word": "before",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 1.229
+    },
+    {
+     "word": "again",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 1.136
+    },
+    {
+     "word": "after",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.963
+    },
+    {
+     "word": "away",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.692
+    },
+    {
+     "word": "alone",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.691
+    },
+    {
+     "word": "hour",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.577
+    },
+    {
+     "word": "until",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.464
+    },
+    {
+     "word": "hours",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.463
+    },
+    {
+     "word": "upon",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.369
+    },
+    {
+     "word": "our",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.366
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "The great host there for morn or even",
+   "syllables": 9,
+   "target": 10,
+   "partner": "before",
+   "qwen_top": "eve",
+   "meant": "eve",
+   "chosen": "even",
+   "candidates": [
+    {
+     "word": "even",
+     "p": 0.0383,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "evening",
+     "p": 0.011,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "after",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.087
+    },
+    {
+     "word": "later",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "supper",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.053
+    },
+    {
+     "word": "dinner",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.041
+    },
+    {
+     "word": "early",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.039
+    },
+    {
+     "word": "sunset",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.022
+    },
+    {
+     "word": "midnight",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.019
+    },
+    {
+     "word": "hour",
+     "p": 0.0004,
+     "rhyme": 0.3,
+     "score": 0.01
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "This time of year in summer weather",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "or",
+   "meant": "or",
+   "chosen": "weather",
+   "candidates": [
+    {
+     "word": "weather",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 1.115
+    },
+    {
+     "word": "before",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.438
+    },
+    {
+     "word": "season",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.395
+    },
+    {
+     "word": "summer",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.381
+    },
+    {
+     "word": "july",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.361
+    },
+    {
+     "word": "hours",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.359
+    },
+    {
+     "word": "after",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "again",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "hour",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.314
+    },
+    {
+     "word": "never",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.277
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "For table, and fruit basket,",
+   "syllables": 7,
+   "target": 8,
+   "partner": "weather",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "basket",
+   "candidates": [
+    {
+     "word": "basket",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "before",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "upon",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.367
+    },
+    {
+     "word": "alone",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "within",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "without",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "table",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "baskets",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "indeed",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "salad",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.153
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "And Sunday school on the green lawn, etc.",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "etc",
+   "candidates": [
+    {
+     "word": "etc",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 1.035
+    },
+    {
+     "word": "below",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.318
+    },
+    {
+     "word": "away",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.304
+    },
+    {
+     "word": "before",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "our",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "again",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "until",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "unseen",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.266
+    },
+    {
+     "word": "perhaps",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "beside",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.256
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Had he his flowers no more before",
+   "syllables": 9,
+   "target": 10,
+   "partner": "etc",
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "before",
+   "candidates": [
+    {
+     "word": "before",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "taken",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "given",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "among",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "planted",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "about",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "gathered",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "beside",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "within",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "upon",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.325
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Than these which now lie in a jar? etc.",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "etc",
+   "meant": "etc",
+   "chosen": "etc",
+   "candidates": [
+    {
+     "word": "etc",
+     "p": 0.1463,
+     "rhyme": 0,
+     "score": 1.035
+    },
+    {
+     "word": "today",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "away",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "below",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "again",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "forget",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "compare",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "prepare",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.237
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "He lived as we think him, but here again",
+   "syllables": 10,
+   "target": 11,
+   "partner": "etc",
+   "qwen_top": "he",
+   "meant": "he",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 1.0
+    },
+    {
+     "word": "alone",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.779
+    },
+    {
+     "word": "before",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "below",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "today",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.327
+    },
+    {
+     "word": "tonight",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "our",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "after",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "among",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "beside",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.197
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "We read it harder than he when writing,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "he",
+   "meant": "he",
+   "chosen": "writing",
+   "candidates": [
+    {
+     "word": "writing",
+     "p": 0.0149,
+     "rhyme": 0,
+     "score": 1.145
+    },
+    {
+     "word": "reading",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.551
+    },
+    {
+     "word": "ever",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.437
+    },
+    {
+     "word": "before",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.348
+    },
+    {
+     "word": "away",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.331
+    },
+    {
+     "word": "written",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "our",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.311
+    },
+    {
+     "word": "early",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "again",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "ago",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.288
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Singing or playing, singing",
+   "syllables": 7,
+   "target": 8,
+   "partner": "writing",
+   "qwen_top": "or",
+   "meant": "or",
+   "chosen": "singing",
+   "candidates": [
+    {
+     "word": "singing",
+     "p": 0.0232,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "etc",
+     "p": 0.0204,
+     "rhyme": 0,
+     "score": 0.882
+    },
+    {
+     "word": "reading",
+     "p": 0.011,
+     "rhyme": 0,
+     "score": 0.474
+    },
+    {
+     "word": "even",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "because",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "our",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.187
+    },
+    {
+     "word": "playing",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.144
+    },
+    {
+     "word": "saying",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.136
+    },
+    {
+     "word": "listening",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.127
+    },
+    {
+     "word": "thinking",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.127
+    }
+   ]
+  }
+ ]
+}

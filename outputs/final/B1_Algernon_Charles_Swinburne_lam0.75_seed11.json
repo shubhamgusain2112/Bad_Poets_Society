@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 0.75,
+ "scheme": "AABB",
+ "seed": 11,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "West Wind, bring to us a delicate wind\nFrom the boundless deeps of the ages of\nThe night and the dawn; from the earth below,\nThat is not sunlit on our\nRiver Euphrates: O gentle\nAnd cunning and far-sounding West again,\nO winds that are as great beyond\nWeighed with deeds than life itself,\nAnd strong beneath the power of heaven,\nSpeak unto us the message divine.\nThree hundred years in this river,\nThirteen centuries before",
+ "lines": [
+  {
+   "line": 1,
+   "text": "West Wind, bring to us a delicate wind",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "breath",
+   "meant": "breath",
+   "chosen": "wind",
+   "candidates": [
+    {
+     "word": "wind",
+     "p": 0.0368,
+     "rhyme": 0,
+     "score": 0.86
+    },
+    {
+     "word": "song",
+     "p": 0.0369,
+     "rhyme": 0,
+     "score": 0.85
+    },
+    {
+     "word": "breath",
+     "p": 0.0415,
+     "rhyme": 0,
+     "score": 0.847
+    },
+    {
+     "word": "breeze",
+     "p": 0.0236,
+     "rhyme": 0,
+     "score": 0.677
+    },
+    {
+     "word": "and",
+     "p": 0.0222,
+     "rhyme": 0,
+     "score": 0.59
+    },
+    {
+     "word": "sound",
+     "p": 0.0223,
+     "rhyme": 0,
+     "score": 0.579
+    },
+    {
+     "word": "air",
+     "p": 0.0144,
+     "rhyme": 0,
+     "score": 0.497
+    },
+    {
+     "word": "sweet",
+     "p": 0.0143,
+     "rhyme": 0,
+     "score": 0.468
+    },
+    {
+     "word": "rain",
+     "p": 0.0119,
+     "rhyme": 0,
+     "score": 0.468
+    },
+    {
+     "word": "day",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.433
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "From the boundless deeps of the ages of",
+   "syllables": 10,
+   "target": 11,
+   "partner": "wind",
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "of",
+   "candidates": [
+    {
+     "word": "of",
+     "p": 0.118,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "to",
+     "p": 0.0811,
+     "rhyme": 0.6,
+     "score": 0.666
+    },
+    {
+     "word": "gone",
+     "p": 0.0811,
+     "rhyme": 0,
+     "score": 0.516
+    },
+    {
+     "word": "past",
+     "p": 0.0634,
+     "rhyme": 0,
+     "score": 0.403
+    },
+    {
+     "word": "that",
+     "p": 0.0558,
+     "rhyme": 0,
+     "score": 0.355
+    },
+    {
+     "word": "and",
+     "p": 0.0383,
+     "rhyme": 0.3,
+     "score": 0.319
+    },
+    {
+     "word": "old",
+     "p": 0.0435,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "behind",
+     "p": 0.0015,
+     "rhyme": 1.0,
+     "score": 0.259
+    },
+    {
+     "word": "blind",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 0.251
+    },
+    {
+     "word": "mind",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 0.251
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "The night and the dawn; from the earth below,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "below",
+   "candidates": [
+    {
+     "word": "below",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 1.012
+    },
+    {
+     "word": "beneath",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.786
+    },
+    {
+     "word": "above",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.566
+    },
+    {
+     "word": "without",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.332
+    },
+    {
+     "word": "before",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "itself",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.318
+    },
+    {
+     "word": "unseen",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.314
+    },
+    {
+     "word": "upon",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.312
+    },
+    {
+     "word": "away",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "within",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.301
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "That is not sunlit on our",
+   "syllables": 8,
+   "target": 9,
+   "partner": "below",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0766,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.226
+    },
+    {
+     "word": "yellow",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.226
+    },
+    {
+     "word": "shadow",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.226
+    },
+    {
+     "word": "ocean",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.154
+    },
+    {
+     "word": "lonely",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.152
+    },
+    {
+     "word": "golden",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.151
+    },
+    {
+     "word": "frozen",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.151
+    },
+    {
+     "word": "holy",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.151
+    },
+    {
+     "word": "either",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.058
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "River Euphrates: O gentle",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "west",
+   "meant": "west",
+   "chosen": "gentle",
+   "candidates": [
+    {
+     "word": "gentle",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.926
+    },
+    {
+     "word": "our",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.688
+    },
+    {
+     "word": "river",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.59
+    },
+    {
+     "word": "western",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.57
+    },
+    {
+     "word": "ever",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.403
+    },
+    {
+     "word": "never",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.401
+    },
+    {
+     "word": "spirit",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.372
+    },
+    {
+     "word": "ocean",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "shadow",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.318
+    },
+    {
+     "word": "divine",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.294
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "And cunning and far-sounding West again,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "gentle",
+   "qwen_top": "wind",
+   "meant": "wind",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.9
+    },
+    {
+     "word": "spirit",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "weather",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.377
+    },
+    {
+     "word": "winter",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.364
+    },
+    {
+     "word": "fire",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "western",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.29
+    },
+    {
+     "word": "angel",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "never",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.25
+    },
+    {
+     "word": "brother",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "ever",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.238
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "O winds that are as great beyond",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "as",
+   "meant": "as",
+   "chosen": "beyond",
+   "candidates": [
+    {
+     "word": "beyond",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.897
+    },
+    {
+     "word": "upon",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.818
+    },
+    {
+     "word": "within",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.801
+    },
+    {
+     "word": "above",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.772
+    },
+    {
+     "word": "among",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.755
+    },
+    {
+     "word": "before",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.505
+    },
+    {
+     "word": "again",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.483
+    },
+    {
+     "word": "without",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.477
+    },
+    {
+     "word": "waters",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.432
+    },
+    {
+     "word": "indeed",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.403
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Weighed with deeds than life itself,",
+   "syllables": 7,
+   "target": 8,
+   "partner": "beyond",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "itself",
+   "candidates": [
+    {
+     "word": "itself",
+     "p": 0.026,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "upon",
+     "p": 0.0066,
+     "rhyme": 0.6,
+     "score": 0.34
+    },
+    {
+     "word": "before",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.179
+    },
+    {
+     "word": "our",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.164
+    },
+    {
+     "word": "cannot",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.164
+    },
+    {
+     "word": "ours",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.157
+    },
+    {
+     "word": "recorded",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.156
+    },
+    {
+     "word": "because",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.156
+    },
+    {
+     "word": "belongs",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.155
+    },
+    {
+     "word": "apart",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.155
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "And strong beneath the power of heaven,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0206,
+     "rhyme": 0,
+     "score": 0.87
+    },
+    {
+     "word": "our",
+     "p": 0.016,
+     "rhyme": 0,
+     "score": 0.811
+    },
+    {
+     "word": "power",
+     "p": 0.0145,
+     "rhyme": 0,
+     "score": 0.686
+    },
+    {
+     "word": "fire",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.474
+    },
+    {
+     "word": "shadow",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "ages",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "nations",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "decay",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "many",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.257
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Speak unto us the message divine.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "heaven",
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "divine",
+   "candidates": [
+    {
+     "word": "divine",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "given",
+     "p": 0.002,
+     "rhyme": 0.3,
+     "score": 0.584
+    },
+    {
+     "word": "again",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.296
+    },
+    {
+     "word": "begun",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.234
+    },
+    {
+     "word": "ever",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.189
+    },
+    {
+     "word": "never",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.183
+    },
+    {
+     "word": "sublime",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.165
+    },
+    {
+     "word": "already",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.165
+    },
+    {
+     "word": "against",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.164
+    },
+    {
+     "word": "bearing",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.162
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Three hundred years in this river,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "world",
+   "meant": "world",
+   "chosen": "river",
+   "candidates": [
+    {
+     "word": "river",
+     "p": 0.0097,
+     "rhyme": 0,
+     "score": 0.865
+    },
+    {
+     "word": "city",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.713
+    },
+    {
+     "word": "narrow",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.627
+    },
+    {
+     "word": "hour",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.585
+    },
+    {
+     "word": "desert",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.554
+    },
+    {
+     "word": "shadow",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.546
+    },
+    {
+     "word": "valley",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.527
+    },
+    {
+     "word": "darkness",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.432
+    },
+    {
+     "word": "weary",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.427
+    },
+    {
+     "word": "twilight",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.358
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Thirteen centuries before",
+   "syllables": 7,
+   "target": 8,
+   "partner": "river",
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "before",
+   "candidates": [
+    {
+     "word": "before",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "upon",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.584
+    },
+    {
+     "word": "ago",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.515
+    },
+    {
+     "word": "over",
+     "p": 0.0056,
+     "rhyme": 0.3,
+     "score": 0.476
+    },
+    {
+     "word": "after",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.401
+    },
+    {
+     "word": "between",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.401
+    },
+    {
+     "word": "under",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "into",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.272
+    },
+    {
+     "word": "within",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.251
+    },
+    {
+     "word": "beyond",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.243
+    }
+   ]
+  }
+ ]
+}

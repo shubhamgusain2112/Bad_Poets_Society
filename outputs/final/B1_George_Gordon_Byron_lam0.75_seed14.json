@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 0.75,
+ "scheme": "ABAB",
+ "seed": 14,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Fragments of a youth, far relieved from\nThe burden of this earth's harsh tyranny,\nSits upon the very walls of Heaven,\nAnd by his own name is called. 'Tis only\nThat he may be found; when Nature herself\nHath left him to her, what meaning is\nWhen she enkindles some animal fire,\nOr makes the wild flowers more tenderly bloom?\nHis soul shall yet remain immortal, and\nHe knows not whether they were his creation\nIn Gods' mould, or in our, neither can\nAscend into Heaven through Heaven.",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Fragments of a youth, far relieved from",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "from",
+   "meant": "from",
+   "chosen": "from",
+   "candidates": [
+    {
+     "word": "from",
+     "p": 0.2978,
+     "rhyme": 0,
+     "score": 0.923
+    },
+    {
+     "word": "of",
+     "p": 0.2628,
+     "rhyme": 0,
+     "score": 0.772
+    },
+    {
+     "word": "by",
+     "p": 0.1095,
+     "rhyme": 0,
+     "score": 0.525
+    },
+    {
+     "word": "to",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.293
+    },
+    {
+     "word": "in",
+     "p": 0.0277,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "be",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ne",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The burden of this earth's harsh tyranny,",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "tyranny",
+   "candidates": [
+    {
+     "word": "tyranny",
+     "p": 0.0167,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "burden",
+     "p": 0.013,
+     "rhyme": 0,
+     "score": 0.639
+    },
+    {
+     "word": "reality",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.385
+    },
+    {
+     "word": "distress",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.371
+    },
+    {
+     "word": "occupation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.357
+    },
+    {
+     "word": "decay",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.35
+    },
+    {
+     "word": "temptation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.341
+    },
+    {
+     "word": "array",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.337
+    },
+    {
+     "word": "shadow",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "labour",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.316
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Sits upon the very walls of Heaven,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "from",
+   "qwen_top": "his",
+   "meant": "his",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.045,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "paradise",
+     "p": 0.0311,
+     "rhyme": 0,
+     "score": 0.518
+    },
+    {
+     "word": "freedom",
+     "p": 0.0012,
+     "rhyme": 0.9,
+     "score": 0.246
+    },
+    {
+     "word": "jerusalem",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.228
+    },
+    {
+     "word": "london",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.188
+    },
+    {
+     "word": "our",
+     "p": 0.0111,
+     "rhyme": 0,
+     "score": 0.185
+    },
+    {
+     "word": "justice",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.162
+    },
+    {
+     "word": "luxury",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.158
+    },
+    {
+     "word": "summer",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.155
+    },
+    {
+     "word": "another",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.154
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "And by his own name is called. 'Tis only",
+   "syllables": 10,
+   "target": 11,
+   "partner": "tyranny",
+   "qwen_top": "he",
+   "meant": "he",
+   "chosen": "only",
+   "candidates": [
+    {
+     "word": "only",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "written",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.735
+    },
+    {
+     "word": "heaven",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.636
+    },
+    {
+     "word": "given",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.605
+    },
+    {
+     "word": "easy",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.455
+    },
+    {
+     "word": "little",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.31
+    },
+    {
+     "word": "also",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "indeed",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.259
+    },
+    {
+     "word": "our",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.219
+    },
+    {
+     "word": "believed",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.214
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "That he may be found; when Nature herself",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "shall",
+   "meant": "shall",
+   "chosen": "herself",
+   "candidates": [
+    {
+     "word": "herself",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.874
+    },
+    {
+     "word": "forget",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.452
+    },
+    {
+     "word": "ce",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.429
+    },
+    {
+     "word": "again",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.411
+    },
+    {
+     "word": "alone",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.366
+    },
+    {
+     "word": "cannot",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.327
+    },
+    {
+     "word": "denies",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "appears",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.302
+    },
+    {
+     "word": "began",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "itself",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.296
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Hath left him to her, what meaning is",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "is",
+   "meant": "is",
+   "chosen": "is",
+   "candidates": [
+    {
+     "word": "is",
+     "p": 0.1243,
+     "rhyme": 0,
+     "score": 0.885
+    },
+    {
+     "word": "can",
+     "p": 0.0754,
+     "rhyme": 0,
+     "score": 0.683
+    },
+    {
+     "word": "then",
+     "p": 0.0754,
+     "rhyme": 0,
+     "score": 0.662
+    },
+    {
+     "word": "hath",
+     "p": 0.0666,
+     "rhyme": 0,
+     "score": 0.522
+    },
+    {
+     "word": "may",
+     "p": 0.0404,
+     "rhyme": 0,
+     "score": 0.519
+    },
+    {
+     "word": "there",
+     "p": 0.0314,
+     "rhyme": 0,
+     "score": 0.427
+    },
+    {
+     "word": "do",
+     "p": 0.0245,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "he",
+     "p": 0.0169,
+     "rhyme": 0,
+     "score": 0.383
+    },
+    {
+     "word": "to",
+     "p": 0.0168,
+     "rhyme": 0,
+     "score": 0.372
+    },
+    {
+     "word": "has",
+     "p": 0.0404,
+     "rhyme": 0,
+     "score": 0.359
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "When she enkindles some animal fire,",
+   "syllables": 11,
+   "target": 11,
+   "partner": "herself",
+   "qwen_top": "fire",
+   "meant": "fire",
+   "chosen": "fire",
+   "candidates": [
+    {
+     "word": "fire",
+     "p": 0.2204,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "flame",
+     "p": 0.1177,
+     "rhyme": 0,
+     "score": 0.4
+    },
+    {
+     "word": "spirit",
+     "p": 0.0631,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "sense",
+     "p": 0.004,
+     "rhyme": 0.6,
+     "score": 0.164
+    },
+    {
+     "word": "breast",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.157
+    },
+    {
+     "word": "breath",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.157
+    },
+    {
+     "word": "there",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.157
+    },
+    {
+     "word": "sex",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.156
+    },
+    {
+     "word": "friend",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.154
+    },
+    {
+     "word": "yet",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.154
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Or makes the wild flowers more tenderly bloom?",
+   "syllables": 11,
+   "target": 11,
+   "partner": "is",
+   "qwen_top": "bloom",
+   "meant": "bloom",
+   "chosen": "bloom",
+   "candidates": [
+    {
+     "word": "bloom",
+     "p": 0.0817,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "sweet",
+     "p": 0.0496,
+     "rhyme": 0,
+     "score": 0.455
+    },
+    {
+     "word": "blow",
+     "p": 0.0437,
+     "rhyme": 0,
+     "score": 0.401
+    },
+    {
+     "word": "flow",
+     "p": 0.0386,
+     "rhyme": 0,
+     "score": 0.354
+    },
+    {
+     "word": "grow",
+     "p": 0.0386,
+     "rhyme": 0,
+     "score": 0.354
+    },
+    {
+     "word": "spring",
+     "p": 0.0182,
+     "rhyme": 0.6,
+     "score": 0.317
+    },
+    {
+     "word": "kiss",
+     "p": 0.0182,
+     "rhyme": 0.6,
+     "score": 0.317
+    },
+    {
+     "word": "his",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 0.255
+    },
+    {
+     "word": "move",
+     "p": 0.0265,
+     "rhyme": 0,
+     "score": 0.243
+    },
+    {
+     "word": "bend",
+     "p": 0.0265,
+     "rhyme": 0,
+     "score": 0.243
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "His soul shall yet remain immortal, and",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "and",
+   "candidates": [
+    {
+     "word": "and",
+     "p": 0.16,
+     "rhyme": 0,
+     "score": 0.939
+    },
+    {
+     "word": "though",
+     "p": 0.0755,
+     "rhyme": 0,
+     "score": 0.616
+    },
+    {
+     "word": "yet",
+     "p": 0.0519,
+     "rhyme": 0,
+     "score": 0.481
+    },
+    {
+     "word": "but",
+     "p": 0.052,
+     "rhyme": 0,
+     "score": 0.407
+    },
+    {
+     "word": "he",
+     "p": 0.0224,
+     "rhyme": 0,
+     "score": 0.386
+    },
+    {
+     "word": "while",
+     "p": 0.0315,
+     "rhyme": 0,
+     "score": 0.332
+    },
+    {
+     "word": "for",
+     "p": 0.0204,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "to",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "no",
+     "p": 0.0091,
+     "rhyme": 0,
+     "score": 0.304
+    },
+    {
+     "word": "so",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.304
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "He knows not whether they were his creation",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "or",
+   "meant": "or",
+   "chosen": "creation",
+   "candidates": [
+    {
+     "word": "creation",
+     "p": 0.0139,
+     "rhyme": 0,
+     "score": 1.07
+    },
+    {
+     "word": "creations",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 0.916
+    },
+    {
+     "word": "before",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.383
+    },
+    {
+     "word": "design",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.349
+    },
+    {
+     "word": "children",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "parents",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "alone",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.306
+    },
+    {
+     "word": "very",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.302
+    },
+    {
+     "word": "created",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "former",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.291
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "In Gods' mould, or in our, neither can",
+   "syllables": 10,
+   "target": 11,
+   "partner": "and",
+   "qwen_top": "can",
+   "meant": "can",
+   "chosen": "can",
+   "candidates": [
+    {
+     "word": "can",
+     "p": 0.0922,
+     "rhyme": 0.6,
+     "score": 0.9
+    },
+    {
+     "word": "know",
+     "p": 0.0872,
+     "rhyme": 0,
+     "score": 0.709
+    },
+    {
+     "word": "knows",
+     "p": 0.0592,
+     "rhyme": 0,
+     "score": 0.482
+    },
+    {
+     "word": "shall",
+     "p": 0.0318,
+     "rhyme": 0.6,
+     "score": 0.409
+    },
+    {
+     "word": "of",
+     "p": 0.0317,
+     "rhyme": 0.6,
+     "score": 0.408
+    },
+    {
+     "word": "man",
+     "p": 0.0143,
+     "rhyme": 0.6,
+     "score": 0.266
+    },
+    {
+     "word": "will",
+     "p": 0.0142,
+     "rhyme": 0.6,
+     "score": 0.265
+    },
+    {
+     "word": "understand",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 0.258
+    },
+    {
+     "word": "the",
+     "p": 0.0117,
+     "rhyme": 0.6,
+     "score": 0.245
+    },
+    {
+     "word": "one",
+     "p": 0.0076,
+     "rhyme": 0.6,
+     "score": 0.212
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Ascend into Heaven through Heaven.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "creation",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0352,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "our",
+     "p": 0.0281,
+     "rhyme": 0,
+     "score": 0.599
+    },
+    {
+     "word": "any",
+     "p": 0.0261,
+     "rhyme": 0,
+     "score": 0.555
+    },
+    {
+     "word": "nature",
+     "p": 0.0101,
+     "rhyme": 0.6,
+     "score": 0.366
+    },
+    {
+     "word": "mortal",
+     "p": 0.0131,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "salvation",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 0.255
+    },
+    {
+     "word": "angels",
+     "p": 0.0049,
+     "rhyme": 0.6,
+     "score": 0.253
+    },
+    {
+     "word": "ages",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.176
+    },
+    {
+     "word": "satan",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.173
+    },
+    {
+     "word": "angel",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.17
+    }
+   ]
+  }
+ ]
+}

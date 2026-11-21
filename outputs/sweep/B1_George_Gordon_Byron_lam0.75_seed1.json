@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 0.75,
+ "scheme": "ABAB",
+ "seed": 1,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "183, The Commencement of the Composition of\nI. Adieu! Some Maidens have departed\nLike stars; but all are fair to me again.\nWith whom ye mourned? 'Tis not the only.\nII. E'en her who first met me on our\nFirst visit for joy - or with a sorrow.\nIII. In many a hour we parted.\nThe heart grew thine, the flower is ours.\nIV. How in words could I sooth our\nLove's last sorrows as it came upon.\nV. O sweet friend of old love, of many!\nSweet hearts and loving lips are ours.",
+ "lines": [
+  {
+   "line": 1,
+   "text": "183, The Commencement of the Composition of",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "of",
+   "candidates": [
+    {
+     "word": "of",
+     "p": 0.7628,
+     "rhyme": 0,
+     "score": 0.86
+    },
+    {
+     "word": "he",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "pre",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "re",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "de",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "vi",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "I. Adieu! Some Maidens have departed",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "gone",
+   "meant": "gone",
+   "chosen": "departed",
+   "candidates": [
+    {
+     "word": "departed",
+     "p": 0.0136,
+     "rhyme": 0,
+     "score": 0.865
+    },
+    {
+     "word": "fallen",
+     "p": 0.0114,
+     "rhyme": 0,
+     "score": 0.717
+    },
+    {
+     "word": "retired",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.408
+    },
+    {
+     "word": "given",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.404
+    },
+    {
+     "word": "never",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.386
+    },
+    {
+     "word": "wandered",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "taken",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.351
+    },
+    {
+     "word": "forgot",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "vanished",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.311
+    },
+    {
+     "word": "array",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.294
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Like stars; but all are fair to me again.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "of",
+   "qwen_top": "now",
+   "meant": "now",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "indeed",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.516
+    },
+    {
+     "word": "alone",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.515
+    },
+    {
+     "word": "above",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 0.292
+    },
+    {
+     "word": "anew",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.243
+    },
+    {
+     "word": "among",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.188
+    },
+    {
+     "word": "today",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.168
+    },
+    {
+     "word": "because",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.168
+    },
+    {
+     "word": "rather",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.164
+    },
+    {
+     "word": "undone",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.164
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "With whom ye mourned? 'Tis not the only.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "departed",
+   "qwen_top": "same",
+   "meant": "same",
+   "chosen": "only",
+   "candidates": [
+    {
+     "word": "only",
+     "p": 0.0125,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "maiden",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.457
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0043,
+     "rhyme": 0.6,
+     "score": 0.408
+    },
+    {
+     "word": "common",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.305
+    },
+    {
+     "word": "lady",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.242
+    },
+    {
+     "word": "hour",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.236
+    },
+    {
+     "word": "women",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "flowers",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.216
+    },
+    {
+     "word": "beauty",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.195
+    },
+    {
+     "word": "body",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.189
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "II. E'en her who first met me on our",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.979
+    },
+    {
+     "word": "display",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "sunday",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "thursday",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.26
+    },
+    {
+     "word": "monday",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.259
+    },
+    {
+     "word": "saturday",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.259
+    },
+    {
+     "word": "broadway",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.258
+    },
+    {
+     "word": "friday",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.258
+    },
+    {
+     "word": "tuesday",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.257
+    },
+    {
+     "word": "wednesday",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.257
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "First visit for joy - or with a sorrow.",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "tear",
+   "meant": "tear",
+   "chosen": "sorrow",
+   "candidates": [
+    {
+     "word": "sorrow",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.902
+    },
+    {
+     "word": "little",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.627
+    },
+    {
+     "word": "fire",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.441
+    },
+    {
+     "word": "disdain",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.421
+    },
+    {
+     "word": "spirit",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.405
+    },
+    {
+     "word": "shadow",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.38
+    },
+    {
+     "word": "despair",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.345
+    },
+    {
+     "word": "desire",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.344
+    },
+    {
+     "word": "bitter",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.343
+    },
+    {
+     "word": "flower",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.341
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "III. In many a hour we parted.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "our",
+   "qwen_top": "met",
+   "meant": "met",
+   "chosen": "parted",
+   "candidates": [
+    {
+     "word": "parted",
+     "p": 0.0313,
+     "rhyme": 0.6,
+     "score": 0.9
+    },
+    {
+     "word": "wandered",
+     "p": 0.0095,
+     "rhyme": 0.6,
+     "score": 0.379
+    },
+    {
+     "word": "wander",
+     "p": 0.0054,
+     "rhyme": 0.6,
+     "score": 0.28
+    },
+    {
+     "word": "converse",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.216
+    },
+    {
+     "word": "followed",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.181
+    },
+    {
+     "word": "follow",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.158
+    },
+    {
+     "word": "party",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.156
+    },
+    {
+     "word": "forgot",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.155
+    },
+    {
+     "word": "linger",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.095
+    },
+    {
+     "word": "never",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.07
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "The heart grew thine, the flower is ours.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "sorrow",
+   "qwen_top": "mine",
+   "meant": "mine",
+   "chosen": "ours",
+   "candidates": [
+    {
+     "word": "ours",
+     "p": 0.0062,
+     "rhyme": 0.6,
+     "score": 0.9
+    },
+    {
+     "word": "our",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.298
+    },
+    {
+     "word": "fallen",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.234
+    },
+    {
+     "word": "below",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.231
+    },
+    {
+     "word": "blossom",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.179
+    },
+    {
+     "word": "forgot",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.168
+    },
+    {
+     "word": "upon",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.166
+    },
+    {
+     "word": "forgotten",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.164
+    },
+    {
+     "word": "departed",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.161
+    },
+    {
+     "word": "falling",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.157
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "IV. How in words could I sooth our",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "her",
+   "meant": "her",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.979
+    },
+    {
+     "word": "away",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.631
+    },
+    {
+     "word": "again",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.566
+    },
+    {
+     "word": "myself",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "anew",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.315
+    },
+    {
+     "word": "despair",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.299
+    },
+    {
+     "word": "into",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "dismay",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "adversity",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "decay",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.279
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Love's last sorrows as it came upon.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "upon",
+   "candidates": [
+    {
+     "word": "upon",
+     "p": 0.0127,
+     "rhyme": 0,
+     "score": 0.983
+    },
+    {
+     "word": "again",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.655
+    },
+    {
+     "word": "into",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.546
+    },
+    {
+     "word": "before",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.444
+    },
+    {
+     "word": "between",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.395
+    },
+    {
+     "word": "over",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.38
+    },
+    {
+     "word": "anew",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "away",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.337
+    },
+    {
+     "word": "along",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.331
+    },
+    {
+     "word": "about",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.33
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "V. O sweet friend of old love, of many!",
+   "syllables": 10,
+   "target": 11,
+   "partner": "our",
+   "qwen_top": "old",
+   "meant": "old",
+   "chosen": "many",
+   "candidates": [
+    {
+     "word": "many",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "early",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "ours",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.265
+    },
+    {
+     "word": "flower",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 0.259
+    },
+    {
+     "word": "former",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.195
+    },
+    {
+     "word": "renown",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.174
+    },
+    {
+     "word": "flowers",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.17
+    },
+    {
+     "word": "modern",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.158
+    },
+    {
+     "word": "departed",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.157
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Sweet hearts and loving lips are ours.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "upon",
+   "qwen_top": "mine",
+   "meant": "mine",
+   "chosen": "ours",
+   "candidates": [
+    {
+     "word": "ours",
+     "p": 0.0662,
+     "rhyme": 0.6,
+     "score": 0.9
+    },
+    {
+     "word": "our",
+     "p": 0.0108,
+     "rhyme": 0.6,
+     "score": 0.273
+    },
+    {
+     "word": "forgot",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.161
+    },
+    {
+     "word": "forgotten",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.155
+    },
+    {
+     "word": "common",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.155
+    },
+    {
+     "word": "parted",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.154
+    },
+    {
+     "word": "fallen",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.152
+    },
+    {
+     "word": "beyond",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.152
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.152
+    },
+    {
+     "word": "never",
+     "p": 0.0095,
+     "rhyme": 0,
+     "score": 0.108
+    }
+   ]
+  }
+ ]
+}

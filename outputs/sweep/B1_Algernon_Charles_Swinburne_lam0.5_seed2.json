@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 0.5,
+ "scheme": "AABB",
+ "seed": 2,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Glared gleam from the lurid light\nOf wedlock and marriage night,\nA fatal key in heaven,\nLightning, which thine own hand knows never,\nAnd the crown of gold for ever\nThat thyself may wear a world never,\nHail, who hewest out the tree-trees of\nIts past and future bright above,\nWhat might have been and become,\nProud of thy strength all along the\nWorld's heart that it make sweet again. Amen.\nThe truth thou hast not told me nor spoken,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Glared gleam from the lurid light",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "light",
+   "meant": "light",
+   "chosen": "light",
+   "candidates": [
+    {
+     "word": "light",
+     "p": 0.0314,
+     "rhyme": 0,
+     "score": 0.712
+    },
+    {
+     "word": "moon",
+     "p": 0.0278,
+     "rhyme": 0,
+     "score": 0.651
+    },
+    {
+     "word": "sky",
+     "p": 0.0203,
+     "rhyme": 0,
+     "score": 0.572
+    },
+    {
+     "word": "sun",
+     "p": 0.0217,
+     "rhyme": 0,
+     "score": 0.54
+    },
+    {
+     "word": "sea",
+     "p": 0.0149,
+     "rhyme": 0,
+     "score": 0.518
+    },
+    {
+     "word": "eyes",
+     "p": 0.0168,
+     "rhyme": 0,
+     "score": 0.486
+    },
+    {
+     "word": "glow",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "blue",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.357
+    },
+    {
+     "word": "eye",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.355
+    },
+    {
+     "word": "flame",
+     "p": 0.0109,
+     "rhyme": 0,
+     "score": 0.353
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Of wedlock and marriage night,",
+   "syllables": 7,
+   "target": 8,
+   "partner": "light",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "night",
+   "candidates": [
+    {
+     "word": "night",
+     "p": 0.0163,
+     "rhyme": 1.0,
+     "score": 0.643
+    },
+    {
+     "word": "right",
+     "p": 0.0032,
+     "rhyme": 1.0,
+     "score": 0.528
+    },
+    {
+     "word": "bright",
+     "p": 0.003,
+     "rhyme": 1.0,
+     "score": 0.527
+    },
+    {
+     "word": "tonight",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 0.504
+    },
+    {
+     "word": "white",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 0.503
+    },
+    {
+     "word": "and",
+     "p": 0.0569,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "strife",
+     "p": 0.0041,
+     "rhyme": 0.6,
+     "score": 0.336
+    },
+    {
+     "word": "rites",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.313
+    },
+    {
+     "word": "wine",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.312
+    },
+    {
+     "word": "by",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.31
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "A fatal key in heaven,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0095,
+     "rhyme": 0,
+     "score": 0.62
+    },
+    {
+     "word": "our",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.436
+    },
+    {
+     "word": "every",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.354
+    },
+    {
+     "word": "shadow",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.332
+    },
+    {
+     "word": "darkness",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "despair",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "twilight",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "between",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.257
+    },
+    {
+     "word": "fire",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "midnight",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.245
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Lightning, which thine own hand knows never,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "heaven",
+   "qwen_top": "not",
+   "meant": "not",
+   "chosen": "never",
+   "candidates": [
+    {
+     "word": "never",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.8
+    },
+    {
+     "word": "better",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.508
+    },
+    {
+     "word": "fire",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.442
+    },
+    {
+     "word": "very",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.353
+    },
+    {
+     "word": "given",
+     "p": 0.0001,
+     "rhyme": 0.3,
+     "score": 0.334
+    },
+    {
+     "word": "ready",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.325
+    },
+    {
+     "word": "already",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.322
+    },
+    {
+     "word": "nothing",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.209
+    },
+    {
+     "word": "neither",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.184
+    },
+    {
+     "word": "only",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.087
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "And the crown of gold for ever",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "thee",
+   "meant": "thee",
+   "chosen": "ever",
+   "candidates": [
+    {
+     "word": "ever",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.632
+    },
+    {
+     "word": "heaven",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "our",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.381
+    },
+    {
+     "word": "salvation",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "fire",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "marriage",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "glory",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.234
+    },
+    {
+     "word": "hire",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.227
+    },
+    {
+     "word": "mary",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.226
+    },
+    {
+     "word": "reward",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.217
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "That thyself may wear a world never,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "ever",
+   "qwen_top": "away",
+   "meant": "away",
+   "chosen": "never",
+   "candidates": [
+    {
+     "word": "never",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 0.503
+    },
+    {
+     "word": "away",
+     "p": 0.1542,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "again",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.303
+    },
+    {
+     "word": "ahead",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.302
+    },
+    {
+     "word": "unaware",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.301
+    },
+    {
+     "word": "forget",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.301
+    },
+    {
+     "word": "itself",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.301
+    },
+    {
+     "word": "better",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.301
+    },
+    {
+     "word": "against",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.3
+    },
+    {
+     "word": "together",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.3
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Hail, who hewest out the tree-trees of",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "of",
+   "candidates": [
+    {
+     "word": "of",
+     "p": 0.0655,
+     "rhyme": 0,
+     "score": 0.61
+    },
+    {
+     "word": "to",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.317
+    },
+    {
+     "word": "tree",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "in",
+     "p": 0.0089,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "we",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "for",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "free",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "re",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Its past and future bright above,",
+   "syllables": 8,
+   "target": 9,
+   "partner": "of",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "above",
+   "candidates": [
+    {
+     "word": "above",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 0.627
+    },
+    {
+     "word": "together",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "unto",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.332
+    },
+    {
+     "word": "enough",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.328
+    },
+    {
+     "word": "into",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.317
+    },
+    {
+     "word": "because",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.317
+    },
+    {
+     "word": "wonder",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.312
+    },
+    {
+     "word": "colors",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.31
+    },
+    {
+     "word": "under",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.309
+    },
+    {
+     "word": "among",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.308
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "What might have been and become,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "what",
+   "meant": "what",
+   "chosen": "become",
+   "candidates": [
+    {
+     "word": "become",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.672
+    },
+    {
+     "word": "cannot",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.52
+    },
+    {
+     "word": "never",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.409
+    },
+    {
+     "word": "became",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "remain",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "ce",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.307
+    },
+    {
+     "word": "ever",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "shadow",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "remains",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.257
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Proud of thy strength all along the",
+   "syllables": 8,
+   "target": 9,
+   "partner": "become",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "the",
+   "candidates": [
+    {
+     "word": "the",
+     "p": 0.0479,
+     "rhyme": 0.6,
+     "score": 0.8
+    },
+    {
+     "word": "from",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 0.509
+    },
+    {
+     "word": "some",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 0.5
+    },
+    {
+     "word": "them",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.456
+    },
+    {
+     "word": "and",
+     "p": 0.0137,
+     "rhyme": 0.6,
+     "score": 0.443
+    },
+    {
+     "word": "that",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.332
+    },
+    {
+     "word": "to",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.332
+    },
+    {
+     "word": "of",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.309
+    },
+    {
+     "word": "a",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.306
+    },
+    {
+     "word": "above",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.306
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "World's heart that it make sweet again. Amen.",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "o",
+   "meant": "o",
+   "chosen": "amen",
+   "candidates": [
+    {
+     "word": "amen",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.706
+    },
+    {
+     "word": "away",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "today",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "indeed",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "below",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "again",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.257
+    },
+    {
+     "word": "our",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.247
+    },
+    {
+     "word": "before",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.232
+    },
+    {
+     "word": "begin",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "merry",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.217
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "The truth thou hast not told me nor spoken,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "amen",
+   "qwen_top": "said",
+   "meant": "said",
+   "chosen": "spoken",
+   "candidates": [
+    {
+     "word": "spoken",
+     "p": 0.0283,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "ever",
+     "p": 0.0049,
+     "rhyme": 0.6,
+     "score": 0.387
+    },
+    {
+     "word": "any",
+     "p": 0.0043,
+     "rhyme": 0.6,
+     "score": 0.377
+    },
+    {
+     "word": "never",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.309
+    },
+    {
+     "word": "confessed",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.309
+    },
+    {
+     "word": "many",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.304
+    },
+    {
+     "word": "myself",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.304
+    },
+    {
+     "word": "given",
+     "p": 0.0118,
+     "rhyme": 0,
+     "score": 0.208
+    },
+    {
+     "word": "undone",
+     "p": 0.0011,
+     "rhyme": 0.3,
+     "score": 0.169
+    },
+    {
+     "word": "begun",
+     "p": 0.0007,
+     "rhyme": 0.3,
+     "score": 0.162
+    }
+   ]
+  }
+ ]
+}

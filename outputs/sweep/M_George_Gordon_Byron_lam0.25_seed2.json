@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 0.25,
+ "scheme": "ABAB",
+ "seed": 2,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "FROM HER ROBING-SHIP - REV. JONAS John\nTo him in long balm, which gave relief,\nA soul to health, and a breast within\nWhereof the soul was blest; but his breathing\nAt one moment all made him afraid,\nWith a constant flush o'er her life-giving eyes,\nAnd a confused light untraceable laid\nBeside the vessel of her desire,\nWhich was filled up by the tender breath\nOf a soft sleepy heart, that realized\nHis love for her; - whose words or gestures never\nIn its direction it seemed to decide,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "FROM HER ROBING-SHIP - REV. JONAS John",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "john",
+   "chosen": "john",
+   "candidates": [
+    {
+     "word": "john",
+     "p": 0.1231,
+     "rhyme": 0,
+     "score": 0.484
+    },
+    {
+     "word": "jay",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "leigh",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "mcgee",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "gray",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "anthony",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "barlow",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "joe",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.264
+    },
+    {
+     "word": "crowe",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.264
+    },
+    {
+     "word": "lane",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.255
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "To him in long balm, which gave relief,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "him",
+   "meant": "him",
+   "chosen": "relief",
+   "candidates": [
+    {
+     "word": "relief",
+     "p": 0.0129,
+     "rhyme": 0,
+     "score": 0.397
+    },
+    {
+     "word": "delight",
+     "p": 0.0094,
+     "rhyme": 0,
+     "score": 0.394
+    },
+    {
+     "word": "elation",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.346
+    },
+    {
+     "word": "admiration",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.337
+    },
+    {
+     "word": "sensation",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.337
+    },
+    {
+     "word": "inspiration",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.332
+    },
+    {
+     "word": "consternation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "adoration",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "again",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "divine",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.308
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "A soul to health, and a breast within",
+   "syllables": 9,
+   "target": 10,
+   "partner": "john",
+   "qwen_top": "to",
+   "meant": "within",
+   "chosen": "within",
+   "candidates": [
+    {
+     "word": "within",
+     "p": 0.0228,
+     "rhyme": 0.3,
+     "score": 0.475
+    },
+    {
+     "word": "beyond",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.465
+    },
+    {
+     "word": "dissolved",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "content",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "conscience",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "again",
+     "p": 0.0081,
+     "rhyme": 0.3,
+     "score": 0.314
+    },
+    {
+     "word": "regain",
+     "p": 0.0015,
+     "rhyme": 0.3,
+     "score": 0.241
+    },
+    {
+     "word": "retain",
+     "p": 0.0012,
+     "rhyme": 0.3,
+     "score": 0.238
+    },
+    {
+     "word": "remain",
+     "p": 0.0011,
+     "rhyme": 0.3,
+     "score": 0.237
+    },
+    {
+     "word": "return",
+     "p": 0.001,
+     "rhyme": 0.3,
+     "score": 0.236
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Whereof the soul was blest; but his breathing",
+   "syllables": 10,
+   "target": 11,
+   "partner": "relief",
+   "qwen_top": "heart",
+   "meant": "heart",
+   "chosen": "breathing",
+   "candidates": [
+    {
+     "word": "breathing",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.568
+    },
+    {
+     "word": "meaning",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.564
+    },
+    {
+     "word": "healing",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.549
+    },
+    {
+     "word": "disease",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.505
+    },
+    {
+     "word": "bleeding",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.499
+    },
+    {
+     "word": "reason",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.479
+    },
+    {
+     "word": "fever",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.476
+    },
+    {
+     "word": "freedom",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.475
+    },
+    {
+     "word": "treatment",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.474
+    },
+    {
+     "word": "feelings",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.473
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "At one moment all made him afraid,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "sick",
+   "meant": "sleep",
+   "chosen": "afraid",
+   "candidates": [
+    {
+     "word": "afraid",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.377
+    },
+    {
+     "word": "feeling",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.375
+    },
+    {
+     "word": "vibration",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "starvation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.333
+    },
+    {
+     "word": "tired",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "dying",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "shudder",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "awake",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "unwell",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "despair",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.295
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "With a constant flush o'er her life-giving eyes,",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "brow",
+   "meant": "eyes",
+   "chosen": "eyes",
+   "candidates": [
+    {
+     "word": "eyes",
+     "p": 0.19,
+     "rhyme": 0,
+     "score": 0.469
+    },
+    {
+     "word": "eye",
+     "p": 0.0574,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "grey",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "gray",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "blue",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "tattoo",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "brain",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "glow",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "oh",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "skin",
+     "p": 0.0326,
+     "rhyme": 0,
+     "score": 0.26
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "And a confused light untraceable laid",
+   "syllables": 10,
+   "target": 11,
+   "partner": "afraid",
+   "qwen_top": "in",
+   "meant": "eyes",
+   "chosen": "laid",
+   "candidates": [
+    {
+     "word": "laid",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 0.765
+    },
+    {
+     "word": "made",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 0.759
+    },
+    {
+     "word": "lay",
+     "p": 0.0068,
+     "rhyme": 0.6,
+     "score": 0.565
+    },
+    {
+     "word": "flames",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.501
+    },
+    {
+     "word": "remains",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.493
+    },
+    {
+     "word": "faint",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.487
+    },
+    {
+     "word": "pale",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.485
+    },
+    {
+     "word": "hazy",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.476
+    },
+    {
+     "word": "away",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.473
+    },
+    {
+     "word": "bathed",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.473
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Beside the vessel of her desire,",
+   "syllables": 10,
+   "target": 10,
+   "partner": "eyes",
+   "qwen_top": "soul",
+   "meant": "desire",
+   "chosen": "desire",
+   "candidates": [
+    {
+     "word": "desire",
+     "p": 0.0433,
+     "rhyme": 0.6,
+     "score": 0.7
+    },
+    {
+     "word": "delight",
+     "p": 0.0082,
+     "rhyme": 0.6,
+     "score": 0.498
+    },
+    {
+     "word": "desires",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.473
+    },
+    {
+     "word": "divine",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.468
+    },
+    {
+     "word": "dying",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.466
+    },
+    {
+     "word": "appetite",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "undying",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "childlike",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "excitement",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "anxiety",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.454
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Which was filled up by the tender breath",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "love",
+   "meant": "breath",
+   "chosen": "breath",
+   "candidates": [
+    {
+     "word": "breath",
+     "p": 0.0584,
+     "rhyme": 0,
+     "score": 0.347
+    },
+    {
+     "word": "sensation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "eyes",
+     "p": 0.0179,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "sea",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "plea",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "me",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "she",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "away",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "pain",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "air",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.272
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Of a soft sleepy heart, that realized",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "was",
+   "meant": "slept",
+   "chosen": "realized",
+   "candidates": [
+    {
+     "word": "realized",
+     "p": 0.0128,
+     "rhyme": 0,
+     "score": 0.462
+    },
+    {
+     "word": "unaware",
+     "p": 0.0122,
+     "rhyme": 0,
+     "score": 0.437
+    },
+    {
+     "word": "asleep",
+     "p": 0.0151,
+     "rhyme": 0,
+     "score": 0.4
+    },
+    {
+     "word": "remained",
+     "p": 0.0117,
+     "rhyme": 0,
+     "score": 0.377
+    },
+    {
+     "word": "waited",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "awoke",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "realised",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.293
+    },
+    {
+     "word": "awake",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "nobody",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "hitherto",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "His love for her; - whose words or gestures never",
+   "syllables": 11,
+   "target": 11,
+   "partner": "breath",
+   "qwen_top": "now",
+   "meant": "had",
+   "chosen": "never",
+   "candidates": [
+    {
+     "word": "never",
+     "p": 0.0159,
+     "rhyme": 0.6,
+     "score": 0.559
+    },
+    {
+     "word": "when",
+     "p": 0.0062,
+     "rhyme": 0.6,
+     "score": 0.492
+    },
+    {
+     "word": "yet",
+     "p": 0.0051,
+     "rhyme": 0.6,
+     "score": 0.485
+    },
+    {
+     "word": "left",
+     "p": 0.0051,
+     "rhyme": 0.6,
+     "score": 0.485
+    },
+    {
+     "word": "felt",
+     "p": 0.0047,
+     "rhyme": 0.6,
+     "score": 0.482
+    },
+    {
+     "word": "however",
+     "p": 0.0043,
+     "rhyme": 0.6,
+     "score": 0.479
+    },
+    {
+     "word": "then",
+     "p": 0.0042,
+     "rhyme": 0.6,
+     "score": 0.479
+    },
+    {
+     "word": "went",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.476
+    },
+    {
+     "word": "there",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "as",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.463
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "In its direction it seemed to decide,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "realized",
+   "qwen_top": "move",
+   "meant": "follow",
+   "chosen": "decide",
+   "candidates": [
+    {
+     "word": "decide",
+     "p": 0.0066,
+     "rhyme": 0.6,
+     "score": 0.536
+    },
+    {
+     "word": "specify",
+     "p": 0.0034,
+     "rhyme": 0.6,
+     "score": 0.493
+    },
+    {
+     "word": "subscribe",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.489
+    },
+    {
+     "word": "likely",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.481
+    },
+    {
+     "word": "aspire",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.478
+    },
+    {
+     "word": "suffice",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.474
+    },
+    {
+     "word": "apply",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.474
+    },
+    {
+     "word": "invite",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.47
+    },
+    {
+     "word": "otherwise",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.468
+    },
+    {
+     "word": "inclined",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.467
+    }
+   ]
+  }
+ ]
+}

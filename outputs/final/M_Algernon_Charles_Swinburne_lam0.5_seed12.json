@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 0.5,
+ "scheme": "AABB",
+ "seed": 12,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "It may be that purer minds now expect\nThe gift of man's desire. Again,\nSee what with God, and with the divine,\nWhat is this little thing alone\nWhich things in men are and do abide? Where\nIs life unharmed by despair\nOr weak to love from broken healing\nAnd faith from false hope? What changeless grace\nPours into a man's heart again again,\nLike wind upon his eyes, or heat within,\nOr beauty in him or herself,\nThat shall never wear away",
+ "lines": [
+  {
+   "line": 1,
+   "text": "It may be that purer minds now expect",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "than",
+   "meant": "see",
+   "chosen": "expect",
+   "candidates": [
+    {
+     "word": "expect",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.683
+    },
+    {
+     "word": "behold",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.682
+    },
+    {
+     "word": "believe",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.667
+    },
+    {
+     "word": "perceive",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.636
+    },
+    {
+     "word": "able",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.475
+    },
+    {
+     "word": "await",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.445
+    },
+    {
+     "word": "discern",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.438
+    },
+    {
+     "word": "understand",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.436
+    },
+    {
+     "word": "wonder",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.422
+    },
+    {
+     "word": "agree",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.408
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The gift of man's desire. Again,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "expect",
+   "qwen_top": "but",
+   "meant": "behold",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0184,
+     "rhyme": 0.6,
+     "score": 0.601
+    },
+    {
+     "word": "behold",
+     "p": 0.0307,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "ever",
+     "p": 0.0037,
+     "rhyme": 0.6,
+     "score": 0.36
+    },
+    {
+     "word": "never",
+     "p": 0.0037,
+     "rhyme": 0.6,
+     "score": 0.36
+    },
+    {
+     "word": "present",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.328
+    },
+    {
+     "word": "amen",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.328
+    },
+    {
+     "word": "whether",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.325
+    },
+    {
+     "word": "question",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.322
+    },
+    {
+     "word": "however",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.322
+    },
+    {
+     "word": "emperor",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.32
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "See what with God, and with the divine,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "world",
+   "meant": "sun",
+   "chosen": "divine",
+   "candidates": [
+    {
+     "word": "divine",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.536
+    },
+    {
+     "word": "heavenly",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "nation",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.406
+    },
+    {
+     "word": "evil",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.359
+    },
+    {
+     "word": "heavens",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.357
+    },
+    {
+     "word": "heaven",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.333
+    },
+    {
+     "word": "shadow",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "planet",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "dying",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "darkness",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.32
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "What is this little thing alone",
+   "syllables": 8,
+   "target": 9,
+   "partner": "divine",
+   "qwen_top": "that",
+   "meant": "done",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0133,
+     "rhyme": 0.3,
+     "score": 0.65
+    },
+    {
+     "word": "precisely",
+     "p": 0.0032,
+     "rhyme": 0.6,
+     "score": 0.418
+    },
+    {
+     "word": "alive",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.362
+    },
+    {
+     "word": "realized",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.344
+    },
+    {
+     "word": "crucified",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.34
+    },
+    {
+     "word": "united",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.323
+    },
+    {
+     "word": "complying",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.323
+    },
+    {
+     "word": "neither",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.322
+    },
+    {
+     "word": "justified",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.321
+    },
+    {
+     "word": "finally",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.321
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Which things in men are and do abide? Where",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "what",
+   "meant": "where",
+   "chosen": "where",
+   "candidates": [
+    {
+     "word": "where",
+     "p": 0.0421,
+     "rhyme": 0,
+     "score": 0.737
+    },
+    {
+     "word": "no",
+     "p": 0.0213,
+     "rhyme": 0,
+     "score": 0.515
+    },
+    {
+     "word": "why",
+     "p": 0.0196,
+     "rhyme": 0,
+     "score": 0.482
+    },
+    {
+     "word": "there",
+     "p": 0.0194,
+     "rhyme": 0,
+     "score": 0.468
+    },
+    {
+     "word": "see",
+     "p": 0.0134,
+     "rhyme": 0,
+     "score": 0.439
+    },
+    {
+     "word": "he",
+     "p": 0.0129,
+     "rhyme": 0,
+     "score": 0.434
+    },
+    {
+     "word": "what",
+     "p": 0.0226,
+     "rhyme": 0,
+     "score": 0.433
+    },
+    {
+     "word": "so",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.408
+    },
+    {
+     "word": "again",
+     "p": 0.0116,
+     "rhyme": 0,
+     "score": 0.391
+    },
+    {
+     "word": "know",
+     "p": 0.0106,
+     "rhyme": 0,
+     "score": 0.388
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Is life unharmed by despair",
+   "syllables": 7,
+   "target": 8,
+   "partner": "where",
+   "qwen_top": "the",
+   "meant": "sin",
+   "chosen": "despair",
+   "candidates": [
+    {
+     "word": "despair",
+     "p": 0.0027,
+     "rhyme": 1.0,
+     "score": 0.596
+    },
+    {
+     "word": "mercy",
+     "p": 0.014,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "oneself",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.44
+    },
+    {
+     "word": "terrible",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.409
+    },
+    {
+     "word": "resurrection",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.394
+    },
+    {
+     "word": "destiny",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.39
+    },
+    {
+     "word": "vengeance",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.39
+    },
+    {
+     "word": "jealousy",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.387
+    },
+    {
+     "word": "necessity",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.377
+    },
+    {
+     "word": "manifest",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.366
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Or weak to love from broken healing",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "heart",
+   "meant": "heart",
+   "chosen": "healing",
+   "candidates": [
+    {
+     "word": "healing",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.655
+    },
+    {
+     "word": "broken",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.471
+    },
+    {
+     "word": "foundation",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.465
+    },
+    {
+     "word": "our",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.371
+    },
+    {
+     "word": "spirit",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.364
+    },
+    {
+     "word": "operation",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.35
+    },
+    {
+     "word": "nation",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.346
+    },
+    {
+     "word": "desire",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "sacred",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.302
+    },
+    {
+     "word": "liberty",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.302
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "And faith from false hope? What changeless grace",
+   "syllables": 10,
+   "target": 11,
+   "partner": "healing",
+   "qwen_top": "thing",
+   "meant": "grace",
+   "chosen": "grace",
+   "candidates": [
+    {
+     "word": "grace",
+     "p": 0.0272,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "bring",
+     "p": 0.0027,
+     "rhyme": 0.9,
+     "score": 0.499
+    },
+    {
+     "word": "thing",
+     "p": 0.0021,
+     "rhyme": 0.9,
+     "score": 0.489
+    },
+    {
+     "word": "everything",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.465
+    },
+    {
+     "word": "peace",
+     "p": 0.0081,
+     "rhyme": 0.6,
+     "score": 0.449
+    },
+    {
+     "word": "means",
+     "p": 0.0056,
+     "rhyme": 0.6,
+     "score": 0.403
+    },
+    {
+     "word": "meaning",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.351
+    },
+    {
+     "word": "the",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.348
+    },
+    {
+     "word": "deal",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.348
+    },
+    {
+     "word": "she",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.339
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Pours into a man's heart again again,",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.1025,
+     "rhyme": 0,
+     "score": 0.753
+    },
+    {
+     "word": "then",
+     "p": 0.0662,
+     "rhyme": 0,
+     "score": 0.53
+    },
+    {
+     "word": "now",
+     "p": 0.0415,
+     "rhyme": 0,
+     "score": 0.414
+    },
+    {
+     "word": "when",
+     "p": 0.0385,
+     "rhyme": 0,
+     "score": 0.405
+    },
+    {
+     "word": "so",
+     "p": 0.0129,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "he",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "before",
+     "p": 0.0169,
+     "rhyme": 0,
+     "score": 0.311
+    },
+    {
+     "word": "be",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.311
+    },
+    {
+     "word": "in",
+     "p": 0.0174,
+     "rhyme": 0,
+     "score": 0.302
+    },
+    {
+     "word": "she",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.301
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Like wind upon his eyes, or heat within,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "again",
+   "qwen_top": "upon",
+   "meant": "again",
+   "chosen": "within",
+   "candidates": [
+    {
+     "word": "within",
+     "p": 0.0106,
+     "rhyme": 0.3,
+     "score": 0.584
+    },
+    {
+     "word": "around",
+     "p": 0.0099,
+     "rhyme": 0.3,
+     "score": 0.556
+    },
+    {
+     "word": "anew",
+     "p": 0.0122,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "later",
+     "p": 0.0049,
+     "rhyme": 0.6,
+     "score": 0.5
+    },
+    {
+     "word": "somewhere",
+     "p": 0.0034,
+     "rhyme": 0.6,
+     "score": 0.439
+    },
+    {
+     "word": "away",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.41
+    },
+    {
+     "word": "itself",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.409
+    },
+    {
+     "word": "november",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.406
+    },
+    {
+     "word": "april",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.405
+    },
+    {
+     "word": "september",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.398
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Or beauty in him or herself,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "her",
+   "chosen": "herself",
+   "candidates": [
+    {
+     "word": "herself",
+     "p": 0.0187,
+     "rhyme": 0,
+     "score": 0.624
+    },
+    {
+     "word": "again",
+     "p": 0.0117,
+     "rhyme": 0,
+     "score": 0.567
+    },
+    {
+     "word": "within",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.363
+    },
+    {
+     "word": "inspiration",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.35
+    },
+    {
+     "word": "before",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.346
+    },
+    {
+     "word": "location",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.341
+    },
+    {
+     "word": "admiration",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.341
+    },
+    {
+     "word": "outside",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "alone",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "away",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.317
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "That shall never wear away",
+   "syllables": 7,
+   "target": 8,
+   "partner": "herself",
+   "qwen_top": "away",
+   "meant": "away",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.8145,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "itself",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 0.5
+    },
+    {
+     "word": "yourself",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 0.5
+    },
+    {
+     "word": "himself",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 0.5
+    },
+    {
+     "word": "again",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.301
+    },
+    {
+     "word": "instead",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.301
+    },
+    {
+     "word": "themselves",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.3
+    },
+    {
+     "word": "letting",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.3
+    },
+    {
+     "word": "forever",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.3
+    },
+    {
+     "word": "gently",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.3
+    }
+   ]
+  }
+ ]
+}

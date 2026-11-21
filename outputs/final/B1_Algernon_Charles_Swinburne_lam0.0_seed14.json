@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "AABB",
+ "seed": 14,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "This Thursday, you left away\nYour soul to wake from sleepless day,\nThe rest of us, all for ours we.\nThus while the dust and splendour's glory\nBefore our eyes flashed o'er creation,\nEach soul grew lonely, afraid\nTo leave behind it even in creation,\nHeaving and struggling with dismay.\nYet know I that when the dawn is again\nThe sun shall rise up on all things awake,\nAnd waking wings shall from deeps unfold creation,\nRaising the soft shadowy sun",
+ "lines": [
+  {
+   "line": 1,
+   "text": "This Thursday, you left away",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "me",
+   "meant": "me",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "today",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "anew",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "again",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "farewell",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "between",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "unseen",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.248
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Your soul to wake from sleepless day,",
+   "syllables": 8,
+   "target": 9,
+   "partner": "away",
+   "qwen_top": "dreams",
+   "meant": "dreams",
+   "chosen": "day",
+   "candidates": [
+    {
+     "word": "day",
+     "p": 0.0662,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "stay",
+     "p": 0.0015,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "lay",
+     "p": 0.0012,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "clay",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "a",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "fray",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "play",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "may",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "gay",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "fe",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 1.0
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "The rest of us, all for ours we.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "we",
+   "candidates": [
+    {
+     "word": "we",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ye",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "free",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "three",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "re",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "de",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "e",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "away",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Thus while the dust and splendour's glory",
+   "syllables": 9,
+   "target": 10,
+   "partner": "we",
+   "qwen_top": "light",
+   "meant": "light",
+   "chosen": "glory",
+   "candidates": [
+    {
+     "word": "glory",
+     "p": 0.0024,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "fire",
+     "p": 0.0138,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "decay",
+     "p": 0.0101,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "power",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "ashes",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "shadow",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "shower",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "hour",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "flower",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "cover",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Before our eyes flashed o'er creation,",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "creation",
+   "candidates": [
+    {
+     "word": "creation",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "away",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "decay",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "array",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "today",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "anew",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "into",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "ago",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.256
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Each soul grew lonely, afraid",
+   "syllables": 7,
+   "target": 8,
+   "partner": "creation",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "afraid",
+   "candidates": [
+    {
+     "word": "afraid",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awake",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "waking",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "waiting",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "wasted",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "ashamed",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "lonely",
+     "p": 0.0117,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "weary",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "alone",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "every",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "To leave behind it even in creation,",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "death",
+   "meant": "death",
+   "chosen": "creation",
+   "candidates": [
+    {
+     "word": "creation",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "decay",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "shadow",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "despair",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "forget",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "our",
+     "p": 0.0136,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "twilight",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "daylight",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "travail",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.218
+    },
+    {
+     "word": "childhood",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.217
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Heaving and struggling with dismay.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "creation",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "dismay",
+   "candidates": [
+    {
+     "word": "dismay",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "decay",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "disdain",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "alien",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "nature",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "breaking",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "hatred",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "passion",
+     "p": 0.0012,
+     "rhyme": 0.3,
+     "score": 0.3
+    },
+    {
+     "word": "emotion",
+     "p": 0.0002,
+     "rhyme": 0.3,
+     "score": 0.3
+    },
+    {
+     "word": "itself",
+     "p": 0.0363,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Yet know I that when the dawn is again",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "come",
+   "meant": "come",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "upon",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "daylight",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "very",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "renewed",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.204
+    },
+    {
+     "word": "higher",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "overhead",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "begun",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.194
+    },
+    {
+     "word": "ending",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.178
+    },
+    {
+     "word": "bending",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.178
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "The sun shall rise up on all things awake,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "again",
+   "qwen_top": "again",
+   "meant": "again",
+   "chosen": "awake",
+   "candidates": [
+    {
+     "word": "awake",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "better",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "heaven",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "naked",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "prepared",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "begun",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "ready",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "array",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "created",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "ever",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "And waking wings shall from deeps unfold creation,",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "again",
+   "meant": "again",
+   "chosen": "creation",
+   "candidates": [
+    {
+     "word": "creation",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "me",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "free",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "thee",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ye",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "re",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "sea",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "e",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.279
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Raising the soft shadowy sun",
+   "syllables": 8,
+   "target": 8,
+   "partner": "creation",
+   "qwen_top": "light",
+   "meant": "light",
+   "chosen": "sun",
+   "candidates": [
+    {
+     "word": "sun",
+     "p": 0.0042,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "veil",
+     "p": 0.0115,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "waves",
+     "p": 0.0095,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "shades",
+     "p": 0.0058,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "shapes",
+     "p": 0.0042,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "rain",
+     "p": 0.0042,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "shade",
+     "p": 0.004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "face",
+     "p": 0.004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "wave",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "day",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  }
+ ]
+}

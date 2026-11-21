@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "B1",
+ "lam": 0.5,
+ "scheme": "ABCB",
+ "seed": 14,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Howe'er the love between\nThe lips of olden women,\nBetween the hearts that once united\nTo share a single year, alas,\nLies no heart beaters for our\nMarried folk; and our\nFor ever we shall see each other\nAs though it were never before\nWhen the love was held on two fingers,\nOr a tight little string. . . . But our\nHeart beats for thee, my dear, ah never,\nOn those dark years afar,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Howe'er the love between",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "that",
+   "meant": "that",
+   "chosen": "between",
+   "candidates": [
+    {
+     "word": "between",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "within",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.346
+    },
+    {
+     "word": "itself",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "divine",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.225
+    },
+    {
+     "word": "begins",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.185
+    },
+    {
+     "word": "our",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.145
+    },
+    {
+     "word": "upon",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.145
+    },
+    {
+     "word": "arises",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.127
+    },
+    {
+     "word": "forgot",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.12
+    },
+    {
+     "word": "began",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.112
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The lips of olden women,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "days",
+   "meant": "days",
+   "chosen": "women",
+   "candidates": [
+    {
+     "word": "women",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.555
+    },
+    {
+     "word": "lovers",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.518
+    },
+    {
+     "word": "hours",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "ages",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "generations",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "july",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.26
+    },
+    {
+     "word": "maiden",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.24
+    },
+    {
+     "word": "flowers",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.232
+    },
+    {
+     "word": "mary",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.231
+    },
+    {
+     "word": "sire",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.23
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Between the hearts that once united",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "were",
+   "meant": "were",
+   "chosen": "united",
+   "candidates": [
+    {
+     "word": "united",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "believed",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.779
+    },
+    {
+     "word": "belonged",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "married",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "embraced",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "trusted",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "understood",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.185
+    },
+    {
+     "word": "belong",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "forgot",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "again",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.105
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "To share a single year, alas,",
+   "syllables": 8,
+   "target": 9,
+   "partner": "women",
+   "qwen_top": "is",
+   "meant": "is",
+   "chosen": "alas",
+   "candidates": [
+    {
+     "word": "alas",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "begins",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.356
+    },
+    {
+     "word": "until",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.33
+    },
+    {
+     "word": "begin",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.319
+    },
+    {
+     "word": "wherein",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.313
+    },
+    {
+     "word": "distant",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.309
+    },
+    {
+     "word": "drifted",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.309
+    },
+    {
+     "word": "amid",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.308
+    },
+    {
+     "word": "within",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.307
+    },
+    {
+     "word": "appears",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.307
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Lies no heart beaters for our",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0212,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "ever",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "lovers",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "eternity",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.127
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "women",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.08
+    },
+    {
+     "word": "ours",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "romance",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.051
+    },
+    {
+     "word": "heaven",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.049
+    },
+    {
+     "word": "desire",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.044
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Married folk; and our",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0197,
+     "rhyme": 0,
+     "score": 0.729
+    },
+    {
+     "word": "alas",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "nobody",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "although",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "between",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "again",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.258
+    },
+    {
+     "word": "indeed",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.257
+    },
+    {
+     "word": "never",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.247
+    },
+    {
+     "word": "upon",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "forget",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.243
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "For ever we shall see each other",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "other",
+   "meant": "other",
+   "chosen": "other",
+   "candidates": [
+    {
+     "word": "other",
+     "p": 0.9248,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "another",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.005
+    },
+    {
+     "word": "others",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.002
+    },
+    {
+     "word": "woman",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.001
+    },
+    {
+     "word": "alone",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "hour",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "mother",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "our",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "lover",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "beloved",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "As though it were never before",
+   "syllables": 8,
+   "target": 9,
+   "partner": "our",
+   "qwen_top": "so",
+   "meant": "so",
+   "chosen": "before",
+   "candidates": [
+    {
+     "word": "before",
+     "p": 0.039,
+     "rhyme": 0.3,
+     "score": 0.65
+    },
+    {
+     "word": "parted",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.336
+    },
+    {
+     "word": "apart",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.309
+    },
+    {
+     "word": "ours",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.307
+    },
+    {
+     "word": "forgotten",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.307
+    },
+    {
+     "word": "possible",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.306
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.303
+    },
+    {
+     "word": "fallen",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.302
+    },
+    {
+     "word": "forgot",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.302
+    },
+    {
+     "word": "promised",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.302
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "When the love was held on two fingers,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "hands",
+   "meant": "hands",
+   "chosen": "fingers",
+   "candidates": [
+    {
+     "word": "fingers",
+     "p": 0.0118,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "little",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "lovers",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "separate",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "shoulders",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "bodies",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.21
+    },
+    {
+     "word": "faces",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "levels",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "flowers",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.144
+    },
+    {
+     "word": "sisters",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.093
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Or a tight little string. . . . But our",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "now",
+   "meant": "now",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.702
+    },
+    {
+     "word": "alas",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 0.684
+    },
+    {
+     "word": "never",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.534
+    },
+    {
+     "word": "away",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.318
+    },
+    {
+     "word": "today",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "again",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "beware",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.267
+    },
+    {
+     "word": "forget",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "before",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.259
+    },
+    {
+     "word": "behold",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.257
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Heart beats for thee, my dear, ah never,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "me",
+   "meant": "me",
+   "chosen": "never",
+   "candidates": [
+    {
+     "word": "never",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "our",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "indeed",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "rejoice",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.112
+    },
+    {
+     "word": "very",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.106
+    },
+    {
+     "word": "only",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "many",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.077
+    },
+    {
+     "word": "remember",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "even",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.053
+    },
+    {
+     "word": "mother",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.042
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "On those dark years afar,",
+   "syllables": 6,
+   "target": 7,
+   "partner": "our",
+   "qwen_top": "when",
+   "meant": "when",
+   "chosen": "afar",
+   "candidates": [
+    {
+     "word": "afar",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 0.507
+    },
+    {
+     "word": "ago",
+     "p": 0.0141,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "forgotten",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.325
+    },
+    {
+     "word": "upon",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.315
+    },
+    {
+     "word": "without",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.31
+    },
+    {
+     "word": "fallen",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.308
+    },
+    {
+     "word": "beyond",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.306
+    },
+    {
+     "word": "about",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.305
+    },
+    {
+     "word": "forgot",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.303
+    },
+    {
+     "word": "apart",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.303
+    }
+   ]
+  }
+ ]
+}

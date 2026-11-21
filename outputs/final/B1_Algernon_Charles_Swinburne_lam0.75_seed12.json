@@ -1,0 +1,870 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 0.75,
+ "scheme": "AABB",
+ "seed": 12,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "It may be that purer minds now awake\nThan were before our ancient age:\nThat the tongue's keen glances never,\nAs on the barbed moods they fire,\nMay thus have dawned upon thy face, Lady,\nAnd yet their clearest meaning,\nIn thy wild and waning rage unknown,\nShall have found its owner in thee. Lady,\nLook forth from this nightingale's nest;\nThere hearken to his lovely cryes; behold\nHis eyes by some weary hour\nGrew like her slumberous eyes.",
+ "lines": [
+  {
+   "line": 1,
+   "text": "It may be that purer minds now awake",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "than",
+   "meant": "than",
+   "chosen": "awake",
+   "candidates": [
+    {
+     "word": "awake",
+     "p": 0.0192,
+     "rhyme": 0,
+     "score": 0.926
+    },
+    {
+     "word": "understand",
+     "p": 0.0149,
+     "rhyme": 0,
+     "score": 0.771
+    },
+    {
+     "word": "perceive",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.444
+    },
+    {
+     "word": "behold",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.433
+    },
+    {
+     "word": "abide",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.337
+    },
+    {
+     "word": "believe",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "contemplate",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.307
+    },
+    {
+     "word": "pursue",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "prevail",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "survey",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.295
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Than were before our ancient age:",
+   "syllables": 9,
+   "target": 10,
+   "partner": "awake",
+   "qwen_top": "gods",
+   "meant": "gods",
+   "chosen": "age",
+   "candidates": [
+    {
+     "word": "age",
+     "p": 0.0209,
+     "rhyme": 0.6,
+     "score": 0.773
+    },
+    {
+     "word": "gods",
+     "p": 0.0252,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "times",
+     "p": 0.025,
+     "rhyme": 0,
+     "score": 0.742
+    },
+    {
+     "word": "days",
+     "p": 0.0194,
+     "rhyme": 0.6,
+     "score": 0.727
+    },
+    {
+     "word": "fathers",
+     "p": 0.0232,
+     "rhyme": 0,
+     "score": 0.689
+    },
+    {
+     "word": "world",
+     "p": 0.0219,
+     "rhyme": 0,
+     "score": 0.651
+    },
+    {
+     "word": "time",
+     "p": 0.0217,
+     "rhyme": 0,
+     "score": 0.645
+    },
+    {
+     "word": "dawn",
+     "p": 0.0174,
+     "rhyme": 0,
+     "score": 0.516
+    },
+    {
+     "word": "day",
+     "p": 0.0121,
+     "rhyme": 0.6,
+     "score": 0.509
+    },
+    {
+     "word": "eyes",
+     "p": 0.016,
+     "rhyme": 0,
+     "score": 0.475
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "That the tongue's keen glances never,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "may",
+   "meant": "may",
+   "chosen": "never",
+   "candidates": [
+    {
+     "word": "never",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.892
+    },
+    {
+     "word": "into",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.786
+    },
+    {
+     "word": "upon",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.689
+    },
+    {
+     "word": "awake",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.509
+    },
+    {
+     "word": "away",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.414
+    },
+    {
+     "word": "again",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.392
+    },
+    {
+     "word": "cannot",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.386
+    },
+    {
+     "word": "betray",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.345
+    },
+    {
+     "word": "our",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.337
+    },
+    {
+     "word": "between",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.337
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "As on the barbed moods they fire,",
+   "syllables": 8,
+   "target": 9,
+   "partner": "never",
+   "qwen_top": "gaze",
+   "meant": "gaze",
+   "chosen": "fire",
+   "candidates": [
+    {
+     "word": "fire",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "arise",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.354
+    },
+    {
+     "word": "hover",
+     "p": 0.0012,
+     "rhyme": 0.3,
+     "score": 0.351
+    },
+    {
+     "word": "wander",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "follow",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "pursue",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.259
+    },
+    {
+     "word": "travel",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.19
+    },
+    {
+     "word": "scour",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.157
+    },
+    {
+     "word": "pursued",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.122
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "May thus have dawned upon thy face, Lady,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "o",
+   "meant": "o",
+   "chosen": "lady",
+   "candidates": [
+    {
+     "word": "lady",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.847
+    },
+    {
+     "word": "helen",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.777
+    },
+    {
+     "word": "our",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.705
+    },
+    {
+     "word": "cynthia",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.683
+    },
+    {
+     "word": "beauty",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.653
+    },
+    {
+     "word": "maiden",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.649
+    },
+    {
+     "word": "arthur",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.555
+    },
+    {
+     "word": "mary",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.537
+    },
+    {
+     "word": "before",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.451
+    },
+    {
+     "word": "unknown",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.395
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "And yet their clearest meaning,",
+   "syllables": 7,
+   "target": 8,
+   "partner": "lady",
+   "qwen_top": "light",
+   "meant": "light",
+   "chosen": "meaning",
+   "candidates": [
+    {
+     "word": "meaning",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "fire",
+     "p": 0.0096,
+     "rhyme": 0,
+     "score": 0.706
+    },
+    {
+     "word": "shadows",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.622
+    },
+    {
+     "word": "vision",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.622
+    },
+    {
+     "word": "meanings",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.622
+    },
+    {
+     "word": "fires",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.515
+    },
+    {
+     "word": "visions",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.377
+    },
+    {
+     "word": "images",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "traces",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.265
+    },
+    {
+     "word": "flashes",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.259
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "In thy wild and waning rage unknown,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "unknown",
+   "candidates": [
+    {
+     "word": "unknown",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.97
+    },
+    {
+     "word": "divine",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.878
+    },
+    {
+     "word": "denied",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.677
+    },
+    {
+     "word": "appear",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.629
+    },
+    {
+     "word": "revealed",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.604
+    },
+    {
+     "word": "before",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.583
+    },
+    {
+     "word": "above",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.565
+    },
+    {
+     "word": "against",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.545
+    },
+    {
+     "word": "below",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.537
+    },
+    {
+     "word": "abide",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.534
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Shall have found its owner in thee. Lady,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "unknown",
+   "qwen_top": "o",
+   "meant": "o",
+   "chosen": "lady",
+   "candidates": [
+    {
+     "word": "lady",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "alone",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 0.253
+    },
+    {
+     "word": "moreover",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.161
+    },
+    {
+     "word": "only",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.154
+    },
+    {
+     "word": "open",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.152
+    },
+    {
+     "word": "amen",
+     "p": 0.0,
+     "rhyme": 0.3,
+     "score": 0.09
+    },
+    {
+     "word": "indeed",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.084
+    },
+    {
+     "word": "again",
+     "p": 0.0,
+     "rhyme": 0.3,
+     "score": 0.079
+    },
+    {
+     "word": "even",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.029
+    },
+    {
+     "word": "happy",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.023
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Look forth from this nightingale's nest;",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "nest",
+   "meant": "nest",
+   "chosen": "nest",
+   "candidates": [
+    {
+     "word": "nest",
+     "p": 0.2478,
+     "rhyme": 0,
+     "score": 0.968
+    },
+    {
+     "word": "wing",
+     "p": 0.071,
+     "rhyme": 0,
+     "score": 0.398
+    },
+    {
+     "word": "breast",
+     "p": 0.0335,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "cage",
+     "p": 0.0488,
+     "rhyme": 0,
+     "score": 0.302
+    },
+    {
+     "word": "eye",
+     "p": 0.0169,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "tree",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "be",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "re",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "e",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "we",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.282
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "There hearken to his lovely cryes; behold",
+   "syllables": 10,
+   "target": 11,
+   "partner": "nest",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "behold",
+   "candidates": [
+    {
+     "word": "behold",
+     "p": 0.0285,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "listen",
+     "p": 0.0268,
+     "rhyme": 0,
+     "score": 0.706
+    },
+    {
+     "word": "lady",
+     "p": 0.0173,
+     "rhyme": 0,
+     "score": 0.456
+    },
+    {
+     "word": "beware",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.19
+    },
+    {
+     "word": "farewell",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.163
+    },
+    {
+     "word": "prepare",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.159
+    },
+    {
+     "word": "never",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.159
+    },
+    {
+     "word": "again",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.158
+    },
+    {
+     "word": "remember",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.158
+    },
+    {
+     "word": "welcome",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.157
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "His eyes by some weary hour",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "night",
+   "meant": "night",
+   "chosen": "hour",
+   "candidates": [
+    {
+     "word": "hour",
+     "p": 0.0149,
+     "rhyme": 0,
+     "score": 0.911
+    },
+    {
+     "word": "hours",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.539
+    },
+    {
+     "word": "power",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.338
+    },
+    {
+     "word": "shadow",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "fire",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "twilight",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "desire",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.245
+    },
+    {
+     "word": "stranger",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.241
+    },
+    {
+     "word": "sunset",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.241
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.226
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Grew like her slumberous eyes.",
+   "syllables": 7,
+   "target": 8,
+   "partner": "hour",
+   "qwen_top": "eyes",
+   "meant": "eyes",
+   "chosen": "eyes",
+   "candidates": [
+    {
+     "word": "eyes",
+     "p": 0.2686,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "flower",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 0.251
+    },
+    {
+     "word": "or",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.226
+    },
+    {
+     "word": "fur",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.226
+    },
+    {
+     "word": "mouth",
+     "p": 0.0056,
+     "rhyme": 0.6,
+     "score": 0.166
+    },
+    {
+     "word": "brows",
+     "p": 0.0049,
+     "rhyme": 0.6,
+     "score": 0.164
+    },
+    {
+     "word": "brow",
+     "p": 0.0046,
+     "rhyme": 0.6,
+     "score": 0.163
+    },
+    {
+     "word": "lips",
+     "p": 0.0563,
+     "rhyme": 0,
+     "score": 0.157
+    },
+    {
+     "word": "flowers",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.154
+    },
+    {
+     "word": "hours",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.152
+    }
+   ]
+  }
+ ]
+}

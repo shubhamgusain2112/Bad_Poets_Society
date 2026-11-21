@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 0.25,
+ "scheme": "AABB",
+ "seed": 10,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "And, as a king mine nation,\nI shall live and die for my country. Son\nOf France! the world is thine, the world alone\nTo thee; nor with thy noble\nInheritance of good alone\nThou art peace, calm, and love: but with only\nThis knowest thou how great thee art, alone\nWith all that are so better unknown\nThan thou! in the right by mercy\nBeneath the eternal the\nWorld has known thee forever. And again\nAs now, to thy life's end, long decade",
+ "lines": [
+  {
+   "line": 1,
+   "text": "And, as a king mine nation,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "own",
+   "meant": "eyes",
+   "chosen": "nation",
+   "candidates": [
+    {
+     "word": "nation",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.348
+    },
+    {
+     "word": "vision",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.343
+    },
+    {
+     "word": "reputation",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.331
+    },
+    {
+     "word": "creations",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.293
+    },
+    {
+     "word": "shadow",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.293
+    },
+    {
+     "word": "ability",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "upon",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "away",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "studio",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "father",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.285
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "I shall live and die for my country. Son",
+   "syllables": 10,
+   "target": 11,
+   "partner": "nation",
+   "qwen_top": "and",
+   "meant": "i",
+   "chosen": "son",
+   "candidates": [
+    {
+     "word": "son",
+     "p": 0.0027,
+     "rhyme": 0.9,
+     "score": 0.721
+    },
+    {
+     "word": "one",
+     "p": 0.0021,
+     "rhyme": 0.9,
+     "score": 0.712
+    },
+    {
+     "word": "won",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.691
+    },
+    {
+     "word": "can",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.684
+    },
+    {
+     "word": "again",
+     "p": 0.0063,
+     "rhyme": 0.6,
+     "score": 0.56
+    },
+    {
+     "word": "same",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.495
+    },
+    {
+     "word": "ca",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.493
+    },
+    {
+     "word": "say",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.486
+    },
+    {
+     "word": "today",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.483
+    },
+    {
+     "word": "take",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.479
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Of France! the world is thine, the world alone",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "is",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0858,
+     "rhyme": 0,
+     "score": 0.468
+    },
+    {
+     "word": "location",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "nobody",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "today",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "somebody",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "shadow",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "probably",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "although",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "again",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.257
+    },
+    {
+     "word": "anyway",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.257
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "To thee; nor with thy noble",
+   "syllables": 7,
+   "target": 8,
+   "partner": "alone",
+   "qwen_top": "name",
+   "meant": "own",
+   "chosen": "noble",
+   "candidates": [
+    {
+     "word": "noble",
+     "p": 0.0055,
+     "rhyme": 0.6,
+     "score": 0.7
+    },
+    {
+     "word": "shoulders",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.549
+    },
+    {
+     "word": "only",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.489
+    },
+    {
+     "word": "devotion",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.489
+    },
+    {
+     "word": "chosen",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.484
+    },
+    {
+     "word": "holy",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.482
+    },
+    {
+     "word": "holding",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.478
+    },
+    {
+     "word": "bestowed",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.477
+    },
+    {
+     "word": "control",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.474
+    },
+    {
+     "word": "divine",
+     "p": 0.0028,
+     "rhyme": 0.3,
+     "score": 0.352
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Inheritance of good alone",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0168,
+     "rhyme": 0,
+     "score": 0.468
+    },
+    {
+     "word": "nation",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.331
+    },
+    {
+     "word": "glory",
+     "p": 0.0093,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "today",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "again",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "ago",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "our",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.252
+    },
+    {
+     "word": "before",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "upon",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "within",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.246
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Thou art peace, calm, and love: but with only",
+   "syllables": 10,
+   "target": 11,
+   "partner": "alone",
+   "qwen_top": "thy",
+   "meant": "thee",
+   "chosen": "only",
+   "candidates": [
+    {
+     "word": "only",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.494
+    },
+    {
+     "word": "utmost",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.487
+    },
+    {
+     "word": "devotion",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.477
+    },
+    {
+     "word": "loneliness",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.473
+    },
+    {
+     "word": "upon",
+     "p": 0.0011,
+     "rhyme": 0.3,
+     "score": 0.282
+    },
+    {
+     "word": "within",
+     "p": 0.0009,
+     "rhyme": 0.3,
+     "score": 0.269
+    },
+    {
+     "word": "again",
+     "p": 0.0006,
+     "rhyme": 0.3,
+     "score": 0.256
+    },
+    {
+     "word": "everyone",
+     "p": 0.0006,
+     "rhyme": 0.3,
+     "score": 0.254
+    },
+    {
+     "word": "anyone",
+     "p": 0.0006,
+     "rhyme": 0.3,
+     "score": 0.253
+    },
+    {
+     "word": "someone",
+     "p": 0.0005,
+     "rhyme": 0.3,
+     "score": 0.252
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "This knowest thou how great thee art, alone",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.1135,
+     "rhyme": 0,
+     "score": 0.468
+    },
+    {
+     "word": "nation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.317
+    },
+    {
+     "word": "nobody",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "again",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.258
+    },
+    {
+     "word": "realized",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.252
+    },
+    {
+     "word": "likewise",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.247
+    },
+    {
+     "word": "forget",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.239
+    },
+    {
+     "word": "duet",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "afraid",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.235
+    },
+    {
+     "word": "betrayed",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.235
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "With all that are so better unknown",
+   "syllables": 9,
+   "target": 10,
+   "partner": "alone",
+   "qwen_top": "than",
+   "meant": "now",
+   "chosen": "unknown",
+   "candidates": [
+    {
+     "word": "unknown",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 0.761
+    },
+    {
+     "word": "only",
+     "p": 0.0077,
+     "rhyme": 0.6,
+     "score": 0.536
+    },
+    {
+     "word": "nobody",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.464
+    },
+    {
+     "word": "although",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.464
+    },
+    {
+     "word": "almost",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.464
+    },
+    {
+     "word": "going",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "ago",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "ever",
+     "p": 0.0225,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "anyone",
+     "p": 0.0016,
+     "rhyme": 0.3,
+     "score": 0.243
+    },
+    {
+     "word": "within",
+     "p": 0.0016,
+     "rhyme": 0.3,
+     "score": 0.243
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Than thou! in the right by mercy",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "thee",
+   "meant": "thee",
+   "chosen": "mercy",
+   "candidates": [
+    {
+     "word": "mercy",
+     "p": 0.0202,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "liberty",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "nobody",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "somebody",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "divine",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.266
+    },
+    {
+     "word": "again",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.264
+    },
+    {
+     "word": "allah",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "upon",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.247
+    },
+    {
+     "word": "alone",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "our",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.235
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Beneath the eternal the",
+   "syllables": 7,
+   "target": 8,
+   "partner": "mercy",
+   "qwen_top": "sun",
+   "meant": "sun",
+   "chosen": "the",
+   "candidates": [
+    {
+     "word": "the",
+     "p": 0.0012,
+     "rhyme": 0.9,
+     "score": 0.677
+    },
+    {
+     "word": "thee",
+     "p": 0.0012,
+     "rhyme": 0.9,
+     "score": 0.677
+    },
+    {
+     "word": "sea",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.677
+    },
+    {
+     "word": "see",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.677
+    },
+    {
+     "word": "liberty",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.676
+    },
+    {
+     "word": "tree",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.676
+    },
+    {
+     "word": "be",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.676
+    },
+    {
+     "word": "decree",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.676
+    },
+    {
+     "word": "sunday",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.676
+    },
+    {
+     "word": "earth",
+     "p": 0.0072,
+     "rhyme": 0.6,
+     "score": 0.464
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "World has known thee forever. And again",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "thou",
+   "meant": "thou",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0222,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "never",
+     "p": 0.0159,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "always",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.307
+    },
+    {
+     "word": "today",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "nobody",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "probably",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "somebody",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "although",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "ago",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.266
+    },
+    {
+     "word": "anyway",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.265
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "As now, to thy life's end, long decade",
+   "syllables": 9,
+   "target": 10,
+   "partner": "again",
+   "qwen_top": "life",
+   "meant": "ago",
+   "chosen": "decade",
+   "candidates": [
+    {
+     "word": "decade",
+     "p": 0.007,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "remembered",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "generations",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "forever",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "already",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "never",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "ended",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "later",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "waited",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "today",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.451
+    }
+   ]
+  }
+ ]
+}

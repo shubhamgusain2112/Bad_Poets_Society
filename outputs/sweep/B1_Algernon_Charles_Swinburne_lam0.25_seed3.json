@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 0.25,
+ "scheme": "AABB",
+ "seed": 3,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "But I am our Lord, our,\nOur God above the power\nOf Heaven and earth with light divine\nBeyond all things in shade or fire; mine\nIs as a spirit divine\nThat is not shadow denied\nNor all behind and beyond. The power\nI call out from the vault of our\nHigh God's love my fire divine\nTo make thy word come true,'tis mine\nTo give thee glory first before any.\nAnd if thou wouldst wait awhile yet many",
+ "lines": [
+  {
+   "line": 1,
+   "text": "But I am our Lord, our,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0801,
+     "rhyme": 0,
+     "score": 0.479
+    },
+    {
+     "word": "although",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "upon",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.234
+    },
+    {
+     "word": "before",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.23
+    },
+    {
+     "word": "unless",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "confess",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "beside",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.222
+    },
+    {
+     "word": "alone",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.221
+    },
+    {
+     "word": "within",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.218
+    },
+    {
+     "word": "indeed",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.215
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Our God above the power",
+   "syllables": 8,
+   "target": 9,
+   "partner": "our",
+   "qwen_top": "sea",
+   "meant": "sea",
+   "chosen": "power",
+   "candidates": [
+    {
+     "word": "power",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 0.755
+    },
+    {
+     "word": "tower",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 0.752
+    },
+    {
+     "word": "mountains",
+     "p": 0.0094,
+     "rhyme": 0.6,
+     "score": 0.497
+    },
+    {
+     "word": "mountain",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.464
+    },
+    {
+     "word": "father",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "powers",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "darkness",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "thousand",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "sounding",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "hour",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.452
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Of Heaven and earth with light divine",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "divine",
+   "candidates": [
+    {
+     "word": "divine",
+     "p": 0.011,
+     "rhyme": 0,
+     "score": 0.463
+    },
+    {
+     "word": "below",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "above",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "array",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "away",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "into",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "renew",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "upon",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.259
+    },
+    {
+     "word": "between",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.259
+    },
+    {
+     "word": "again",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.255
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Beyond all things in shade or fire; mine",
+   "syllables": 10,
+   "target": 11,
+   "partner": "divine",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "mine",
+   "candidates": [
+    {
+     "word": "mine",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 0.75
+    },
+    {
+     "word": "fine",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 0.75
+    },
+    {
+     "word": "my",
+     "p": 0.0095,
+     "rhyme": 0.6,
+     "score": 0.484
+    },
+    {
+     "word": "i",
+     "p": 0.0084,
+     "rhyme": 0.6,
+     "score": 0.48
+    },
+    {
+     "word": "y",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "thy",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "by",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "while",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "why",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "christ",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.451
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Is as a spirit divine",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "divine",
+   "candidates": [
+    {
+     "word": "divine",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.463
+    },
+    {
+     "word": "within",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.399
+    },
+    {
+     "word": "above",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "upon",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.309
+    },
+    {
+     "word": "unseen",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "alone",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.299
+    },
+    {
+     "word": "afar",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "below",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "between",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.259
+    },
+    {
+     "word": "shining",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.247
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "That is not shadow denied",
+   "syllables": 7,
+   "target": 8,
+   "partner": "divine",
+   "qwen_top": "or",
+   "meant": "or",
+   "chosen": "denied",
+   "candidates": [
+    {
+     "word": "denied",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.496
+    },
+    {
+     "word": "divided",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.484
+    },
+    {
+     "word": "either",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.48
+    },
+    {
+     "word": "upon",
+     "p": 0.0011,
+     "rhyme": 0.3,
+     "score": 0.475
+    },
+    {
+     "word": "neither",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.475
+    },
+    {
+     "word": "behind",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.475
+    },
+    {
+     "word": "sublime",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.473
+    },
+    {
+     "word": "aside",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.468
+    },
+    {
+     "word": "beside",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.464
+    },
+    {
+     "word": "minded",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.462
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Nor all behind and beyond. The power",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "light",
+   "meant": "light",
+   "chosen": "power",
+   "candidates": [
+    {
+     "word": "power",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.409
+    },
+    {
+     "word": "fire",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.382
+    },
+    {
+     "word": "hour",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.366
+    },
+    {
+     "word": "shadow",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.364
+    },
+    {
+     "word": "divine",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.26
+    },
+    {
+     "word": "very",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "glory",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "holy",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.207
+    },
+    {
+     "word": "flower",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.194
+    },
+    {
+     "word": "heaven",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.185
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "I call out from the vault of our",
+   "syllables": 9,
+   "target": 10,
+   "partner": "power",
+   "qwen_top": "heaven",
+   "meant": "heaven",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0033,
+     "rhyme": 1.0,
+     "score": 0.753
+    },
+    {
+     "word": "mountains",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "outer",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "mountain",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "powers",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "heaven",
+     "p": 0.3178,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "fire",
+     "p": 0.0019,
+     "rhyme": 0.3,
+     "score": 0.226
+    },
+    {
+     "word": "higher",
+     "p": 0.0002,
+     "rhyme": 0.3,
+     "score": 0.225
+    },
+    {
+     "word": "desire",
+     "p": 0.0001,
+     "rhyme": 0.3,
+     "score": 0.225
+    },
+    {
+     "word": "darkness",
+     "p": 0.0129,
+     "rhyme": 0,
+     "score": 0.01
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "High God's love my fire divine",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "divine",
+   "candidates": [
+    {
+     "word": "divine",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.463
+    },
+    {
+     "word": "within",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "upon",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.314
+    },
+    {
+     "word": "away",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "into",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "again",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "anew",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "below",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "fire",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.268
+    },
+    {
+     "word": "before",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.262
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "To make thy word come true,'tis mine",
+   "syllables": 8,
+   "target": 9,
+   "partner": "divine",
+   "qwen_top": "he",
+   "meant": "he",
+   "chosen": "mine",
+   "candidates": [
+    {
+     "word": "mine",
+     "p": 0.0791,
+     "rhyme": 1.0,
+     "score": 0.909
+    },
+    {
+     "word": "sign",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 0.751
+    },
+    {
+     "word": "fine",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 0.751
+    },
+    {
+     "word": "i",
+     "p": 0.0268,
+     "rhyme": 0.6,
+     "score": 0.504
+    },
+    {
+     "word": "my",
+     "p": 0.0172,
+     "rhyme": 0.6,
+     "score": 0.484
+    },
+    {
+     "word": "thy",
+     "p": 0.0115,
+     "rhyme": 0.6,
+     "score": 0.473
+    },
+    {
+     "word": "light",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "life",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "right",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "christ",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.454
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "To give thee glory first before any.",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "thee",
+   "meant": "thee",
+   "chosen": "any",
+   "candidates": [
+    {
+     "word": "any",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.407
+    },
+    {
+     "word": "our",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "creation",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "heaven",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "decay",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "away",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "again",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "sunrise",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.246
+    },
+    {
+     "word": "before",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.243
+    },
+    {
+     "word": "divine",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.223
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "And if thou wouldst wait awhile yet many",
+   "syllables": 10,
+   "target": 11,
+   "partner": "any",
+   "qwen_top": "more",
+   "meant": "more",
+   "chosen": "many",
+   "candidates": [
+    {
+     "word": "many",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 0.752
+    },
+    {
+     "word": "again",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.7
+    },
+    {
+     "word": "better",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.462
+    },
+    {
+     "word": "instead",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "ever",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "forever",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "against",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "never",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "content",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "awhile",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.25
+    }
+   ]
+  }
+ ]
+}

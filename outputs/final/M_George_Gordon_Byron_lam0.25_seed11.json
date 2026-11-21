@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 0.25,
+ "scheme": "ABAB",
+ "seed": 11,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Ear and Ease, as if the couch were broken,\nSat cowering near their partner's shoulder;\nAnd there in agitation and provoke\nThe cry of Thalia; for she arose,\nUrge to man, and urged him with delight.\nHer eyes, so red from thirst, his face admiration\nFelt; a feverish frenzy arrived.\nHe dropped each flower he had reputation,\nNow was her temper very kind again;\nShe sat on his arm, and tenderly kissed\nHis hand in very affectionate disdain:\nBut whereat I gazed, and found quickly",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Ear and Ease, as if the couch were broken,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "no",
+   "chosen": "broken",
+   "candidates": [
+    {
+     "word": "broken",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "being",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.306
+    },
+    {
+     "word": "inside",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "again",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "fire",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "because",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.257
+    },
+    {
+     "word": "outside",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "very",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.246
+    },
+    {
+     "word": "always",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.239
+    },
+    {
+     "word": "despite",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.231
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Sat cowering near their partner's shoulder;",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "bed",
+   "meant": "head",
+   "chosen": "shoulder",
+   "candidates": [
+    {
+     "word": "shoulder",
+     "p": 0.0444,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "elbow",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.309
+    },
+    {
+     "word": "away",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "below",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "inside",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "beside",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.235
+    },
+    {
+     "word": "before",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.231
+    },
+    {
+     "word": "upright",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "position",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.219
+    },
+    {
+     "word": "elbows",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.203
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "And there in agitation and provoke",
+   "syllables": 10,
+   "target": 11,
+   "partner": "broken",
+   "qwen_top": "despair",
+   "meant": "pain",
+   "chosen": "provoke",
+   "candidates": [
+    {
+     "word": "provoke",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "loneliness",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "commotion",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "loathing",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "sowing",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "emotion",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "provoked",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "hopelessness",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "solace",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "provoking",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.452
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "The cry of Thalia; for she arose,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "shoulder",
+   "qwen_top": "was",
+   "meant": "had",
+   "chosen": "arose",
+   "candidates": [
+    {
+     "word": "arose",
+     "p": 0.006,
+     "rhyme": 0.6,
+     "score": 0.57
+    },
+    {
+     "word": "awoke",
+     "p": 0.005,
+     "rhyme": 0.6,
+     "score": 0.55
+    },
+    {
+     "word": "ago",
+     "p": 0.0043,
+     "rhyme": 0.6,
+     "score": 0.537
+    },
+    {
+     "word": "approached",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.494
+    },
+    {
+     "word": "alone",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.481
+    },
+    {
+     "word": "boasted",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.473
+    },
+    {
+     "word": "nobody",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.469
+    },
+    {
+     "word": "noticed",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.466
+    },
+    {
+     "word": "although",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "enrolled",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.459
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Urge to man, and urged him with delight.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "delight",
+   "chosen": "delight",
+   "candidates": [
+    {
+     "word": "delight",
+     "p": 0.0157,
+     "rhyme": 0,
+     "score": 0.462
+    },
+    {
+     "word": "admiration",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.406
+    },
+    {
+     "word": "indignation",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.378
+    },
+    {
+     "word": "dismay",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.374
+    },
+    {
+     "word": "consternation",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.37
+    },
+    {
+     "word": "agitation",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.358
+    },
+    {
+     "word": "condemnation",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.357
+    },
+    {
+     "word": "elation",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.341
+    },
+    {
+     "word": "disdain",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.337
+    },
+    {
+     "word": "operation",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.336
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Her eyes, so red from thirst, his face admiration",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "did",
+   "meant": "kissed",
+   "chosen": "admiration",
+   "candidates": [
+    {
+     "word": "admiration",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.344
+    },
+    {
+     "word": "consternation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.343
+    },
+    {
+     "word": "imitated",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "betrayed",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "dismay",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "painted",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "instinctively",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "eyebrows",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "courted",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "again",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.273
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Felt; a feverish frenzy arrived.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "delight",
+   "qwen_top": "of",
+   "meant": "arose",
+   "chosen": "arrived",
+   "candidates": [
+    {
+     "word": "arrived",
+     "p": 0.0104,
+     "rhyme": 0.6,
+     "score": 0.524
+    },
+    {
+     "word": "subsided",
+     "p": 0.0062,
+     "rhyme": 0.6,
+     "score": 0.494
+    },
+    {
+     "word": "arrival",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.476
+    },
+    {
+     "word": "finally",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.464
+    },
+    {
+     "word": "quieted",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "realized",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "arriving",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "revived",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "uprising",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "excitement",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.456
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "He dropped each flower he had reputation,",
+   "syllables": 11,
+   "target": 10,
+   "partner": "admiration",
+   "qwen_top": "in",
+   "meant": "had",
+   "chosen": "reputation",
+   "candidates": [
+    {
+     "word": "reputation",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 0.764
+    },
+    {
+     "word": "taken",
+     "p": 0.004,
+     "rhyme": 0.6,
+     "score": 0.509
+    },
+    {
+     "word": "obtained",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.485
+    },
+    {
+     "word": "later",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.483
+    },
+    {
+     "word": "displayed",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.474
+    },
+    {
+     "word": "bouquets",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.471
+    },
+    {
+     "word": "acclaim",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.47
+    },
+    {
+     "word": "created",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.466
+    },
+    {
+     "word": "hastily",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.464
+    },
+    {
+     "word": "occasions",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.461
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Now was her temper very kind again;",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.1007,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "anew",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "probably",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "although",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.264
+    },
+    {
+     "word": "anyway",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.257
+    },
+    {
+     "word": "july",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "january",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "february",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.247
+    },
+    {
+     "word": "before",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.243
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "She sat on his arm, and tenderly kissed",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "kissed",
+   "meant": "kissed",
+   "chosen": "kissed",
+   "candidates": [
+    {
+     "word": "kissed",
+     "p": 0.0417,
+     "rhyme": 0,
+     "score": 0.429
+    },
+    {
+     "word": "smiled",
+     "p": 0.0349,
+     "rhyme": 0,
+     "score": 0.345
+    },
+    {
+     "word": "prayed",
+     "p": 0.0149,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "he",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.299
+    },
+    {
+     "word": "she",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "knew",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "had",
+     "p": 0.0198,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "drew",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "blew",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "lay",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.28
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "His hand in very affectionate disdain:",
+   "syllables": 11,
+   "target": 10,
+   "partner": "again",
+   "qwen_top": "way",
+   "meant": "manner",
+   "chosen": "disdain",
+   "candidates": [
+    {
+     "word": "disdain",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 0.757
+    },
+    {
+     "word": "humane",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 0.755
+    },
+    {
+     "word": "way",
+     "p": 0.0202,
+     "rhyme": 0.6,
+     "score": 0.648
+    },
+    {
+     "word": "sense",
+     "p": 0.0113,
+     "rhyme": 0.6,
+     "score": 0.561
+    },
+    {
+     "word": "gesture",
+     "p": 0.0088,
+     "rhyme": 0.6,
+     "score": 0.536
+    },
+    {
+     "word": "ways",
+     "p": 0.0056,
+     "rhyme": 0.6,
+     "score": 0.505
+    },
+    {
+     "word": "gestures",
+     "p": 0.0038,
+     "rhyme": 0.6,
+     "score": 0.487
+    },
+    {
+     "word": "nature",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.476
+    },
+    {
+     "word": "gentle",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.474
+    },
+    {
+     "word": "best",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.472
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "But whereat I gazed, and found quickly",
+   "syllables": 9,
+   "target": 10,
+   "partner": "kissed",
+   "qwen_top": "him",
+   "meant": "again",
+   "chosen": "quickly",
+   "candidates": [
+    {
+     "word": "quickly",
+     "p": 0.0032,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "within",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "until",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "simply",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "convinced",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "reappear",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "therein",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "appears",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "appeared",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "position",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.451
+    }
+   ]
+  }
+ ]
+}

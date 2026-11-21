@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 0.25,
+ "scheme": "ABAB",
+ "seed": 11,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Ear and Ease, as if the couch were heaven,\nCall me of earth to welcome my coming;\nAnd from that foreign coxcomb's undying fun\nMy exile shall put on a country.\nThen bring me back again thy nation,\nFor ye have not her; they are contented here,\nTheir dear children; only there's danger,\nAnd, no better with them than being.\nIt will be better with you still alive\nThan half my life in Spain: for the nation,\nTo which I owe the present exile,\nWill look o'er her own proud sons' degradation,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Ear and Ease, as if the couch were heaven,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "a",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0612,
+     "rhyme": 0,
+     "score": 0.37
+    },
+    {
+     "word": "our",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "upon",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.235
+    },
+    {
+     "word": "alone",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.222
+    },
+    {
+     "word": "divine",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "within",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "indeed",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "fire",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.201
+    },
+    {
+     "word": "higher",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.198
+    },
+    {
+     "word": "ours",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.173
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Call me of earth to welcome my coming;",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "stay",
+   "meant": "stay",
+   "chosen": "coming",
+   "candidates": [
+    {
+     "word": "coming",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "return",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "heaven",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "hour",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "spirit",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "visit",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.245
+    },
+    {
+     "word": "delight",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.24
+    },
+    {
+     "word": "descent",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "present",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.221
+    },
+    {
+     "word": "retreat",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.221
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "And from that foreign coxcomb's undying fun",
+   "syllables": 11,
+   "target": 11,
+   "partner": "heaven",
+   "qwen_top": "strife",
+   "meant": "strife",
+   "chosen": "fun",
+   "candidates": [
+    {
+     "word": "fun",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.685
+    },
+    {
+     "word": "care",
+     "p": 0.0076,
+     "rhyme": 0.6,
+     "score": 0.612
+    },
+    {
+     "word": "bed",
+     "p": 0.0038,
+     "rhyme": 0.6,
+     "score": 0.531
+    },
+    {
+     "word": "hell",
+     "p": 0.0032,
+     "rhyme": 0.6,
+     "score": 0.518
+    },
+    {
+     "word": "air",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.51
+    },
+    {
+     "word": "shell",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.482
+    },
+    {
+     "word": "jest",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.482
+    },
+    {
+     "word": "realm",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.475
+    },
+    {
+     "word": "quest",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.475
+    },
+    {
+     "word": "nest",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.473
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "My exile shall put on a country.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "coming",
+   "qwen_top": "new",
+   "meant": "new",
+   "chosen": "country",
+   "candidates": [
+    {
+     "word": "country",
+     "p": 0.0042,
+     "rhyme": 0.6,
+     "score": 0.507
+    },
+    {
+     "word": "humble",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.48
+    },
+    {
+     "word": "summer",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.473
+    },
+    {
+     "word": "lovely",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.465
+    },
+    {
+     "word": "london",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "sunny",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.462
+    },
+    {
+     "word": "loving",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.462
+    },
+    {
+     "word": "comfortable",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "public",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "sudden",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.459
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Then bring me back again thy nation,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "country",
+   "meant": "country",
+   "chosen": "nation",
+   "candidates": [
+    {
+     "word": "nation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "shadow",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "gentle",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.26
+    },
+    {
+     "word": "country",
+     "p": 0.0173,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.24
+    },
+    {
+     "word": "very",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.236
+    },
+    {
+     "word": "golden",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.234
+    },
+    {
+     "word": "fairy",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.232
+    },
+    {
+     "word": "airy",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.227
+    },
+    {
+     "word": "divine",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.221
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "For ye have not her; they are contented here,",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "here",
+   "meant": "here",
+   "chosen": "here",
+   "candidates": [
+    {
+     "word": "here",
+     "p": 0.0323,
+     "rhyme": 0,
+     "score": 0.402
+    },
+    {
+     "word": "there",
+     "p": 0.0196,
+     "rhyme": 0,
+     "score": 0.389
+    },
+    {
+     "word": "in",
+     "p": 0.0173,
+     "rhyme": 0,
+     "score": 0.351
+    },
+    {
+     "word": "to",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.314
+    },
+    {
+     "word": "no",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "free",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "ne",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "ye",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "me",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Their dear children; only there's danger,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "nation",
+   "qwen_top": "a",
+   "meant": "a",
+   "chosen": "danger",
+   "candidates": [
+    {
+     "word": "danger",
+     "p": 0.0059,
+     "rhyme": 0.6,
+     "score": 0.471
+    },
+    {
+     "word": "always",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "decay",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "greater",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "nature",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "safety",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "stranger",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "hatred",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "labour",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "nothing",
+     "p": 0.0721,
+     "rhyme": 0,
+     "score": 0.25
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "And, no better with them than being.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "here",
+   "qwen_top": "with",
+   "meant": "with",
+   "chosen": "being",
+   "candidates": [
+    {
+     "word": "being",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.496
+    },
+    {
+     "word": "freedom",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.487
+    },
+    {
+     "word": "evil",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.471
+    },
+    {
+     "word": "liberty",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.468
+    },
+    {
+     "word": "between",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.467
+    },
+    {
+     "word": "beneath",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.465
+    },
+    {
+     "word": "easy",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "indeed",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "either",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.462
+    },
+    {
+     "word": "even",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.462
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "It will be better with you still alive",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "alive",
+   "candidates": [
+    {
+     "word": "alive",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.392
+    },
+    {
+     "word": "remain",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.372
+    },
+    {
+     "word": "again",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.335
+    },
+    {
+     "word": "alone",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "below",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "away",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "today",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "before",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "unseen",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "afar",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.263
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Than half my life in Spain: for the nation,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "rest",
+   "meant": "rest",
+   "chosen": "nation",
+   "candidates": [
+    {
+     "word": "nation",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "spanish",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "nations",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "fire",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "hour",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.242
+    },
+    {
+     "word": "very",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.232
+    },
+    {
+     "word": "city",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.226
+    },
+    {
+     "word": "present",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.222
+    },
+    {
+     "word": "sire",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "desert",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.203
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "To which I owe the present exile,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "alive",
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "exile",
+   "candidates": [
+    {
+     "word": "exile",
+     "p": 0.0075,
+     "rhyme": 0.6,
+     "score": 0.592
+    },
+    {
+     "word": "triumph",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.476
+    },
+    {
+     "word": "delight",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.472
+    },
+    {
+     "word": "title",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.469
+    },
+    {
+     "word": "alliance",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.469
+    },
+    {
+     "word": "crisis",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.468
+    },
+    {
+     "word": "paradise",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.462
+    },
+    {
+     "word": "happiness",
+     "p": 0.0133,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "success",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.162
+    },
+    {
+     "word": "renown",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.104
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Will look o'er her own proud sons' degradation,",
+   "syllables": 11,
+   "target": 10,
+   "partner": "nation",
+   "qwen_top": "graves",
+   "meant": "graves",
+   "chosen": "degradation",
+   "candidates": [
+    {
+     "word": "degradation",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 0.759
+    },
+    {
+     "word": "disgrace",
+     "p": 0.0218,
+     "rhyme": 0.6,
+     "score": 0.7
+    },
+    {
+     "word": "faces",
+     "p": 0.0071,
+     "rhyme": 0.6,
+     "score": 0.531
+    },
+    {
+     "word": "decay",
+     "p": 0.0049,
+     "rhyme": 0.6,
+     "score": 0.506
+    },
+    {
+     "word": "failure",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.488
+    },
+    {
+     "word": "estates",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.48
+    },
+    {
+     "word": "wasted",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.468
+    },
+    {
+     "word": "failing",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.465
+    },
+    {
+     "word": "array",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "mistakes",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.462
+    }
+   ]
+  }
+ ]
+}

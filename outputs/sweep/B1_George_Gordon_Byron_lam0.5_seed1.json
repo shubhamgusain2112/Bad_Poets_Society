@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 0.5,
+ "scheme": "ABAB",
+ "seed": 1,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "183, The Commencement of the Composition of\nI. Adieu! Some Maidens have departed\nLike stars; but all are fair to me above.\nWho would ask what manner of beauty\nAre these whom I have seen in life's early\nDay? 'Tis not that which canst thou claim alone,\nThat beauty which rises from soul alone,\nOr which cannot be without several own,\nBut that which canst boast and its beauty.\nII. Let each my fancy send away\nThe scenes that fill it with a glowing ray.\nWhat were its charm, could it bring again",
+ "lines": [
+  {
+   "line": 1,
+   "text": "183, The Commencement of the Composition of",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "of",
+   "candidates": [
+    {
+     "word": "of",
+     "p": 0.7628,
+     "rhyme": 0,
+     "score": 0.61
+    },
+    {
+     "word": "he",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "pre",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "re",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "de",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "vi",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "I. Adieu! Some Maidens have departed",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "gone",
+   "meant": "gone",
+   "chosen": "departed",
+   "candidates": [
+    {
+     "word": "departed",
+     "p": 0.0136,
+     "rhyme": 0,
+     "score": 0.615
+    },
+    {
+     "word": "fallen",
+     "p": 0.0114,
+     "rhyme": 0,
+     "score": 0.508
+    },
+    {
+     "word": "retired",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "never",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "given",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.299
+    },
+    {
+     "word": "array",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "forgot",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "taken",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "wandered",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "begun",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.253
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Like stars; but all are fair to me above.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "of",
+   "qwen_top": "now",
+   "meant": "now",
+   "chosen": "above",
+   "candidates": [
+    {
+     "word": "above",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 0.528
+    },
+    {
+     "word": "again",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "indeed",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.344
+    },
+    {
+     "word": "alone",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.343
+    },
+    {
+     "word": "among",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.325
+    },
+    {
+     "word": "because",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.312
+    },
+    {
+     "word": "rather",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.309
+    },
+    {
+     "word": "undone",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.309
+    },
+    {
+     "word": "unto",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.308
+    },
+    {
+     "word": "under",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.306
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Who would ask what manner of beauty",
+   "syllables": 9,
+   "target": 10,
+   "partner": "departed",
+   "qwen_top": "beauty",
+   "meant": "beauty",
+   "chosen": "beauty",
+   "candidates": [
+    {
+     "word": "beauty",
+     "p": 0.0621,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.322
+    },
+    {
+     "word": "body",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.311
+    },
+    {
+     "word": "goddess",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.308
+    },
+    {
+     "word": "honour",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.307
+    },
+    {
+     "word": "marvel",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.307
+    },
+    {
+     "word": "departure",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.304
+    },
+    {
+     "word": "departing",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.304
+    },
+    {
+     "word": "darling",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.304
+    },
+    {
+     "word": "flowers",
+     "p": 0.0252,
+     "rhyme": 0,
+     "score": 0.203
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Are these whom I have seen in life's early",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "prime",
+   "meant": "prime",
+   "chosen": "early",
+   "candidates": [
+    {
+     "word": "early",
+     "p": 0.0265,
+     "rhyme": 0,
+     "score": 0.628
+    },
+    {
+     "word": "decay",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.418
+    },
+    {
+     "word": "array",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.309
+    },
+    {
+     "word": "display",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "delay",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "shadow",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ago",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "decline",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "career",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.259
+    },
+    {
+     "word": "delight",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.256
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Day? 'Tis not that which canst thou claim alone,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.718
+    },
+    {
+     "word": "away",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.543
+    },
+    {
+     "word": "upon",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.502
+    },
+    {
+     "word": "before",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.465
+    },
+    {
+     "word": "above",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.413
+    },
+    {
+     "word": "below",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.388
+    },
+    {
+     "word": "beside",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.365
+    },
+    {
+     "word": "compare",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.365
+    },
+    {
+     "word": "our",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.341
+    },
+    {
+     "word": "again",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.34
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "That beauty which rises from soul alone,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "early",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0186,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "sublime",
+     "p": 0.0113,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "eternal",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.301
+    },
+    {
+     "word": "above",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.236
+    },
+    {
+     "word": "divine",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.112
+    },
+    {
+     "word": "supreme",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.047
+    },
+    {
+     "word": "unto",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.047
+    },
+    {
+     "word": "without",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.036
+    },
+    {
+     "word": "within",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.032
+    },
+    {
+     "word": "itself",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.032
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Or which cannot be without several own,",
+   "syllables": 11,
+   "target": 11,
+   "partner": "alone",
+   "qwen_top": "charms",
+   "meant": "charms",
+   "chosen": "own",
+   "candidates": [
+    {
+     "word": "own",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 0.501
+    },
+    {
+     "word": "charms",
+     "p": 0.1285,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "souls",
+     "p": 0.0093,
+     "rhyme": 0.6,
+     "score": 0.336
+    },
+    {
+     "word": "soul",
+     "p": 0.005,
+     "rhyme": 0.6,
+     "score": 0.32
+    },
+    {
+     "word": "folds",
+     "p": 0.005,
+     "rhyme": 0.6,
+     "score": 0.319
+    },
+    {
+     "word": "mould",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.31
+    },
+    {
+     "word": "tones",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.31
+    },
+    {
+     "word": "glow",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.307
+    },
+    {
+     "word": "notes",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.305
+    },
+    {
+     "word": "lo",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.305
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "But that which canst boast and its beauty.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "own",
+   "meant": "own",
+   "chosen": "beauty",
+   "candidates": [
+    {
+     "word": "beauty",
+     "p": 0.0144,
+     "rhyme": 0,
+     "score": 0.615
+    },
+    {
+     "word": "glory",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.548
+    },
+    {
+     "word": "very",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.499
+    },
+    {
+     "word": "power",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.444
+    },
+    {
+     "word": "admiration",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.387
+    },
+    {
+     "word": "creation",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.366
+    },
+    {
+     "word": "foundation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.337
+    },
+    {
+     "word": "offspring",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.331
+    },
+    {
+     "word": "reward",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "shadow",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.315
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "II. Let each my fancy send away",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "a",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0171,
+     "rhyme": 0,
+     "score": 0.775
+    },
+    {
+     "word": "along",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.367
+    },
+    {
+     "word": "anew",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "again",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "into",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.307
+    },
+    {
+     "word": "appropriate",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "before",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "upon",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "array",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "below",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.269
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "The scenes that fill it with a glowing ray.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "beauty",
+   "qwen_top": "ray",
+   "meant": "ray",
+   "chosen": "ray",
+   "candidates": [
+    {
+     "word": "ray",
+     "p": 0.2516,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "sea",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.451
+    },
+    {
+     "word": "id",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.451
+    },
+    {
+     "word": "key",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.451
+    },
+    {
+     "word": "plea",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.451
+    },
+    {
+     "word": "she",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.451
+    },
+    {
+     "word": "fee",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.45
+    },
+    {
+     "word": "spree",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.45
+    },
+    {
+     "word": "e",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.45
+    },
+    {
+     "word": "free",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.45
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "What were its charm, could it bring again",
+   "syllables": 9,
+   "target": 10,
+   "partner": "away",
+   "qwen_top": "me",
+   "meant": "me",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0097,
+     "rhyme": 0.6,
+     "score": 0.8
+    },
+    {
+     "word": "display",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 0.51
+    },
+    {
+     "word": "decay",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 0.509
+    },
+    {
+     "word": "dismay",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 0.504
+    },
+    {
+     "word": "revelation",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.305
+    },
+    {
+     "word": "daily",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.304
+    },
+    {
+     "word": "disdain",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.304
+    },
+    {
+     "word": "against",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.304
+    },
+    {
+     "word": "itself",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.236
+    },
+    {
+     "word": "about",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.184
+    }
+   ]
+  }
+ ]
+}

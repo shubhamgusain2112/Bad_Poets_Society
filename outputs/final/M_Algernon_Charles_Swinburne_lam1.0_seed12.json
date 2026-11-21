@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 1.0,
+ "scheme": "AABB",
+ "seed": 12,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "It may be that purer minds now behold\nThe soul of this fair moon; but again\nAwe wearily when it is ago\nAnd the watch to-day is broken,\nAnd a shade of midnight shadows shadows\nThe silence and dimness, and,\nNor do I know how, that little moon\nOf all our light and all our light,\nTo take from darkness a shadow now,\nFor a shadow's sake on earth. Nay never\nThou tellest us thy path again.\nYet if it was thou alone",
+ "lines": [
+  {
+   "line": 1,
+   "text": "It may be that purer minds now behold",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "than",
+   "meant": "see",
+   "chosen": "behold",
+   "candidates": [
+    {
+     "word": "behold",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 1.176
+    },
+    {
+     "word": "expect",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 1.169
+    },
+    {
+     "word": "believe",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 1.167
+    },
+    {
+     "word": "perceive",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 1.105
+    },
+    {
+     "word": "able",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.812
+    },
+    {
+     "word": "wonder",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.748
+    },
+    {
+     "word": "discern",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.702
+    },
+    {
+     "word": "understand",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.686
+    },
+    {
+     "word": "await",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.676
+    },
+    {
+     "word": "follow",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.653
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The soul of this fair moon; but again",
+   "syllables": 9,
+   "target": 10,
+   "partner": "behold",
+   "qwen_top": "the",
+   "meant": "yet",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0167,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "never",
+     "p": 0.0163,
+     "rhyme": 0,
+     "score": 0.978
+    },
+    {
+     "word": "indeed",
+     "p": 0.0128,
+     "rhyme": 0,
+     "score": 0.768
+    },
+    {
+     "word": "ever",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.465
+    },
+    {
+     "word": "finally",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.365
+    },
+    {
+     "word": "always",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.2
+    },
+    {
+     "word": "forgotten",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.192
+    },
+    {
+     "word": "simply",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.178
+    },
+    {
+     "word": "everything",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "even",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.173
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Awe wearily when it is ago",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "dark",
+   "meant": "gone",
+   "chosen": "ago",
+   "candidates": [
+    {
+     "word": "ago",
+     "p": 0.0124,
+     "rhyme": 0,
+     "score": 1.214
+    },
+    {
+     "word": "fallen",
+     "p": 0.0131,
+     "rhyme": 0,
+     "score": 1.09
+    },
+    {
+     "word": "before",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.639
+    },
+    {
+     "word": "disappeared",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.489
+    },
+    {
+     "word": "appear",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.443
+    },
+    {
+     "word": "again",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.44
+    },
+    {
+     "word": "already",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.438
+    },
+    {
+     "word": "earlier",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.398
+    },
+    {
+     "word": "decade",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.395
+    },
+    {
+     "word": "although",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.388
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "And the watch to-day is broken,",
+   "syllables": 8,
+   "target": 9,
+   "partner": "ago",
+   "qwen_top": "on",
+   "meant": "gone",
+   "chosen": "broken",
+   "candidates": [
+    {
+     "word": "broken",
+     "p": 0.0059,
+     "rhyme": 0.6,
+     "score": 1.0
+    },
+    {
+     "word": "already",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.801
+    },
+    {
+     "word": "never",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.755
+    },
+    {
+     "word": "before",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.709
+    },
+    {
+     "word": "decade",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.681
+    },
+    {
+     "word": "forgotten",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.643
+    },
+    {
+     "word": "until",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.597
+    },
+    {
+     "word": "almost",
+     "p": 0.0035,
+     "rhyme": 0.6,
+     "score": 0.59
+    },
+    {
+     "word": "away",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.552
+    },
+    {
+     "word": "without",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.483
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "And a shade of midnight shadows shadows",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "creep",
+   "meant": "fall",
+   "chosen": "shadows",
+   "candidates": [
+    {
+     "word": "shadows",
+     "p": 0.0127,
+     "rhyme": 0,
+     "score": 1.2
+    },
+    {
+     "word": "shadow",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.547
+    },
+    {
+     "word": "disappear",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.476
+    },
+    {
+     "word": "beneath",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.362
+    },
+    {
+     "word": "below",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.354
+    },
+    {
+     "word": "away",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.332
+    },
+    {
+     "word": "somewhere",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "occur",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.317
+    },
+    {
+     "word": "appear",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.312
+    },
+    {
+     "word": "into",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.312
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "The silence and dimness, and,",
+   "syllables": 7,
+   "target": 8,
+   "partner": "shadows",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "and",
+   "candidates": [
+    {
+     "word": "and",
+     "p": 0.0365,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "so",
+     "p": 0.0138,
+     "rhyme": 0.6,
+     "score": 0.377
+    },
+    {
+     "word": "are",
+     "p": 0.0106,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "all",
+     "p": 0.0093,
+     "rhyme": 0,
+     "score": 0.255
+    },
+    {
+     "word": "still",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.212
+    },
+    {
+     "word": "too",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "amid",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.14
+    },
+    {
+     "word": "those",
+     "p": 0.0049,
+     "rhyme": 0.9,
+     "score": 0.133
+    },
+    {
+     "word": "but",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.129
+    },
+    {
+     "word": "now",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.116
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Nor do I know how, that little moon",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "moon",
+   "meant": "moon",
+   "chosen": "moon",
+   "candidates": [
+    {
+     "word": "moon",
+     "p": 0.0813,
+     "rhyme": 0,
+     "score": 1.208
+    },
+    {
+     "word": "light",
+     "p": 0.0646,
+     "rhyme": 0,
+     "score": 1.006
+    },
+    {
+     "word": "star",
+     "p": 0.0425,
+     "rhyme": 0,
+     "score": 0.752
+    },
+    {
+     "word": "sun",
+     "p": 0.0186,
+     "rhyme": 0,
+     "score": 0.424
+    },
+    {
+     "word": "sensation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "bird",
+     "p": 0.0115,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "day",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.313
+    },
+    {
+     "word": "ray",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.306
+    },
+    {
+     "word": "blue",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "sea",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.294
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Of all our light and all our light,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "moon",
+   "qwen_top": "love",
+   "meant": "light",
+   "chosen": "light",
+   "candidates": [
+    {
+     "word": "light",
+     "p": 0.1034,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "love",
+     "p": 0.032,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "day",
+     "p": 0.0167,
+     "rhyme": 0,
+     "score": 0.162
+    },
+    {
+     "word": "darkness",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 0.117
+    },
+    {
+     "word": "joy",
+     "p": 0.0116,
+     "rhyme": 0,
+     "score": 0.112
+    },
+    {
+     "word": "night",
+     "p": 0.0115,
+     "rhyme": 0,
+     "score": 0.111
+    },
+    {
+     "word": "song",
+     "p": 0.0104,
+     "rhyme": 0,
+     "score": 0.1
+    },
+    {
+     "word": "air",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "dawn",
+     "p": 0.0055,
+     "rhyme": 0.3,
+     "score": 0.053
+    },
+    {
+     "word": "morning",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.052
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "To take from darkness a shadow now,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "now",
+   "chosen": "now",
+   "candidates": [
+    {
+     "word": "now",
+     "p": 0.0364,
+     "rhyme": 0,
+     "score": 1.211
+    },
+    {
+     "word": "out",
+     "p": 0.0188,
+     "rhyme": 0,
+     "score": 0.68
+    },
+    {
+     "word": "light",
+     "p": 0.0165,
+     "rhyme": 0,
+     "score": 0.666
+    },
+    {
+     "word": "just",
+     "p": 0.017,
+     "rhyme": 0,
+     "score": 0.618
+    },
+    {
+     "word": "but",
+     "p": 0.0163,
+     "rhyme": 0,
+     "score": 0.61
+    },
+    {
+     "word": "there",
+     "p": 0.0115,
+     "rhyme": 0,
+     "score": 0.554
+    },
+    {
+     "word": "far",
+     "p": 0.0116,
+     "rhyme": 0,
+     "score": 0.549
+    },
+    {
+     "word": "still",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 0.542
+    },
+    {
+     "word": "no",
+     "p": 0.0097,
+     "rhyme": 0,
+     "score": 0.527
+    },
+    {
+     "word": "so",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.496
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "For a shadow's sake on earth. Nay never",
+   "syllables": 10,
+   "target": 11,
+   "partner": "now",
+   "qwen_top": "more",
+   "meant": "so",
+   "chosen": "never",
+   "candidates": [
+    {
+     "word": "never",
+     "p": 0.0223,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "even",
+     "p": 0.015,
+     "rhyme": 0,
+     "score": 0.675
+    },
+    {
+     "word": "again",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "ever",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.23
+    },
+    {
+     "word": "only",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.225
+    },
+    {
+     "word": "always",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.156
+    },
+    {
+     "word": "enough",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.156
+    },
+    {
+     "word": "become",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.136
+    },
+    {
+     "word": "finally",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.117
+    },
+    {
+     "word": "believe",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.115
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Thou tellest us thy path again.",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.1762,
+     "rhyme": 0,
+     "score": 1.253
+    },
+    {
+     "word": "anew",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.34
+    },
+    {
+     "word": "alone",
+     "p": 0.0172,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "away",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "astray",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "before",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "pursue",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "nobody",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "anyway",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.269
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Yet if it was thou alone",
+   "syllables": 7,
+   "target": 8,
+   "partner": "again",
+   "qwen_top": "that",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.1079,
+     "rhyme": 0.3,
+     "score": 1.0
+    },
+    {
+     "word": "never",
+     "p": 0.0124,
+     "rhyme": 0.6,
+     "score": 0.115
+    },
+    {
+     "word": "realized",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.067
+    },
+    {
+     "word": "ever",
+     "p": 0.0048,
+     "rhyme": 0.6,
+     "score": 0.044
+    },
+    {
+     "word": "ironically",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.031
+    },
+    {
+     "word": "indeed",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.028
+    },
+    {
+     "word": "only",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.021
+    },
+    {
+     "word": "likewise",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.02
+    },
+    {
+     "word": "nobody",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.019
+    },
+    {
+     "word": "exactly",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.018
+    }
+   ]
+  }
+ ]
+}

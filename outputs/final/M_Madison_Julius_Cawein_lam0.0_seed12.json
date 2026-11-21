@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "M",
+ "lam": 0.0,
+ "scheme": "ABCB",
+ "seed": 12,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Or a lingering heave of breathing,\nOr the shafts that flit in vibration,\nAnd the sharp echo heard around,\nOr the deep, writhing relaxation,\nOf the four lower souls at entire;\nBut no sound is confirmation\nFrom above, but only silence;\nFor the world's soul no time exists can\nIn the time of its coming death.\nOne alone may say, \"Here I meditate,\n\"By its own strength.\" But alone\nShe sits and meditates. Fate",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Or a lingering heave of breathing,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "breath",
+   "chosen": "breathing",
+   "candidates": [
+    {
+     "word": "breathing",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "fatigue",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.68
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.628
+    },
+    {
+     "word": "agony",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.587
+    },
+    {
+     "word": "melancholy",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.584
+    },
+    {
+     "word": "sadness",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "sudden",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.514
+    },
+    {
+     "word": "heavy",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.462
+    },
+    {
+     "word": "darkness",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.428
+    },
+    {
+     "word": "body",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.428
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Or the shafts that flit in vibration,",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "air",
+   "chosen": "vibration",
+   "candidates": [
+    {
+     "word": "vibration",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "propagation",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "debris",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "away",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "vibrations",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "again",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "between",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "serenade",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.231
+    },
+    {
+     "word": "competition",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.223
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "And the sharp echo heard around,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "around",
+   "chosen": "around",
+   "candidates": [
+    {
+     "word": "around",
+     "p": 0.0468,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "somewhere",
+     "p": 0.0317,
+     "rhyme": 0,
+     "score": 0.679
+    },
+    {
+     "word": "within",
+     "p": 0.0185,
+     "rhyme": 0,
+     "score": 0.396
+    },
+    {
+     "word": "before",
+     "p": 0.0172,
+     "rhyme": 0,
+     "score": 0.369
+    },
+    {
+     "word": "afar",
+     "p": 0.0108,
+     "rhyme": 0,
+     "score": 0.232
+    },
+    {
+     "word": "above",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.217
+    },
+    {
+     "word": "about",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.182
+    },
+    {
+     "word": "alone",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.16
+    },
+    {
+     "word": "outside",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.139
+    },
+    {
+     "word": "between",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.128
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Or the deep, writhing relaxation,",
+   "syllables": 9,
+   "target": 8,
+   "partner": "vibration",
+   "qwen_top": "of",
+   "meant": "sound",
+   "chosen": "relaxation",
+   "candidates": [
+    {
+     "word": "relaxation",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "meditation",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "sensation",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "agitation",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "vibrations",
+     "p": 0.0064,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "aching",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "wailing",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "cadence",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "chamber",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "shaking",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Of the four lower souls at entire;",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "rest",
+   "meant": "rest",
+   "chosen": "entire",
+   "candidates": [
+    {
+     "word": "entire",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "tension",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.928
+    },
+    {
+     "word": "final",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.879
+    },
+    {
+     "word": "extended",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.486
+    },
+    {
+     "word": "remaining",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.439
+    },
+    {
+     "word": "relax",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.385
+    },
+    {
+     "word": "ending",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.38
+    },
+    {
+     "word": "ended",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "divided",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.308
+    },
+    {
+     "word": "return",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.305
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "But no sound is confirmation",
+   "syllables": 8,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "heard",
+   "meant": "heard",
+   "chosen": "confirmation",
+   "candidates": [
+    {
+     "word": "confirmation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "situation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "today",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "nobody",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "probably",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "although",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "realized",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "realised",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "reply",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.249
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "From above, but only silence;",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "silence",
+   "chosen": "silence",
+   "candidates": [
+    {
+     "word": "silence",
+     "p": 0.0221,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "echoes",
+     "p": 0.0115,
+     "rhyme": 0,
+     "score": 0.522
+    },
+    {
+     "word": "alarm",
+     "p": 0.0093,
+     "rhyme": 0,
+     "score": 0.421
+    },
+    {
+     "word": "despair",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.362
+    },
+    {
+     "word": "sadness",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.268
+    },
+    {
+     "word": "voices",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.241
+    },
+    {
+     "word": "anxiety",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.23
+    },
+    {
+     "word": "surprise",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.208
+    },
+    {
+     "word": "bitterness",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.184
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "For the world's soul no time exists can",
+   "syllables": 9,
+   "target": 10,
+   "partner": "confirmation",
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "can",
+   "candidates": [
+    {
+     "word": "can",
+     "p": 0.0036,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "one",
+     "p": 0.003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "than",
+     "p": 0.002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "been",
+     "p": 0.002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "an",
+     "p": 0.002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "done",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "anyone",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "someone",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "again",
+     "p": 0.0196,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "they",
+     "p": 0.0057,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "In the time of its coming death.",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "death",
+   "chosen": "death",
+   "candidates": [
+    {
+     "word": "death",
+     "p": 0.0209,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "back",
+     "p": 0.0094,
+     "rhyme": 0,
+     "score": 0.45
+    },
+    {
+     "word": "rest",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.359
+    },
+    {
+     "word": "hope",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.357
+    },
+    {
+     "word": "dying",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.341
+    },
+    {
+     "word": "peace",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.341
+    },
+    {
+     "word": "life",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "coming",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.318
+    },
+    {
+     "word": "come",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "eternal",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.299
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "One alone may say, \"Here I meditate,",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "am",
+   "meant": "die",
+   "chosen": "meditate",
+   "candidates": [
+    {
+     "word": "meditate",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "today",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "probably",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "below",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "although",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "remain",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "between",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "otherwise",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.245
+    },
+    {
+     "word": "afraid",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.233
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "\"By its own strength.\" But alone",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0232,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "again",
+     "p": 0.0119,
+     "rhyme": 0,
+     "score": 0.512
+    },
+    {
+     "word": "never",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.399
+    },
+    {
+     "word": "indeed",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 0.364
+    },
+    {
+     "word": "quietly",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "anyway",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.2
+    },
+    {
+     "word": "simply",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.177
+    },
+    {
+     "word": "finally",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.177
+    },
+    {
+     "word": "reason",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "only",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.169
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "She sits and meditates. Fate",
+   "syllables": 7,
+   "target": 7,
+   "partner": "meditate",
+   "qwen_top": "she",
+   "meant": "alone",
+   "chosen": "fate",
+   "candidates": [
+    {
+     "word": "fate",
+     "p": 0.0015,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "wait",
+     "p": 0.0014,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "again",
+     "p": 0.0049,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "may",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "ca",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "same",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "they",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remains",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "afraid",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "say",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 0.25,
+ "scheme": "AABB",
+ "seed": 12,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "It may be that purer minds now awake\nThan were before our ancient age:\nThat the tongue's keen glances into\nThe light of God's heart through others\nHave found no less sweet than its own fire,\nAnd kindled more by desire\nThan star or cloud, to make our own\nIts clearness and beauty divine. Moreover,\nThough death seems an enemy divine,\nDeath not in this sense but soon begins mine;\nSoon as I, for whom it began,\nShall go my life with happy",
+ "lines": [
+  {
+   "line": 1,
+   "text": "It may be that purer minds now awake",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "than",
+   "meant": "than",
+   "chosen": "awake",
+   "candidates": [
+    {
+     "word": "awake",
+     "p": 0.0192,
+     "rhyme": 0,
+     "score": 0.426
+    },
+    {
+     "word": "understand",
+     "p": 0.0149,
+     "rhyme": 0,
+     "score": 0.382
+    },
+    {
+     "word": "contemplate",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "appreciate",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "pursue",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "survey",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "behold",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "attain",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.261
+    },
+    {
+     "word": "perceive",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.26
+    },
+    {
+     "word": "abide",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.26
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Than were before our ancient age:",
+   "syllables": 9,
+   "target": 10,
+   "partner": "awake",
+   "qwen_top": "gods",
+   "meant": "gods",
+   "chosen": "age",
+   "candidates": [
+    {
+     "word": "age",
+     "p": 0.0209,
+     "rhyme": 0.6,
+     "score": 0.658
+    },
+    {
+     "word": "days",
+     "p": 0.0194,
+     "rhyme": 0.6,
+     "score": 0.642
+    },
+    {
+     "word": "day",
+     "p": 0.0121,
+     "rhyme": 0.6,
+     "score": 0.57
+    },
+    {
+     "word": "ages",
+     "p": 0.0078,
+     "rhyme": 0.6,
+     "score": 0.527
+    },
+    {
+     "word": "race",
+     "p": 0.0063,
+     "rhyme": 0.6,
+     "score": 0.512
+    },
+    {
+     "word": "faith",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.476
+    },
+    {
+     "word": "nations",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.473
+    },
+    {
+     "word": "way",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.468
+    },
+    {
+     "word": "great",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.466
+    },
+    {
+     "word": "nation",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.463
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "That the tongue's keen glances into",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "may",
+   "meant": "may",
+   "chosen": "into",
+   "candidates": [
+    {
+     "word": "into",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.442
+    },
+    {
+     "word": "never",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.392
+    },
+    {
+     "word": "upon",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.385
+    },
+    {
+     "word": "away",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "again",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "betray",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.299
+    },
+    {
+     "word": "awake",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "between",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "our",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "cannot",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.26
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "The light of God's heart through others",
+   "syllables": 8,
+   "target": 9,
+   "partner": "into",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "others",
+   "candidates": [
+    {
+     "word": "others",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "human",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "spirit",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "vision",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "other",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "beauty",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "inward",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "mystery",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "wonder",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "women",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.452
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Have found no less sweet than its own fire,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "eyes",
+   "meant": "eyes",
+   "chosen": "fire",
+   "candidates": [
+    {
+     "word": "fire",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.447
+    },
+    {
+     "word": "divine",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.318
+    },
+    {
+     "word": "desire",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "delight",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.261
+    },
+    {
+     "word": "again",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.257
+    },
+    {
+     "word": "refrain",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.257
+    },
+    {
+     "word": "before",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "within",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.221
+    },
+    {
+     "word": "fires",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "power",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.208
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "And kindled more by desire",
+   "syllables": 8,
+   "target": 8,
+   "partner": "fire",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "desire",
+   "candidates": [
+    {
+     "word": "desire",
+     "p": 0.0012,
+     "rhyme": 1.0,
+     "score": 0.766
+    },
+    {
+     "word": "higher",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 0.758
+    },
+    {
+     "word": "divine",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.481
+    },
+    {
+     "word": "our",
+     "p": 0.0182,
+     "rhyme": 0.3,
+     "score": 0.475
+    },
+    {
+     "word": "kindness",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.464
+    },
+    {
+     "word": "brighter",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "brightness",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "delight",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "silence",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "fiery",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.456
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Than star or cloud, to make our own",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "own",
+   "meant": "own",
+   "chosen": "own",
+   "candidates": [
+    {
+     "word": "own",
+     "p": 0.1002,
+     "rhyme": 0,
+     "score": 0.47
+    },
+    {
+     "word": "way",
+     "p": 0.0186,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "eyes",
+     "p": 0.0325,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "day",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "we",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "be",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "sea",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "he",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "clay",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "thro",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.276
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Its clearness and beauty divine. Moreover,",
+   "syllables": 11,
+   "target": 11,
+   "partner": "own",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "moreover",
+   "candidates": [
+    {
+     "word": "moreover",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.478
+    },
+    {
+     "word": "only",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "over",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "open",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "below",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "indeed",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "amen",
+     "p": 0.0,
+     "rhyme": 0.3,
+     "score": 0.248
+    },
+    {
+     "word": "again",
+     "p": 0.0,
+     "rhyme": 0.3,
+     "score": 0.241
+    },
+    {
+     "word": "within",
+     "p": 0.0,
+     "rhyme": 0.3,
+     "score": 0.23
+    },
+    {
+     "word": "divine",
+     "p": 0.0,
+     "rhyme": 0.3,
+     "score": 0.23
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Though death seems an enemy divine,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "divine",
+   "candidates": [
+    {
+     "word": "divine",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.463
+    },
+    {
+     "word": "ever",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.352
+    },
+    {
+     "word": "never",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.313
+    },
+    {
+     "word": "unseen",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.304
+    },
+    {
+     "word": "today",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "again",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "our",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "unknown",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "away",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "anew",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.279
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Death not in this sense but soon begins mine;",
+   "syllables": 10,
+   "target": 11,
+   "partner": "divine",
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "mine",
+   "candidates": [
+    {
+     "word": "mine",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 0.75
+    },
+    {
+     "word": "resign",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 0.75
+    },
+    {
+     "word": "life",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "strife",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "by",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "like",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "dying",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "time",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "alive",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "quite",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.45
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Soon as I, for whom it began,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "is",
+   "meant": "is",
+   "chosen": "began",
+   "candidates": [
+    {
+     "word": "began",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.478
+    },
+    {
+     "word": "ce",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.309
+    },
+    {
+     "word": "cannot",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.26
+    },
+    {
+     "word": "alone",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.243
+    },
+    {
+     "word": "never",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.24
+    },
+    {
+     "word": "denies",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.235
+    },
+    {
+     "word": "appears",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.23
+    },
+    {
+     "word": "begins",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.228
+    },
+    {
+     "word": "remains",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.227
+    },
+    {
+     "word": "waited",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.219
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Shall go my life with happy",
+   "syllables": 7,
+   "target": 8,
+   "partner": "began",
+   "qwen_top": "all",
+   "meant": "all",
+   "chosen": "happy",
+   "candidates": [
+    {
+     "word": "happy",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.484
+    },
+    {
+     "word": "passion",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.483
+    },
+    {
+     "word": "laughter",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.473
+    },
+    {
+     "word": "steadfast",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.468
+    },
+    {
+     "word": "happiness",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "ashes",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.462
+    },
+    {
+     "word": "understanding",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "sadness",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "anguish",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "fire",
+     "p": 0.0119,
+     "rhyme": 0,
+     "score": 0.25
+    }
+   ]
+  }
+ ]
+}

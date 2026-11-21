@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "B1",
+ "lam": 1.0,
+ "scheme": "ABCB",
+ "seed": 2,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "(Areion and Peleus in\nThe theatre before,\nSeest thou him at our\nWill, at the breach of fate? etc.\nThis is a fair play upon\nSome gods' own altar. The story,\nThat Pallas did single combat\nWith an eagle over the\nAyoud river in Asia,\nAnd had been slain by Apollo,\nOr so it seems to be told, etc.\nWho shall find out how Apollo's eagle",
+ "lines": [
+  {
+   "line": 1,
+   "text": "(Areion and Peleus in",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "in",
+   "candidates": [
+    {
+     "word": "in",
+     "p": 0.0442,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "are",
+     "p": 0.0304,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "and",
+     "p": 0.0303,
+     "rhyme": 0,
+     "score": 0.686
+    },
+    {
+     "word": "at",
+     "p": 0.0143,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "were",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "on",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "with",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "to",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "have",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "of",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.093
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The theatre before,",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "before",
+   "candidates": [
+    {
+     "word": "before",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 1.229
+    },
+    {
+     "word": "below",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.458
+    },
+    {
+     "word": "after",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.367
+    },
+    {
+     "word": "appear",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.347
+    },
+    {
+     "word": "upon",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.338
+    },
+    {
+     "word": "together",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.333
+    },
+    {
+     "word": "tonight",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.318
+    },
+    {
+     "word": "behind",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "playing",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "between",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.292
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Seest thou him at our",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "last",
+   "meant": "last",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "athens",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.679
+    },
+    {
+     "word": "table",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.577
+    },
+    {
+     "word": "evening",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.533
+    },
+    {
+     "word": "leisure",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.532
+    },
+    {
+     "word": "midnight",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.522
+    },
+    {
+     "word": "sunset",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "any",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.498
+    },
+    {
+     "word": "present",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "every",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.267
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Will, at the breach of fate? etc.",
+   "syllables": 10,
+   "target": 9,
+   "partner": "before",
+   "qwen_top": "who",
+   "meant": "who",
+   "chosen": "etc",
+   "candidates": [
+    {
+     "word": "etc",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "perhaps",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "behold",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "beside",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "indeed",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.192
+    },
+    {
+     "word": "our",
+     "p": 0.0001,
+     "rhyme": 0.3,
+     "score": 0.166
+    },
+    {
+     "word": "alas",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "amen",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.117
+    },
+    {
+     "word": "whether",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.117
+    },
+    {
+     "word": "neither",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.107
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "This is a fair play upon",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "upon",
+   "candidates": [
+    {
+     "word": "upon",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "indeed",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.882
+    },
+    {
+     "word": "about",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "story",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.225
+    },
+    {
+     "word": "before",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "unto",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "written",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.12
+    },
+    {
+     "word": "without",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.106
+    },
+    {
+     "word": "after",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "among",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.064
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Some gods' own altar. The story,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "gods",
+   "meant": "gods",
+   "chosen": "story",
+   "candidates": [
+    {
+     "word": "story",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 1.124
+    },
+    {
+     "word": "hero",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 1.115
+    },
+    {
+     "word": "fire",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.461
+    },
+    {
+     "word": "actors",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.458
+    },
+    {
+     "word": "chorus",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.429
+    },
+    {
+     "word": "curtain",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.411
+    },
+    {
+     "word": "statue",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.401
+    },
+    {
+     "word": "drama",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.4
+    },
+    {
+     "word": "heroes",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.378
+    },
+    {
+     "word": "players",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.375
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "That Pallas did single combat",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "out",
+   "meant": "out",
+   "chosen": "combat",
+   "candidates": [
+    {
+     "word": "combat",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "battle",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.586
+    },
+    {
+     "word": "away",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.444
+    },
+    {
+     "word": "women",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "murder",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "woman",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "himself",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "over",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "helen",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "duel",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.175
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "With an eagle over the",
+   "syllables": 7,
+   "target": 8,
+   "partner": "story",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "the",
+   "candidates": [
+    {
+     "word": "the",
+     "p": 0.2468,
+     "rhyme": 0.9,
+     "score": 1.0
+    },
+    {
+     "word": "a",
+     "p": 0.1561,
+     "rhyme": 0,
+     "score": 0.632
+    },
+    {
+     "word": "her",
+     "p": 0.0389,
+     "rhyme": 0,
+     "score": 0.158
+    },
+    {
+     "word": "olympus",
+     "p": 0.0229,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "his",
+     "p": 0.0203,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "mount",
+     "p": 0.0134,
+     "rhyme": 0,
+     "score": 0.054
+    },
+    {
+     "word": "zeus",
+     "p": 0.0122,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "an",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 0.049
+    },
+    {
+     "word": "troy",
+     "p": 0.0115,
+     "rhyme": 0,
+     "score": 0.047
+    },
+    {
+     "word": "all",
+     "p": 0.0092,
+     "rhyme": 0.6,
+     "score": 0.037
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Ayoud river in Asia,",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "asia",
+   "candidates": [
+    {
+     "word": "asia",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "athens",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.828
+    },
+    {
+     "word": "egypt",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "ancient",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.554
+    },
+    {
+     "word": "olympus",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "heaven",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.48
+    },
+    {
+     "word": "india",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "italy",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "our",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.332
+    },
+    {
+     "word": "battle",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.292
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "And had been slain by Apollo,",
+   "syllables": 8,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "apollo",
+   "candidates": [
+    {
+     "word": "apollo",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 1.132
+    },
+    {
+     "word": "fire",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.48
+    },
+    {
+     "word": "hercules",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.444
+    },
+    {
+     "word": "hector",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.41
+    },
+    {
+     "word": "achilles",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.39
+    },
+    {
+     "word": "divine",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.317
+    },
+    {
+     "word": "diana",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "mortal",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "lightning",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "herself",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.268
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Or so it seems to be told, etc.",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "etc",
+   "meant": "etc",
+   "chosen": "etc",
+   "candidates": [
+    {
+     "word": "etc",
+     "p": 0.388,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "until",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.003
+    },
+    {
+     "word": "appears",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.003
+    },
+    {
+     "word": "alas",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.003
+    },
+    {
+     "word": "however",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.002
+    },
+    {
+     "word": "perhaps",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.002
+    },
+    {
+     "word": "remains",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.001
+    },
+    {
+     "word": "even",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.001
+    },
+    {
+     "word": "because",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.001
+    },
+    {
+     "word": "deserves",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.001
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Who shall find out how Apollo's eagle",
+   "syllables": 10,
+   "target": 10,
+   "partner": "apollo",
+   "qwen_top": "eagle",
+   "meant": "eagle",
+   "chosen": "eagle",
+   "candidates": [
+    {
+     "word": "eagle",
+     "p": 0.0165,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "son",
+     "p": 0.0111,
+     "rhyme": 0,
+     "score": 0.676
+    },
+    {
+     "word": "sword",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.595
+    },
+    {
+     "word": "hand",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.464
+    },
+    {
+     "word": "own",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.464
+    },
+    {
+     "word": "name",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.362
+    },
+    {
+     "word": "wife",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "arrow",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "horse",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "eye",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.22
+    }
+   ]
+  }
+ ]
+}

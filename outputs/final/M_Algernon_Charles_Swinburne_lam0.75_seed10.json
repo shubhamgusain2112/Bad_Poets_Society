@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 0.75,
+ "scheme": "AABB",
+ "seed": 10,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "And, as a king mine vision,\nI have known the blood of all men's dying.\nO king of heaven! O god and divine,\nSee that God in man alone\nThrough heav'n's open door doth able\nSpeak to the ground and shake it down again!\nFain were I, my kingdom, king on heaven,\nThat where thy feet tread, I might cannot\nKeep my heart up in its desire\nBy thee more than by myself.\nWith me shall God in heaven go along\nTo bear me down from this earth again",
+ "lines": [
+  {
+   "line": 1,
+   "text": "And, as a king mine vision,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "own",
+   "meant": "eyes",
+   "chosen": "vision",
+   "candidates": [
+    {
+     "word": "vision",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.79
+    },
+    {
+     "word": "father",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.785
+    },
+    {
+     "word": "brother",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.553
+    },
+    {
+     "word": "nation",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.414
+    },
+    {
+     "word": "upon",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.404
+    },
+    {
+     "word": "eyesight",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.377
+    },
+    {
+     "word": "reputation",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.353
+    },
+    {
+     "word": "creations",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.341
+    },
+    {
+     "word": "ability",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.338
+    },
+    {
+     "word": "shadow",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.337
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "I have known the blood of all men's dying.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "vision",
+   "qwen_top": "sons",
+   "meant": "blood",
+   "chosen": "dying",
+   "candidates": [
+    {
+     "word": "dying",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "heaven",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.711
+    },
+    {
+     "word": "holy",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.671
+    },
+    {
+     "word": "spirits",
+     "p": 0.0041,
+     "rhyme": 0.6,
+     "score": 0.624
+    },
+    {
+     "word": "our",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.565
+    },
+    {
+     "word": "noble",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.507
+    },
+    {
+     "word": "demons",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.433
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.427
+    },
+    {
+     "word": "innocent",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.425
+    },
+    {
+     "word": "ancestors",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.421
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "O king of heaven! O god and divine,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "lord",
+   "meant": "god",
+   "chosen": "divine",
+   "candidates": [
+    {
+     "word": "divine",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.963
+    },
+    {
+     "word": "demon",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.761
+    },
+    {
+     "word": "heaven",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.746
+    },
+    {
+     "word": "mother",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.634
+    },
+    {
+     "word": "goddess",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.615
+    },
+    {
+     "word": "evil",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.611
+    },
+    {
+     "word": "ruler",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.536
+    },
+    {
+     "word": "father",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.505
+    },
+    {
+     "word": "deity",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.471
+    },
+    {
+     "word": "shadow",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.469
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "See that God in man alone",
+   "syllables": 7,
+   "target": 8,
+   "partner": "divine",
+   "qwen_top": "is",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0392,
+     "rhyme": 0.3,
+     "score": 0.825
+    },
+    {
+     "word": "reborn",
+     "p": 0.0276,
+     "rhyme": 0,
+     "score": 0.528
+    },
+    {
+     "word": "alive",
+     "p": 0.0056,
+     "rhyme": 0.6,
+     "score": 0.258
+    },
+    {
+     "word": "mankind",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.203
+    },
+    {
+     "word": "survives",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.195
+    },
+    {
+     "word": "crucified",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.19
+    },
+    {
+     "word": "unlikely",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.185
+    },
+    {
+     "word": "dying",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.182
+    },
+    {
+     "word": "sometime",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.179
+    },
+    {
+     "word": "finally",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.175
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Through heav'n's open door doth able",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "enter",
+   "meant": "will",
+   "chosen": "able",
+   "candidates": [
+    {
+     "word": "able",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.889
+    },
+    {
+     "word": "appear",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.888
+    },
+    {
+     "word": "allow",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.876
+    },
+    {
+     "word": "expected",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.753
+    },
+    {
+     "word": "cannot",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.732
+    },
+    {
+     "word": "reappear",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.694
+    },
+    {
+     "word": "testify",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.63
+    },
+    {
+     "word": "represent",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.583
+    },
+    {
+     "word": "henceforth",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.553
+    },
+    {
+     "word": "refuse",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.532
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Speak to the ground and shake it down again!",
+   "syllables": 10,
+   "target": 11,
+   "partner": "able",
+   "qwen_top": "with",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.5031,
+     "rhyme": 0.6,
+     "score": 0.9
+    },
+    {
+     "word": "later",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.152
+    },
+    {
+     "word": "awake",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.152
+    },
+    {
+     "word": "april",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.151
+    },
+    {
+     "word": "away",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.151
+    },
+    {
+     "word": "places",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.151
+    },
+    {
+     "word": "danger",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.151
+    },
+    {
+     "word": "breaking",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.15
+    },
+    {
+     "word": "always",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.15
+    },
+    {
+     "word": "playing",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.15
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Fain were I, my kingdom, king on heaven,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "high",
+   "meant": "earth",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0228,
+     "rhyme": 0,
+     "score": 0.87
+    },
+    {
+     "word": "heavens",
+     "p": 0.0197,
+     "rhyme": 0,
+     "score": 0.703
+    },
+    {
+     "word": "elevation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.337
+    },
+    {
+     "word": "above",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "inferno",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "below",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "stairway",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.267
+    },
+    {
+     "word": "again",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.264
+    },
+    {
+     "word": "degrees",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "highest",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.257
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "That where thy feet tread, I might cannot",
+   "syllables": 9,
+   "target": 10,
+   "partner": "heaven",
+   "qwen_top": "tread",
+   "meant": "stand",
+   "chosen": "cannot",
+   "candidates": [
+    {
+     "word": "cannot",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "follow",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.51
+    },
+    {
+     "word": "able",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.423
+    },
+    {
+     "word": "forever",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.409
+    },
+    {
+     "word": "expected",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.36
+    },
+    {
+     "word": "anywhere",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.32
+    },
+    {
+     "word": "surely",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.306
+    },
+    {
+     "word": "tempted",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.302
+    },
+    {
+     "word": "expect",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.287
+    },
+    {
+     "word": "inherit",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Keep my heart up in its desire",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "own",
+   "meant": "desire",
+   "chosen": "desire",
+   "candidates": [
+    {
+     "word": "desire",
+     "p": 0.0309,
+     "rhyme": 0,
+     "score": 0.947
+    },
+    {
+     "word": "ambition",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "elevation",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.356
+    },
+    {
+     "word": "inclination",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.355
+    },
+    {
+     "word": "moderation",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.342
+    },
+    {
+     "word": "fascination",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.34
+    },
+    {
+     "word": "duration",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.339
+    },
+    {
+     "word": "desperation",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.336
+    },
+    {
+     "word": "elation",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.336
+    },
+    {
+     "word": "dedication",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.335
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "By thee more than by myself.",
+   "syllables": 7,
+   "target": 8,
+   "partner": "desire",
+   "qwen_top": "thee",
+   "meant": "thee",
+   "chosen": "myself",
+   "candidates": [
+    {
+     "word": "myself",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "unto",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.652
+    },
+    {
+     "word": "heaven",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.452
+    },
+    {
+     "word": "allah",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.404
+    },
+    {
+     "word": "almighty",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.341
+    },
+    {
+     "word": "fire",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 0.304
+    },
+    {
+     "word": "satan",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "crucified",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.236
+    },
+    {
+     "word": "heavens",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.226
+    },
+    {
+     "word": "righteousness",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.225
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "With me shall God in heaven go along",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "down",
+   "meant": "down",
+   "chosen": "along",
+   "candidates": [
+    {
+     "word": "along",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.933
+    },
+    {
+     "word": "again",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.822
+    },
+    {
+     "word": "upon",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.81
+    },
+    {
+     "word": "being",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.778
+    },
+    {
+     "word": "across",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.713
+    },
+    {
+     "word": "around",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.556
+    },
+    {
+     "word": "away",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.549
+    },
+    {
+     "word": "into",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.506
+    },
+    {
+     "word": "before",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.47
+    },
+    {
+     "word": "over",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.465
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "To bear me down from this earth again",
+   "syllables": 9,
+   "target": 10,
+   "partner": "along",
+   "qwen_top": "to",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0415,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "above",
+     "p": 0.0267,
+     "rhyme": 0,
+     "score": 0.483
+    },
+    {
+     "word": "across",
+     "p": 0.0037,
+     "rhyme": 0.6,
+     "score": 0.218
+    },
+    {
+     "word": "upon",
+     "p": 0.0111,
+     "rhyme": 0,
+     "score": 0.201
+    },
+    {
+     "word": "before",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.176
+    },
+    {
+     "word": "corner",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.167
+    },
+    {
+     "word": "haunted",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.165
+    },
+    {
+     "word": "aloft",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.164
+    },
+    {
+     "word": "glory",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.163
+    },
+    {
+     "word": "august",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.162
+    }
+   ]
+  }
+ ]
+}

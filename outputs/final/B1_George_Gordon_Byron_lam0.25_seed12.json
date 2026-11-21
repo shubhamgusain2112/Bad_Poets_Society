@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 0.25,
+ "scheme": "ABAB",
+ "seed": 12,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "There are, but on the top of a station,\n'Twere only worth while one's own aid alone.\nHow strangely few, and very few again,\nIn towns or villages, where only\nOne man shall see another, and agree\nUpon no alterations except\nThe Time of Day. The great traveller he\nWill never know how many there himself\nAre in his journey; for all who travel\nWith other hands will come to his station,\nAnd give him another hand after.\nA boy could have been sent out again;",
+ "lines": [
+  {
+   "line": 1,
+   "text": "There are, but on the top of a station,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "hill",
+   "meant": "hill",
+   "chosen": "station",
+   "candidates": [
+    {
+     "word": "station",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "mountain",
+     "p": 0.0717,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "plateau",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "solitary",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "very",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "statue",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.228
+    },
+    {
+     "word": "tower",
+     "p": 0.0179,
+     "rhyme": 0,
+     "score": 0.225
+    },
+    {
+     "word": "fairy",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.217
+    },
+    {
+     "word": "higher",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.207
+    },
+    {
+     "word": "subject",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.199
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "'Twere only worth while one's own aid alone.",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.468
+    },
+    {
+     "word": "obtain",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "betray",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "pursue",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "convey",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "away",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "display",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "renew",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "again",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "supply",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.272
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "How strangely few, and very few again,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "station",
+   "qwen_top": "indeed",
+   "meant": "indeed",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "remain",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "places",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "able",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "ladies",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "faces",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "strangers",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "away",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "indeed",
+     "p": 0.1328,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "also",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.007
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "In towns or villages, where only",
+   "syllables": 9,
+   "target": 10,
+   "partner": "alone",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "only",
+   "candidates": [
+    {
+     "word": "only",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.496
+    },
+    {
+     "word": "nobody",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.482
+    },
+    {
+     "word": "almost",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.467
+    },
+    {
+     "word": "noble",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.466
+    },
+    {
+     "word": "social",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "poetry",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "our",
+     "p": 0.0095,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "everyone",
+     "p": 0.0004,
+     "rhyme": 0.3,
+     "score": 0.237
+    },
+    {
+     "word": "people",
+     "p": 0.0089,
+     "rhyme": 0,
+     "score": 0.235
+    },
+    {
+     "word": "upon",
+     "p": 0.0003,
+     "rhyme": 0.3,
+     "score": 0.232
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "One man shall see another, and agree",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "one",
+   "meant": "one",
+   "chosen": "agree",
+   "candidates": [
+    {
+     "word": "agree",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "only",
+     "p": 0.0205,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "convey",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "nobody",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "again",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "alone",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "remain",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.26
+    },
+    {
+     "word": "thereby",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.255
+    },
+    {
+     "word": "upon",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.24
+    },
+    {
+     "word": "refuse",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.236
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Upon no alterations except",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "except",
+   "candidates": [
+    {
+     "word": "except",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.382
+    },
+    {
+     "word": "between",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.34
+    },
+    {
+     "word": "therein",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "agree",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "into",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "upon",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "away",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "below",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "within",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "until",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.267
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "The Time of Day. The great traveller he",
+   "syllables": 10,
+   "target": 11,
+   "partner": "agree",
+   "qwen_top": "knows",
+   "meant": "knows",
+   "chosen": "he",
+   "candidates": [
+    {
+     "word": "he",
+     "p": 0.0032,
+     "rhyme": 1.0,
+     "score": 0.777
+    },
+    {
+     "word": "we",
+     "p": 0.0012,
+     "rhyme": 1.0,
+     "score": 0.76
+    },
+    {
+     "word": "see",
+     "p": 0.0011,
+     "rhyme": 1.0,
+     "score": 0.759
+    },
+    {
+     "word": "e",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 0.753
+    },
+    {
+     "word": "ne",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 0.752
+    },
+    {
+     "word": "only",
+     "p": 0.0022,
+     "rhyme": 0.9,
+     "score": 0.693
+    },
+    {
+     "word": "surely",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.677
+    },
+    {
+     "word": "rarely",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.677
+    },
+    {
+     "word": "the",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.677
+    },
+    {
+     "word": "sees",
+     "p": 0.0134,
+     "rhyme": 0.6,
+     "score": 0.561
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Will never know how many there himself",
+   "syllables": 10,
+   "target": 11,
+   "partner": "except",
+   "qwen_top": "are",
+   "meant": "are",
+   "chosen": "himself",
+   "candidates": [
+    {
+     "word": "himself",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "ever",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "already",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "present",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "themselves",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "vary",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "presently",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "again",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "never",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "altogether",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.452
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Are in his journey; for all who travel",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "pass",
+   "meant": "pass",
+   "chosen": "travel",
+   "candidates": [
+    {
+     "word": "travel",
+     "p": 0.0486,
+     "rhyme": 0,
+     "score": 0.347
+    },
+    {
+     "word": "agree",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "obey",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "survey",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "passe",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "pursue",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "remain",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.259
+    },
+    {
+     "word": "compare",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.239
+    },
+    {
+     "word": "appear",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "follow",
+     "p": 0.0202,
+     "rhyme": 0,
+     "score": 0.236
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "With other hands will come to his station,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "own",
+   "meant": "own",
+   "chosen": "station",
+   "candidates": [
+    {
+     "word": "station",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.396
+    },
+    {
+     "word": "destination",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.341
+    },
+    {
+     "word": "estimation",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "knowledge",
+     "p": 0.0262,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "estimate",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "dismay",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "elbow",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "company",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "hotel",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.261
+    },
+    {
+     "word": "belief",
+     "p": 0.0108,
+     "rhyme": 0,
+     "score": 0.248
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "And give him another hand after.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "travel",
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "after",
+   "candidates": [
+    {
+     "word": "after",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.476
+    },
+    {
+     "word": "afterwards",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "rather",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "thereafter",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "gratis",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "perhaps",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "exactly",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "added",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "beforehand",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "having",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.451
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "A boy could have been sent out again;",
+   "syllables": 9,
+   "target": 10,
+   "partner": "station",
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.568
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.506
+    },
+    {
+     "word": "daily",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.476
+    },
+    {
+     "word": "against",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.473
+    },
+    {
+     "word": "today",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.468
+    },
+    {
+     "word": "away",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "lately",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "always",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "safely",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "later",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.452
+    }
+   ]
+  }
+ ]
+}

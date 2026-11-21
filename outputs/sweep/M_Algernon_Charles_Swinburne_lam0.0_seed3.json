@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 0.0,
+ "scheme": "AABB",
+ "seed": 3,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "But I am our Lord, salvation,\nOur God who makes to temptation\nAll things that it behooves us today\nFor so we have made this world of greatest,\nHighest, best, and most reputation.\nNow see the stately elevation\nOf those whose tongues make eloquence today\nWith all their powers, with all array,\nAnd they can say how I celebrate\nOn the naked stone a commemorate\nTheir salvation at a time set away,\nA day for two princes my children they,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "But I am our Lord, salvation,",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "alone",
+   "chosen": "salvation",
+   "candidates": [
+    {
+     "word": "salvation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "temptation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "consecrated",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "nobody",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "hussein",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "again",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "remain",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "baptized",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "miguel",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "likewise",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.245
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Our God who makes to temptation",
+   "syllables": 9,
+   "target": 9,
+   "partner": "salvation",
+   "qwen_top": "man",
+   "meant": "be",
+   "chosen": "temptation",
+   "candidates": [
+    {
+     "word": "temptation",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "satan",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "always",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "celebrate",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "taken",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "later",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "commemorate",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "april",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "arabs",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "All things that it behooves us today",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "do",
+   "chosen": "today",
+   "candidates": [
+    {
+     "word": "today",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "probably",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "attain",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "again",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "between",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "realize",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.245
+    },
+    {
+     "word": "forget",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "afraid",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "our",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "before",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.229
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "For so we have made this world of greatest,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "today",
+   "qwen_top": "ours",
+   "meant": "thee",
+   "chosen": "greatest",
+   "candidates": [
+    {
+     "word": "greatest",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "hatred",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "always",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "betrayal",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "ancient",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "heartache",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "maybe",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "places",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "unto",
+     "p": 0.0164,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "goodness",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Highest, best, and most reputation.",
+   "syllables": 9,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "sublime",
+   "chosen": "reputation",
+   "candidates": [
+    {
+     "word": "reputation",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "combination",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "expectation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "liberty",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "attain",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "humane",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "visionary",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "success",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "ideal",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.218
+    },
+    {
+     "word": "very",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.215
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Now see the stately elevation",
+   "syllables": 9,
+   "target": 8,
+   "partner": "reputation",
+   "qwen_top": "and",
+   "meant": "towers",
+   "chosen": "elevation",
+   "candidates": [
+    {
+     "word": "elevation",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "stately",
+     "p": 0.005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "gables",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "parade",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "promenade",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "staircase",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "gateway",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "sacred",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "railings",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "faces",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Of those whose tongues make eloquence today",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "high",
+   "chosen": "today",
+   "candidates": [
+    {
+     "word": "today",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "probably",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "although",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "afraid",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "success",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "prevail",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.218
+    },
+    {
+     "word": "very",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "indeed",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.214
+    },
+    {
+     "word": "divine",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.213
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "With all their powers, with all array,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "today",
+   "qwen_top": "their",
+   "meant": "together",
+   "chosen": "array",
+   "candidates": [
+    {
+     "word": "array",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "innate",
+     "p": 0.0052,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "communicate",
+     "p": 0.0037,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "creative",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "creation",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "creating",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "greater",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "attain",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "creations",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "create",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "And they can say how I celebrate",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "am",
+   "meant": "die",
+   "chosen": "celebrate",
+   "candidates": [
+    {
+     "word": "celebrate",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "meditate",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "today",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "probably",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "ago",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "july",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "january",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "february",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "forget",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.237
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "On the naked stone a commemorate",
+   "syllables": 10,
+   "target": 9,
+   "partner": "celebrate",
+   "qwen_top": "god",
+   "meant": "god",
+   "chosen": "commemorate",
+   "candidates": [
+    {
+     "word": "commemorate",
+     "p": 0.0019,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "sacred",
+     "p": 0.0053,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "birthplace",
+     "p": 0.0049,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "savior",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "coronation",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "celebrated",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "celebration",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "crusade",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "occasion",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "famous",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Their salvation at a time set away,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "apart",
+   "meant": "down",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "today",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "somebody",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "below",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "friday",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "anyway",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "again",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "july",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "january",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "february",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.244
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "A day for two princes my children they,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "away",
+   "qwen_top": "are",
+   "meant": "here",
+   "chosen": "they",
+   "candidates": [
+    {
+     "word": "they",
+     "p": 0.0298,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "may",
+     "p": 0.0036,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "day",
+     "p": 0.0032,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "say",
+     "p": 0.0025,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "today",
+     "p": 0.0014,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "lay",
+     "p": 0.0011,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "came",
+     "p": 0.0055,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "made",
+     "p": 0.0052,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "same",
+     "p": 0.004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "laid",
+     "p": 0.0035,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  }
+ ]
+}

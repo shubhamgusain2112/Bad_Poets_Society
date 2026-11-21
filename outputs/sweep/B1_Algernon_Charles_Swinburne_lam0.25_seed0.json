@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 0.25,
+ "scheme": "AABB",
+ "seed": 0,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "This is my poor heart's life, o'er sixty years,\nThe love I had for thee; it has given\nTo me this love and sorrow.\nVI. Now the war-souls that sleep below\nCome to us now: our flowers awake,\nAnd all our hopes are blown out again,\nAs from the sunburnt dream of our\nMarching thro' the world so glorious far\nIn battle with a lion-king's heart;\nBut shall we talk what they cannot\nSpeak? And not to speak of our\nFlowers in the wild on many far",
+ "lines": [
+  {
+   "line": 1,
+   "text": "This is my poor heart's life, o'er sixty years,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "years",
+   "meant": "years",
+   "chosen": "years",
+   "candidates": [
+    {
+     "word": "years",
+     "p": 0.6492,
+     "rhyme": 0,
+     "score": 0.439
+    },
+    {
+     "word": "three",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ye",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "free",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "de",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "e",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "grey",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.276
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The love I had for thee; it has given",
+   "syllables": 10,
+   "target": 11,
+   "partner": "years",
+   "qwen_top": "been",
+   "meant": "been",
+   "chosen": "given",
+   "candidates": [
+    {
+     "word": "given",
+     "p": 0.0095,
+     "rhyme": 0.6,
+     "score": 0.633
+    },
+    {
+     "word": "risen",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.464
+    },
+    {
+     "word": "driven",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "little",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.462
+    },
+    {
+     "word": "drifted",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "weary",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "fulfilled",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "never",
+     "p": 0.013,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "decay",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.134
+    },
+    {
+     "word": "fallen",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.111
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "To me this love and sorrow.",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "this",
+   "meant": "this",
+   "chosen": "sorrow",
+   "candidates": [
+    {
+     "word": "sorrow",
+     "p": 0.0213,
+     "rhyme": 0,
+     "score": 0.402
+    },
+    {
+     "word": "shadow",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "beauty",
+     "p": 0.0114,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "desire",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.214
+    },
+    {
+     "word": "glory",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.211
+    },
+    {
+     "word": "fire",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.206
+    },
+    {
+     "word": "never",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.205
+    },
+    {
+     "word": "fellowship",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.205
+    },
+    {
+     "word": "power",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.203
+    },
+    {
+     "word": "cannot",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.201
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "VI. Now the war-souls that sleep below",
+   "syllables": 9,
+   "target": 10,
+   "partner": "sorrow",
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "below",
+   "candidates": [
+    {
+     "word": "below",
+     "p": 0.0064,
+     "rhyme": 0.9,
+     "score": 0.718
+    },
+    {
+     "word": "upon",
+     "p": 0.0253,
+     "rhyme": 0.6,
+     "score": 0.622
+    },
+    {
+     "word": "apart",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "beyond",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "afar",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "our",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "forgotten",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "content",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "because",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "opposite",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.451
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Come to us now: our flowers awake,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "are",
+   "meant": "are",
+   "chosen": "awake",
+   "candidates": [
+    {
+     "word": "awake",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.426
+    },
+    {
+     "word": "decay",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.373
+    },
+    {
+     "word": "begin",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.304
+    },
+    {
+     "word": "our",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "before",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "away",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "into",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "below",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "forget",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "again",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.283
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "And all our hopes are blown out again,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "awake",
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.012,
+     "rhyme": 0.6,
+     "score": 0.7
+    },
+    {
+     "word": "away",
+     "p": 0.0093,
+     "rhyme": 0.6,
+     "score": 0.645
+    },
+    {
+     "word": "against",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.462
+    },
+    {
+     "word": "naked",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "today",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "alike",
+     "p": 0.0001,
+     "rhyme": 0.3,
+     "score": 0.227
+    },
+    {
+     "word": "before",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.092
+    },
+    {
+     "word": "above",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "into",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.063
+    },
+    {
+     "word": "upon",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.049
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "As from the sunburnt dream of our",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0302,
+     "rhyme": 0,
+     "score": 0.479
+    },
+    {
+     "word": "summer",
+     "p": 0.0265,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "decay",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "july",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "away",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.267
+    },
+    {
+     "word": "february",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "january",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.247
+    },
+    {
+     "word": "despair",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.24
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Marching thro' the world so glorious far",
+   "syllables": 10,
+   "target": 11,
+   "partner": "our",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "far",
+   "candidates": [
+    {
+     "word": "far",
+     "p": 0.0013,
+     "rhyme": 1.0,
+     "score": 0.755
+    },
+    {
+     "word": "afar",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 0.752
+    },
+    {
+     "word": "are",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 0.75
+    },
+    {
+     "word": "for",
+     "p": 0.0016,
+     "rhyme": 0.9,
+     "score": 0.681
+    },
+    {
+     "word": "or",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.676
+    },
+    {
+     "word": "were",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.675
+    },
+    {
+     "word": "now",
+     "p": 0.0106,
+     "rhyme": 0.6,
+     "score": 0.488
+    },
+    {
+     "word": "on",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "round",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "was",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.452
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "In battle with a lion-king's heart;",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "heart",
+   "meant": "heart",
+   "chosen": "heart",
+   "candidates": [
+    {
+     "word": "heart",
+     "p": 0.0899,
+     "rhyme": 0,
+     "score": 0.402
+    },
+    {
+     "word": "war",
+     "p": 0.0311,
+     "rhyme": 0,
+     "score": 0.315
+    },
+    {
+     "word": "spear",
+     "p": 0.0242,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "day",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "he",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "sea",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "knee",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "hand",
+     "p": 0.0331,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "sway",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "prey",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.278
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "But shall we talk what they cannot",
+   "syllables": 8,
+   "target": 9,
+   "partner": "heart",
+   "qwen_top": "have",
+   "meant": "have",
+   "chosen": "cannot",
+   "candidates": [
+    {
+     "word": "cannot",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.7
+    },
+    {
+     "word": "promised",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.486
+    },
+    {
+     "word": "our",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.48
+    },
+    {
+     "word": "forgot",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.478
+    },
+    {
+     "word": "marvel",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.464
+    },
+    {
+     "word": "promise",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "conquered",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "remember",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.161
+    },
+    {
+     "word": "ever",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.104
+    },
+    {
+     "word": "believe",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.098
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Speak? And not to speak of our",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "them",
+   "meant": "them",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0661,
+     "rhyme": 0,
+     "score": 0.479
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "again",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "farewell",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.252
+    },
+    {
+     "word": "despair",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "forget",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "defeat",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.209
+    },
+    {
+     "word": "fire",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.198
+    },
+    {
+     "word": "warfare",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.197
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Flowers in the wild on many far",
+   "syllables": 9,
+   "target": 10,
+   "partner": "our",
+   "qwen_top": "a",
+   "meant": "a",
+   "chosen": "far",
+   "candidates": [
+    {
+     "word": "far",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 0.75
+    },
+    {
+     "word": "flower",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 0.75
+    },
+    {
+     "word": "ar",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 0.75
+    },
+    {
+     "word": "are",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 0.75
+    },
+    {
+     "word": "star",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 0.75
+    },
+    {
+     "word": "her",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.675
+    },
+    {
+     "word": "mountains",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "flowers",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "alt",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "grounds",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.45
+    }
+   ]
+  }
+ ]
+}

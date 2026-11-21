@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 0.0,
+ "scheme": "ABAB",
+ "seed": 13,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "The damsel of the Isaurian elevation\nShee dropt her eyes, and fell with soft hesitation.\nIt was quite preposterous explanation,\nAt least to me it seemed so; explanation,\nNo word in my writing could imitate.\n'And now, then,' she answered faintly, she\n'Speak, speak at all!' [6] and I went away.\nThen came an idle dream. There suddenly\nBefore my vision stood a incarnation\nIn paradise: - 'Oh! do not hesitation!\nHe spake but one long sentence, which conversation\nCould never take; he spoke thus someone",
+ "lines": [
+  {
+   "line": 1,
+   "text": "The damsel of the Isaurian elevation",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "hills",
+   "meant": "mountain",
+   "chosen": "elevation",
+   "candidates": [
+    {
+     "word": "elevation",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "nation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.315
+    },
+    {
+     "word": "meadow",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "shadow",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "sunday",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "plateau",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "norway",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "saturday",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "nearby",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "frontier",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.229
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Shee dropt her eyes, and fell with soft hesitation.",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "sigh",
+   "meant": "dismay",
+   "chosen": "hesitation",
+   "candidates": [
+    {
+     "word": "hesitation",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "contemplation",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "consternation",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "relaxation",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "consummation",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "exhalation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "meditation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "respiration",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "cessation",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "jubilation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "It was quite preposterous explanation,",
+   "syllables": 11,
+   "target": 10,
+   "partner": "elevation",
+   "qwen_top": "to",
+   "meant": "it",
+   "chosen": "explanation",
+   "candidates": [
+    {
+     "word": "explanation",
+     "p": 0.0024,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "anyone",
+     "p": 0.0018,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "everyone",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "someone",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "anyway",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "mistake",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "maybe",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "explain",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "saying",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "At least to me it seemed so; explanation,",
+   "syllables": 11,
+   "target": 10,
+   "partner": "hesitation",
+   "qwen_top": "but",
+   "meant": "indeed",
+   "chosen": "explanation",
+   "candidates": [
+    {
+     "word": "explanation",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "someone",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "anyone",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "everyone",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "anyway",
+     "p": 0.0087,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0061,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "strangely",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "afraid",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "appropriate",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "ashamed",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "No word in my writing could imitate.",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "have",
+   "meant": "suffice",
+   "chosen": "imitate",
+   "candidates": [
+    {
+     "word": "imitate",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "hesitate",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "anticipate",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "emulate",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "appreciate",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "recreate",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "mitigate",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "appropriate",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "illustrate",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "communicate",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.282
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "'And now, then,' she answered faintly, she",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "quietly",
+   "chosen": "she",
+   "candidates": [
+    {
+     "word": "she",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "fray",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "too",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "grew",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "though",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "unwell",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "reply",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "mortified",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.243
+    },
+    {
+     "word": "mystified",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.243
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "'Speak, speak at all!' [6] and I went away.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "imitate",
+   "qwen_top": "on",
+   "meant": "away",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0399,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0125,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "aimlessly",
+     "p": 0.0055,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "taking",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "raising",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "later",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "staying",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "taken",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "making",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "astray",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Then came an idle dream. There suddenly",
+   "syllables": 10,
+   "target": 10,
+   "partner": "she",
+   "qwen_top": "was",
+   "meant": "stood",
+   "chosen": "suddenly",
+   "candidates": [
+    {
+     "word": "suddenly",
+     "p": 0.0035,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "shortly",
+     "p": 0.0031,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "finally",
+     "p": 0.0021,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0021,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "quietly",
+     "p": 0.0019,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "briefly",
+     "p": 0.0017,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "largely",
+     "p": 0.0015,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "nobody",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "abundantly",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "clearly",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Before my vision stood a incarnation",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "woman",
+   "meant": "woman",
+   "chosen": "incarnation",
+   "candidates": [
+    {
+     "word": "incarnation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "shadow",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "scarecrow",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "doorway",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "nearby",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "sanctuary",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "monastery",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "solitary",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "portrayed",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "statue",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.226
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "In paradise: - 'Oh! do not hesitation!",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "be",
+   "meant": "fear",
+   "chosen": "hesitation",
+   "candidates": [
+    {
+     "word": "hesitation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "hesitate",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "contemplate",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "disagree",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "betray",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "dismay",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "stupidity",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "somebody",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "nobody",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "complain",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.254
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "He spake but one long sentence, which conversation",
+   "syllables": 12,
+   "target": 11,
+   "partner": "incarnation",
+   "qwen_top": "i",
+   "meant": "afterward",
+   "chosen": "conversation",
+   "candidates": [
+    {
+     "word": "conversation",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "begun",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "later",
+     "p": 0.0149,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0042,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "became",
+     "p": 0.0041,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remained",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "explained",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "exclaimed",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "saying",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "explaining",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Could never take; he spoke thus someone",
+   "syllables": 9,
+   "target": 10,
+   "partner": "hesitation",
+   "qwen_top": "in",
+   "meant": "again",
+   "chosen": "someone",
+   "candidates": [
+    {
+     "word": "someone",
+     "p": 0.0015,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "begun",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "anyone",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "everyone",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "again",
+     "p": 0.0835,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "later",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "strangely",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "anyway",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "contemplate",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "behave",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  }
+ ]
+}

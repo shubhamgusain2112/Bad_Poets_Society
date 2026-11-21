@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 0.0,
+ "scheme": "ABAB",
+ "seed": 1,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "183, The Commencement of the Composition Be\nIn his essay on the Archdiocese he\nFought for this by way of proof: \"By decree\nOf Pontifical authority decree\n(As if it had been a free and legislation\nThe Chancellor is stedfast in dedication\nTo that most divine object.\" This translation\nIs by R. B. Eustace Anderson's translation\nOf Voltaire's History publication.\n[Emphasis added by MS.] Translation.\nFrom the Archbishopate to the congregation\nHas been widely disputed situation",
+ "lines": [
+  {
+   "line": 1,
+   "text": "183, The Commencement of the Composition Be",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "be",
+   "candidates": [
+    {
+     "word": "be",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "three",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "may",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "day",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "way",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "they",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "to",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "a",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "through",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.27
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "In his essay on the Archdiocese he",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "he",
+   "candidates": [
+    {
+     "word": "he",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "three",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "may",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "way",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "play",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "day",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "to",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "a",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "new",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.27
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Fought for this by way of proof: \"By decree",
+   "syllables": 10,
+   "target": 11,
+   "partner": "be",
+   "qwen_top": "the",
+   "meant": "law",
+   "chosen": "decree",
+   "candidates": [
+    {
+     "word": "decree",
+     "p": 0.0031,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "mercy",
+     "p": 0.0085,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "victory",
+     "p": 0.0023,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "only",
+     "p": 0.0015,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "party",
+     "p": 0.0014,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "contrary",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "holy",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "simply",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "academy",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "ironically",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Of Pontifical authority decree",
+   "syllables": 11,
+   "target": 10,
+   "partner": "he",
+   "qwen_top": "the",
+   "meant": "where",
+   "chosen": "decree",
+   "candidates": [
+    {
+     "word": "decree",
+     "p": 0.0072,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "be",
+     "p": 0.0033,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "we",
+     "p": 0.0017,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "she",
+     "p": 0.0015,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "me",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "duly",
+     "p": 0.0059,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "only",
+     "p": 0.0018,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "the",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "newly",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "plainly",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "(As if it had been a free and legislation",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "natural",
+   "meant": "free",
+   "chosen": "legislation",
+   "candidates": [
+    {
+     "word": "legislation",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "proclamation",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "declaration",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "education",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "appropriate",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "regulate",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "decree",
+     "p": 0.0437,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "guarantee",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "today",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "liberty",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.269
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "The Chancellor is stedfast in dedication",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "his",
+   "meant": "law",
+   "chosen": "dedication",
+   "candidates": [
+    {
+     "word": "dedication",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "reputation",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "legislation",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "obligation",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "declaration",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "advocate",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "regulate",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "decree",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "obey",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "ability",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.269
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "To that most divine object.\" This translation",
+   "syllables": 11,
+   "target": 11,
+   "partner": "legislation",
+   "qwen_top": "is",
+   "meant": "conclusion",
+   "chosen": "translation",
+   "candidates": [
+    {
+     "word": "translation",
+     "p": 0.002,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "explanation",
+     "p": 0.0016,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "revelation",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "ordination",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "someone",
+     "p": 0.0012,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "anyone",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "essay",
+     "p": 0.0059,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "explaining",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "saying",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Is by R. B. Eustace Anderson's translation",
+   "syllables": 12,
+   "target": 11,
+   "partner": "dedication",
+   "qwen_top": "edition",
+   "meant": "author",
+   "chosen": "translation",
+   "candidates": [
+    {
+     "word": "translation",
+     "p": 0.0086,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "one",
+     "p": 0.0015,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "an",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "essay",
+     "p": 0.0116,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "essays",
+     "p": 0.0043,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "paper",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "page",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "translated",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "statesman",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "advocate",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Of Voltaire's History publication.",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "publication",
+   "candidates": [
+    {
+     "word": "publication",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "translation",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "creation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "population",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "today",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "into",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "probably",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "library",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "july",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "between",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.248
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "[Emphasis added by MS.] Translation.",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "i",
+   "chosen": "translation",
+   "candidates": [
+    {
+     "word": "translation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "marquis",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "essay",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "into",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "probably",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "somebody",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "again",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "july",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "february",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "january",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.244
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "From the Archbishopate to the congregation",
+   "syllables": 12,
+   "target": 11,
+   "partner": "publication",
+   "qwen_top": "arch",
+   "meant": "cathedral",
+   "chosen": "congregation",
+   "candidates": [
+    {
+     "word": "congregation",
+     "p": 0.0102,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "reformation",
+     "p": 0.0019,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "consecration",
+     "p": 0.0013,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "population",
+     "p": 0.0012,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "salvation",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "nation",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "ordination",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "ordained",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "consecrated",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "patron",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Has been widely disputed situation",
+   "syllables": 11,
+   "target": 10,
+   "partner": "translation",
+   "qwen_top": "by",
+   "meant": "again",
+   "chosen": "situation",
+   "candidates": [
+    {
+     "word": "situation",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "population",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "again",
+     "p": 0.0219,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "debated",
+     "p": 0.0061,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "today",
+     "p": 0.005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "debate",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "became",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "debating",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remains",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "decade",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  }
+ ]
+}

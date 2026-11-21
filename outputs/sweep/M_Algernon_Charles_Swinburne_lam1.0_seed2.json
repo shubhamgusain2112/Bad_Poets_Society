@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 1.0,
+ "scheme": "AABB",
+ "seed": 2,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Glared gleam from the lurid sky\nOn flood of feverly light,\nA power that spoke alone\nEven as the words of death, again\nAnd as the words of heaven. Again\nOut of its darkened dome in heaven\nIt gave its gracious command again;\nAgain it met our voices,\nLighter and warmer being\nThan the darkness but than fire,\nThrough the burning room of night to heaven,\nIn the twilight's low day-light pouring down",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Glared gleam from the lurid sky",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "light",
+   "meant": "sky",
+   "chosen": "sky",
+   "candidates": [
+    {
+     "word": "sky",
+     "p": 0.0767,
+     "rhyme": 0,
+     "score": 1.25
+    },
+    {
+     "word": "glow",
+     "p": 0.0238,
+     "rhyme": 0,
+     "score": 0.571
+    },
+    {
+     "word": "moon",
+     "p": 0.0218,
+     "rhyme": 0,
+     "score": 0.493
+    },
+    {
+     "word": "sun",
+     "p": 0.0225,
+     "rhyme": 0,
+     "score": 0.488
+    },
+    {
+     "word": "light",
+     "p": 0.0148,
+     "rhyme": 0,
+     "score": 0.405
+    },
+    {
+     "word": "star",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.366
+    },
+    {
+     "word": "cloud",
+     "p": 0.0153,
+     "rhyme": 0,
+     "score": 0.361
+    },
+    {
+     "word": "blue",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "sunlight",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "sea",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.31
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "On flood of feverly light,",
+   "syllables": 7,
+   "target": 8,
+   "partner": "sky",
+   "qwen_top": "light",
+   "meant": "light",
+   "chosen": "light",
+   "candidates": [
+    {
+     "word": "light",
+     "p": 0.2504,
+     "rhyme": 0.6,
+     "score": 1.0
+    },
+    {
+     "word": "fire",
+     "p": 0.069,
+     "rhyme": 0.6,
+     "score": 0.276
+    },
+    {
+     "word": "flame",
+     "p": 0.0653,
+     "rhyme": 0,
+     "score": 0.261
+    },
+    {
+     "word": "bright",
+     "p": 0.0201,
+     "rhyme": 0.6,
+     "score": 0.08
+    },
+    {
+     "word": "blue",
+     "p": 0.0151,
+     "rhyme": 0,
+     "score": 0.06
+    },
+    {
+     "word": "flames",
+     "p": 0.0138,
+     "rhyme": 0,
+     "score": 0.055
+    },
+    {
+     "word": "red",
+     "p": 0.0136,
+     "rhyme": 0,
+     "score": 0.054
+    },
+    {
+     "word": "lit",
+     "p": 0.0126,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "glow",
+     "p": 0.0116,
+     "rhyme": 0,
+     "score": 0.046
+    },
+    {
+     "word": "smoke",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.041
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "A power that spoke alone",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 1.218
+    },
+    {
+     "word": "communicate",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 1.175
+    },
+    {
+     "word": "wherever",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 1.016
+    },
+    {
+     "word": "eternity",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.939
+    },
+    {
+     "word": "indeed",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.902
+    },
+    {
+     "word": "again",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.826
+    },
+    {
+     "word": "everywhere",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.706
+    },
+    {
+     "word": "anyone",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "posterity",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.682
+    },
+    {
+     "word": "therefore",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.662
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Even as the words of death, again",
+   "syllables": 9,
+   "target": 10,
+   "partner": "alone",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0081,
+     "rhyme": 0.3,
+     "score": 1.0
+    },
+    {
+     "word": "also",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.754
+    },
+    {
+     "word": "darkness",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.422
+    },
+    {
+     "word": "even",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.314
+    },
+    {
+     "word": "because",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.308
+    },
+    {
+     "word": "without",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "however",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "others",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.23
+    },
+    {
+     "word": "despair",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.218
+    },
+    {
+     "word": "finally",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.215
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "And as the words of heaven. Again",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0296,
+     "rhyme": 0,
+     "score": 1.253
+    },
+    {
+     "word": "behold",
+     "p": 0.0195,
+     "rhyme": 0,
+     "score": 0.848
+    },
+    {
+     "word": "vi",
+     "p": 0.0107,
+     "rhyme": 0,
+     "score": 0.644
+    },
+    {
+     "word": "where",
+     "p": 0.0101,
+     "rhyme": 0,
+     "score": 0.579
+    },
+    {
+     "word": "then",
+     "p": 0.0106,
+     "rhyme": 0,
+     "score": 0.566
+    },
+    {
+     "word": "see",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.499
+    },
+    {
+     "word": "lo",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.478
+    },
+    {
+     "word": "he",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.467
+    },
+    {
+     "word": "i",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.404
+    },
+    {
+     "word": "she",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.388
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Out of its darkened dome in heaven",
+   "syllables": 9,
+   "target": 10,
+   "partner": "again",
+   "qwen_top": "heaven",
+   "meant": "vain",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0196,
+     "rhyme": 0.6,
+     "score": 1.0
+    },
+    {
+     "word": "fire",
+     "p": 0.0126,
+     "rhyme": 0,
+     "score": 0.643
+    },
+    {
+     "word": "darkness",
+     "p": 0.0103,
+     "rhyme": 0,
+     "score": 0.526
+    },
+    {
+     "word": "eternal",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.336
+    },
+    {
+     "word": "glory",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.19
+    },
+    {
+     "word": "sunlight",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.128
+    },
+    {
+     "word": "reflection",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.12
+    },
+    {
+     "word": "sometimes",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.116
+    },
+    {
+     "word": "window",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.114
+    },
+    {
+     "word": "everlasting",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.102
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "It gave its gracious command again;",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "me",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.02,
+     "rhyme": 0,
+     "score": 1.253
+    },
+    {
+     "word": "above",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 0.526
+    },
+    {
+     "word": "sensation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.348
+    },
+    {
+     "word": "upon",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.344
+    },
+    {
+     "word": "somebody",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.339
+    },
+    {
+     "word": "away",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "around",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "into",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.313
+    },
+    {
+     "word": "below",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.306
+    },
+    {
+     "word": "july",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.302
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Again it met our voices,",
+   "syllables": 8,
+   "target": 9,
+   "partner": "again",
+   "qwen_top": "eyes",
+   "meant": "eyes",
+   "chosen": "voices",
+   "candidates": [
+    {
+     "word": "voices",
+     "p": 0.0094,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "vision",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.676
+    },
+    {
+     "word": "listen",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.669
+    },
+    {
+     "word": "crying",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.588
+    },
+    {
+     "word": "people",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.313
+    },
+    {
+     "word": "communicate",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.298
+    },
+    {
+     "word": "hearing",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "darkness",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "silence",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.258
+    },
+    {
+     "word": "trembling",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.255
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Lighter and warmer being",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "than",
+   "meant": "still",
+   "chosen": "being",
+   "candidates": [
+    {
+     "word": "being",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 1.057
+    },
+    {
+     "word": "become",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 1.034
+    },
+    {
+     "word": "very",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 1.017
+    },
+    {
+     "word": "even",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "already",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.931
+    },
+    {
+     "word": "although",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.773
+    },
+    {
+     "word": "enough",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.668
+    },
+    {
+     "word": "again",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.608
+    },
+    {
+     "word": "ever",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.585
+    },
+    {
+     "word": "never",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.514
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Than the darkness but than fire,",
+   "syllables": 8,
+   "target": 9,
+   "partner": "being",
+   "qwen_top": "the",
+   "meant": "fire",
+   "chosen": "fire",
+   "candidates": [
+    {
+     "word": "fire",
+     "p": 0.0146,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "darkness",
+     "p": 0.0112,
+     "rhyme": 0,
+     "score": 0.77
+    },
+    {
+     "word": "before",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.554
+    },
+    {
+     "word": "even",
+     "p": 0.0054,
+     "rhyme": 0.6,
+     "score": 0.37
+    },
+    {
+     "word": "spirit",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.369
+    },
+    {
+     "word": "only",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "again",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.268
+    },
+    {
+     "word": "ever",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.26
+    },
+    {
+     "word": "without",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "burning",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.24
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Through the burning room of night to heaven,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "hear",
+   "meant": "us",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 1.12
+    },
+    {
+     "word": "fire",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 1.067
+    },
+    {
+     "word": "coming",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.77
+    },
+    {
+     "word": "expected",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.637
+    },
+    {
+     "word": "celebrate",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.577
+    },
+    {
+     "word": "tonight",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.541
+    },
+    {
+     "word": "every",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.495
+    },
+    {
+     "word": "morning",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.492
+    },
+    {
+     "word": "surprise",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.452
+    },
+    {
+     "word": "welcome",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.445
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "In the twilight's low day-light pouring down",
+   "syllables": 10,
+   "target": 11,
+   "partner": "heaven",
+   "qwen_top": "down",
+   "meant": "down",
+   "chosen": "down",
+   "candidates": [
+    {
+     "word": "down",
+     "p": 0.1393,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "through",
+     "p": 0.0849,
+     "rhyme": 0,
+     "score": 0.61
+    },
+    {
+     "word": "out",
+     "p": 0.0456,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "in",
+     "p": 0.0369,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "on",
+     "p": 0.0298,
+     "rhyme": 0,
+     "score": 0.214
+    },
+    {
+     "word": "forth",
+     "p": 0.0145,
+     "rhyme": 0,
+     "score": 0.104
+    },
+    {
+     "word": "across",
+     "p": 0.0139,
+     "rhyme": 0,
+     "score": 0.1
+    },
+    {
+     "word": "by",
+     "p": 0.0134,
+     "rhyme": 0,
+     "score": 0.096
+    },
+    {
+     "word": "up",
+     "p": 0.0097,
+     "rhyme": 0,
+     "score": 0.07
+    },
+    {
+     "word": "back",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.055
+    }
+   ]
+  }
+ ]
+}

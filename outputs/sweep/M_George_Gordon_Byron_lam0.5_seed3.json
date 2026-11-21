@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 0.5,
+ "scheme": "ABAB",
+ "seed": 3,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "XIII. OMNES DE ILLUMINUS domine.\n145    Now come, and now go; for th' hour,\nThat thou hast all the hours of heaven,\nIs come again: thou liv'st long still again,\nAnd yet uncomplac'd art thou alone.\nIn that last, like a distant planet\nOf thy last, or sunset's spirit-bloomed zone,\nThou hast spent the night, but not the hour;\nOr though it seeme to thee so early,\nIt may be to thee but late sometime.\n[Enter BERNARD.] He will bethink somebody.\nHe sees me, and I know he does even.",
+ "lines": [
+  {
+   "line": 1,
+   "text": "XIII. OMNES DE ILLUMINUS domine.",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "domine",
+   "chosen": "domine",
+   "candidates": [
+    {
+     "word": "domine",
+     "p": 0.0389,
+     "rhyme": 0,
+     "score": 0.696
+    },
+    {
+     "word": "est",
+     "p": 0.0339,
+     "rhyme": 0,
+     "score": 0.654
+    },
+    {
+     "word": "esse",
+     "p": 0.024,
+     "rhyme": 0,
+     "score": 0.532
+    },
+    {
+     "word": "et",
+     "p": 0.0225,
+     "rhyme": 0,
+     "score": 0.524
+    },
+    {
+     "word": "quod",
+     "p": 0.0247,
+     "rhyme": 0,
+     "score": 0.468
+    },
+    {
+     "word": "jus",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.367
+    },
+    {
+     "word": "si",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.341
+    },
+    {
+     "word": "ni",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "te",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "peine",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.319
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "145    Now come, and now go; for th' hour,",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "hour",
+   "meant": "hour",
+   "chosen": "hour",
+   "candidates": [
+    {
+     "word": "hour",
+     "p": 0.014,
+     "rhyme": 0,
+     "score": 0.661
+    },
+    {
+     "word": "midnight",
+     "p": 0.0118,
+     "rhyme": 0,
+     "score": 0.64
+    },
+    {
+     "word": "duration",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.51
+    },
+    {
+     "word": "planet",
+     "p": 0.0104,
+     "rhyme": 0,
+     "score": 0.425
+    },
+    {
+     "word": "twilight",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.423
+    },
+    {
+     "word": "an",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.416
+    },
+    {
+     "word": "hours",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.414
+    },
+    {
+     "word": "day",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.395
+    },
+    {
+     "word": "sky",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.378
+    },
+    {
+     "word": "sunrise",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.373
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "That thou hast all the hours of heaven,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "domine",
+   "qwen_top": "life",
+   "meant": "day",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "believe",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.369
+    },
+    {
+     "word": "being",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.354
+    },
+    {
+     "word": "people",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.354
+    },
+    {
+     "word": "even",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.353
+    },
+    {
+     "word": "really",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.352
+    },
+    {
+     "word": "jesus",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.351
+    },
+    {
+     "word": "released",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.338
+    },
+    {
+     "word": "feeling",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.336
+    },
+    {
+     "word": "every",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.239
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Is come again: thou liv'st long still again,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "hour",
+   "qwen_top": "in",
+   "meant": "still",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0179,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "about",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.358
+    },
+    {
+     "word": "around",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.346
+    },
+    {
+     "word": "hours",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.328
+    },
+    {
+     "word": "without",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.318
+    },
+    {
+     "word": "before",
+     "p": 0.0039,
+     "rhyme": 0.3,
+     "score": 0.26
+    },
+    {
+     "word": "only",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.205
+    },
+    {
+     "word": "somewhere",
+     "p": 0.0015,
+     "rhyme": 0.3,
+     "score": 0.193
+    },
+    {
+     "word": "alive",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.178
+    },
+    {
+     "word": "anywhere",
+     "p": 0.0008,
+     "rhyme": 0.3,
+     "score": 0.172
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "And yet uncomplac'd art thou alone.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "still",
+   "meant": "still",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0507,
+     "rhyme": 0,
+     "score": 0.645
+    },
+    {
+     "word": "alive",
+     "p": 0.0595,
+     "rhyme": 0,
+     "score": 0.642
+    },
+    {
+     "word": "remains",
+     "p": 0.0191,
+     "rhyme": 0,
+     "score": 0.369
+    },
+    {
+     "word": "remain",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.318
+    },
+    {
+     "word": "although",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "today",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "nobody",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "ago",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "probably",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "studio",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "In that last, like a distant planet",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "star",
+   "meant": "star",
+   "chosen": "planet",
+   "candidates": [
+    {
+     "word": "planet",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.555
+    },
+    {
+     "word": "eclipse",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.457
+    },
+    {
+     "word": "mirror",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.424
+    },
+    {
+     "word": "shadow",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.406
+    },
+    {
+     "word": "observation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.392
+    },
+    {
+     "word": "moonlight",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.386
+    },
+    {
+     "word": "constellation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.375
+    },
+    {
+     "word": "fire",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.366
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "shining",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.357
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Of thy last, or sunset's spirit-bloomed zone,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "alone",
+   "qwen_top": "land",
+   "meant": "west",
+   "chosen": "zone",
+   "candidates": [
+    {
+     "word": "zone",
+     "p": 0.0038,
+     "rhyme": 1.0,
+     "score": 0.572
+    },
+    {
+     "word": "west",
+     "p": 0.0261,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "coast",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.349
+    },
+    {
+     "word": "golden",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.343
+    },
+    {
+     "word": "green",
+     "p": 0.01,
+     "rhyme": 0.3,
+     "score": 0.341
+    },
+    {
+     "word": "grove",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.335
+    },
+    {
+     "word": "shadow",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.331
+    },
+    {
+     "word": "ocean",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.331
+    },
+    {
+     "word": "whole",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.33
+    },
+    {
+     "word": "pole",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.326
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Thou hast spent the night, but not the hour;",
+   "syllables": 10,
+   "target": 11,
+   "partner": "planet",
+   "qwen_top": "day",
+   "meant": "day",
+   "chosen": "hour",
+   "candidates": [
+    {
+     "word": "hour",
+     "p": 0.0569,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "morning",
+     "p": 0.0363,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "saturday",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.314
+    },
+    {
+     "word": "after",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.308
+    },
+    {
+     "word": "lasted",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.308
+    },
+    {
+     "word": "saturdays",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.305
+    },
+    {
+     "word": "happiest",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.303
+    },
+    {
+     "word": "annual",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.302
+    },
+    {
+     "word": "overcast",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.302
+    },
+    {
+     "word": "sabbath",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.302
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Or though it seeme to thee so early,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "long",
+   "meant": "long",
+   "chosen": "early",
+   "candidates": [
+    {
+     "word": "early",
+     "p": 0.0244,
+     "rhyme": 0,
+     "score": 0.628
+    },
+    {
+     "word": "before",
+     "p": 0.0162,
+     "rhyme": 0,
+     "score": 0.56
+    },
+    {
+     "word": "again",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.376
+    },
+    {
+     "word": "until",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.349
+    },
+    {
+     "word": "later",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.348
+    },
+    {
+     "word": "although",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "after",
+     "p": 0.011,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "ago",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.304
+    },
+    {
+     "word": "probably",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "today",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.293
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "It may be to thee but late sometime.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "sometime",
+   "chosen": "sometime",
+   "candidates": [
+    {
+     "word": "sometime",
+     "p": 0.1404,
+     "rhyme": 0,
+     "score": 0.682
+    },
+    {
+     "word": "before",
+     "p": 0.0691,
+     "rhyme": 0,
+     "score": 0.475
+    },
+    {
+     "word": "begin",
+     "p": 0.0309,
+     "rhyme": 0,
+     "score": 0.327
+    },
+    {
+     "word": "again",
+     "p": 0.0142,
+     "rhyme": 0,
+     "score": 0.304
+    },
+    {
+     "word": "indicate",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "ago",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "today",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "probably",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "began",
+     "p": 0.013,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "[Enter BERNARD.] He will bethink somebody.",
+   "syllables": 11,
+   "target": 11,
+   "partner": "early",
+   "qwen_top": "himself",
+   "meant": "me",
+   "chosen": "somebody",
+   "candidates": [
+    {
+     "word": "somebody",
+     "p": 0.0017,
+     "rhyme": 0.9,
+     "score": 0.628
+    },
+    {
+     "word": "myself",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "nobody",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.472
+    },
+    {
+     "word": "ability",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.466
+    },
+    {
+     "word": "yourself",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.373
+    },
+    {
+     "word": "merciful",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.331
+    },
+    {
+     "word": "certainly",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.322
+    },
+    {
+     "word": "again",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "really",
+     "p": 0.001,
+     "rhyme": 0.3,
+     "score": 0.25
+    },
+    {
+     "word": "forgive",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.196
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "He sees me, and I know he does even.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "sometime",
+   "qwen_top": "not",
+   "meant": "so",
+   "chosen": "even",
+   "candidates": [
+    {
+     "word": "even",
+     "p": 0.0122,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "never",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 0.49
+    },
+    {
+     "word": "neither",
+     "p": 0.0037,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "surprised",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.447
+    },
+    {
+     "word": "being",
+     "p": 0.0094,
+     "rhyme": 0,
+     "score": 0.385
+    },
+    {
+     "word": "sometimes",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.356
+    },
+    {
+     "word": "either",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.356
+    },
+    {
+     "word": "because",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.333
+    },
+    {
+     "word": "excited",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.327
+    },
+    {
+     "word": "otherwise",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.321
+    }
+   ]
+  }
+ ]
+}

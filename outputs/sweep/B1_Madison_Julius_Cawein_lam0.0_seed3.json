@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "ABCB",
+ "seed": 3,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "O'er the new moon's golden rim,\nAnd far up aloft away,\nThe stars fade and die in heaven,\nLike the fall of a leaf. - 1904. [Czeslaw Hay\nThanked him to-day without\nA word of his admiration;\nAs he smiled on them, as they followed,\nThe road lay open wide again.\nThey passed beside the river,\nWhere a cottage stood separate;\nHe saw a little boy there sleeping\nOn the rickety porch-beam. Again",
+ "lines": [
+  {
+   "line": 1,
+   "text": "O'er the new moon's golden rim,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "rim",
+   "meant": "rim",
+   "chosen": "rim",
+   "candidates": [
+    {
+     "word": "rim",
+     "p": 0.0387,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "light",
+     "p": 0.0301,
+     "rhyme": 0,
+     "score": 0.779
+    },
+    {
+     "word": "breast",
+     "p": 0.0283,
+     "rhyme": 0,
+     "score": 0.732
+    },
+    {
+     "word": "edge",
+     "p": 0.025,
+     "rhyme": 0,
+     "score": 0.646
+    },
+    {
+     "word": "crest",
+     "p": 0.0207,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "face",
+     "p": 0.0207,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "glow",
+     "p": 0.0194,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "dome",
+     "p": 0.0126,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "wave",
+     "p": 0.0111,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "hand",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.253
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "And far up aloft away,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "into",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "anew",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "between",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "unseen",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "serene",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "upon",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "afar",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.229
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "The stars fade and die in heaven,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0201,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "fire",
+     "p": 0.0113,
+     "rhyme": 0,
+     "score": 0.564
+    },
+    {
+     "word": "glory",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 0.501
+    },
+    {
+     "word": "silence",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.44
+    },
+    {
+     "word": "twilight",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.098
+    },
+    {
+     "word": "summer",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.083
+    },
+    {
+     "word": "memory",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.081
+    },
+    {
+     "word": "winter",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.081
+    },
+    {
+     "word": "beauty",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.077
+    },
+    {
+     "word": "silver",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.076
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Like the fall of a leaf. - 1904. [Czeslaw Hay",
+   "syllables": 9,
+   "target": 10,
+   "partner": "away",
+   "qwen_top": "mi",
+   "meant": "mi",
+   "chosen": "hay",
+   "candidates": [
+    {
+     "word": "hay",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "may",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "re",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "ray",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "se",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "ney",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "ga",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "ne",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "les",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "de",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Thanked him to-day without",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "for",
+   "meant": "for",
+   "chosen": "without",
+   "candidates": [
+    {
+     "word": "without",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "after",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.78
+    },
+    {
+     "word": "because",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "before",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "upon",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "over",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.12
+    },
+    {
+     "word": "instead",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "again",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "alone",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "under",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.064
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "A word of his admiration;",
+   "syllables": 8,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "own",
+   "meant": "own",
+   "chosen": "admiration",
+   "candidates": [
+    {
+     "word": "admiration",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "disdain",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "farewell",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "reply",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "regret",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "sincere",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "success",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "address",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "permission",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "very",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.215
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "As he smiled on them, as they followed,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "smiled",
+   "meant": "smiled",
+   "chosen": "followed",
+   "candidates": [
+    {
+     "word": "followed",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "listened",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.882
+    },
+    {
+     "word": "wandered",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.882
+    },
+    {
+     "word": "smiling",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.732
+    },
+    {
+     "word": "whispered",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.646
+    },
+    {
+     "word": "lifted",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "admired",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "linger",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "nodded",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "answered",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.392
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "The road lay open wide again.",
+   "syllables": 8,
+   "target": 9,
+   "partner": "admiration",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "away",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awake",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "against",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "today",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awaiting",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "array",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "naked",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "proclaim",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "below",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "They passed beside the river,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "old",
+   "meant": "old",
+   "chosen": "river",
+   "candidates": [
+    {
+     "word": "river",
+     "p": 0.0396,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "little",
+     "p": 0.0107,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "water",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "village",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.206
+    },
+    {
+     "word": "city",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.2
+    },
+    {
+     "word": "mountain",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.183
+    },
+    {
+     "word": "fountain",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "forest",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.128
+    },
+    {
+     "word": "cottage",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.12
+    },
+    {
+     "word": "silent",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.099
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Where a cottage stood separate;",
+   "syllables": 8,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "alone",
+   "meant": "alone",
+   "chosen": "separate",
+   "candidates": [
+    {
+     "word": "separate",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "away",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "array",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "anew",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "midway",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "again",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "nearby",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "serene",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "between",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.248
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "He saw a little boy there sleeping",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "by",
+   "meant": "by",
+   "chosen": "sleeping",
+   "candidates": [
+    {
+     "word": "sleeping",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "alone",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.882
+    },
+    {
+     "word": "playing",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "awake",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "sitting",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "asleep",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "standing",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "beside",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "walking",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "lying",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.286
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "On the rickety porch-beam. Again",
+   "syllables": 9,
+   "target": 10,
+   "partner": "separate",
+   "qwen_top": "he",
+   "meant": "he",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "bene",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "later",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "etc",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "every",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "very",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "many",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "instead",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "away",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  }
+ ]
+}

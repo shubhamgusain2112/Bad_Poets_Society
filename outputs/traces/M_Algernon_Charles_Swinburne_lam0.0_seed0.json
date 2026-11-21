@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 0.0,
+ "scheme": "AABB",
+ "seed": 0,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "This is my poor heart's life, o'er sixty three\nThe light of which it spake, all wild anxiety,\nAll misery and desperation,\nOh! the song that once we sang within,\nThen, a day ago, to lie so desolate.\nThe trumpet, where the Christ-gods went away,\nHas sounded not with its vernal vibration,\nNot when we drank at our great celebration\nWherein we were cured; but harkens we,\nFrom the window now in serenity.\nA poor house holds it, one Meadow,\nAnd thy soul's yes-leaping has ago",
+ "lines": [
+  {
+   "line": 1,
+   "text": "This is my poor heart's life, o'er sixty three",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "years",
+   "meant": "years",
+   "chosen": "three",
+   "candidates": [
+    {
+     "word": "three",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "day",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "today",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "two",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "few",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "grew",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "through",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "who",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.27
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The light of which it spake, all wild anxiety,",
+   "syllables": 12,
+   "target": 11,
+   "partner": "three",
+   "qwen_top": "and",
+   "meant": "desire",
+   "chosen": "anxiety",
+   "candidates": [
+    {
+     "word": "anxiety",
+     "p": 0.0115,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "jealousy",
+     "p": 0.0045,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "urgency",
+     "p": 0.0029,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "hostility",
+     "p": 0.0017,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "sympathy",
+     "p": 0.0016,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "worry",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "ecstasy",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "agony",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "harmony",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "contrary",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "All misery and desperation,",
+   "syllables": 9,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "all",
+   "meant": "pain",
+   "chosen": "desperation",
+   "candidates": [
+    {
+     "word": "desperation",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "consternation",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "desolation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "isolation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "devastation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "starvation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "temptation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "hesitation",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "indignation",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "dismay",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Oh! the song that once we sang within,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "desperation",
+   "qwen_top": "in",
+   "meant": "together",
+   "chosen": "within",
+   "candidates": [
+    {
+     "word": "within",
+     "p": 0.0029,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "someone",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "everyone",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "again",
+     "p": 0.0403,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "today",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "praying",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "always",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "later",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "occasion",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awake",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Then, a day ago, to lie so desolate.",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "still",
+   "meant": "still",
+   "chosen": "desolate",
+   "candidates": [
+    {
+     "word": "desolate",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "today",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "although",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "below",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "ago",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "complain",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "remain",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "terrified",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.243
+    },
+    {
+     "word": "afraid",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "decade",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.233
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "The trumpet, where the Christ-gods went away,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "desolate",
+   "qwen_top": "forth",
+   "meant": "by",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0439,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "astray",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "aimlessly",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "breaking",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "taking",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "instead",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "heading",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "paraded",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "carried",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "setting",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Has sounded not with its vernal vibration,",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "sound",
+   "meant": "alarm",
+   "chosen": "vibration",
+   "candidates": [
+    {
+     "word": "vibration",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "e",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "may",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "day",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "delay",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "staccato",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "blew",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "a",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "dew",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "hue",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.27
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Not when we drank at our great celebration",
+   "syllables": 12,
+   "target": 11,
+   "partner": "vibration",
+   "qwen_top": "feast",
+   "meant": "feast",
+   "chosen": "celebration",
+   "candidates": [
+    {
+     "word": "celebration",
+     "p": 0.0276,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "consecration",
+     "p": 0.0016,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "congregation",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "invitation",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "destination",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "coronation",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "salvation",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "celebrate",
+     "p": 0.0094,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "celebrated",
+     "p": 0.0078,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "holiday",
+     "p": 0.0044,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Wherein we were cured; but harkens we,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "not",
+   "meant": "still",
+   "chosen": "we",
+   "candidates": [
+    {
+     "word": "we",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "see",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "they",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "today",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "say",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "way",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "From the window now in serenity.",
+   "syllables": 10,
+   "target": 9,
+   "partner": "we",
+   "qwen_top": "the",
+   "meant": "darkness",
+   "chosen": "serenity",
+   "candidates": [
+    {
+     "word": "serenity",
+     "p": 0.0243,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "eternity",
+     "p": 0.0163,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "agony",
+     "p": 0.0144,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "tranquillity",
+     "p": 0.0067,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "sanity",
+     "p": 0.0045,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "eerie",
+     "p": 0.0028,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "tranquility",
+     "p": 0.0021,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "civility",
+     "p": 0.0017,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "melancholy",
+     "p": 0.0014,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "tragedy",
+     "p": 0.0012,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "A poor house holds it, one Meadow,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "solitary",
+   "chosen": "meadow",
+   "candidates": [
+    {
+     "word": "meadow",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "doorway",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "hallway",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "stairway",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.255
+    },
+    {
+     "word": "solitary",
+     "p": 0.0117,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "sanctuary",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "bedside",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.243
+    },
+    {
+     "word": "inside",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.242
+    },
+    {
+     "word": "cuckoo",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.226
+    },
+    {
+     "word": "beside",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.222
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "And thy soul's yes-leaping has ago",
+   "syllables": 9,
+   "target": 10,
+   "partner": "meadow",
+   "qwen_top": "been",
+   "meant": "been",
+   "chosen": "ago",
+   "candidates": [
+    {
+     "word": "ago",
+     "p": 0.0072,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "although",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "alone",
+     "p": 0.0034,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "overthrown",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "unnoticed",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "broken",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "soldiers",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "october",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "returned",
+     "p": 0.0167,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "disappeared",
+     "p": 0.0111,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  }
+ ]
+}

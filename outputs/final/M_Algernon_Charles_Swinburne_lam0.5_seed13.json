@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 0.5,
+ "scheme": "AABB",
+ "seed": 13,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "The Spirit, who kept not them alive,\nWas weeping on the dead and dying,\nAnd hid His face from all unseen.\nTo him was drawn the holiest man\nWho ever in a world before\nStood up to him of God alone.\nHis hand outstretched; it came again\nUpon him at once as before;\nHe raised his face like Satan.\nThey did with him, who are alone,\nFor they saw himself not by himself.\nBy Himself, dead for ever,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "The Spirit, who kept not them alive,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "from",
+   "meant": "alive",
+   "chosen": "alive",
+   "candidates": [
+    {
+     "word": "alive",
+     "p": 0.0198,
+     "rhyme": 0,
+     "score": 0.642
+    },
+    {
+     "word": "behind",
+     "p": 0.0151,
+     "rhyme": 0,
+     "score": 0.576
+    },
+    {
+     "word": "forever",
+     "p": 0.0138,
+     "rhyme": 0,
+     "score": 0.49
+    },
+    {
+     "word": "alone",
+     "p": 0.0104,
+     "rhyme": 0,
+     "score": 0.482
+    },
+    {
+     "word": "away",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.459
+    },
+    {
+     "word": "remain",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.44
+    },
+    {
+     "word": "remained",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.376
+    },
+    {
+     "word": "nowhere",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.367
+    },
+    {
+     "word": "untouched",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.365
+    },
+    {
+     "word": "awake",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.311
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Was weeping on the dead and dying,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "alive",
+   "qwen_top": "dying",
+   "meant": "dead",
+   "chosen": "dying",
+   "candidates": [
+    {
+     "word": "dying",
+     "p": 0.0663,
+     "rhyme": 0.6,
+     "score": 0.8
+    },
+    {
+     "word": "crying",
+     "p": 0.0083,
+     "rhyme": 0.6,
+     "score": 0.363
+    },
+    {
+     "word": "tired",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.33
+    },
+    {
+     "word": "terrified",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.316
+    },
+    {
+     "word": "frightened",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.313
+    },
+    {
+     "word": "lying",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.309
+    },
+    {
+     "word": "lifeless",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.308
+    },
+    {
+     "word": "hiding",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.306
+    },
+    {
+     "word": "survived",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.304
+    },
+    {
+     "word": "fighting",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.303
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "And hid His face from all unseen.",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "sight",
+   "chosen": "unseen",
+   "candidates": [
+    {
+     "word": "unseen",
+     "p": 0.0182,
+     "rhyme": 0,
+     "score": 0.748
+    },
+    {
+     "word": "seeing",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 0.454
+    },
+    {
+     "word": "apart",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "alone",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.35
+    },
+    {
+     "word": "away",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "communicate",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.315
+    },
+    {
+     "word": "again",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "ability",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "realized",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "somebody",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.287
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "To him was drawn the holiest man",
+   "syllables": 9,
+   "target": 9,
+   "partner": "unseen",
+   "qwen_top": "thing",
+   "meant": "soul",
+   "chosen": "man",
+   "candidates": [
+    {
+     "word": "man",
+     "p": 0.0101,
+     "rhyme": 0.3,
+     "score": 0.549
+    },
+    {
+     "word": "seen",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 0.526
+    },
+    {
+     "word": "green",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 0.524
+    },
+    {
+     "word": "soul",
+     "p": 0.0126,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "god",
+     "p": 0.0112,
+     "rhyme": 0,
+     "score": 0.441
+    },
+    {
+     "word": "thing",
+     "p": 0.0111,
+     "rhyme": 0,
+     "score": 0.44
+    },
+    {
+     "word": "means",
+     "p": 0.0034,
+     "rhyme": 0.6,
+     "score": 0.434
+    },
+    {
+     "word": "meaning",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.431
+    },
+    {
+     "word": "me",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.4
+    },
+    {
+     "word": "place",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 0.397
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Who ever in a world before",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "was",
+   "meant": "shortly",
+   "chosen": "before",
+   "candidates": [
+    {
+     "word": "before",
+     "p": 0.0258,
+     "rhyme": 0,
+     "score": 0.7
+    },
+    {
+     "word": "shortly",
+     "p": 0.0274,
+     "rhyme": 0,
+     "score": 0.555
+    },
+    {
+     "word": "began",
+     "p": 0.0101,
+     "rhyme": 0,
+     "score": 0.412
+    },
+    {
+     "word": "creation",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.34
+    },
+    {
+     "word": "incarnation",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.337
+    },
+    {
+     "word": "realized",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "later",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "ago",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.311
+    },
+    {
+     "word": "consecrated",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.307
+    },
+    {
+     "word": "celebrated",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.305
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Stood up to him of God alone.",
+   "syllables": 8,
+   "target": 9,
+   "partner": "before",
+   "qwen_top": "and",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0489,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "therefore",
+     "p": 0.0016,
+     "rhyme": 0.9,
+     "score": 0.467
+    },
+    {
+     "word": "exalted",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.336
+    },
+    {
+     "word": "himself",
+     "p": 0.0326,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "immortal",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.327
+    },
+    {
+     "word": "reborn",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.317
+    },
+    {
+     "word": "falsely",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.312
+    },
+    {
+     "word": "henceforth",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.309
+    },
+    {
+     "word": "belonged",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.308
+    },
+    {
+     "word": "restored",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.307
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "His hand outstretched; it came again",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0664,
+     "rhyme": 0,
+     "score": 0.753
+    },
+    {
+     "word": "away",
+     "p": 0.0311,
+     "rhyme": 0,
+     "score": 0.51
+    },
+    {
+     "word": "apart",
+     "p": 0.0448,
+     "rhyme": 0,
+     "score": 0.487
+    },
+    {
+     "word": "before",
+     "p": 0.0205,
+     "rhyme": 0,
+     "score": 0.383
+    },
+    {
+     "word": "somewhere",
+     "p": 0.0206,
+     "rhyme": 0,
+     "score": 0.351
+    },
+    {
+     "word": "around",
+     "p": 0.0144,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "anew",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "into",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "somebody",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "anyway",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.266
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Upon him at once as before;",
+   "syllables": 8,
+   "target": 9,
+   "partner": "again",
+   "qwen_top": "a",
+   "meant": "before",
+   "chosen": "before",
+   "candidates": [
+    {
+     "word": "before",
+     "p": 0.0748,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "later",
+     "p": 0.0097,
+     "rhyme": 0.6,
+     "score": 0.365
+    },
+    {
+     "word": "heaven",
+     "p": 0.0056,
+     "rhyme": 0.6,
+     "score": 0.337
+    },
+    {
+     "word": "never",
+     "p": 0.0042,
+     "rhyme": 0.6,
+     "score": 0.328
+    },
+    {
+     "word": "heavens",
+     "p": 0.0041,
+     "rhyme": 0.6,
+     "score": 0.327
+    },
+    {
+     "word": "himself",
+     "p": 0.0037,
+     "rhyme": 0.6,
+     "score": 0.324
+    },
+    {
+     "word": "ever",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.324
+    },
+    {
+     "word": "waiting",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.314
+    },
+    {
+     "word": "everywhere",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.312
+    },
+    {
+     "word": "danger",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.312
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "He raised his face like Satan.",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "god",
+   "chosen": "satan",
+   "candidates": [
+    {
+     "word": "satan",
+     "p": 0.0146,
+     "rhyme": 0,
+     "score": 0.628
+    },
+    {
+     "word": "heaven",
+     "p": 0.0136,
+     "rhyme": 0,
+     "score": 0.586
+    },
+    {
+     "word": "holy",
+     "p": 0.0091,
+     "rhyme": 0,
+     "score": 0.462
+    },
+    {
+     "word": "crucified",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.34
+    },
+    {
+     "word": "statue",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.337
+    },
+    {
+     "word": "temptation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.337
+    },
+    {
+     "word": "jesus",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.336
+    },
+    {
+     "word": "revelation",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "heavens",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.327
+    },
+    {
+     "word": "consecrated",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.31
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "They did with him, who are alone,",
+   "syllables": 8,
+   "target": 9,
+   "partner": "satan",
+   "qwen_top": "the",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0456,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "undone",
+     "p": 0.0018,
+     "rhyme": 0.9,
+     "score": 0.469
+    },
+    {
+     "word": "someone",
+     "p": 0.0015,
+     "rhyme": 0.9,
+     "score": 0.467
+    },
+    {
+     "word": "outdone",
+     "p": 0.0015,
+     "rhyme": 0.9,
+     "score": 0.467
+    },
+    {
+     "word": "anyone",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.458
+    },
+    {
+     "word": "awakened",
+     "p": 0.0037,
+     "rhyme": 0.6,
+     "score": 0.341
+    },
+    {
+     "word": "afraid",
+     "p": 0.0034,
+     "rhyme": 0.6,
+     "score": 0.338
+    },
+    {
+     "word": "awake",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.33
+    },
+    {
+     "word": "enslaved",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.325
+    },
+    {
+     "word": "remain",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.325
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "For they saw himself not by himself.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "sight",
+   "meant": "him",
+   "chosen": "himself",
+   "candidates": [
+    {
+     "word": "himself",
+     "p": 0.0221,
+     "rhyme": 0,
+     "score": 0.628
+    },
+    {
+     "word": "again",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.312
+    },
+    {
+     "word": "away",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.299
+    },
+    {
+     "word": "before",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "somebody",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "nobody",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "upon",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.257
+    },
+    {
+     "word": "inside",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "our",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "always",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.236
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "By Himself, dead for ever,",
+   "syllables": 7,
+   "target": 8,
+   "partner": "himself",
+   "qwen_top": "ever",
+   "meant": "evermore",
+   "chosen": "ever",
+   "candidates": [
+    {
+     "word": "ever",
+     "p": 0.0293,
+     "rhyme": 0.6,
+     "score": 0.731
+    },
+    {
+     "word": "myself",
+     "p": 0.0021,
+     "rhyme": 1.0,
+     "score": 0.531
+    },
+    {
+     "word": "oneself",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 0.515
+    },
+    {
+     "word": "yourself",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 0.513
+    },
+    {
+     "word": "herself",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 0.507
+    },
+    {
+     "word": "evermore",
+     "p": 0.034,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "heaven",
+     "p": 0.0063,
+     "rhyme": 0.6,
+     "score": 0.393
+    },
+    {
+     "word": "enemies",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.349
+    },
+    {
+     "word": "anyone",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.342
+    },
+    {
+     "word": "fairest",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.33
+    }
+   ]
+  }
+ ]
+}

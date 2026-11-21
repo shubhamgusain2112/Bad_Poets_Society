@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "B1",
+ "lam": 0.25,
+ "scheme": "ABCB",
+ "seed": 10,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "The wind is born again.\nA carpet of white snows, like flowers,\nWhispers in the nightingales' hollow\nLike a fond mistress's bow.\nThere are nights that move without,\nThere are days when storm winds are gentle,\nAnd the bare and cold air heaves softly\nIn their sunny splendour against\nThe moon-minted old windows.\nOn mountains where never\nWas sunshine before - some few hours\nOf sun doth rain us with ever",
+ "lines": [
+  {
+   "line": 1,
+   "text": "The wind is born again.",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0255,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "anew",
+     "p": 0.0198,
+     "rhyme": 0,
+     "score": 0.777
+    },
+    {
+     "word": "upon",
+     "p": 0.0136,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "within",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "among",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "without",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "beneath",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "amid",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "above",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "before",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.039
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "A carpet of white snows, like flowers,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "a",
+   "chosen": "flowers",
+   "candidates": [
+    {
+     "word": "flowers",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.389
+    },
+    {
+     "word": "roses",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.304
+    },
+    {
+     "word": "fire",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "shadow",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "silver",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.255
+    },
+    {
+     "word": "our",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.246
+    },
+    {
+     "word": "sunlight",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.242
+    },
+    {
+     "word": "fairy",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.241
+    },
+    {
+     "word": "twilight",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.238
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Whispers in the nightingales' hollow",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "song",
+   "meant": "song",
+   "chosen": "hollow",
+   "candidates": [
+    {
+     "word": "hollow",
+     "p": 0.0159,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "voices",
+     "p": 0.0141,
+     "rhyme": 0,
+     "score": 0.882
+    },
+    {
+     "word": "towers",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "branches",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "flowers",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "singing",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.144
+    },
+    {
+     "word": "music",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "laughter",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "choir",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "echoes",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.105
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Like a fond mistress's bow.",
+   "syllables": 6,
+   "target": 7,
+   "partner": "flowers",
+   "qwen_top": "hand",
+   "meant": "hand",
+   "chosen": "bow",
+   "candidates": [
+    {
+     "word": "bow",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "flower",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "mouth",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "brow",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "crown",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "vows",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "gown",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "sound",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "hand",
+     "p": 0.0775,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "prayers",
+     "p": 0.0004,
+     "rhyme": 0.3,
+     "score": 0.226
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "There are nights that move without,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "like",
+   "meant": "like",
+   "chosen": "without",
+   "candidates": [
+    {
+     "word": "without",
+     "p": 0.0103,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "away",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.778
+    },
+    {
+     "word": "beneath",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.606
+    },
+    {
+     "word": "along",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "upon",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "about",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "before",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "within",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "across",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "into",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.286
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "There are days when storm winds are gentle,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "born",
+   "meant": "born",
+   "chosen": "gentle",
+   "candidates": [
+    {
+     "word": "gentle",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.348
+    },
+    {
+     "word": "blowing",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.333
+    },
+    {
+     "word": "ours",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.308
+    },
+    {
+     "word": "our",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "alone",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "afraid",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "never",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.267
+    },
+    {
+     "word": "silent",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "bending",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "quiet",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.231
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "And the bare and cold air heaves softly",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "softly",
+   "candidates": [
+    {
+     "word": "softly",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "lightly",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "again",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "above",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "upon",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "over",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "gently",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "only",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "away",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "slowly",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.135
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "In their sunny splendour against",
+   "syllables": 8,
+   "target": 9,
+   "partner": "gentle",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "against",
+   "candidates": [
+    {
+     "word": "against",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.493
+    },
+    {
+     "word": "again",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.473
+    },
+    {
+     "word": "together",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.471
+    },
+    {
+     "word": "everywhere",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "forever",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "ever",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "never",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "overhead",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "somewhere",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "heaven",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.454
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "The moon-minted old windows.",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "oak",
+   "meant": "oak",
+   "chosen": "windows",
+   "candidates": [
+    {
+     "word": "windows",
+     "p": 0.0133,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "window",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.646
+    },
+    {
+     "word": "houses",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.504
+    },
+    {
+     "word": "tower",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "garden",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.327
+    },
+    {
+     "word": "apple",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "castle",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.257
+    },
+    {
+     "word": "city",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "maple",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.213
+    },
+    {
+     "word": "forest",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.186
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "On mountains where never",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "never",
+   "candidates": [
+    {
+     "word": "never",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.392
+    },
+    {
+     "word": "shadows",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.333
+    },
+    {
+     "word": "winter",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "our",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "summer",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "nobody",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "shadow",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "sunlight",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "twilight",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "many",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.26
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Was sunshine before - some few hours",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "hills",
+   "meant": "hills",
+   "chosen": "hours",
+   "candidates": [
+    {
+     "word": "hours",
+     "p": 0.0116,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "places",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.502
+    },
+    {
+     "word": "mountains",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.392
+    },
+    {
+     "word": "little",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.391
+    },
+    {
+     "word": "lonely",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.391
+    },
+    {
+     "word": "valleys",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.209
+    },
+    {
+     "word": "mountain",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "minutes",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "distant",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.185
+    },
+    {
+     "word": "acres",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.163
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Of sun doth rain us with ever",
+   "syllables": 8,
+   "target": 9,
+   "partner": "never",
+   "qwen_top": "its",
+   "meant": "its",
+   "chosen": "ever",
+   "candidates": [
+    {
+     "word": "ever",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 0.757
+    },
+    {
+     "word": "forget",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.489
+    },
+    {
+     "word": "many",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.476
+    },
+    {
+     "word": "gentle",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.476
+    },
+    {
+     "word": "pleasure",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.472
+    },
+    {
+     "word": "heavy",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.469
+    },
+    {
+     "word": "yellow",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.468
+    },
+    {
+     "word": "merry",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.464
+    },
+    {
+     "word": "heavenly",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.464
+    },
+    {
+     "word": "unexpected",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.463
+    }
+   ]
+  }
+ ]
+}

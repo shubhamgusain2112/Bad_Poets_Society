@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 0.5,
+ "scheme": "AABB",
+ "seed": 0,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "This is my poor heart's life, o'er sixty years,\nThe love I had for thee; it has disappeared\nAs the spring in summer disappears.\nIt was mine to keep the dead forever\nFrom that which dies: my death and his, alone,\nAnd mine between these two eyes were unknown,\nAnd his was mine beyond them. Alone\nI have seen all good things, he was only\nTo give them more beauty than myself.\nNo other vision of yourself\nMight not have changed me from myself,\nBut a woman's spirit from yourself.",
+ "lines": [
+  {
+   "line": 1,
+   "text": "This is my poor heart's life, o'er sixty years,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "years",
+   "meant": "years",
+   "chosen": "years",
+   "candidates": [
+    {
+     "word": "years",
+     "p": 0.7308,
+     "rhyme": 0,
+     "score": 0.689
+    },
+    {
+     "word": "three",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "ago",
+     "p": 0.0309,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "he",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "day",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "today",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "thirty",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "two",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "few",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.271
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The love I had for thee; it has disappeared",
+   "syllables": 11,
+   "target": 11,
+   "partner": "years",
+   "qwen_top": "been",
+   "meant": "been",
+   "chosen": "disappeared",
+   "candidates": [
+    {
+     "word": "disappeared",
+     "p": 0.0165,
+     "rhyme": 0.6,
+     "score": 0.647
+    },
+    {
+     "word": "forgotten",
+     "p": 0.0238,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "ago",
+     "p": 0.0189,
+     "rhyme": 0,
+     "score": 0.398
+    },
+    {
+     "word": "until",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.328
+    },
+    {
+     "word": "captivity",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.326
+    },
+    {
+     "word": "rebuilt",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.325
+    },
+    {
+     "word": "extinguished",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.323
+    },
+    {
+     "word": "nearly",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.323
+    },
+    {
+     "word": "risen",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.318
+    },
+    {
+     "word": "forgiven",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.316
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "As the spring in summer disappears.",
+   "syllables": 9,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "when",
+   "meant": "disappears",
+   "chosen": "disappears",
+   "candidates": [
+    {
+     "word": "disappears",
+     "p": 0.0502,
+     "rhyme": 0,
+     "score": 0.688
+    },
+    {
+     "word": "rain",
+     "p": 0.0156,
+     "rhyme": 0,
+     "score": 0.409
+    },
+    {
+     "word": "goes",
+     "p": 0.0129,
+     "rhyme": 0,
+     "score": 0.348
+    },
+    {
+     "word": "dies",
+     "p": 0.0126,
+     "rhyme": 0,
+     "score": 0.345
+    },
+    {
+     "word": "vacation",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.327
+    },
+    {
+     "word": "days",
+     "p": 0.0089,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "away",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.307
+    },
+    {
+     "word": "again",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.302
+    },
+    {
+     "word": "day",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "due",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.288
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "It was mine to keep the dead forever",
+   "syllables": 10,
+   "target": 10,
+   "partner": "disappears",
+   "qwen_top": "in",
+   "meant": "forever",
+   "chosen": "forever",
+   "candidates": [
+    {
+     "word": "forever",
+     "p": 0.0165,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "spirit",
+     "p": 0.006,
+     "rhyme": 0.6,
+     "score": 0.482
+    },
+    {
+     "word": "hidden",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.409
+    },
+    {
+     "word": "away",
+     "p": 0.013,
+     "rhyme": 0,
+     "score": 0.395
+    },
+    {
+     "word": "leaving",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.393
+    },
+    {
+     "word": "spirits",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.387
+    },
+    {
+     "word": "within",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.368
+    },
+    {
+     "word": "asleep",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.356
+    },
+    {
+     "word": "distance",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.356
+    },
+    {
+     "word": "being",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.354
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "From that which dies: my death and his, alone,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "my",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0674,
+     "rhyme": 0,
+     "score": 0.718
+    },
+    {
+     "word": "together",
+     "p": 0.0547,
+     "rhyme": 0,
+     "score": 0.516
+    },
+    {
+     "word": "again",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.293
+    },
+    {
+     "word": "separated",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "anyway",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "probably",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "nobody",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "realized",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "although",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.267
+    },
+    {
+     "word": "likewise",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.262
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "And mine between these two eyes were unknown,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "alone",
+   "qwen_top": "one",
+   "meant": "together",
+   "chosen": "unknown",
+   "candidates": [
+    {
+     "word": "unknown",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 0.505
+    },
+    {
+     "word": "together",
+     "p": 0.061,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "only",
+     "p": 0.0118,
+     "rhyme": 0.6,
+     "score": 0.397
+    },
+    {
+     "word": "broken",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.332
+    },
+    {
+     "word": "almost",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.315
+    },
+    {
+     "word": "wholly",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.31
+    },
+    {
+     "word": "although",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.308
+    },
+    {
+     "word": "moment",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.307
+    },
+    {
+     "word": "composed",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.305
+    },
+    {
+     "word": "going",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.305
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "And his was mine beyond them. Alone",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "i",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0219,
+     "rhyme": 0,
+     "score": 0.718
+    },
+    {
+     "word": "again",
+     "p": 0.0145,
+     "rhyme": 0,
+     "score": 0.584
+    },
+    {
+     "word": "alas",
+     "p": 0.0147,
+     "rhyme": 0,
+     "score": 0.519
+    },
+    {
+     "word": "indeed",
+     "p": 0.0103,
+     "rhyme": 0,
+     "score": 0.448
+    },
+    {
+     "word": "behold",
+     "p": 0.0104,
+     "rhyme": 0,
+     "score": 0.426
+    },
+    {
+     "word": "never",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.338
+    },
+    {
+     "word": "anyway",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.335
+    },
+    {
+     "word": "today",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.318
+    },
+    {
+     "word": "nobody",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.308
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.295
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "I have seen all good things, he was only",
+   "syllables": 10,
+   "target": 11,
+   "partner": "alone",
+   "qwen_top": "good",
+   "meant": "there",
+   "chosen": "only",
+   "candidates": [
+    {
+     "word": "only",
+     "p": 0.0089,
+     "rhyme": 0.6,
+     "score": 0.8
+    },
+    {
+     "word": "going",
+     "p": 0.0063,
+     "rhyme": 0.6,
+     "score": 0.652
+    },
+    {
+     "word": "unknown",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 0.533
+    },
+    {
+     "word": "nobody",
+     "p": 0.0032,
+     "rhyme": 0.6,
+     "score": 0.48
+    },
+    {
+     "word": "almost",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.434
+    },
+    {
+     "word": "ago",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.345
+    },
+    {
+     "word": "supposed",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.332
+    },
+    {
+     "word": "explosion",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.332
+    },
+    {
+     "word": "although",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.33
+    },
+    {
+     "word": "ours",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.306
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "To give them more beauty than myself.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "i",
+   "meant": "myself",
+   "chosen": "myself",
+   "candidates": [
+    {
+     "word": "myself",
+     "p": 0.0168,
+     "rhyme": 0,
+     "score": 0.624
+    },
+    {
+     "word": "ourselves",
+     "p": 0.0161,
+     "rhyme": 0,
+     "score": 0.584
+    },
+    {
+     "word": "ours",
+     "p": 0.013,
+     "rhyme": 0,
+     "score": 0.545
+    },
+    {
+     "word": "again",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.457
+    },
+    {
+     "word": "realized",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.444
+    },
+    {
+     "word": "before",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.379
+    },
+    {
+     "word": "probably",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "indeed",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "being",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "ever",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.321
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "No other vision of yourself",
+   "syllables": 8,
+   "target": 9,
+   "partner": "myself",
+   "qwen_top": "the",
+   "meant": "thee",
+   "chosen": "yourself",
+   "candidates": [
+    {
+     "word": "yourself",
+     "p": 0.0058,
+     "rhyme": 1.0,
+     "score": 0.706
+    },
+    {
+     "word": "oneself",
+     "p": 0.0034,
+     "rhyme": 1.0,
+     "score": 0.62
+    },
+    {
+     "word": "heaven",
+     "p": 0.007,
+     "rhyme": 0.6,
+     "score": 0.548
+    },
+    {
+     "word": "ourself",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 0.52
+    },
+    {
+     "word": "herself",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 0.516
+    },
+    {
+     "word": "ours",
+     "p": 0.0141,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "ourselves",
+     "p": 0.0053,
+     "rhyme": 0.6,
+     "score": 0.486
+    },
+    {
+     "word": "heavenly",
+     "p": 0.0049,
+     "rhyme": 0.6,
+     "score": 0.475
+    },
+    {
+     "word": "pleasure",
+     "p": 0.0035,
+     "rhyme": 0.6,
+     "score": 0.424
+    },
+    {
+     "word": "eternal",
+     "p": 0.0116,
+     "rhyme": 0,
+     "score": 0.411
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Might not have changed me from myself,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "me",
+   "chosen": "myself",
+   "candidates": [
+    {
+     "word": "myself",
+     "p": 0.0328,
+     "rhyme": 0,
+     "score": 0.624
+    },
+    {
+     "word": "yourself",
+     "p": 0.0149,
+     "rhyme": 0,
+     "score": 0.352
+    },
+    {
+     "word": "temptation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.332
+    },
+    {
+     "word": "admiration",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.327
+    },
+    {
+     "word": "somebody",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "again",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "nobody",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "stupidity",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "probably",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "himself",
+     "p": 0.0096,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "But a woman's spirit from yourself.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "myself",
+   "qwen_top": "a",
+   "meant": "me",
+   "chosen": "yourself",
+   "candidates": [
+    {
+     "word": "yourself",
+     "p": 0.0135,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "herself",
+     "p": 0.0087,
+     "rhyme": 1.0,
+     "score": 0.824
+    },
+    {
+     "word": "oneself",
+     "p": 0.0074,
+     "rhyme": 1.0,
+     "score": 0.775
+    },
+    {
+     "word": "himself",
+     "p": 0.0069,
+     "rhyme": 1.0,
+     "score": 0.756
+    },
+    {
+     "word": "itself",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 0.52
+    },
+    {
+     "word": "ourselves",
+     "p": 0.0041,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "anyone",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.403
+    },
+    {
+     "word": "enemy",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.381
+    },
+    {
+     "word": "yourselves",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.354
+    },
+    {
+     "word": "never",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.349
+    }
+   ]
+  }
+ ]
+}

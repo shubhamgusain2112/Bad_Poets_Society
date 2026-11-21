@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 0.5,
+ "scheme": "ABAB",
+ "seed": 11,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Ear and Ease, as if the couch were broken,\nSat cowering near their partner's shoulder;\nAnd there in agitation and anxiety,\nThe disconsolate guests began cry.\nJOHN on his knees before the table,\nWith snatched cup of water, all forsook him,\nAnd, passing over to an device,\nReferred a postilion who testified\nHe had not much taste for this boorish horse,\nBut he was from himself like a rabbit;\nSo came upon his country doctor,\nWho at first survey'd his situation but",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Ear and Ease, as if the couch were broken,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "no",
+   "chosen": "broken",
+   "candidates": [
+    {
+     "word": "broken",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.61
+    },
+    {
+     "word": "being",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.488
+    },
+    {
+     "word": "because",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.348
+    },
+    {
+     "word": "fire",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "inside",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "covered",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "again",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "outside",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "very",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "always",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.269
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Sat cowering near their partner's shoulder;",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "bed",
+   "meant": "head",
+   "chosen": "shoulder",
+   "candidates": [
+    {
+     "word": "shoulder",
+     "p": 0.0444,
+     "rhyme": 0,
+     "score": 0.61
+    },
+    {
+     "word": "elbow",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.347
+    },
+    {
+     "word": "away",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "below",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "resting",
+     "p": 0.0109,
+     "rhyme": 0,
+     "score": 0.259
+    },
+    {
+     "word": "beside",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "inside",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.247
+    },
+    {
+     "word": "before",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "upright",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.228
+    },
+    {
+     "word": "position",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.223
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "And there in agitation and anxiety,",
+   "syllables": 12,
+   "target": 11,
+   "partner": "broken",
+   "qwen_top": "despair",
+   "meant": "pain",
+   "chosen": "anxiety",
+   "candidates": [
+    {
+     "word": "anxiety",
+     "p": 0.0565,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "despair",
+     "p": 0.0511,
+     "rhyme": 0,
+     "score": 0.452
+    },
+    {
+     "word": "provoke",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.315
+    },
+    {
+     "word": "loneliness",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.314
+    },
+    {
+     "word": "commotion",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.314
+    },
+    {
+     "word": "loathing",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.311
+    },
+    {
+     "word": "sowing",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.308
+    },
+    {
+     "word": "emotion",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.308
+    },
+    {
+     "word": "provoked",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.307
+    },
+    {
+     "word": "hopelessness",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.306
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "The disconsolate guests began cry.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "shoulder",
+   "qwen_top": "to",
+   "meant": "cry",
+   "chosen": "cry",
+   "candidates": [
+    {
+     "word": "cry",
+     "p": 0.0202,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "moan",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.357
+    },
+    {
+     "word": "moaning",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.354
+    },
+    {
+     "word": "arose",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.351
+    },
+    {
+     "word": "provoking",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.348
+    },
+    {
+     "word": "openly",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.34
+    },
+    {
+     "word": "consoling",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.329
+    },
+    {
+     "word": "provoke",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.327
+    },
+    {
+     "word": "crying",
+     "p": 0.013,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "joking",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.319
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "JOHN on his knees before the table,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "couch",
+   "meant": "table",
+   "chosen": "table",
+   "candidates": [
+    {
+     "word": "table",
+     "p": 0.0153,
+     "rhyme": 0,
+     "score": 0.639
+    },
+    {
+     "word": "bedside",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.497
+    },
+    {
+     "word": "seated",
+     "p": 0.0104,
+     "rhyme": 0,
+     "score": 0.489
+    },
+    {
+     "word": "shadow",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.335
+    },
+    {
+     "word": "altar",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "nation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.331
+    },
+    {
+     "word": "beside",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "dying",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.302
+    },
+    {
+     "word": "standing",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "sitting",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.289
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "With snatched cup of water, all forsook him,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "him",
+   "chosen": "him",
+   "candidates": [
+    {
+     "word": "him",
+     "p": 0.3176,
+     "rhyme": 0,
+     "score": 0.675
+    },
+    {
+     "word": "her",
+     "p": 0.0659,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "she",
+     "p": 0.0134,
+     "rhyme": 0,
+     "score": 0.302
+    },
+    {
+     "word": "he",
+     "p": 0.0108,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "it",
+     "p": 0.0597,
+     "rhyme": 0,
+     "score": 0.293
+    },
+    {
+     "word": "me",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "way",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "three",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "away",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.277
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "And, passing over to an device,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "table",
+   "qwen_top": "empty",
+   "meant": "an",
+   "chosen": "device",
+   "candidates": [
+    {
+     "word": "device",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "arranged",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.446
+    },
+    {
+     "word": "destination",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.404
+    },
+    {
+     "word": "chamber",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.392
+    },
+    {
+     "word": "arrange",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.392
+    },
+    {
+     "word": "intimate",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.387
+    },
+    {
+     "word": "gateway",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.385
+    },
+    {
+     "word": "doorway",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.371
+    },
+    {
+     "word": "display",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.36
+    },
+    {
+     "word": "location",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.359
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Referred a postilion who testified",
+   "syllables": 10,
+   "target": 10,
+   "partner": "him",
+   "qwen_top": "had",
+   "meant": "had",
+   "chosen": "testified",
+   "candidates": [
+    {
+     "word": "testified",
+     "p": 0.0154,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "existed",
+     "p": 0.0034,
+     "rhyme": 0.6,
+     "score": 0.411
+    },
+    {
+     "word": "willingly",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.383
+    },
+    {
+     "word": "insisted",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.357
+    },
+    {
+     "word": "appeared",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.351
+    },
+    {
+     "word": "permitted",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.35
+    },
+    {
+     "word": "permit",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.346
+    },
+    {
+     "word": "permission",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.341
+    },
+    {
+     "word": "sufficient",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.331
+    },
+    {
+     "word": "contended",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.33
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "He had not much taste for this boorish horse,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "thing",
+   "meant": "horse",
+   "chosen": "horse",
+   "candidates": [
+    {
+     "word": "horse",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.645
+    },
+    {
+     "word": "man",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.635
+    },
+    {
+     "word": "kind",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.496
+    },
+    {
+     "word": "race",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.461
+    },
+    {
+     "word": "thing",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.46
+    },
+    {
+     "word": "fun",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.43
+    },
+    {
+     "word": "costume",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.429
+    },
+    {
+     "word": "whole",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.428
+    },
+    {
+     "word": "place",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.418
+    },
+    {
+     "word": "a",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.408
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "But he was from himself like a rabbit;",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "man",
+   "meant": "goat",
+   "chosen": "rabbit",
+   "candidates": [
+    {
+     "word": "rabbit",
+     "p": 0.0133,
+     "rhyme": 0,
+     "score": 0.59
+    },
+    {
+     "word": "pony",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.37
+    },
+    {
+     "word": "lion",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.359
+    },
+    {
+     "word": "imitation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.338
+    },
+    {
+     "word": "elephant",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "scarecrow",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "devotee",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "potato",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "shadow",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "magician",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.287
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "So came upon his country doctor,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "horse",
+   "qwen_top": "friend",
+   "meant": "horse",
+   "chosen": "doctor",
+   "candidates": [
+    {
+     "word": "doctor",
+     "p": 0.0034,
+     "rhyme": 0.6,
+     "score": 0.56
+    },
+    {
+     "word": "companion",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "passport",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.49
+    },
+    {
+     "word": "former",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.435
+    },
+    {
+     "word": "lover",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.406
+    },
+    {
+     "word": "officer",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.396
+    },
+    {
+     "word": "keeper",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.384
+    },
+    {
+     "word": "performer",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.363
+    },
+    {
+     "word": "rider",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.359
+    },
+    {
+     "word": "daughter",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.354
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Who at first survey'd his situation but",
+   "syllables": 11,
+   "target": 10,
+   "partner": "rabbit",
+   "qwen_top": "with",
+   "meant": "very",
+   "chosen": "but",
+   "candidates": [
+    {
+     "word": "but",
+     "p": 0.0045,
+     "rhyme": 0.9,
+     "score": 0.643
+    },
+    {
+     "word": "what",
+     "p": 0.0012,
+     "rhyme": 0.9,
+     "score": 0.502
+    },
+    {
+     "word": "well",
+     "p": 0.0117,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "fit",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.493
+    },
+    {
+     "word": "it",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.48
+    },
+    {
+     "word": "that",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.48
+    },
+    {
+     "word": "wit",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.479
+    },
+    {
+     "word": "quite",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.448
+    },
+    {
+     "word": "not",
+     "p": 0.0097,
+     "rhyme": 0,
+     "score": 0.414
+    },
+    {
+     "word": "too",
+     "p": 0.0089,
+     "rhyme": 0,
+     "score": 0.381
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 0.75,
+ "scheme": "ABAB",
+ "seed": 13,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "The damsel of the Isaurian mountain\nHer youth is golden, and her youth appears\nThe first bliss to all by education born;\nBut she with a trembling tenderness,\nLike some unmarred sunbeam slipping\nFrom the soft and dim vault of heaven,\nDown where'er it passes, through darkness,\nWith the light that falls on human eyes,\nTears are seen - and tears for life remain;\nBut as the brighter regions appear,\n'Tis known upon her brow there shines again,\nNot one tear remains - long let forever",
+ "lines": [
+  {
+   "line": 1,
+   "text": "The damsel of the Isaurian mountain",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "hills",
+   "meant": "mountain",
+   "chosen": "mountain",
+   "candidates": [
+    {
+     "word": "mountain",
+     "p": 0.0149,
+     "rhyme": 0,
+     "score": 0.785
+    },
+    {
+     "word": "mountains",
+     "p": 0.011,
+     "rhyme": 0,
+     "score": 0.588
+    },
+    {
+     "word": "desert",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.409
+    },
+    {
+     "word": "border",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.395
+    },
+    {
+     "word": "battle",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.393
+    },
+    {
+     "word": "elevation",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.374
+    },
+    {
+     "word": "nation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.342
+    },
+    {
+     "word": "plateau",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "river",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "valley",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.315
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Her youth is golden, and her youth appears",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "is",
+   "meant": "appears",
+   "chosen": "appears",
+   "candidates": [
+    {
+     "word": "appears",
+     "p": 0.0955,
+     "rhyme": 0,
+     "score": 0.937
+    },
+    {
+     "word": "remains",
+     "p": 0.0377,
+     "rhyme": 0,
+     "score": 0.504
+    },
+    {
+     "word": "destination",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.327
+    },
+    {
+     "word": "incarnation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "location",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "afterglow",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "indicate",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "although",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "remain",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.267
+    },
+    {
+     "word": "again",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.267
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "The first bliss to all by education born;",
+   "syllables": 11,
+   "target": 10,
+   "partner": "mountain",
+   "qwen_top": "born",
+   "meant": "born",
+   "chosen": "born",
+   "candidates": [
+    {
+     "word": "born",
+     "p": 0.0309,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "brought",
+     "p": 0.0229,
+     "rhyme": 0,
+     "score": 0.556
+    },
+    {
+     "word": "bred",
+     "p": 0.0226,
+     "rhyme": 0,
+     "score": 0.549
+    },
+    {
+     "word": "won",
+     "p": 0.0098,
+     "rhyme": 0.9,
+     "score": 0.464
+    },
+    {
+     "word": "been",
+     "p": 0.0061,
+     "rhyme": 0.9,
+     "score": 0.374
+    },
+    {
+     "word": "son",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.249
+    },
+    {
+     "word": "an",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.235
+    },
+    {
+     "word": "by",
+     "p": 0.0093,
+     "rhyme": 0,
+     "score": 0.226
+    },
+    {
+     "word": "wrought",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.196
+    },
+    {
+     "word": "has",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.187
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "But she with a trembling tenderness,",
+   "syllables": 10,
+   "target": 10,
+   "partner": "appears",
+   "qwen_top": "hand",
+   "meant": "eye",
+   "chosen": "tenderness",
+   "candidates": [
+    {
+     "word": "tenderness",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "finger",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.41
+    },
+    {
+     "word": "palate",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.409
+    },
+    {
+     "word": "beauty",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.355
+    },
+    {
+     "word": "wistful",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.353
+    },
+    {
+     "word": "exquisite",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.343
+    },
+    {
+     "word": "vision",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.326
+    },
+    {
+     "word": "simplicity",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.316
+    },
+    {
+     "word": "delicate",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "deformity",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.306
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Like some unmarred sunbeam slipping",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "that",
+   "meant": "mysteriously",
+   "chosen": "slipping",
+   "candidates": [
+    {
+     "word": "slipping",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.83
+    },
+    {
+     "word": "fallen",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.819
+    },
+    {
+     "word": "vanished",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.785
+    },
+    {
+     "word": "overthrown",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.762
+    },
+    {
+     "word": "drifting",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.734
+    },
+    {
+     "word": "retreating",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.716
+    },
+    {
+     "word": "disappeared",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.714
+    },
+    {
+     "word": "fading",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.667
+    },
+    {
+     "word": "falling",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.64
+    },
+    {
+     "word": "disappearing",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.626
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "From the soft and dim vault of heaven,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "heaven",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.1713,
+     "rhyme": 0,
+     "score": 0.87
+    },
+    {
+     "word": "contemplation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "revelation",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "salvation",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "celebration",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "celebrate",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "celebrated",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "midnight",
+     "p": 0.0126,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "sunday",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "inferno",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.274
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Down where'er it passes, through darkness,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "slipping",
+   "qwen_top": "the",
+   "meant": "darkness",
+   "chosen": "darkness",
+   "candidates": [
+    {
+     "word": "darkness",
+     "p": 0.0354,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "eternity",
+     "p": 0.0165,
+     "rhyme": 0,
+     "score": 0.349
+    },
+    {
+     "word": "tranquillity",
+     "p": 0.0058,
+     "rhyme": 0.6,
+     "score": 0.272
+    },
+    {
+     "word": "sickness",
+     "p": 0.0052,
+     "rhyme": 0.6,
+     "score": 0.259
+    },
+    {
+     "word": "amidst",
+     "p": 0.0035,
+     "rhyme": 0.6,
+     "score": 0.224
+    },
+    {
+     "word": "chaos",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.221
+    },
+    {
+     "word": "tranquility",
+     "p": 0.0032,
+     "rhyme": 0.6,
+     "score": 0.218
+    },
+    {
+     "word": "stillness",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.211
+    },
+    {
+     "word": "oblivion",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.208
+    },
+    {
+     "word": "mystery",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.208
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "With the light that falls on human eyes,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "heaven",
+   "qwen_top": "hearts",
+   "meant": "eyes",
+   "chosen": "eyes",
+   "candidates": [
+    {
+     "word": "eyes",
+     "p": 0.111,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "tears",
+     "p": 0.0322,
+     "rhyme": 0.6,
+     "score": 0.368
+    },
+    {
+     "word": "everyone",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.23
+    },
+    {
+     "word": "flesh",
+     "p": 0.0054,
+     "rhyme": 0.6,
+     "score": 0.187
+    },
+    {
+     "word": "memories",
+     "p": 0.0051,
+     "rhyme": 0.6,
+     "score": 0.185
+    },
+    {
+     "word": "sense",
+     "p": 0.0044,
+     "rhyme": 0.6,
+     "score": 0.18
+    },
+    {
+     "word": "hair",
+     "p": 0.0044,
+     "rhyme": 0.6,
+     "score": 0.18
+    },
+    {
+     "word": "legs",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.166
+    },
+    {
+     "word": "despair",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.163
+    },
+    {
+     "word": "terrible",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.162
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Tears are seen - and tears for life remain;",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "remain",
+   "chosen": "remain",
+   "candidates": [
+    {
+     "word": "remain",
+     "p": 0.0157,
+     "rhyme": 0,
+     "score": 1.003
+    },
+    {
+     "word": "alone",
+     "p": 0.0143,
+     "rhyme": 0,
+     "score": 0.897
+    },
+    {
+     "word": "unknown",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.526
+    },
+    {
+     "word": "remains",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.505
+    },
+    {
+     "word": "forever",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.462
+    },
+    {
+     "word": "indeed",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.448
+    },
+    {
+     "word": "intact",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.418
+    },
+    {
+     "word": "perhaps",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.413
+    },
+    {
+     "word": "unseen",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.406
+    },
+    {
+     "word": "appears",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.4
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "But as the brighter regions appear,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "appear",
+   "chosen": "appear",
+   "candidates": [
+    {
+     "word": "appear",
+     "p": 0.0251,
+     "rhyme": 0,
+     "score": 0.978
+    },
+    {
+     "word": "disappear",
+     "p": 0.0226,
+     "rhyme": 0,
+     "score": 0.903
+    },
+    {
+     "word": "occur",
+     "p": 0.0115,
+     "rhyme": 0,
+     "score": 0.544
+    },
+    {
+     "word": "reappear",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.42
+    },
+    {
+     "word": "vanish",
+     "p": 0.0093,
+     "rhyme": 0,
+     "score": 0.345
+    },
+    {
+     "word": "expected",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.335
+    },
+    {
+     "word": "arise",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "able",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.313
+    },
+    {
+     "word": "circulate",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.313
+    },
+    {
+     "word": "allow",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.311
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "'Tis known upon her brow there shines again,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "remain",
+   "qwen_top": "a",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0423,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "only",
+     "p": 0.0287,
+     "rhyme": 0,
+     "score": 0.509
+    },
+    {
+     "word": "able",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.178
+    },
+    {
+     "word": "always",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.171
+    },
+    {
+     "word": "later",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.169
+    },
+    {
+     "word": "today",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.164
+    },
+    {
+     "word": "making",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.161
+    },
+    {
+     "word": "prevail",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.159
+    },
+    {
+     "word": "greatest",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.159
+    },
+    {
+     "word": "displayed",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.159
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Not one tear remains - long let forever",
+   "syllables": 10,
+   "target": 10,
+   "partner": "appear",
+   "qwen_top": "her",
+   "meant": "be",
+   "chosen": "forever",
+   "candidates": [
+    {
+     "word": "forever",
+     "p": 0.0114,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "alone",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.376
+    },
+    {
+     "word": "only",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.352
+    },
+    {
+     "word": "cannot",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.318
+    },
+    {
+     "word": "women",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.263
+    },
+    {
+     "word": "single",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.226
+    },
+    {
+     "word": "continue",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.224
+    },
+    {
+     "word": "within",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.223
+    },
+    {
+     "word": "our",
+     "p": 0.0021,
+     "rhyme": 0.3,
+     "score": 0.215
+    },
+    {
+     "word": "again",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.204
+    }
+   ]
+  }
+ ]
+}

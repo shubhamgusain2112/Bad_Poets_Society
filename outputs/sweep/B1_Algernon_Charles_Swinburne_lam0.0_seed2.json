@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "AABB",
+ "seed": 2,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Glared gleam from the lurid he\nAnd oft with goal in every\nTongue and eye of tongue dismay,\nBlinded, amazed, wide-eyed sheered; a\nLurking woman, a monster she.\nOr so they say; but now her body\nIs nought more than dazed lore of decay\nThat shake before old shadows play\nUnderfoot of blackness we\nHave touched the very edges she\nKept us captives. We have looked on decay\nWith red eyes that flinch'd at a fear away.",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Glared gleam from the lurid he",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "light",
+   "meant": "light",
+   "chosen": "he",
+   "candidates": [
+    {
+     "word": "he",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "sea",
+     "p": 0.0149,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "e",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "day",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "grey",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "bay",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "gray",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "way",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "ca",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "And oft with goal in every",
+   "syllables": 8,
+   "target": 8,
+   "partner": "he",
+   "qwen_top": "his",
+   "meant": "his",
+   "chosen": "every",
+   "candidates": [
+    {
+     "word": "every",
+     "p": 0.0023,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "glory",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "deadly",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "fury",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "fiery",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "memory",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "pity",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "holy",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "agony",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "heavy",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Tongue and eye of tongue dismay,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "dismay",
+   "candidates": [
+    {
+     "word": "dismay",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "array",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "decay",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "betray",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "below",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "unseen",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "between",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "serene",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "allied",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.243
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Blinded, amazed, wide-eyed sheered; a",
+   "syllables": 9,
+   "target": 10,
+   "partner": "dismay",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "a",
+   "candidates": [
+    {
+     "word": "a",
+     "p": 0.0037,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "they",
+     "p": 0.0016,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "day",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "say",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "lay",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "ne",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "away",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "fe",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "pray",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "re",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Lurking woman, a monster she.",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "she",
+   "candidates": [
+    {
+     "word": "she",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "see",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "de",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "sea",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "grey",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "prey",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Or so they say; but now her body",
+   "syllables": 9,
+   "target": 10,
+   "partner": "she",
+   "qwen_top": "face",
+   "meant": "face",
+   "chosen": "body",
+   "candidates": [
+    {
+     "word": "body",
+     "p": 0.0014,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "beauty",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "glory",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "story",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "very",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "fury",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "being",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "power",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "spirit",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "hour",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Is nought more than dazed lore of decay",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "clay",
+   "meant": "clay",
+   "chosen": "decay",
+   "candidates": [
+    {
+     "word": "decay",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "shadow",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "our",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "shadows",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.2
+    },
+    {
+     "word": "fire",
+     "p": 0.0176,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "desire",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "glory",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.183
+    },
+    {
+     "word": "folly",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.182
+    },
+    {
+     "word": "power",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.159
+    },
+    {
+     "word": "ours",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.157
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "That shake before old shadows play",
+   "syllables": 8,
+   "target": 9,
+   "partner": "decay",
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "play",
+   "candidates": [
+    {
+     "word": "play",
+     "p": 0.0058,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "lay",
+     "p": 0.0051,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "may",
+     "p": 0.002,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "sway",
+     "p": 0.002,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "day",
+     "p": 0.0018,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "they",
+     "p": 0.0018,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "grey",
+     "p": 0.0011,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "a",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "stray",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "gray",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Underfoot of blackness we",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "we",
+   "candidates": [
+    {
+     "word": "we",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ve",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "re",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "de",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "e",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "they",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "grey",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Have touched the very edges she",
+   "syllables": 8,
+   "target": 9,
+   "partner": "we",
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "she",
+   "candidates": [
+    {
+     "word": "she",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "he",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "e",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "ye",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "be",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "ne",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "the",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "only",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "already",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "very",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Kept us captives. We have looked on decay",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "her",
+   "meant": "her",
+   "chosen": "decay",
+   "candidates": [
+    {
+     "word": "decay",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "shadow",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "again",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "our",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "before",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "afar",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "alone",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.218
+    },
+    {
+     "word": "within",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.217
+    },
+    {
+     "word": "very",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "shadows",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.2
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "With red eyes that flinch'd at a fear away.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "decay",
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "dismay",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "again",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awake",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "akin",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "greater",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "begun",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "against",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "taken",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "alien",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  }
+ ]
+}

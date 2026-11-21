@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "B1",
+ "lam": 1.0,
+ "scheme": "ABCB",
+ "seed": 12,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Or a lingering heave of sorrow,\nOr the feathery touch upon\nThat long-pressed brow, \"now off alone,\nTo-morrow's purpose alone\nAnd God for his grace and love alone\nWith all that worketh in,\nWhatever it may be unto,\nNor to me\" - said: - and she stood alone.\nThe earth was fair as if heaven\nHad not yet been without thee, Mary.\nShe heard an old peasant say,\nLoud to her soul within,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Or a lingering heave of sorrow,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "sorrow",
+   "candidates": [
+    {
+     "word": "sorrow",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "laughter",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.779
+    },
+    {
+     "word": "memory",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.693
+    },
+    {
+     "word": "water",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.648
+    },
+    {
+     "word": "heavy",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.646
+    },
+    {
+     "word": "silence",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.61
+    },
+    {
+     "word": "spirit",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.579
+    },
+    {
+     "word": "distant",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.57
+    },
+    {
+     "word": "shadow",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.537
+    },
+    {
+     "word": "passion",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.37
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Or the feathery touch upon",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "upon",
+   "candidates": [
+    {
+     "word": "upon",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 1.233
+    },
+    {
+     "word": "thereof",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.581
+    },
+    {
+     "word": "beneath",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.491
+    },
+    {
+     "word": "within",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "between",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "away",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.314
+    },
+    {
+     "word": "below",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "behind",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "into",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "before",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.278
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "That long-pressed brow, \"now off alone,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "with",
+   "meant": "with",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "again",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "our",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "before",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "unto",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "upon",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "together",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "away",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.12
+    },
+    {
+     "word": "after",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "without",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.105
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "To-morrow's purpose alone",
+   "syllables": 7,
+   "target": 8,
+   "partner": "upon",
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0109,
+     "rhyme": 0.3,
+     "score": 1.0
+    },
+    {
+     "word": "complete",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.536
+    },
+    {
+     "word": "only",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "undone",
+     "p": 0.0031,
+     "rhyme": 0.3,
+     "score": 0.286
+    },
+    {
+     "word": "await",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "secure",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "unknown",
+     "p": 0.0015,
+     "rhyme": 0.3,
+     "score": 0.135
+    },
+    {
+     "word": "supreme",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.12
+    },
+    {
+     "word": "forgotten",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.119
+    },
+    {
+     "word": "fulfilled",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.119
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "And God for his grace and love alone",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0346,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "abide",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "divine",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.051
+    },
+    {
+     "word": "again",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "above",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "supreme",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.021
+    },
+    {
+     "word": "behind",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.021
+    },
+    {
+     "word": "avail",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.018
+    },
+    {
+     "word": "upon",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.014
+    },
+    {
+     "word": "remain",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.014
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "With all that worketh in,",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "in",
+   "candidates": [
+    {
+     "word": "in",
+     "p": 0.2434,
+     "rhyme": 0,
+     "score": 1.217
+    },
+    {
+     "word": "for",
+     "p": 0.1477,
+     "rhyme": 0,
+     "score": 0.836
+    },
+    {
+     "word": "well",
+     "p": 0.048,
+     "rhyme": 0,
+     "score": 0.448
+    },
+    {
+     "word": "on",
+     "p": 0.0373,
+     "rhyme": 0,
+     "score": 0.387
+    },
+    {
+     "word": "there",
+     "p": 0.0291,
+     "rhyme": 0,
+     "score": 0.357
+    },
+    {
+     "word": "therein",
+     "p": 0.0291,
+     "rhyme": 0,
+     "score": 0.336
+    },
+    {
+     "word": "to",
+     "p": 0.0156,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "salvation",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "so",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "through",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.287
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Whatever it may be unto,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "that",
+   "meant": "that",
+   "chosen": "unto",
+   "candidates": [
+    {
+     "word": "unto",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "about",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "undone",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "doing",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "upon",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "working",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.154
+    },
+    {
+     "word": "able",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "accomplished",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "worthy",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "ordained",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.105
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Nor to me\" - said: - and she stood alone.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "in",
+   "qwen_top": "there",
+   "meant": "there",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0099,
+     "rhyme": 0.3,
+     "score": 1.0
+    },
+    {
+     "word": "silent",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "afar",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "apart",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "aside",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "motion",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "before",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "waiting",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "awhile",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "upon",
+     "p": 0.0013,
+     "rhyme": 0.3,
+     "score": 0.136
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "The earth was fair as if heaven",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "summer",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.732
+    },
+    {
+     "word": "morning",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.592
+    },
+    {
+     "word": "winter",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.57
+    },
+    {
+     "word": "nature",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.444
+    },
+    {
+     "word": "upon",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.381
+    },
+    {
+     "word": "every",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.336
+    },
+    {
+     "word": "asleep",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.335
+    },
+    {
+     "word": "before",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "flowers",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.264
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Had not yet been without thee, Mary.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "she",
+   "meant": "she",
+   "chosen": "mary",
+   "candidates": [
+    {
+     "word": "mary",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 1.215
+    },
+    {
+     "word": "marie",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "sister",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.445
+    },
+    {
+     "word": "helen",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.44
+    },
+    {
+     "word": "alone",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.396
+    },
+    {
+     "word": "alice",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.393
+    },
+    {
+     "word": "maria",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.355
+    },
+    {
+     "word": "lady",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.331
+    },
+    {
+     "word": "laura",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "indeed",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.307
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "She heard an old peasant say,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "say",
+   "meant": "say",
+   "chosen": "say",
+   "candidates": [
+    {
+     "word": "say",
+     "p": 0.0371,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "singing",
+     "p": 0.0328,
+     "rhyme": 0,
+     "score": 0.882
+    },
+    {
+     "word": "girl",
+     "p": 0.0255,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "woman",
+     "p": 0.0212,
+     "rhyme": 0,
+     "score": 0.57
+    },
+    {
+     "word": "cry",
+     "p": 0.0187,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "sigh",
+     "p": 0.0175,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "call",
+     "p": 0.0155,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "voice",
+     "p": 0.0137,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "sing",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "tell",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 0.269
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Loud to her soul within,",
+   "syllables": 6,
+   "target": 7,
+   "partner": "mary",
+   "qwen_top": "as",
+   "meant": "as",
+   "chosen": "within",
+   "candidates": [
+    {
+     "word": "within",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "alone",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "upon",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "amid",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "afar",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "among",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "across",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "above",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "before",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "beneath",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.153
+    }
+   ]
+  }
+ ]
+}

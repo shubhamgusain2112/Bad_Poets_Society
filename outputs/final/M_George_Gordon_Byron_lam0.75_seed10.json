@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 0.75,
+ "scheme": "ABAB",
+ "seed": 10,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Though, in a little walk by Dublin,\nThe ruddy sunbreaks the wondrous fire;\nI have seen it softly gone below them,\nAnd left him, to let his memory live.\nHe never was: \"Nothing's more divine\nThan the rest when they are all apart.\"[793a. A\nThere's no doubt that you'll find me fond again,\nWhen evening is over and I'm alone;\nYou'll be glad at last of Nature's delight,\nIn her calm retreat on the terrace.\nSo, now for us who, like so many these,\nShall return from Dublin we will agree",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Though, in a little walk by Dublin,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "day",
+   "chosen": "dublin",
+   "candidates": [
+    {
+     "word": "dublin",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.785
+    },
+    {
+     "word": "adriatic",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.624
+    },
+    {
+     "word": "venice",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.506
+    },
+    {
+     "word": "sunday",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.456
+    },
+    {
+     "word": "london",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.433
+    },
+    {
+     "word": "afternoon",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.427
+    },
+    {
+     "word": "florence",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.425
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.4
+    },
+    {
+     "word": "hour",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.383
+    },
+    {
+     "word": "paradise",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.381
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The ruddy sunbreaks the wondrous fire;",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "sky",
+   "meant": "sky",
+   "chosen": "fire",
+   "candidates": [
+    {
+     "word": "fire",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.887
+    },
+    {
+     "word": "darkness",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.785
+    },
+    {
+     "word": "valley",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.706
+    },
+    {
+     "word": "forest",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.704
+    },
+    {
+     "word": "nearby",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.609
+    },
+    {
+     "word": "water",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.586
+    },
+    {
+     "word": "mountain",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.56
+    },
+    {
+     "word": "river",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.518
+    },
+    {
+     "word": "afternoon",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.514
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.478
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "I have seen it softly gone below them,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "dublin",
+   "qwen_top": "the",
+   "meant": "him",
+   "chosen": "them",
+   "candidates": [
+    {
+     "word": "them",
+     "p": 0.0908,
+     "rhyme": 0.6,
+     "score": 0.802
+    },
+    {
+     "word": "him",
+     "p": 0.1044,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "me",
+     "p": 0.0436,
+     "rhyme": 0,
+     "score": 0.313
+    },
+    {
+     "word": "when",
+     "p": 0.0037,
+     "rhyme": 0.9,
+     "score": 0.252
+    },
+    {
+     "word": "in",
+     "p": 0.0029,
+     "rhyme": 0.9,
+     "score": 0.246
+    },
+    {
+     "word": "win",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.233
+    },
+    {
+     "word": "within",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.229
+    },
+    {
+     "word": "been",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.229
+    },
+    {
+     "word": "her",
+     "p": 0.0307,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "us",
+     "p": 0.0079,
+     "rhyme": 0.6,
+     "score": 0.207
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "And left him, to let his memory live.",
+   "syllables": 10,
+   "target": 10,
+   "partner": "fire",
+   "qwen_top": "live",
+   "meant": "live",
+   "chosen": "live",
+   "candidates": [
+    {
+     "word": "live",
+     "p": 0.119,
+     "rhyme": 0.6,
+     "score": 0.9
+    },
+    {
+     "word": "die",
+     "p": 0.0987,
+     "rhyme": 0.6,
+     "score": 0.772
+    },
+    {
+     "word": "retire",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 0.253
+    },
+    {
+     "word": "occur",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.231
+    },
+    {
+     "word": "prefer",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.229
+    },
+    {
+     "word": "lie",
+     "p": 0.0091,
+     "rhyme": 0.6,
+     "score": 0.207
+    },
+    {
+     "word": "life",
+     "p": 0.0055,
+     "rhyme": 0.6,
+     "score": 0.185
+    },
+    {
+     "word": "survive",
+     "p": 0.005,
+     "rhyme": 0.6,
+     "score": 0.181
+    },
+    {
+     "word": "lives",
+     "p": 0.0049,
+     "rhyme": 0.6,
+     "score": 0.181
+    },
+    {
+     "word": "thrive",
+     "p": 0.0041,
+     "rhyme": 0.6,
+     "score": 0.176
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "He never was: \"Nothing's more divine",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "than",
+   "meant": "divine",
+   "chosen": "divine",
+   "candidates": [
+    {
+     "word": "divine",
+     "p": 0.0402,
+     "rhyme": 0,
+     "score": 0.963
+    },
+    {
+     "word": "sublime",
+     "p": 0.0192,
+     "rhyme": 0,
+     "score": 0.508
+    },
+    {
+     "word": "revelation",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.438
+    },
+    {
+     "word": "unknown",
+     "p": 0.0107,
+     "rhyme": 0,
+     "score": 0.419
+    },
+    {
+     "word": "hitherto",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "unseen",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.344
+    },
+    {
+     "word": "desolation",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.344
+    },
+    {
+     "word": "incarnation",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.34
+    },
+    {
+     "word": "inspiration",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.339
+    },
+    {
+     "word": "location",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.337
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Than the rest when they are all apart.\"[793a. A",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "i",
+   "meant": "a",
+   "chosen": "a",
+   "candidates": [
+    {
+     "word": "a",
+     "p": 0.0365,
+     "rhyme": 0,
+     "score": 1.02
+    },
+    {
+     "word": "vi",
+     "p": 0.0261,
+     "rhyme": 0,
+     "score": 0.817
+    },
+    {
+     "word": "e",
+     "p": 0.0245,
+     "rhyme": 0,
+     "score": 0.783
+    },
+    {
+     "word": "i",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.421
+    },
+    {
+     "word": "y",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.388
+    },
+    {
+     "word": "ab",
+     "p": 0.0114,
+     "rhyme": 0,
+     "score": 0.384
+    },
+    {
+     "word": "king",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 0.355
+    },
+    {
+     "word": "xi",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "lo",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.318
+    },
+    {
+     "word": "an",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.317
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "There's no doubt that you'll find me fond again,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "divine",
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0164,
+     "rhyme": 0.3,
+     "score": 0.825
+    },
+    {
+     "word": "about",
+     "p": 0.0149,
+     "rhyme": 0,
+     "score": 0.684
+    },
+    {
+     "word": "over",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.261
+    },
+    {
+     "word": "around",
+     "p": 0.0029,
+     "rhyme": 0.3,
+     "score": 0.207
+    },
+    {
+     "word": "trying",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.204
+    },
+    {
+     "word": "july",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.197
+    },
+    {
+     "word": "between",
+     "p": 0.0024,
+     "rhyme": 0.3,
+     "score": 0.186
+    },
+    {
+     "word": "society",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.18
+    },
+    {
+     "word": "united",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.178
+    },
+    {
+     "word": "title",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.178
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "When evening is over and I'm alone;",
+   "syllables": 10,
+   "target": 11,
+   "partner": "a",
+   "qwen_top": "alone",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.4867,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "away",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 0.251
+    },
+    {
+     "word": "anyway",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.226
+    },
+    {
+     "word": "staying",
+     "p": 0.0035,
+     "rhyme": 0.6,
+     "score": 0.155
+    },
+    {
+     "word": "someone",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.153
+    },
+    {
+     "word": "husband",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.152
+    },
+    {
+     "word": "remain",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.152
+    },
+    {
+     "word": "remains",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.151
+    },
+    {
+     "word": "remained",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.151
+    },
+    {
+     "word": "nothing",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.151
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "You'll be glad at last of Nature's delight,",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "delight",
+   "meant": "delight",
+   "chosen": "delight",
+   "candidates": [
+    {
+     "word": "delight",
+     "p": 0.0279,
+     "rhyme": 0,
+     "score": 0.962
+    },
+    {
+     "word": "cessation",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.363
+    },
+    {
+     "word": "grace",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.349
+    },
+    {
+     "word": "duration",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.336
+    },
+    {
+     "word": "respite",
+     "p": 0.0124,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "surprise",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "comfort",
+     "p": 0.0106,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "display",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.318
+    },
+    {
+     "word": "decree",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.308
+    },
+    {
+     "word": "dismay",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.3
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "In her calm retreat on the terrace.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "mountain",
+   "meant": "terrace",
+   "chosen": "terrace",
+   "candidates": [
+    {
+     "word": "terrace",
+     "p": 0.0203,
+     "rhyme": 0,
+     "score": 0.847
+    },
+    {
+     "word": "mountain",
+     "p": 0.016,
+     "rhyme": 0,
+     "score": 0.626
+    },
+    {
+     "word": "elevation",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.604
+    },
+    {
+     "word": "overlooks",
+     "p": 0.0125,
+     "rhyme": 0,
+     "score": 0.56
+    },
+    {
+     "word": "meadow",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.53
+    },
+    {
+     "word": "paradise",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.459
+    },
+    {
+     "word": "waterfall",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.44
+    },
+    {
+     "word": "expanse",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.394
+    },
+    {
+     "word": "sanctuary",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.374
+    },
+    {
+     "word": "solitude",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.373
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "So, now for us who, like so many these,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "delight",
+   "qwen_top": "others",
+   "meant": "these",
+   "chosen": "these",
+   "candidates": [
+    {
+     "word": "these",
+     "p": 0.0446,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "have",
+     "p": 0.0364,
+     "rhyme": 0,
+     "score": 0.612
+    },
+    {
+     "word": "are",
+     "p": 0.0319,
+     "rhyme": 0,
+     "score": 0.536
+    },
+    {
+     "word": "few",
+     "p": 0.0298,
+     "rhyme": 0,
+     "score": 0.502
+    },
+    {
+     "word": "many",
+     "p": 0.0296,
+     "rhyme": 0,
+     "score": 0.497
+    },
+    {
+     "word": "two",
+     "p": 0.0293,
+     "rhyme": 0,
+     "score": 0.492
+    },
+    {
+     "word": "those",
+     "p": 0.0286,
+     "rhyme": 0,
+     "score": 0.481
+    },
+    {
+     "word": "five",
+     "p": 0.0127,
+     "rhyme": 0.6,
+     "score": 0.363
+    },
+    {
+     "word": "years",
+     "p": 0.0209,
+     "rhyme": 0,
+     "score": 0.351
+    },
+    {
+     "word": "three",
+     "p": 0.0199,
+     "rhyme": 0,
+     "score": 0.334
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Shall return from Dublin we will agree",
+   "syllables": 10,
+   "target": 11,
+   "partner": "terrace",
+   "qwen_top": "be",
+   "meant": "agree",
+   "chosen": "agree",
+   "candidates": [
+    {
+     "word": "agree",
+     "p": 0.0298,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "together",
+     "p": 0.0071,
+     "rhyme": 0.6,
+     "score": 0.329
+    },
+    {
+     "word": "assemble",
+     "p": 0.0049,
+     "rhyme": 0.6,
+     "score": 0.274
+    },
+    {
+     "word": "discuss",
+     "p": 0.0015,
+     "rhyme": 0.9,
+     "score": 0.263
+    },
+    {
+     "word": "intend",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.248
+    },
+    {
+     "word": "agreed",
+     "p": 0.0096,
+     "rhyme": 0,
+     "score": 0.24
+    },
+    {
+     "word": "expect",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.219
+    },
+    {
+     "word": "farewell",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.218
+    },
+    {
+     "word": "unite",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.214
+    },
+    {
+     "word": "forget",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.213
+    }
+   ]
+  }
+ ]
+}

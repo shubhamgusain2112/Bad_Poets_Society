@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 0.75,
+ "scheme": "ABAB",
+ "seed": 11,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Ear and Ease, as if the couch were heaven,\nCall me of earth to welcome my spirit,\nAnd that I be mine; but never again\nThis first, this last solitude alone.\nBut when in hope I think on Heaven,\nWhen Heaven's calling hinders me away,\nI feel myself sickened with despair;\nBecause of Heaven's solitary way,\nEre some one has call'd me, I stand alone.\nNor can my soul such time absolve away;\nIt will not long suffice to wander\nWith all its light and bliss of delight,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Ear and Ease, as if the couch were heaven,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "a",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0612,
+     "rhyme": 0,
+     "score": 0.87
+    },
+    {
+     "word": "our",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "upon",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.239
+    },
+    {
+     "word": "divine",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.235
+    },
+    {
+     "word": "alone",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.23
+    },
+    {
+     "word": "within",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "indeed",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.219
+    },
+    {
+     "word": "fire",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.211
+    },
+    {
+     "word": "ours",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.206
+    },
+    {
+     "word": "higher",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.202
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Call me of earth to welcome my spirit,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "stay",
+   "meant": "stay",
+   "chosen": "spirit",
+   "candidates": [
+    {
+     "word": "spirit",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "visit",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.736
+    },
+    {
+     "word": "coming",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.632
+    },
+    {
+     "word": "heaven",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.527
+    },
+    {
+     "word": "return",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.466
+    },
+    {
+     "word": "hour",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.431
+    },
+    {
+     "word": "welcome",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.345
+    },
+    {
+     "word": "delight",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "descent",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "journey",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.261
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "And that I be mine; but never again",
+   "syllables": 10,
+   "target": 11,
+   "partner": "heaven",
+   "qwen_top": "mind",
+   "meant": "mind",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0185,
+     "rhyme": 0.6,
+     "score": 0.9
+    },
+    {
+     "word": "forget",
+     "p": 0.0175,
+     "rhyme": 0.6,
+     "score": 0.857
+    },
+    {
+     "word": "despair",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.215
+    },
+    {
+     "word": "before",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.19
+    },
+    {
+     "word": "expect",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.19
+    },
+    {
+     "word": "any",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.19
+    },
+    {
+     "word": "ever",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.182
+    },
+    {
+     "word": "repent",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.176
+    },
+    {
+     "word": "enter",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.17
+    },
+    {
+     "word": "farewell",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.169
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "This first, this last solitude alone.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "spirit",
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "recall",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.662
+    },
+    {
+     "word": "admit",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.403
+    },
+    {
+     "word": "embrace",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.401
+    },
+    {
+     "word": "within",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.365
+    },
+    {
+     "word": "return",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.354
+    },
+    {
+     "word": "visit",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.34
+    },
+    {
+     "word": "permit",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.34
+    },
+    {
+     "word": "ever",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.313
+    },
+    {
+     "word": "again",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.313
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "But when in hope I think on Heaven,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0151,
+     "rhyme": 0,
+     "score": 0.87
+    },
+    {
+     "word": "our",
+     "p": 0.0093,
+     "rhyme": 0,
+     "score": 0.692
+    },
+    {
+     "word": "other",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.496
+    },
+    {
+     "word": "future",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.377
+    },
+    {
+     "word": "others",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "another",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "liberty",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "company",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "many",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.284
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "When Heaven's calling hinders me away,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 1.025
+    },
+    {
+     "word": "again",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.529
+    },
+    {
+     "word": "afar",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.505
+    },
+    {
+     "word": "alone",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.494
+    },
+    {
+     "word": "indeed",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.381
+    },
+    {
+     "word": "below",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.363
+    },
+    {
+     "word": "within",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.347
+    },
+    {
+     "word": "anew",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "before",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "awake",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.291
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "I feel myself sickened with despair;",
+   "syllables": 9,
+   "target": 10,
+   "partner": "heaven",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "despair",
+   "candidates": [
+    {
+     "word": "despair",
+     "p": 0.023,
+     "rhyme": 0.6,
+     "score": 0.9
+    },
+    {
+     "word": "envy",
+     "p": 0.0085,
+     "rhyme": 0.6,
+     "score": 0.426
+    },
+    {
+     "word": "forget",
+     "p": 0.0038,
+     "rhyme": 0.6,
+     "score": 0.275
+    },
+    {
+     "word": "desire",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "discontent",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.252
+    },
+    {
+     "word": "regret",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.245
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.243
+    },
+    {
+     "word": "contempt",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.224
+    },
+    {
+     "word": "distress",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.208
+    },
+    {
+     "word": "pity",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.202
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Because of Heaven's solitary way,",
+   "syllables": 10,
+   "target": 10,
+   "partner": "away",
+   "qwen_top": "way",
+   "meant": "way",
+   "chosen": "way",
+   "candidates": [
+    {
+     "word": "way",
+     "p": 0.084,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "charm",
+     "p": 0.0655,
+     "rhyme": 0,
+     "score": 0.585
+    },
+    {
+     "word": "power",
+     "p": 0.0578,
+     "rhyme": 0,
+     "score": 0.516
+    },
+    {
+     "word": "prayer",
+     "p": 0.0396,
+     "rhyme": 0.6,
+     "score": 0.504
+    },
+    {
+     "word": "stay",
+     "p": 0.0227,
+     "rhyme": 1.0,
+     "score": 0.453
+    },
+    {
+     "word": "day",
+     "p": 0.0179,
+     "rhyme": 1.0,
+     "score": 0.41
+    },
+    {
+     "word": "sway",
+     "p": 0.0165,
+     "rhyme": 1.0,
+     "score": 0.397
+    },
+    {
+     "word": "place",
+     "p": 0.02,
+     "rhyme": 0.6,
+     "score": 0.328
+    },
+    {
+     "word": "grace",
+     "p": 0.0177,
+     "rhyme": 0.6,
+     "score": 0.308
+    },
+    {
+     "word": "lay",
+     "p": 0.0054,
+     "rhyme": 1.0,
+     "score": 0.298
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Ere some one has call'd me, I stand alone.",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "alone",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.79,
+     "rhyme": 0,
+     "score": 0.968
+    },
+    {
+     "word": "separate",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "away",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "dismay",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "separated",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "anew",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "insane",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "thereby",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.249
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Nor can my soul such time absolve away;",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "me",
+   "meant": "me",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.938
+    },
+    {
+     "word": "itself",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.878
+    },
+    {
+     "word": "again",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.468
+    },
+    {
+     "word": "alone",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.462
+    },
+    {
+     "word": "before",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.359
+    },
+    {
+     "word": "below",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "anew",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.299
+    },
+    {
+     "word": "myself",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "decay",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "into",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.284
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "It will not long suffice to wander",
+   "syllables": 9,
+   "target": 10,
+   "partner": "alone",
+   "qwen_top": "be",
+   "meant": "be",
+   "chosen": "wander",
+   "candidates": [
+    {
+     "word": "wander",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "escape",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.456
+    },
+    {
+     "word": "suffer",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.377
+    },
+    {
+     "word": "forget",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "believe",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "despair",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "borrow",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.208
+    },
+    {
+     "word": "console",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.192
+    },
+    {
+     "word": "remain",
+     "p": 0.0014,
+     "rhyme": 0.3,
+     "score": 0.183
+    },
+    {
+     "word": "return",
+     "p": 0.0014,
+     "rhyme": 0.3,
+     "score": 0.177
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "With all its light and bliss of delight,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "away",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "delight",
+   "candidates": [
+    {
+     "word": "delight",
+     "p": 0.0205,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "heaven",
+     "p": 0.0181,
+     "rhyme": 0,
+     "score": 0.663
+    },
+    {
+     "word": "solitude",
+     "p": 0.0159,
+     "rhyme": 0,
+     "score": 0.584
+    },
+    {
+     "word": "pleasure",
+     "p": 0.015,
+     "rhyme": 0,
+     "score": 0.549
+    },
+    {
+     "word": "being",
+     "p": 0.0122,
+     "rhyme": 0,
+     "score": 0.446
+    },
+    {
+     "word": "happiness",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "decay",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 0.271
+    },
+    {
+     "word": "desire",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "morning",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "earthly",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.229
+    }
+   ]
+  }
+ ]
+}

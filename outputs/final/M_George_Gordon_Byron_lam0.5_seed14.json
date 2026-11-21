@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 0.5,
+ "scheme": "ABAB",
+ "seed": 14,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Fragments of a youth, far relieved now\nFrom his former burdens, and pacified,\nAs though with joy he smote those happy hands,\nAnd felt the heart that felt the world again.\nI care not if you be blind - indeed I\nOf this other sight no less ashamed;\nAnd yet my eye should see it when again\nMy spirit can manifest its delight.\nYou mean to say nothing? You are afraid?\nAre you born in vice? You say what anyone,\nA sort of love-swollen commonman, say?\nTo begin at least another question:",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Fragments of a youth, far relieved now",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "from",
+   "meant": "now",
+   "chosen": "now",
+   "candidates": [
+    {
+     "word": "now",
+     "p": 0.0629,
+     "rhyme": 0,
+     "score": 0.711
+    },
+    {
+     "word": "be",
+     "p": 0.0246,
+     "rhyme": 0,
+     "score": 0.476
+    },
+    {
+     "word": "before",
+     "p": 0.019,
+     "rhyme": 0,
+     "score": 0.38
+    },
+    {
+     "word": "in",
+     "p": 0.0191,
+     "rhyme": 0,
+     "score": 0.369
+    },
+    {
+     "word": "is",
+     "p": 0.0286,
+     "rhyme": 0,
+     "score": 0.362
+    },
+    {
+     "word": "then",
+     "p": 0.0176,
+     "rhyme": 0,
+     "score": 0.347
+    },
+    {
+     "word": "by",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "may",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.313
+    },
+    {
+     "word": "he",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.313
+    },
+    {
+     "word": "as",
+     "p": 0.0178,
+     "rhyme": 0,
+     "score": 0.307
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "From his former burdens, and pacified,",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "from",
+   "meant": "pacified",
+   "chosen": "pacified",
+   "candidates": [
+    {
+     "word": "pacified",
+     "p": 0.013,
+     "rhyme": 0,
+     "score": 0.743
+    },
+    {
+     "word": "preoccupied",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.554
+    },
+    {
+     "word": "sated",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "constrained",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.475
+    },
+    {
+     "word": "satisfied",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.443
+    },
+    {
+     "word": "dissatisfied",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.439
+    },
+    {
+     "word": "contented",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.432
+    },
+    {
+     "word": "refreshed",
+     "p": 0.0094,
+     "rhyme": 0,
+     "score": 0.414
+    },
+    {
+     "word": "transformed",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.38
+    },
+    {
+     "word": "exhausted",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.369
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "As though with joy he smote those happy hands,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "now",
+   "qwen_top": "words",
+   "meant": "hands",
+   "chosen": "hands",
+   "candidates": [
+    {
+     "word": "hands",
+     "p": 0.0234,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "fingers",
+     "p": 0.0188,
+     "rhyme": 0,
+     "score": 0.403
+    },
+    {
+     "word": "thousand",
+     "p": 0.0038,
+     "rhyme": 0.6,
+     "score": 0.382
+    },
+    {
+     "word": "flowers",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.324
+    },
+    {
+     "word": "around",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.322
+    },
+    {
+     "word": "hours",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.321
+    },
+    {
+     "word": "towers",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.315
+    },
+    {
+     "word": "out",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.314
+    },
+    {
+     "word": "sounds",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.312
+    },
+    {
+     "word": "clouds",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.311
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "And felt the heart that felt the world again.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "pacified",
+   "qwen_top": "again",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.2799,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "finally",
+     "p": 0.015,
+     "rhyme": 0.6,
+     "score": 0.327
+    },
+    {
+     "word": "sometime",
+     "p": 0.0062,
+     "rhyme": 0.6,
+     "score": 0.311
+    },
+    {
+     "word": "revived",
+     "p": 0.0057,
+     "rhyme": 0.6,
+     "score": 0.31
+    },
+    {
+     "word": "quietly",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.304
+    },
+    {
+     "word": "prior",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.302
+    },
+    {
+     "word": "july",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.302
+    },
+    {
+     "word": "subsided",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.301
+    },
+    {
+     "word": "awhile",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.301
+    },
+    {
+     "word": "realized",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.301
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "I care not if you be blind - indeed I",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "i",
+   "meant": "i",
+   "chosen": "i",
+   "candidates": [
+    {
+     "word": "i",
+     "p": 0.1169,
+     "rhyme": 0,
+     "score": 0.746
+    },
+    {
+     "word": "so",
+     "p": 0.1023,
+     "rhyme": 0,
+     "score": 0.699
+    },
+    {
+     "word": "he",
+     "p": 0.0493,
+     "rhyme": 0,
+     "score": 0.492
+    },
+    {
+     "word": "you",
+     "p": 0.0192,
+     "rhyme": 0,
+     "score": 0.352
+    },
+    {
+     "word": "she",
+     "p": 0.0106,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "we",
+     "p": 0.0101,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "be",
+     "p": 0.0099,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "too",
+     "p": 0.0095,
+     "rhyme": 0,
+     "score": 0.311
+    },
+    {
+     "word": "now",
+     "p": 0.0221,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "well",
+     "p": 0.0122,
+     "rhyme": 0,
+     "score": 0.303
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Of this other sight no less ashamed;",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "am",
+   "meant": "ashamed",
+   "chosen": "ashamed",
+   "candidates": [
+    {
+     "word": "ashamed",
+     "p": 0.0167,
+     "rhyme": 0,
+     "score": 0.65
+    },
+    {
+     "word": "despise",
+     "p": 0.0112,
+     "rhyme": 0,
+     "score": 0.554
+    },
+    {
+     "word": "regret",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 0.485
+    },
+    {
+     "word": "aware",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.441
+    },
+    {
+     "word": "admire",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.385
+    },
+    {
+     "word": "adore",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.371
+    },
+    {
+     "word": "regrets",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.354
+    },
+    {
+     "word": "afraid",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.348
+    },
+    {
+     "word": "disagree",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.348
+    },
+    {
+     "word": "revelation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.343
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "And yet my eye should see it when again",
+   "syllables": 10,
+   "target": 11,
+   "partner": "i",
+   "qwen_top": "i",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.2208,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "finally",
+     "p": 0.0118,
+     "rhyme": 0.6,
+     "score": 0.327
+    },
+    {
+     "word": "sometime",
+     "p": 0.0094,
+     "rhyme": 0.6,
+     "score": 0.321
+    },
+    {
+     "word": "tonight",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.307
+    },
+    {
+     "word": "quietly",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.306
+    },
+    {
+     "word": "realized",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.305
+    },
+    {
+     "word": "alive",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.304
+    },
+    {
+     "word": "awhile",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.303
+    },
+    {
+     "word": "daylight",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.302
+    },
+    {
+     "word": "survive",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.301
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "My spirit can manifest its delight.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "ashamed",
+   "qwen_top": "own",
+   "meant": "delight",
+   "chosen": "delight",
+   "candidates": [
+    {
+     "word": "delight",
+     "p": 0.0251,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "greater",
+     "p": 0.01,
+     "rhyme": 0.6,
+     "score": 0.5
+    },
+    {
+     "word": "pleasure",
+     "p": 0.0187,
+     "rhyme": 0,
+     "score": 0.372
+    },
+    {
+     "word": "innate",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.361
+    },
+    {
+     "word": "dismay",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.325
+    },
+    {
+     "word": "inspiration",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.324
+    },
+    {
+     "word": "greatest",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.321
+    },
+    {
+     "word": "creative",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.321
+    },
+    {
+     "word": "sensation",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.319
+    },
+    {
+     "word": "display",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.317
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "You mean to say nothing? You are afraid?",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "not",
+   "meant": "afraid",
+   "chosen": "afraid",
+   "candidates": [
+    {
+     "word": "afraid",
+     "p": 0.0628,
+     "rhyme": 0,
+     "score": 0.733
+    },
+    {
+     "word": "ashamed",
+     "p": 0.0322,
+     "rhyme": 0,
+     "score": 0.406
+    },
+    {
+     "word": "believing",
+     "p": 0.0287,
+     "rhyme": 0,
+     "score": 0.357
+    },
+    {
+     "word": "unaware",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "aware",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.304
+    },
+    {
+     "word": "untrue",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "alone",
+     "p": 0.0093,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "astray",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "nobody",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "disagree",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.286
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Are you born in vice? You say what anyone,",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "you",
+   "meant": "you",
+   "chosen": "anyone",
+   "candidates": [
+    {
+     "word": "anyone",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.615
+    },
+    {
+     "word": "anything",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.584
+    },
+    {
+     "word": "suppose",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.544
+    },
+    {
+     "word": "any",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.526
+    },
+    {
+     "word": "someone",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.515
+    },
+    {
+     "word": "person",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.483
+    },
+    {
+     "word": "never",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.477
+    },
+    {
+     "word": "always",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.474
+    },
+    {
+     "word": "even",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.456
+    },
+    {
+     "word": "something",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.449
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "A sort of love-swollen commonman, say?",
+   "syllables": 10,
+   "target": 11,
+   "partner": "afraid",
+   "qwen_top": "would",
+   "meant": "does",
+   "chosen": "say",
+   "candidates": [
+    {
+     "word": "say",
+     "p": 0.0508,
+     "rhyme": 0.6,
+     "score": 0.546
+    },
+    {
+     "word": "does",
+     "p": 0.1031,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "if",
+     "p": 0.0843,
+     "rhyme": 0,
+     "score": 0.409
+    },
+    {
+     "word": "ca",
+     "p": 0.0053,
+     "rhyme": 0.6,
+     "score": 0.326
+    },
+    {
+     "word": "may",
+     "p": 0.0042,
+     "rhyme": 0.6,
+     "score": 0.321
+    },
+    {
+     "word": "always",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.31
+    },
+    {
+     "word": "make",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.308
+    },
+    {
+     "word": "take",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.308
+    },
+    {
+     "word": "they",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.307
+    },
+    {
+     "word": "maybe",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.307
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "To begin at least another question:",
+   "syllables": 10,
+   "target": 10,
+   "partner": "anyone",
+   "qwen_top": "tale",
+   "meant": "story",
+   "chosen": "question",
+   "candidates": [
+    {
+     "word": "question",
+     "p": 0.0044,
+     "rhyme": 0.9,
+     "score": 0.515
+    },
+    {
+     "word": "story",
+     "p": 0.0338,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "conclusion",
+     "p": 0.002,
+     "rhyme": 0.9,
+     "score": 0.479
+    },
+    {
+     "word": "another",
+     "p": 0.0116,
+     "rhyme": 0.6,
+     "score": 0.472
+    },
+    {
+     "word": "passion",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.467
+    },
+    {
+     "word": "discussion",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.465
+    },
+    {
+     "word": "progression",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.462
+    },
+    {
+     "word": "religion",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.462
+    },
+    {
+     "word": "woman",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.461
+    },
+    {
+     "word": "women",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.461
+    }
+   ]
+  }
+ ]
+}

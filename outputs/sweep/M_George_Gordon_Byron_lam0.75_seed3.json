@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 0.75,
+ "scheme": "ABAB",
+ "seed": 3,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "XIII. OMNES DE ILLUMINUS domine.\n145    Now come, and now go; for th' hour,\nThat thou hast all the hours of heaven,\nIs come again: thou liv'st long still again,\nAnd yet uncomplac'd art thou alive.\nAll is too long thy clock to hour;\nThe whole are too short at last to hour;\nBut time has done in him who gave given\nHis soul unto us for ours again:\nThere are too many years before us,\nToo late a spring for us to reap before,\nA summer when we have need more enough,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "XIII. OMNES DE ILLUMINUS domine.",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "domine",
+   "chosen": "domine",
+   "candidates": [
+    {
+     "word": "domine",
+     "p": 0.0389,
+     "rhyme": 0,
+     "score": 0.946
+    },
+    {
+     "word": "est",
+     "p": 0.0339,
+     "rhyme": 0,
+     "score": 0.872
+    },
+    {
+     "word": "esse",
+     "p": 0.024,
+     "rhyme": 0,
+     "score": 0.686
+    },
+    {
+     "word": "et",
+     "p": 0.0225,
+     "rhyme": 0,
+     "score": 0.669
+    },
+    {
+     "word": "quod",
+     "p": 0.0247,
+     "rhyme": 0,
+     "score": 0.627
+    },
+    {
+     "word": "jus",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.415
+    },
+    {
+     "word": "si",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.371
+    },
+    {
+     "word": "nos",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.358
+    },
+    {
+     "word": "peine",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.354
+    },
+    {
+     "word": "ni",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.352
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "145    Now come, and now go; for th' hour,",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "hour",
+   "meant": "hour",
+   "chosen": "hour",
+   "candidates": [
+    {
+     "word": "hour",
+     "p": 0.014,
+     "rhyme": 0,
+     "score": 0.911
+    },
+    {
+     "word": "midnight",
+     "p": 0.0118,
+     "rhyme": 0,
+     "score": 0.85
+    },
+    {
+     "word": "planet",
+     "p": 0.0104,
+     "rhyme": 0,
+     "score": 0.61
+    },
+    {
+     "word": "duration",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.606
+    },
+    {
+     "word": "hours",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.553
+    },
+    {
+     "word": "twilight",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.524
+    },
+    {
+     "word": "an",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.511
+    },
+    {
+     "word": "eclipse",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.467
+    },
+    {
+     "word": "day",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.456
+    },
+    {
+     "word": "sky",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.442
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "That thou hast all the hours of heaven,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "domine",
+   "qwen_top": "life",
+   "meant": "day",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "every",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.359
+    },
+    {
+     "word": "unto",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "happy",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.26
+    },
+    {
+     "word": "believe",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.253
+    },
+    {
+     "word": "being",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.232
+    },
+    {
+     "word": "people",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.231
+    },
+    {
+     "word": "even",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.23
+    },
+    {
+     "word": "really",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.228
+    },
+    {
+     "word": "jesus",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.227
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Is come again: thou liv'st long still again,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "hour",
+   "qwen_top": "in",
+   "meant": "still",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0179,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "only",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.308
+    },
+    {
+     "word": "alive",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.266
+    },
+    {
+     "word": "before",
+     "p": 0.0039,
+     "rhyme": 0.3,
+     "score": 0.239
+    },
+    {
+     "word": "about",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.236
+    },
+    {
+     "word": "remains",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.226
+    },
+    {
+     "word": "around",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.219
+    },
+    {
+     "word": "alone",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.198
+    },
+    {
+     "word": "over",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.198
+    },
+    {
+     "word": "hours",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.192
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "And yet uncomplac'd art thou alive.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "still",
+   "meant": "still",
+   "chosen": "alive",
+   "candidates": [
+    {
+     "word": "alive",
+     "p": 0.0595,
+     "rhyme": 0,
+     "score": 0.892
+    },
+    {
+     "word": "alone",
+     "p": 0.0507,
+     "rhyme": 0,
+     "score": 0.858
+    },
+    {
+     "word": "remains",
+     "p": 0.0191,
+     "rhyme": 0,
+     "score": 0.449
+    },
+    {
+     "word": "remain",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.35
+    },
+    {
+     "word": "although",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "ago",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "today",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "nobody",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "probably",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "studio",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.277
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "All is too long thy clock to hour;",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "strike",
+   "meant": "clock",
+   "chosen": "hour",
+   "candidates": [
+    {
+     "word": "hour",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.911
+    },
+    {
+     "word": "delay",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.632
+    },
+    {
+     "word": "begin",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.623
+    },
+    {
+     "word": "o'clock",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.576
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.553
+    },
+    {
+     "word": "ringing",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.55
+    },
+    {
+     "word": "breaking",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.538
+    },
+    {
+     "word": "follow",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.488
+    },
+    {
+     "word": "forget",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.486
+    },
+    {
+     "word": "decide",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.479
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "The whole are too short at last to hour;",
+   "syllables": 10,
+   "target": 11,
+   "partner": "alive",
+   "qwen_top": "day",
+   "meant": "day",
+   "chosen": "hour",
+   "candidates": [
+    {
+     "word": "hour",
+     "p": 0.0272,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "hours",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.34
+    },
+    {
+     "word": "arrive",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 0.272
+    },
+    {
+     "word": "midnight",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.178
+    },
+    {
+     "word": "likely",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.177
+    },
+    {
+     "word": "tonight",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.176
+    },
+    {
+     "word": "decide",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.171
+    },
+    {
+     "word": "decided",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.17
+    },
+    {
+     "word": "nightly",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.17
+    },
+    {
+     "word": "sometime",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.166
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "But time has done in him who gave given",
+   "syllables": 10,
+   "target": 11,
+   "partner": "hour",
+   "qwen_top": "it",
+   "meant": "it",
+   "chosen": "given",
+   "candidates": [
+    {
+     "word": "given",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "even",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.603
+    },
+    {
+     "word": "giving",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.442
+    },
+    {
+     "word": "before",
+     "p": 0.0031,
+     "rhyme": 0.3,
+     "score": 0.431
+    },
+    {
+     "word": "because",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.394
+    },
+    {
+     "word": "any",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.391
+    },
+    {
+     "word": "another",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.339
+    },
+    {
+     "word": "every",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.335
+    },
+    {
+     "word": "without",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.319
+    },
+    {
+     "word": "again",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.313
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "His soul unto us for ours again:",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.1447,
+     "rhyme": 0,
+     "score": 1.003
+    },
+    {
+     "word": "alone",
+     "p": 0.0904,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "be",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "he",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "they",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "we",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "anew",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "dedicate",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "see",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "she",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.283
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "There are too many years before us,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "we",
+   "meant": "us",
+   "chosen": "us",
+   "candidates": [
+    {
+     "word": "us",
+     "p": 0.0272,
+     "rhyme": 0,
+     "score": 0.973
+    },
+    {
+     "word": "so",
+     "p": 0.0196,
+     "rhyme": 0,
+     "score": 0.802
+    },
+    {
+     "word": "be",
+     "p": 0.0154,
+     "rhyme": 0,
+     "score": 0.706
+    },
+    {
+     "word": "this",
+     "p": 0.0195,
+     "rhyme": 0,
+     "score": 0.705
+    },
+    {
+     "word": "thee",
+     "p": 0.0106,
+     "rhyme": 0,
+     "score": 0.573
+    },
+    {
+     "word": "come",
+     "p": 0.014,
+     "rhyme": 0,
+     "score": 0.558
+    },
+    {
+     "word": "me",
+     "p": 0.0089,
+     "rhyme": 0,
+     "score": 0.527
+    },
+    {
+     "word": "now",
+     "p": 0.0108,
+     "rhyme": 0,
+     "score": 0.508
+    },
+    {
+     "word": "way",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "you",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.457
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Too late a spring for us to reap before,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "again",
+   "qwen_top": "the",
+   "meant": "again",
+   "chosen": "before",
+   "candidates": [
+    {
+     "word": "before",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "success",
+     "p": 0.0041,
+     "rhyme": 0.6,
+     "score": 0.616
+    },
+    {
+     "word": "better",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.479
+    },
+    {
+     "word": "finally",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.462
+    },
+    {
+     "word": "later",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "also",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.438
+    },
+    {
+     "word": "summer",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.431
+    },
+    {
+     "word": "however",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.396
+    },
+    {
+     "word": "every",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.392
+    },
+    {
+     "word": "september",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.379
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "A summer when we have need more enough,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "us",
+   "qwen_top": "of",
+   "meant": "more",
+   "chosen": "enough",
+   "candidates": [
+    {
+     "word": "enough",
+     "p": 0.0183,
+     "rhyme": 0.6,
+     "score": 0.9
+    },
+    {
+     "word": "ready",
+     "p": 0.0081,
+     "rhyme": 0.6,
+     "score": 0.483
+    },
+    {
+     "word": "better",
+     "p": 0.0077,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "very",
+     "p": 0.0044,
+     "rhyme": 0.6,
+     "score": 0.332
+    },
+    {
+     "word": "even",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "again",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.254
+    },
+    {
+     "word": "promise",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.252
+    },
+    {
+     "word": "delicious",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.245
+    },
+    {
+     "word": "expect",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.237
+    },
+    {
+     "word": "expected",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.232
+    }
+   ]
+  }
+ ]
+}

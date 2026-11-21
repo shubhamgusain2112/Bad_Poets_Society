@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 1.0,
+ "scheme": "ABAB",
+ "seed": 12,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "There are, but on the top of a mountain,\nNot more than the size which we can afford\nTo send our paces to or our\nPuns back. - Let them down; they'll work themselves,\nAnd I'll be content - No doubt I cannot\nMake out their purpose if I cannot\nDisguise myself in idle jests again.\nSuch things as these will do no harm indeed\nIn America: and this is our\nRule! A man needs his self (so far indeed\nHe does), he calls it 'the soul' within\nThat which consists of all that's within",
+ "lines": [
+  {
+   "line": 1,
+   "text": "There are, but on the top of a mountain,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "hill",
+   "meant": "hill",
+   "chosen": "mountain",
+   "candidates": [
+    {
+     "word": "mountain",
+     "p": 0.0717,
+     "rhyme": 0,
+     "score": 1.035
+    },
+    {
+     "word": "tower",
+     "p": 0.0179,
+     "rhyme": 0,
+     "score": 0.412
+    },
+    {
+     "word": "little",
+     "p": 0.018,
+     "rhyme": 0,
+     "score": 0.361
+    },
+    {
+     "word": "very",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "station",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "plateau",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "solitary",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.267
+    },
+    {
+     "word": "higher",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "statue",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.234
+    },
+    {
+     "word": "fairy",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.224
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Not more than the size which we can afford",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "see",
+   "meant": "see",
+   "chosen": "afford",
+   "candidates": [
+    {
+     "word": "afford",
+     "p": 0.0201,
+     "rhyme": 0,
+     "score": 1.193
+    },
+    {
+     "word": "perceive",
+     "p": 0.0147,
+     "rhyme": 0,
+     "score": 0.9
+    },
+    {
+     "word": "behold",
+     "p": 0.0108,
+     "rhyme": 0,
+     "score": 0.724
+    },
+    {
+     "word": "discern",
+     "p": 0.0101,
+     "rhyme": 0,
+     "score": 0.676
+    },
+    {
+     "word": "comprehend",
+     "p": 0.0089,
+     "rhyme": 0,
+     "score": 0.624
+    },
+    {
+     "word": "understand",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.579
+    },
+    {
+     "word": "carry",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.56
+    },
+    {
+     "word": "attain",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.559
+    },
+    {
+     "word": "compare",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.524
+    },
+    {
+     "word": "expect",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.502
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "To send our paces to or our",
+   "syllables": 10,
+   "target": 11,
+   "partner": "mountain",
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0803,
+     "rhyme": 0.6,
+     "score": 1.0
+    },
+    {
+     "word": "return",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "carry",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.047
+    },
+    {
+     "word": "any",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.044
+    },
+    {
+     "word": "ourselves",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.032
+    },
+    {
+     "word": "ours",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.025
+    },
+    {
+     "word": "distances",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.024
+    },
+    {
+     "word": "into",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.022
+    },
+    {
+     "word": "even",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.022
+    },
+    {
+     "word": "follow",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.022
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Puns back. - Let them down; they'll work themselves,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "afford",
+   "qwen_top": "for",
+   "meant": "for",
+   "chosen": "themselves",
+   "candidates": [
+    {
+     "word": "themselves",
+     "p": 0.0359,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "better",
+     "p": 0.015,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "again",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "harder",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "very",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.12
+    },
+    {
+     "word": "our",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "without",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "upon",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "together",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "away",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.072
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "And I'll be content - No doubt I cannot",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "shall",
+   "meant": "shall",
+   "chosen": "cannot",
+   "candidates": [
+    {
+     "word": "cannot",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 1.197
+    },
+    {
+     "word": "never",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.677
+    },
+    {
+     "word": "prefer",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.468
+    },
+    {
+     "word": "deserve",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.418
+    },
+    {
+     "word": "suppose",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.404
+    },
+    {
+     "word": "enjoy",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.367
+    },
+    {
+     "word": "agree",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.363
+    },
+    {
+     "word": "understand",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.35
+    },
+    {
+     "word": "forget",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "always",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.321
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Make out their purpose if I cannot",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "try",
+   "meant": "try",
+   "chosen": "cannot",
+   "candidates": [
+    {
+     "word": "cannot",
+     "p": 0.0335,
+     "rhyme": 0,
+     "score": 1.197
+    },
+    {
+     "word": "inquire",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.374
+    },
+    {
+     "word": "refuse",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.339
+    },
+    {
+     "word": "remain",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "examine",
+     "p": 0.0109,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "contemplate",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "pursue",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "survey",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "attempt",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "understand",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.286
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Disguise myself in idle jests again.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "cannot",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "alone",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "about",
+     "p": 0.0019,
+     "rhyme": 0.3,
+     "score": 0.368
+    },
+    {
+     "word": "instead",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "enough",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "among",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.12
+    },
+    {
+     "word": "without",
+     "p": 0.0006,
+     "rhyme": 0.3,
+     "score": 0.119
+    },
+    {
+     "word": "above",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "below",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "before",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.093
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Such things as these will do no harm indeed",
+   "syllables": 10,
+   "target": 11,
+   "partner": "cannot",
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "indeed",
+   "candidates": [
+    {
+     "word": "indeed",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "unto",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "except",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "upon",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.223
+    },
+    {
+     "word": "unless",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "alone",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "either",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "even",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "without",
+     "p": 0.0006,
+     "rhyme": 0.3,
+     "score": 0.082
+    },
+    {
+     "word": "until",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.064
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "In America: and this is our",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0156,
+     "rhyme": 0,
+     "score": 1.229
+    },
+    {
+     "word": "enough",
+     "p": 0.0094,
+     "rhyme": 0,
+     "score": 0.758
+    },
+    {
+     "word": "very",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.631
+    },
+    {
+     "word": "america",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.512
+    },
+    {
+     "word": "reason",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "indeed",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "perhaps",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "probably",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.306
+    },
+    {
+     "word": "surely",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "agree",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.293
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Rule! A man needs his self (so far indeed",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "as",
+   "meant": "as",
+   "chosen": "indeed",
+   "candidates": [
+    {
+     "word": "indeed",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 1.214
+    },
+    {
+     "word": "above",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.889
+    },
+    {
+     "word": "away",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.643
+    },
+    {
+     "word": "below",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.629
+    },
+    {
+     "word": "apart",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.567
+    },
+    {
+     "word": "advanced",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.522
+    },
+    {
+     "word": "perhaps",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.488
+    },
+    {
+     "word": "removed",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.478
+    },
+    {
+     "word": "understood",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.434
+    },
+    {
+     "word": "assured",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.428
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "He does), he calls it 'the soul' within",
+   "syllables": 9,
+   "target": 10,
+   "partner": "our",
+   "qwen_top": "or",
+   "meant": "or",
+   "chosen": "within",
+   "candidates": [
+    {
+     "word": "within",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "above",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.779
+    },
+    {
+     "word": "indeed",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.688
+    },
+    {
+     "word": "also",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.606
+    },
+    {
+     "word": "alone",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "itself",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "himself",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.421
+    },
+    {
+     "word": "again",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "among",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.369
+    },
+    {
+     "word": "instead",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.325
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "That which consists of all that's within",
+   "syllables": 9,
+   "target": 10,
+   "partner": "indeed",
+   "qwen_top": "within",
+   "meant": "within",
+   "chosen": "within",
+   "candidates": [
+    {
+     "word": "within",
+     "p": 0.0808,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "visible",
+     "p": 0.0192,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "inside",
+     "p": 0.0159,
+     "rhyme": 0.3,
+     "score": 0.197
+    },
+    {
+     "word": "below",
+     "p": 0.015,
+     "rhyme": 0,
+     "score": 0.185
+    },
+    {
+     "word": "above",
+     "p": 0.0141,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "outside",
+     "p": 0.0132,
+     "rhyme": 0.3,
+     "score": 0.163
+    },
+    {
+     "word": "sensible",
+     "p": 0.0096,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "beneath",
+     "p": 0.0085,
+     "rhyme": 0.6,
+     "score": 0.105
+    },
+    {
+     "word": "outward",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "human",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.099
+    }
+   ]
+  }
+ ]
+}

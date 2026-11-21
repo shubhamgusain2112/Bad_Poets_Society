@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 1.0,
+ "scheme": "ABAB",
+ "seed": 0,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Farewell, my dear boy! When haply our\nDays of our youth will end forever; when\nI'm no more, but found alone among\nThe children of the landless dead. Away,\nAway in a day-dream: I dare forget\nTo seek your face again. But look again\nOn that wild charm which stole upon our\nImpending scenes with magic enchantment, and\nIn its powerful spell confined our\nUnconscious consciousness to our\nWorking minds, as by some vague influence\nOur very thoughts were cast into the",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Farewell, my dear boy! When haply our",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "i",
+   "meant": "i",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 1.229
+    },
+    {
+     "word": "again",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.86
+    },
+    {
+     "word": "another",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.506
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.407
+    },
+    {
+     "word": "upon",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.397
+    },
+    {
+     "word": "awhile",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.38
+    },
+    {
+     "word": "before",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.364
+    },
+    {
+     "word": "many",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.354
+    },
+    {
+     "word": "sometime",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.335
+    },
+    {
+     "word": "farewell",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.315
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Days of our youth will end forever; when",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "when",
+   "meant": "when",
+   "chosen": "when",
+   "candidates": [
+    {
+     "word": "when",
+     "p": 0.0204,
+     "rhyme": 0,
+     "score": 1.217
+    },
+    {
+     "word": "and",
+     "p": 0.0204,
+     "rhyme": 0,
+     "score": 1.189
+    },
+    {
+     "word": "but",
+     "p": 0.018,
+     "rhyme": 0,
+     "score": 1.044
+    },
+    {
+     "word": "yet",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "i",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.569
+    },
+    {
+     "word": "fare",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.539
+    },
+    {
+     "word": "for",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.515
+    },
+    {
+     "word": "then",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.459
+    },
+    {
+     "word": "my",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.371
+    },
+    {
+     "word": "though",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.367
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "I'm no more, but found alone among",
+   "syllables": 9,
+   "target": 10,
+   "partner": "our",
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "among",
+   "candidates": [
+    {
+     "word": "among",
+     "p": 0.027,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "upon",
+     "p": 0.0209,
+     "rhyme": 0.6,
+     "score": 0.775
+    },
+    {
+     "word": "within",
+     "p": 0.0112,
+     "rhyme": 0,
+     "score": 0.414
+    },
+    {
+     "word": "again",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.252
+    },
+    {
+     "word": "beneath",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.221
+    },
+    {
+     "word": "beside",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.195
+    },
+    {
+     "word": "alone",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.152
+    },
+    {
+     "word": "amid",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.134
+    },
+    {
+     "word": "amidst",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.092
+    },
+    {
+     "word": "before",
+     "p": 0.0022,
+     "rhyme": 0.3,
+     "score": 0.082
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "The children of the landless dead. Away,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "when",
+   "qwen_top": "fare",
+   "meant": "fare",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "indeed",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.392
+    },
+    {
+     "word": "depart",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "forget",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.306
+    },
+    {
+     "word": "our",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "upon",
+     "p": 0.001,
+     "rhyme": 0.3,
+     "score": 0.21
+    },
+    {
+     "word": "perhaps",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.21
+    },
+    {
+     "word": "happy",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.185
+    },
+    {
+     "word": "even",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.163
+    },
+    {
+     "word": "meanwhile",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.144
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Away in a day-dream: I dare forget",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "not",
+   "meant": "not",
+   "chosen": "forget",
+   "candidates": [
+    {
+     "word": "forget",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 1.237
+    },
+    {
+     "word": "believe",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.946
+    },
+    {
+     "word": "confess",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.759
+    },
+    {
+     "word": "despair",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.391
+    },
+    {
+     "word": "pursue",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.343
+    },
+    {
+     "word": "deny",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.342
+    },
+    {
+     "word": "suppose",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.338
+    },
+    {
+     "word": "contemplate",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "declare",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "expect",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.316
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "To seek your face again. But look again",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "not",
+   "meant": "not",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0222,
+     "rhyme": 0,
+     "score": 1.253
+    },
+    {
+     "word": "away",
+     "p": 0.0173,
+     "rhyme": 0,
+     "score": 1.054
+    },
+    {
+     "word": "upon",
+     "p": 0.0173,
+     "rhyme": 0,
+     "score": 1.012
+    },
+    {
+     "word": "into",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.557
+    },
+    {
+     "word": "below",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.548
+    },
+    {
+     "word": "behind",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.519
+    },
+    {
+     "word": "before",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.515
+    },
+    {
+     "word": "aside",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.508
+    },
+    {
+     "word": "around",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.376
+    },
+    {
+     "word": "anew",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.343
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "On that wild charm which stole upon our",
+   "syllables": 10,
+   "target": 11,
+   "partner": "forget",
+   "qwen_top": "my",
+   "meant": "my",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0261,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "every",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.013
+    },
+    {
+     "word": "heaven",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.009
+    },
+    {
+     "word": "myself",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.006
+    },
+    {
+     "word": "yourself",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.005
+    },
+    {
+     "word": "ours",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.005
+    },
+    {
+     "word": "early",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.005
+    },
+    {
+     "word": "nature",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.004
+    },
+    {
+     "word": "europe",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.004
+    },
+    {
+     "word": "former",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.004
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Impending scenes with magic enchantment, and",
+   "syllables": 11,
+   "target": 11,
+   "partner": "again",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "and",
+   "candidates": [
+    {
+     "word": "and",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "see",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.094
+    },
+    {
+     "word": "then",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 0.082
+    },
+    {
+     "word": "there",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.073
+    },
+    {
+     "word": "as",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.064
+    },
+    {
+     "word": "when",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 0.057
+    },
+    {
+     "word": "which",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "o",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.054
+    },
+    {
+     "word": "love",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.053
+    },
+    {
+     "word": "now",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.05
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "In its powerful spell confined our",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "us",
+   "meant": "us",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.1141,
+     "rhyme": 0,
+     "score": 1.229
+    },
+    {
+     "word": "away",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "into",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "decay",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "anew",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "reality",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "within",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.261
+    },
+    {
+     "word": "again",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.258
+    },
+    {
+     "word": "remain",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.254
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Unconscious consciousness to our",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0241,
+     "rhyme": 0,
+     "score": 1.229
+    },
+    {
+     "word": "forget",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "contemplate",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "recreate",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "decay",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "shadow",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "delight",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "pursue",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "unseen",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.266
+    },
+    {
+     "word": "retain",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.264
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Working minds, as by some vague influence",
+   "syllables": 10,
+   "target": 10,
+   "partner": "our",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "influence",
+   "candidates": [
+    {
+     "word": "influence",
+     "p": 0.0566,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "magic",
+     "p": 0.0534,
+     "rhyme": 0,
+     "score": 0.943
+    },
+    {
+     "word": "enchant",
+     "p": 0.0499,
+     "rhyme": 0,
+     "score": 0.882
+    },
+    {
+     "word": "power",
+     "p": 0.0186,
+     "rhyme": 1.0,
+     "score": 0.328
+    },
+    {
+     "word": "impulse",
+     "p": 0.0126,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "inspiration",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.186
+    },
+    {
+     "word": "illusion",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "control",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.144
+    },
+    {
+     "word": "divine",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.143
+    },
+    {
+     "word": "command",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.12
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Our very thoughts were cast into the",
+   "syllables": 10,
+   "target": 11,
+   "partner": "our",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "the",
+   "candidates": [
+    {
+     "word": "the",
+     "p": 0.1239,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "a",
+     "p": 0.0906,
+     "rhyme": 0,
+     "score": 0.732
+    },
+    {
+     "word": "action",
+     "p": 0.0752,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "motion",
+     "p": 0.0707,
+     "rhyme": 0,
+     "score": 0.571
+    },
+    {
+     "word": "your",
+     "p": 0.0244,
+     "rhyme": 0.3,
+     "score": 0.197
+    },
+    {
+     "word": "form",
+     "p": 0.0216,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "that",
+     "p": 0.0203,
+     "rhyme": 0,
+     "score": 0.164
+    },
+    {
+     "word": "those",
+     "p": 0.0168,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "one",
+     "p": 0.0158,
+     "rhyme": 0,
+     "score": 0.127
+    },
+    {
+     "word": "each",
+     "p": 0.0131,
+     "rhyme": 0,
+     "score": 0.105
+    }
+   ]
+  }
+ ]
+}

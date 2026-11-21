@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "B1",
+ "lam": 1.0,
+ "scheme": "ABCB",
+ "seed": 13,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "I thought I had seen the sunset\nAt twilight in the vineyard's shade,\nWhen in the morning hours\nThe rose had had its flower,\nAnd by the sea, far away,\nShone like a gold-brown diamond.\nWhen did it pass from memory?\nCould time ever move away?\nWho could speak of sunset\nWithout saying sunset too?\nAh! there is none of you alone!\nNo woman can forget.",
+ "lines": [
+  {
+   "line": 1,
+   "text": "I thought I had seen the sunset",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "sun",
+   "meant": "sun",
+   "chosen": "sunset",
+   "candidates": [
+    {
+     "word": "sunset",
+     "p": 0.0241,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "morning",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.406
+    },
+    {
+     "word": "river",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.246
+    },
+    {
+     "word": "city",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "evening",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.167
+    },
+    {
+     "word": "golden",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.158
+    },
+    {
+     "word": "shadow",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.155
+    },
+    {
+     "word": "little",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.15
+    },
+    {
+     "word": "rainbow",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.148
+    },
+    {
+     "word": "summer",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.145
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "At twilight in the vineyard's shade,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "shade",
+   "meant": "shade",
+   "chosen": "shade",
+   "candidates": [
+    {
+     "word": "shade",
+     "p": 0.3078,
+     "rhyme": 0,
+     "score": 1.233
+    },
+    {
+     "word": "vale",
+     "p": 0.0325,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "bow",
+     "p": 0.0174,
+     "rhyme": 0,
+     "score": 0.318
+    },
+    {
+     "word": "green",
+     "p": 0.0197,
+     "rhyme": 0,
+     "score": 0.312
+    },
+    {
+     "word": "shadow",
+     "p": 0.0119,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "me",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.307
+    },
+    {
+     "word": "row",
+     "p": 0.0093,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "lee",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "sway",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "tree",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.286
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "When in the morning hours",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "hours",
+   "candidates": [
+    {
+     "word": "hours",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "sunlight",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.775
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.684
+    },
+    {
+     "word": "shadows",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.533
+    },
+    {
+     "word": "twilight",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.501
+    },
+    {
+     "word": "again",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.344
+    },
+    {
+     "word": "after",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "glory",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "morning",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.21
+    },
+    {
+     "word": "hour",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.186
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "The rose had had its flower,",
+   "syllables": 7,
+   "target": 8,
+   "partner": "shade",
+   "qwen_top": "last",
+   "meant": "last",
+   "chosen": "flower",
+   "candidates": [
+    {
+     "word": "flower",
+     "p": 0.0202,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "hour",
+     "p": 0.0138,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "morning",
+     "p": 0.0095,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "golden",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "harvest",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.21
+    },
+    {
+     "word": "shower",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "evening",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "blossom",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "release",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.144
+    },
+    {
+     "word": "midnight",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.135
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "And by the sea, far away,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "away",
+   "meant": "away",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.1768,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "distant",
+     "p": 0.0271,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "above",
+     "p": 0.0186,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "beyond",
+     "p": 0.0165,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "below",
+     "p": 0.0164,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "over",
+     "p": 0.0128,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "afar",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "across",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.044
+    },
+    {
+     "word": "behind",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.03
+    },
+    {
+     "word": "ahead",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.015
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Shone like a gold-brown diamond.",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "star",
+   "meant": "star",
+   "chosen": "diamond",
+   "candidates": [
+    {
+     "word": "diamond",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "sunset",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.949
+    },
+    {
+     "word": "angel",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.792
+    },
+    {
+     "word": "flower",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.769
+    },
+    {
+     "word": "comet",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.609
+    },
+    {
+     "word": "marble",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.605
+    },
+    {
+     "word": "shadow",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.577
+    },
+    {
+     "word": "halo",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.57
+    },
+    {
+     "word": "banner",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.569
+    },
+    {
+     "word": "jewel",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.535
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "When did it pass from memory?",
+   "syllables": 8,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "my",
+   "meant": "my",
+   "chosen": "memory",
+   "candidates": [
+    {
+     "word": "memory",
+     "p": 0.0189,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "our",
+     "p": 0.0138,
+     "rhyme": 0,
+     "score": 0.73
+    },
+    {
+     "word": "heaven",
+     "p": 0.0099,
+     "rhyme": 0,
+     "score": 0.525
+    },
+    {
+     "word": "vision",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "above",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "behind",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "afar",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "sunset",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.099
+    },
+    {
+     "word": "shadow",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.094
+    },
+    {
+     "word": "over",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.068
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Could time ever move away?",
+   "syllables": 7,
+   "target": 8,
+   "partner": "diamond",
+   "qwen_top": "away",
+   "meant": "away",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.1133,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "again",
+     "p": 0.0607,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "aside",
+     "p": 0.0253,
+     "rhyme": 0.6,
+     "score": 0.223
+    },
+    {
+     "word": "along",
+     "p": 0.0153,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "beyond",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "upon",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.044
+    },
+    {
+     "word": "faster",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.034
+    },
+    {
+     "word": "slower",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.024
+    },
+    {
+     "word": "without",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.018
+    },
+    {
+     "word": "between",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.018
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Who could speak of sunset",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "it",
+   "meant": "it",
+   "chosen": "sunset",
+   "candidates": [
+    {
+     "word": "sunset",
+     "p": 0.0821,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "anything",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "beauty",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.095
+    },
+    {
+     "word": "any",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.087
+    },
+    {
+     "word": "twilight",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.073
+    },
+    {
+     "word": "something",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "summer",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "memory",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.053
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.044
+    },
+    {
+     "word": "another",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.041
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Without saying sunset too?",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "too",
+   "meant": "too",
+   "chosen": "too",
+   "candidates": [
+    {
+     "word": "too",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 1.27
+    },
+    {
+     "word": "again",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 1.032
+    },
+    {
+     "word": "is",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 1.018
+    },
+    {
+     "word": "was",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.947
+    },
+    {
+     "word": "still",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.746
+    },
+    {
+     "word": "there",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.71
+    },
+    {
+     "word": "to",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.523
+    },
+    {
+     "word": "here",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.522
+    },
+    {
+     "word": "gone",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.51
+    },
+    {
+     "word": "away",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.472
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Ah! there is none of you alone!",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "who",
+   "meant": "who",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "beside",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.999
+    },
+    {
+     "word": "alive",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.882
+    },
+    {
+     "word": "among",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.689
+    },
+    {
+     "word": "ever",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.473
+    },
+    {
+     "word": "forget",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "today",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "remember",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "above",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "forgot",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.286
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "No woman can forget.",
+   "syllables": 6,
+   "target": 7,
+   "partner": "too",
+   "qwen_top": "tell",
+   "meant": "tell",
+   "chosen": "forget",
+   "candidates": [
+    {
+     "word": "forget",
+     "p": 0.0248,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "ever",
+     "p": 0.0193,
+     "rhyme": 0,
+     "score": 0.779
+    },
+    {
+     "word": "remember",
+     "p": 0.0103,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "answer",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "recall",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "understand",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.144
+    },
+    {
+     "word": "escape",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "compare",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "describe",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "whisper",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.077
+    }
+   ]
+  }
+ ]
+}

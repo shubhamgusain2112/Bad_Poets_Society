@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 0.5,
+ "scheme": "AABB",
+ "seed": 11,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "West Wind, bring to us a delicate wind\nFrom the boundless deeps of the ages behind,\nAnd breathe it upon the arid beaches\nWhere we are with our daughters.\nStoop down at our feet again,\nThe dark-haired one that was not young before.\nShe is old; her long hair rises,\nBreathing sweetly and quietly.\nGush downward from out the foamless waters\nOn to her full breasts the soft breezes\nThat whisper sighing songs again,\nTill she is like one insane.",
+ "lines": [
+  {
+   "line": 1,
+   "text": "West Wind, bring to us a delicate wind",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "breath",
+   "meant": "wind",
+   "chosen": "wind",
+   "candidates": [
+    {
+     "word": "wind",
+     "p": 0.0701,
+     "rhyme": 0,
+     "score": 0.696
+    },
+    {
+     "word": "breeze",
+     "p": 0.0248,
+     "rhyme": 0,
+     "score": 0.428
+    },
+    {
+     "word": "air",
+     "p": 0.0129,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "sensation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "vibration",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "rain",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.293
+    },
+    {
+     "word": "snow",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "sea",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "dew",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "day",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.286
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "From the boundless deeps of the ages behind,",
+   "syllables": 11,
+   "target": 11,
+   "partner": "wind",
+   "qwen_top": "of",
+   "meant": "gone",
+   "chosen": "behind",
+   "candidates": [
+    {
+     "word": "behind",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 0.504
+    },
+    {
+     "word": "gone",
+     "p": 0.1044,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "years",
+     "p": 0.0185,
+     "rhyme": 0.6,
+     "score": 0.389
+    },
+    {
+     "word": "died",
+     "p": 0.0147,
+     "rhyme": 0.6,
+     "score": 0.37
+    },
+    {
+     "word": "killed",
+     "p": 0.0141,
+     "rhyme": 0.6,
+     "score": 0.367
+    },
+    {
+     "word": "disappeared",
+     "p": 0.0064,
+     "rhyme": 0.6,
+     "score": 0.331
+    },
+    {
+     "word": "survived",
+     "p": 0.0053,
+     "rhyme": 0.6,
+     "score": 0.326
+    },
+    {
+     "word": "been",
+     "p": 0.0042,
+     "rhyme": 0.6,
+     "score": 0.32
+    },
+    {
+     "word": "since",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.319
+    },
+    {
+     "word": "alive",
+     "p": 0.0035,
+     "rhyme": 0.6,
+     "score": 0.317
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "And breathe it upon the arid beaches",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "earth",
+   "meant": "hills",
+   "chosen": "beaches",
+   "candidates": [
+    {
+     "word": "beaches",
+     "p": 0.0094,
+     "rhyme": 0,
+     "score": 0.615
+    },
+    {
+     "word": "sandy",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.584
+    },
+    {
+     "word": "ocean",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.547
+    },
+    {
+     "word": "elevation",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.467
+    },
+    {
+     "word": "valleys",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.453
+    },
+    {
+     "word": "nearby",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.408
+    },
+    {
+     "word": "meadows",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.387
+    },
+    {
+     "word": "barren",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.383
+    },
+    {
+     "word": "rocky",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.383
+    },
+    {
+     "word": "acres",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.377
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Where we are with our daughters.",
+   "syllables": 8,
+   "target": 9,
+   "partner": "beaches",
+   "qwen_top": "hearts",
+   "meant": "sons",
+   "chosen": "daughters",
+   "candidates": [
+    {
+     "word": "daughters",
+     "p": 0.0127,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "thirteen",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.42
+    },
+    {
+     "word": "weeping",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.387
+    },
+    {
+     "word": "eleven",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.381
+    },
+    {
+     "word": "sixteen",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.374
+    },
+    {
+     "word": "people",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.363
+    },
+    {
+     "word": "fourteen",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.361
+    },
+    {
+     "word": "demons",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.351
+    },
+    {
+     "word": "eighteen",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.343
+    },
+    {
+     "word": "deceased",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.337
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Stoop down at our feet again,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.4959,
+     "rhyme": 0,
+     "score": 0.753
+    },
+    {
+     "word": "anew",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "separated",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "today",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "away",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "somebody",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "anyway",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.257
+    },
+    {
+     "word": "remain",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.254
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "The dark-haired one that was not young before.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "again",
+   "qwen_top": "and",
+   "meant": "again",
+   "chosen": "before",
+   "candidates": [
+    {
+     "word": "before",
+     "p": 0.074,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "never",
+     "p": 0.0101,
+     "rhyme": 0.6,
+     "score": 0.368
+    },
+    {
+     "word": "later",
+     "p": 0.007,
+     "rhyme": 0.6,
+     "score": 0.347
+    },
+    {
+     "word": "ever",
+     "p": 0.0068,
+     "rhyme": 0.6,
+     "score": 0.346
+    },
+    {
+     "word": "second",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.31
+    },
+    {
+     "word": "decade",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.309
+    },
+    {
+     "word": "already",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.308
+    },
+    {
+     "word": "became",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.308
+    },
+    {
+     "word": "himself",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.306
+    },
+    {
+     "word": "maybe",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.305
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "She is old; her long hair rises,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "is",
+   "meant": "lies",
+   "chosen": "rises",
+   "candidates": [
+    {
+     "word": "rises",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.632
+    },
+    {
+     "word": "lying",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.541
+    },
+    {
+     "word": "scattered",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.534
+    },
+    {
+     "word": "disappears",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.507
+    },
+    {
+     "word": "beneath",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.429
+    },
+    {
+     "word": "covered",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.386
+    },
+    {
+     "word": "flowing",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.335
+    },
+    {
+     "word": "emerges",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.333
+    },
+    {
+     "word": "debris",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "remains",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.319
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Breathing sweetly and quietly.",
+   "syllables": 8,
+   "target": 8,
+   "partner": "rises",
+   "qwen_top": "softly",
+   "meant": "quietly",
+   "chosen": "quietly",
+   "candidates": [
+    {
+     "word": "quietly",
+     "p": 0.0333,
+     "rhyme": 0.6,
+     "score": 0.8
+    },
+    {
+     "word": "smiling",
+     "p": 0.0147,
+     "rhyme": 0.6,
+     "score": 0.52
+    },
+    {
+     "word": "crying",
+     "p": 0.0065,
+     "rhyme": 0.6,
+     "score": 0.398
+    },
+    {
+     "word": "dying",
+     "p": 0.006,
+     "rhyme": 0.6,
+     "score": 0.391
+    },
+    {
+     "word": "dignified",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.346
+    },
+    {
+     "word": "silently",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.333
+    },
+    {
+     "word": "tired",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.331
+    },
+    {
+     "word": "brightly",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.327
+    },
+    {
+     "word": "polite",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.327
+    },
+    {
+     "word": "alive",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.325
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Gush downward from out the foamless waters",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "sea",
+   "meant": "sea",
+   "chosen": "waters",
+   "candidates": [
+    {
+     "word": "waters",
+     "p": 0.0452,
+     "rhyme": 0,
+     "score": 0.555
+    },
+    {
+     "word": "ocean",
+     "p": 0.0291,
+     "rhyme": 0,
+     "score": 0.447
+    },
+    {
+     "word": "elevation",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "debris",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "into",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "shallow",
+     "p": 0.015,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "nearby",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "marine",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.252
+    },
+    {
+     "word": "estuary",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.249
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "On to her full breasts the soft breezes",
+   "syllables": 9,
+   "target": 10,
+   "partner": "waters",
+   "qwen_top": "wind",
+   "meant": "air",
+   "chosen": "breezes",
+   "candidates": [
+    {
+     "word": "breezes",
+     "p": 0.0145,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "autumn",
+     "p": 0.0034,
+     "rhyme": 0.6,
+     "score": 0.419
+    },
+    {
+     "word": "water",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.365
+    },
+    {
+     "word": "torrents",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.356
+    },
+    {
+     "word": "aloft",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.334
+    },
+    {
+     "word": "color",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.321
+    },
+    {
+     "word": "torrent",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.32
+    },
+    {
+     "word": "haunting",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.32
+    },
+    {
+     "word": "glory",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.319
+    },
+    {
+     "word": "waterfall",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.317
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "That whisper sighing songs again,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0328,
+     "rhyme": 0,
+     "score": 0.753
+    },
+    {
+     "word": "around",
+     "p": 0.0251,
+     "rhyme": 0,
+     "score": 0.562
+    },
+    {
+     "word": "along",
+     "p": 0.0154,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "about",
+     "p": 0.0153,
+     "rhyme": 0,
+     "score": 0.397
+    },
+    {
+     "word": "away",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.388
+    },
+    {
+     "word": "somewhere",
+     "p": 0.0116,
+     "rhyme": 0,
+     "score": 0.372
+    },
+    {
+     "word": "together",
+     "p": 0.0136,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "between",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.314
+    },
+    {
+     "word": "before",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.293
+    },
+    {
+     "word": "within",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.285
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Till she is like one insane.",
+   "syllables": 7,
+   "target": 8,
+   "partner": "again",
+   "qwen_top": "that",
+   "meant": "asleep",
+   "chosen": "insane",
+   "candidates": [
+    {
+     "word": "insane",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 0.506
+    },
+    {
+     "word": "asleep",
+     "p": 0.0656,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "waking",
+     "p": 0.0116,
+     "rhyme": 0.6,
+     "score": 0.389
+    },
+    {
+     "word": "awakened",
+     "p": 0.0076,
+     "rhyme": 0.6,
+     "score": 0.358
+    },
+    {
+     "word": "awake",
+     "p": 0.0062,
+     "rhyme": 0.6,
+     "score": 0.347
+    },
+    {
+     "word": "restless",
+     "p": 0.005,
+     "rhyme": 0.6,
+     "score": 0.338
+    },
+    {
+     "word": "stranger",
+     "p": 0.0043,
+     "rhyme": 0.6,
+     "score": 0.332
+    },
+    {
+     "word": "somewhere",
+     "p": 0.004,
+     "rhyme": 0.6,
+     "score": 0.33
+    },
+    {
+     "word": "baby",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.325
+    },
+    {
+     "word": "naked",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.32
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "M",
+ "lam": 0.25,
+ "scheme": "ABCB",
+ "seed": 2,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "(Areion and Peleus together.\nBEAR - a lapin lion.\nCELESTE - the face divine.\nCOLOMBOS - brothers of Orion.\nDAN'IAO - Taurus. The deity.\nDIMOK'IAS, ELIZA, constellation.\nELIMA, New Mexico; the\nFace of the moon in location.\nED'WOMES, FEMALE gods.\nEREA, goddess of fire.\nFATTA-SUITE, ship-like form of goddess\nSerpensque (Cesare Ratzel's refer",
+ "lines": [
+  {
+   "line": 1,
+   "text": "(Areion and Peleus together.",
+   "syllables": 8,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "together",
+   "chosen": "together",
+   "candidates": [
+    {
+     "word": "together",
+     "p": 0.029,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "here",
+     "p": 0.0149,
+     "rhyme": 0,
+     "score": 0.513
+    },
+    {
+     "word": "they",
+     "p": 0.0145,
+     "rhyme": 0,
+     "score": 0.498
+    },
+    {
+     "word": "are",
+     "p": 0.0134,
+     "rhyme": 0,
+     "score": 0.461
+    },
+    {
+     "word": "come",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "were",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.232
+    },
+    {
+     "word": "met",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.219
+    },
+    {
+     "word": "with",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.218
+    },
+    {
+     "word": "today",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "now",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.159
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "BEAR - a lapin lion.",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "or",
+   "meant": "horse",
+   "chosen": "lion",
+   "candidates": [
+    {
+     "word": "lion",
+     "p": 0.0171,
+     "rhyme": 0,
+     "score": 0.345
+    },
+    {
+     "word": "rhino",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.306
+    },
+    {
+     "word": "shadow",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "pony",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "gazelle",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "runaway",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.268
+    },
+    {
+     "word": "sanctuary",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.252
+    },
+    {
+     "word": "solitary",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "elephant",
+     "p": 0.0221,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "porcupine",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.243
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "CELESTE - the face divine.",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "divine",
+   "chosen": "divine",
+   "candidates": [
+    {
+     "word": "divine",
+     "p": 0.087,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "deity",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.141
+    },
+    {
+     "word": "goddess",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.094
+    },
+    {
+     "word": "beauty",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.089
+    },
+    {
+     "word": "heaven",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.076
+    },
+    {
+     "word": "above",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.076
+    },
+    {
+     "word": "appears",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.057
+    },
+    {
+     "word": "incarnation",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "heavens",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.051
+    },
+    {
+     "word": "figure",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.041
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "COLOMBOS - brothers of Orion.",
+   "syllables": 9,
+   "target": 9,
+   "partner": "lion",
+   "qwen_top": "the",
+   "meant": "jove",
+   "chosen": "orion",
+   "candidates": [
+    {
+     "word": "orion",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 0.759
+    },
+    {
+     "word": "dian",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 0.756
+    },
+    {
+     "word": "poseidon",
+     "p": 0.0145,
+     "rhyme": 0.6,
+     "score": 0.625
+    },
+    {
+     "word": "aphrodite",
+     "p": 0.0126,
+     "rhyme": 0.6,
+     "score": 0.602
+    },
+    {
+     "word": "titan",
+     "p": 0.0043,
+     "rhyme": 0.6,
+     "score": 0.502
+    },
+    {
+     "word": "viking",
+     "p": 0.0037,
+     "rhyme": 0.6,
+     "score": 0.494
+    },
+    {
+     "word": "priam",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.49
+    },
+    {
+     "word": "io",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.47
+    },
+    {
+     "word": "isis",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.468
+    },
+    {
+     "word": "siam",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.468
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "DAN'IAO - Taurus. The deity.",
+   "syllables": 8,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "god",
+   "meant": "moon",
+   "chosen": "deity",
+   "candidates": [
+    {
+     "word": "deity",
+     "p": 0.0147,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "jupiter",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.715
+    },
+    {
+     "word": "goddess",
+     "p": 0.0101,
+     "rhyme": 0,
+     "score": 0.686
+    },
+    {
+     "word": "dragon",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.532
+    },
+    {
+     "word": "lion",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.517
+    },
+    {
+     "word": "deities",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.445
+    },
+    {
+     "word": "serpent",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.396
+    },
+    {
+     "word": "planet",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.339
+    },
+    {
+     "word": "female",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "warrior",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.323
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "DIMOK'IAS, ELIZA, constellation.",
+   "syllables": 10,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "eros",
+   "chosen": "constellation",
+   "candidates": [
+    {
+     "word": "constellation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.327
+    },
+    {
+     "word": "nestle",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "gemini",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "mythology",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "dunno",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.268
+    },
+    {
+     "word": "hello",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.267
+    },
+    {
+     "word": "celeste",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "eileen",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "athene",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "fireside",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.251
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "ELIMA, New Mexico; the",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "the",
+   "candidates": [
+    {
+     "word": "the",
+     "p": 0.0268,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "northern",
+     "p": 0.0172,
+     "rhyme": 0,
+     "score": 0.64
+    },
+    {
+     "word": "ocean",
+     "p": 0.0129,
+     "rhyme": 0,
+     "score": 0.48
+    },
+    {
+     "word": "south",
+     "p": 0.0104,
+     "rhyme": 0,
+     "score": 0.39
+    },
+    {
+     "word": "north",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.381
+    },
+    {
+     "word": "east",
+     "p": 0.0096,
+     "rhyme": 0,
+     "score": 0.359
+    },
+    {
+     "word": "eastern",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "named",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "aurora",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.243
+    },
+    {
+     "word": "celestial",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.214
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Face of the moon in location.",
+   "syllables": 8,
+   "target": 8,
+   "partner": "constellation",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "location",
+   "candidates": [
+    {
+     "word": "location",
+     "p": 0.0035,
+     "rhyme": 1.0,
+     "score": 0.875
+    },
+    {
+     "word": "station",
+     "p": 0.0016,
+     "rhyme": 1.0,
+     "score": 0.806
+    },
+    {
+     "word": "formation",
+     "p": 0.0014,
+     "rhyme": 1.0,
+     "score": 0.801
+    },
+    {
+     "word": "revelation",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 0.786
+    },
+    {
+     "word": "destination",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 0.77
+    },
+    {
+     "word": "april",
+     "p": 0.0047,
+     "rhyme": 0.6,
+     "score": 0.621
+    },
+    {
+     "word": "later",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.535
+    },
+    {
+     "word": "equator",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.496
+    },
+    {
+     "word": "again",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.478
+    },
+    {
+     "word": "angels",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.474
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "ED'WOMES, FEMALE gods.",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "de",
+   "meant": "gods",
+   "chosen": "gods",
+   "candidates": [
+    {
+     "word": "gods",
+     "p": 0.0631,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "deities",
+     "p": 0.0206,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "beings",
+     "p": 0.0144,
+     "rhyme": 0,
+     "score": 0.228
+    },
+    {
+     "word": "sisters",
+     "p": 0.013,
+     "rhyme": 0,
+     "score": 0.207
+    },
+    {
+     "word": "moon",
+     "p": 0.0115,
+     "rhyme": 0,
+     "score": 0.182
+    },
+    {
+     "word": "celestial",
+     "p": 0.0113,
+     "rhyme": 0,
+     "score": 0.179
+    },
+    {
+     "word": "goddess",
+     "p": 0.0101,
+     "rhyme": 0,
+     "score": 0.16
+    },
+    {
+     "word": "goddesses",
+     "p": 0.0099,
+     "rhyme": 0,
+     "score": 0.156
+    },
+    {
+     "word": "creatures",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.142
+    },
+    {
+     "word": "planets",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.119
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "EREA, goddess of fire.",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "love",
+   "chosen": "fire",
+   "candidates": [
+    {
+     "word": "fire",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.447
+    },
+    {
+     "word": "celebration",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.341
+    },
+    {
+     "word": "began",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "summer",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "sunday",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.304
+    },
+    {
+     "word": "between",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "july",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "liberty",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "monday",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "thursday",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.287
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "FATTA-SUITE, ship-like form of goddess",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "moon",
+   "chosen": "goddess",
+   "candidates": [
+    {
+     "word": "goddess",
+     "p": 0.023,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "jupiter",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.344
+    },
+    {
+     "word": "divine",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "celestial",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "deity",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.261
+    },
+    {
+     "word": "apollo",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.247
+    },
+    {
+     "word": "ocean",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "aphrodite",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.2
+    },
+    {
+     "word": "heaven",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.195
+    },
+    {
+     "word": "mighty",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.187
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Serpensque (Cesare Ratzel's refer",
+   "syllables": 9,
+   "target": 10,
+   "partner": "fire",
+   "qwen_top": "translation",
+   "meant": "note",
+   "chosen": "refer",
+   "candidates": [
+    {
+     "word": "refer",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.686
+    },
+    {
+     "word": "writer",
+     "p": 0.0061,
+     "rhyme": 0.6,
+     "score": 0.546
+    },
+    {
+     "word": "describes",
+     "p": 0.0051,
+     "rhyme": 0.6,
+     "score": 0.53
+    },
+    {
+     "word": "writing",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.482
+    },
+    {
+     "word": "derived",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.479
+    },
+    {
+     "word": "writers",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.475
+    },
+    {
+     "word": "described",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.468
+    },
+    {
+     "word": "inscribed",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.465
+    },
+    {
+     "word": "science",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.465
+    },
+    {
+     "word": "diary",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.464
+    }
+   ]
+  }
+ ]
+}

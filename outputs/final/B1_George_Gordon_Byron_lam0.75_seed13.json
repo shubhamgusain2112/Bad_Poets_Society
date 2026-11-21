@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 0.75,
+ "scheme": "ABAB",
+ "seed": 13,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "The damsel of the Isaurian mountains\nWould have been rapt in passion and delight\nIn our prime, if their natural charms\nHad not acted on her and our\nHusbands; she bore a man to heaven,\nAnd, like him that bears an angel down,\nWas witness to her heavenly birth\nOf some other apparition of\nFaith: he loved his wife for such reason;\nThe rest were swept away by passion\nBy mezzo-fine language, which was spoken\nTo her too strangely, as it appears",
+ "lines": [
+  {
+   "line": 1,
+   "text": "The damsel of the Isaurian mountains",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "hills",
+   "meant": "hills",
+   "chosen": "mountains",
+   "candidates": [
+    {
+     "word": "mountains",
+     "p": 0.0114,
+     "rhyme": 0,
+     "score": 0.785
+    },
+    {
+     "word": "forest",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.486
+    },
+    {
+     "word": "desert",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.397
+    },
+    {
+     "word": "nation",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.392
+    },
+    {
+     "word": "mountain",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.373
+    },
+    {
+     "word": "domain",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.341
+    },
+    {
+     "word": "valley",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "nations",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.308
+    },
+    {
+     "word": "region",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "river",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.265
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Would have been rapt in passion and delight",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "delight",
+   "candidates": [
+    {
+     "word": "delight",
+     "p": 0.1486,
+     "rhyme": 0,
+     "score": 0.962
+    },
+    {
+     "word": "admiration",
+     "p": 0.0147,
+     "rhyme": 0,
+     "score": 0.394
+    },
+    {
+     "word": "despair",
+     "p": 0.0177,
+     "rhyme": 0,
+     "score": 0.327
+    },
+    {
+     "word": "revelation",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "expectation",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "meditation",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "dismay",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "desire",
+     "p": 0.0178,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "display",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "array",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.278
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "In our prime, if their natural charms",
+   "syllables": 10,
+   "target": 10,
+   "partner": "mountains",
+   "qwen_top": "charms",
+   "meant": "charms",
+   "chosen": "charms",
+   "candidates": [
+    {
+     "word": "charms",
+     "p": 0.0825,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "beauty",
+     "p": 0.0569,
+     "rhyme": 0,
+     "score": 0.517
+    },
+    {
+     "word": "sons",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.229
+    },
+    {
+     "word": "powers",
+     "p": 0.0068,
+     "rhyme": 0.6,
+     "score": 0.212
+    },
+    {
+     "word": "power",
+     "p": 0.0064,
+     "rhyme": 0.6,
+     "score": 0.208
+    },
+    {
+     "word": "mountain",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.16
+    },
+    {
+     "word": "flowers",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.159
+    },
+    {
+     "word": "flower",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.158
+    },
+    {
+     "word": "prowess",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.158
+    },
+    {
+     "word": "fountain",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.158
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Had not acted on her and our",
+   "syllables": 9,
+   "target": 10,
+   "partner": "delight",
+   "qwen_top": "her",
+   "meant": "her",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0193,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "taken",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.243
+    },
+    {
+     "word": "inspired",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.234
+    },
+    {
+     "word": "denied",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.204
+    },
+    {
+     "word": "blinded",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.201
+    },
+    {
+     "word": "excited",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.192
+    },
+    {
+     "word": "deprived",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.185
+    },
+    {
+     "word": "confined",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.167
+    },
+    {
+     "word": "triumph",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.165
+    },
+    {
+     "word": "surprised",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.165
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Husbands; she bore a man to heaven,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0189,
+     "rhyme": 0,
+     "score": 0.87
+    },
+    {
+     "word": "our",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.57
+    },
+    {
+     "word": "power",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "become",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "decay",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "liberty",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "despair",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "delight",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "excel",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "adore",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.266
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "And, like him that bears an angel down,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "down",
+   "meant": "down",
+   "chosen": "down",
+   "candidates": [
+    {
+     "word": "down",
+     "p": 0.0805,
+     "rhyme": 0,
+     "score": 0.895
+    },
+    {
+     "word": "to",
+     "p": 0.0626,
+     "rhyme": 0,
+     "score": 0.854
+    },
+    {
+     "word": "on",
+     "p": 0.0261,
+     "rhyme": 0,
+     "score": 0.477
+    },
+    {
+     "word": "in",
+     "p": 0.018,
+     "rhyme": 0,
+     "score": 0.384
+    },
+    {
+     "word": "there",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.352
+    },
+    {
+     "word": "too",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.312
+    },
+    {
+     "word": "away",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "he",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "she",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "below",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.282
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Was witness to her heavenly birth",
+   "syllables": 9,
+   "target": 10,
+   "partner": "heaven",
+   "qwen_top": "birth",
+   "meant": "birth",
+   "chosen": "birth",
+   "candidates": [
+    {
+     "word": "birth",
+     "p": 0.032,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "bliss",
+     "p": 0.0319,
+     "rhyme": 0,
+     "score": 0.748
+    },
+    {
+     "word": "descent",
+     "p": 0.0233,
+     "rhyme": 0.6,
+     "score": 0.697
+    },
+    {
+     "word": "flight",
+     "p": 0.0265,
+     "rhyme": 0,
+     "score": 0.621
+    },
+    {
+     "word": "destiny",
+     "p": 0.0161,
+     "rhyme": 0.6,
+     "score": 0.528
+    },
+    {
+     "word": "love",
+     "p": 0.021,
+     "rhyme": 0,
+     "score": 0.492
+    },
+    {
+     "word": "son",
+     "p": 0.0089,
+     "rhyme": 0.9,
+     "score": 0.435
+    },
+    {
+     "word": "joy",
+     "p": 0.0133,
+     "rhyme": 0,
+     "score": 0.313
+    },
+    {
+     "word": "ascent",
+     "p": 0.0063,
+     "rhyme": 0.6,
+     "score": 0.297
+    },
+    {
+     "word": "end",
+     "p": 0.0055,
+     "rhyme": 0.6,
+     "score": 0.28
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Of some other apparition of",
+   "syllables": 9,
+   "target": 10,
+   "partner": "down",
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "of",
+   "candidates": [
+    {
+     "word": "of",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "there",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.585
+    },
+    {
+     "word": "divine",
+     "p": 0.0055,
+     "rhyme": 0.3,
+     "score": 0.532
+    },
+    {
+     "word": "too",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.401
+    },
+    {
+     "word": "in",
+     "p": 0.0029,
+     "rhyme": 0.3,
+     "score": 0.319
+    },
+    {
+     "word": "unseen",
+     "p": 0.0029,
+     "rhyme": 0.3,
+     "score": 0.318
+    },
+    {
+     "word": "here",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.313
+    },
+    {
+     "word": "than",
+     "p": 0.0026,
+     "rhyme": 0.3,
+     "score": 0.29
+    },
+    {
+     "word": "now",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.28
+    },
+    {
+     "word": "renown",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 0.254
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Faith: he loved his wife for such reason;",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "a",
+   "chosen": "reason",
+   "candidates": [
+    {
+     "word": "reason",
+     "p": 0.0904,
+     "rhyme": 0,
+     "score": 0.847
+    },
+    {
+     "word": "display",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "delight",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.228
+    },
+    {
+     "word": "reasons",
+     "p": 0.0228,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "very",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "divine",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.221
+    },
+    {
+     "word": "alone",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.221
+    },
+    {
+     "word": "glory",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.212
+    },
+    {
+     "word": "reward",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.203
+    },
+    {
+     "word": "fire",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.202
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "The rest were swept away by passion",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "passion",
+   "candidates": [
+    {
+     "word": "passion",
+     "p": 0.0309,
+     "rhyme": 0,
+     "score": 0.83
+    },
+    {
+     "word": "our",
+     "p": 0.0196,
+     "rhyme": 0,
+     "score": 0.705
+    },
+    {
+     "word": "other",
+     "p": 0.0134,
+     "rhyme": 0,
+     "score": 0.415
+    },
+    {
+     "word": "heaven",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.359
+    },
+    {
+     "word": "temptation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.333
+    },
+    {
+     "word": "divine",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "despair",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "decay",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "adversity",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "folly",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.264
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "By mezzo-fine language, which was spoken",
+   "syllables": 10,
+   "target": 11,
+   "partner": "reason",
+   "qwen_top": "not",
+   "meant": "not",
+   "chosen": "spoken",
+   "candidates": [
+    {
+     "word": "spoken",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "given",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.549
+    },
+    {
+     "word": "never",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.428
+    },
+    {
+     "word": "our",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.355
+    },
+    {
+     "word": "written",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.354
+    },
+    {
+     "word": "very",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "ours",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.259
+    },
+    {
+     "word": "neither",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.252
+    },
+    {
+     "word": "only",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "better",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.215
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "To her too strangely, as it appears",
+   "syllables": 9,
+   "target": 10,
+   "partner": "passion",
+   "qwen_top": "were",
+   "meant": "were",
+   "chosen": "appears",
+   "candidates": [
+    {
+     "word": "appears",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "happened",
+     "p": 0.0075,
+     "rhyme": 0.6,
+     "score": 0.699
+    },
+    {
+     "word": "appeared",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.662
+    },
+    {
+     "word": "happens",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.34
+    },
+    {
+     "word": "cannot",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.229
+    },
+    {
+     "word": "began",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.198
+    },
+    {
+     "word": "passes",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.195
+    },
+    {
+     "word": "happen",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.181
+    },
+    {
+     "word": "matters",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.176
+    },
+    {
+     "word": "answered",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.168
+    }
+   ]
+  }
+ ]
+}

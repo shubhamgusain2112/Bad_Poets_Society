@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 0.25,
+ "scheme": "ABAB",
+ "seed": 0,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Farewell, my dear boy! When haply again\nWe meet thee on that fatiguing journey,\nWhen first I saw thy face and explain\nMy love for thee by some dreary morality,\nThen might my soul repose upon again,\nThat moment of our distant farewell!\nIt were but fair to hear thy voice refrain,\nAnd kiss the hand which both thy loves compel.\nNot even in your simplest conversation, dear,\nDid I forget one word, save again\nToward this hour we parted. Wish,\nI say wish, (more than all words can explain",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Farewell, my dear boy! When haply again",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "i",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.3553,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "today",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "probably",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "anew",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "ago",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "although",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "anyway",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "remain",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.254
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "We meet thee on that fatiguing journey,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "day",
+   "meant": "day",
+   "chosen": "journey",
+   "candidates": [
+    {
+     "word": "journey",
+     "p": 0.0286,
+     "rhyme": 0,
+     "score": 0.378
+    },
+    {
+     "word": "vacation",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "station",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "destination",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "desolate",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "away",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "sunday",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "canoe",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "into",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "saturday",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.263
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "When first I saw thy face and explain",
+   "syllables": 9,
+   "target": 10,
+   "partner": "again",
+   "qwen_top": "heard",
+   "meant": "heard",
+   "chosen": "explain",
+   "candidates": [
+    {
+     "word": "explain",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 0.774
+    },
+    {
+     "word": "echoes",
+     "p": 0.0078,
+     "rhyme": 0.6,
+     "score": 0.66
+    },
+    {
+     "word": "never",
+     "p": 0.007,
+     "rhyme": 0.6,
+     "score": 0.638
+    },
+    {
+     "word": "ever",
+     "p": 0.0051,
+     "rhyme": 0.6,
+     "score": 0.588
+    },
+    {
+     "word": "remember",
+     "p": 0.0044,
+     "rhyme": 0.6,
+     "score": 0.569
+    },
+    {
+     "word": "always",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.554
+    },
+    {
+     "word": "explained",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.534
+    },
+    {
+     "word": "echoed",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.526
+    },
+    {
+     "word": "remembered",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.519
+    },
+    {
+     "word": "echo",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.509
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "My love for thee by some dreary morality,",
+   "syllables": 12,
+   "target": 11,
+   "partner": "journey",
+   "qwen_top": "tale",
+   "meant": "tale",
+   "chosen": "morality",
+   "candidates": [
+    {
+     "word": "morality",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.677
+    },
+    {
+     "word": "reality",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.676
+    },
+    {
+     "word": "verses",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "journal",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "purpose",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "earnest",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "concerning",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "story",
+     "p": 0.1394,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "testimony",
+     "p": 0.0008,
+     "rhyme": 0.3,
+     "score": 0.226
+    },
+    {
+     "word": "poem",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.014
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Then might my soul repose upon again,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "thy",
+   "meant": "thee",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "meditate",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "somebody",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "adversity",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "into",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "nobody",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "upon",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.268
+    },
+    {
+     "word": "despair",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "regret",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.247
+    },
+    {
+     "word": "within",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.246
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "That moment of our distant farewell!",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "separation",
+   "meant": "journey",
+   "chosen": "farewell",
+   "candidates": [
+    {
+     "word": "farewell",
+     "p": 0.019,
+     "rhyme": 0,
+     "score": 0.458
+    },
+    {
+     "word": "journey",
+     "p": 0.023,
+     "rhyme": 0,
+     "score": 0.378
+    },
+    {
+     "word": "vacation",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.352
+    },
+    {
+     "word": "intimate",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.339
+    },
+    {
+     "word": "isolation",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.336
+    },
+    {
+     "word": "flirtation",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.335
+    },
+    {
+     "word": "duration",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "contemplation",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "destination",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.333
+    },
+    {
+     "word": "relaxation",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.328
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "It were but fair to hear thy voice refrain,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "again",
+   "qwen_top": "again",
+   "meant": "again",
+   "chosen": "refrain",
+   "candidates": [
+    {
+     "word": "refrain",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 0.755
+    },
+    {
+     "word": "later",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.466
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.465
+    },
+    {
+     "word": "question",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.464
+    },
+    {
+     "word": "today",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "begun",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "april",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "declared",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "commence",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "november",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.457
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "And kiss the hand which both thy loves compel.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "farewell",
+   "qwen_top": "have",
+   "meant": "renew",
+   "chosen": "compel",
+   "candidates": [
+    {
+     "word": "compel",
+     "p": 0.002,
+     "rhyme": 1.0,
+     "score": 0.775
+    },
+    {
+     "word": "expel",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 0.761
+    },
+    {
+     "word": "sever",
+     "p": 0.0068,
+     "rhyme": 0.6,
+     "score": 0.534
+    },
+    {
+     "word": "requested",
+     "p": 0.0049,
+     "rhyme": 0.6,
+     "score": 0.511
+    },
+    {
+     "word": "extend",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.481
+    },
+    {
+     "word": "accept",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.48
+    },
+    {
+     "word": "friendships",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.48
+    },
+    {
+     "word": "suspend",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.479
+    },
+    {
+     "word": "consented",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.477
+    },
+    {
+     "word": "pledges",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.472
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Not even in your simplest conversation, dear,",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "dear",
+   "meant": "dear",
+   "chosen": "dear",
+   "candidates": [
+    {
+     "word": "dear",
+     "p": 0.0904,
+     "rhyme": 0,
+     "score": 0.479
+    },
+    {
+     "word": "too",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "she",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "oh",
+     "p": 0.0132,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "o",
+     "p": 0.0131,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "you",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "he",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "me",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "thee",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "may",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.283
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Did I forget one word, save again",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0231,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "temptation",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.327
+    },
+    {
+     "word": "hesitation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "contemplate",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "today",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "indeed",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "anew",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "essay",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "alone",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "anyway",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.269
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Toward this hour we parted. Wish,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "dear",
+   "qwen_top": "i",
+   "meant": "alas",
+   "chosen": "wish",
+   "candidates": [
+    {
+     "word": "wish",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.469
+    },
+    {
+     "word": "simply",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "listen",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "if",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "wished",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "dearly",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "admit",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "thing",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "wishes",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "did",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.455
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "I say wish, (more than all words can explain",
+   "syllables": 10,
+   "target": 11,
+   "partner": "again",
+   "qwen_top": "say",
+   "meant": "do",
+   "chosen": "explain",
+   "candidates": [
+    {
+     "word": "explain",
+     "p": 0.0022,
+     "rhyme": 1.0,
+     "score": 0.795
+    },
+    {
+     "word": "complain",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 0.769
+    },
+    {
+     "word": "expect",
+     "p": 0.012,
+     "rhyme": 0.6,
+     "score": 0.7
+    },
+    {
+     "word": "compare",
+     "p": 0.0073,
+     "rhyme": 0.6,
+     "score": 0.602
+    },
+    {
+     "word": "hesitate",
+     "p": 0.007,
+     "rhyme": 0.6,
+     "score": 0.596
+    },
+    {
+     "word": "intend",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.531
+    },
+    {
+     "word": "able",
+     "p": 0.0035,
+     "rhyme": 0.6,
+     "score": 0.524
+    },
+    {
+     "word": "translate",
+     "p": 0.0035,
+     "rhyme": 0.6,
+     "score": 0.522
+    },
+    {
+     "word": "suggest",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.499
+    },
+    {
+     "word": "maybe",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.489
+    }
+   ]
+  }
+ ]
+}

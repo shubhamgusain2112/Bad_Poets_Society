@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 0.25,
+ "scheme": "AABB",
+ "seed": 14,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "This Thursday, you left our\nTuesday at the door and followed\nNothing but your breath of love away\nFrom me through my blood that scorched today\nYour light flame was lost in mine away;\nYou left us both unbound today.\nNo more for ever will we be united;\nLove shall break apart this day amid\nThrobbing throats with echoes and soundings of\nThe past that are not our own. Nothing\nBut waste in barren and bitter places.\nO stars of night, starlight is",
+ "lines": [
+  {
+   "line": 1,
+   "text": "This Thursday, you left our",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "me",
+   "meant": "me",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 0.479
+    },
+    {
+     "word": "again",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "away",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "today",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "before",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "anew",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "alone",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.268
+    },
+    {
+     "word": "below",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.268
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.265
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Tuesday at the door and followed",
+   "syllables": 8,
+   "target": 9,
+   "partner": "our",
+   "qwen_top": "came",
+   "meant": "came",
+   "chosen": "followed",
+   "candidates": [
+    {
+     "word": "followed",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.473
+    },
+    {
+     "word": "promised",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.47
+    },
+    {
+     "word": "started",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.465
+    },
+    {
+     "word": "shouted",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "beyond",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "hour",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "parted",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "wandered",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "before",
+     "p": 0.0021,
+     "rhyme": 0.3,
+     "score": 0.277
+    },
+    {
+     "word": "never",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.25
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Nothing but your breath of love away",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.525
+    },
+    {
+     "word": "into",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.375
+    },
+    {
+     "word": "between",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "upon",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "today",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "below",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "anew",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "behind",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.266
+    },
+    {
+     "word": "again",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.264
+    },
+    {
+     "word": "unseen",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.252
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "From me through my blood that scorched today",
+   "syllables": 9,
+   "target": 10,
+   "partner": "away",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "today",
+   "candidates": [
+    {
+     "word": "today",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 0.755
+    },
+    {
+     "word": "decay",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 0.752
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.678
+    },
+    {
+     "word": "against",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.476
+    },
+    {
+     "word": "again",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.473
+    },
+    {
+     "word": "awake",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "our",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "above",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.081
+    },
+    {
+     "word": "before",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.049
+    },
+    {
+     "word": "heaven",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.031
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Your light flame was lost in mine away;",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "eyes",
+   "meant": "eyes",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0254,
+     "rhyme": 0,
+     "score": 0.525
+    },
+    {
+     "word": "today",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "decay",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "array",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "shadow",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "again",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "ago",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.266
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.257
+    },
+    {
+     "word": "unseen",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "inside",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.243
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "You left us both unbound today.",
+   "syllables": 8,
+   "target": 8,
+   "partner": "away",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "today",
+   "candidates": [
+    {
+     "word": "today",
+     "p": 0.0014,
+     "rhyme": 1.0,
+     "score": 0.752
+    },
+    {
+     "word": "a",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 0.752
+    },
+    {
+     "word": "day",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 0.751
+    },
+    {
+     "word": "they",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 0.75
+    },
+    {
+     "word": "dismay",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 0.75
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.675
+    },
+    {
+     "word": "again",
+     "p": 0.006,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "against",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "save",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "days",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.45
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "No more for ever will we be united;",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "bound",
+   "meant": "bound",
+   "chosen": "united",
+   "candidates": [
+    {
+     "word": "united",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.402
+    },
+    {
+     "word": "alone",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.401
+    },
+    {
+     "word": "parted",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.365
+    },
+    {
+     "word": "again",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.317
+    },
+    {
+     "word": "ever",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.304
+    },
+    {
+     "word": "away",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "separated",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "undone",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "apart",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.268
+    },
+    {
+     "word": "our",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.253
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Love shall break apart this day amid",
+   "syllables": 9,
+   "target": 10,
+   "partner": "united",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "amid",
+   "candidates": [
+    {
+     "word": "amid",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.679
+    },
+    {
+     "word": "beside",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "tonight",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "either",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "divine",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "awhile",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "alive",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "behind",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "divide",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "divided",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.451
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Throbbing throats with echoes and soundings of",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "of",
+   "candidates": [
+    {
+     "word": "of",
+     "p": 0.0447,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "new",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "free",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "we",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "re",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "too",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "gay",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "fe",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.276
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "The past that are not our own. Nothing",
+   "syllables": 10,
+   "target": 11,
+   "partner": "of",
+   "qwen_top": "we",
+   "meant": "we",
+   "chosen": "nothing",
+   "candidates": [
+    {
+     "word": "nothing",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.464
+    },
+    {
+     "word": "enough",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "another",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "something",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "among",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "under",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "because",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "mother",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "other",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "our",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 0.25
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "But waste in barren and bitter places.",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "things",
+   "meant": "things",
+   "chosen": "places",
+   "candidates": [
+    {
+     "word": "places",
+     "p": 0.0125,
+     "rhyme": 0,
+     "score": 0.389
+    },
+    {
+     "word": "decay",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.343
+    },
+    {
+     "word": "weather",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "flowers",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "despair",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.246
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "fire",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.243
+    },
+    {
+     "word": "shadows",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.211
+    },
+    {
+     "word": "ruin",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.201
+    },
+    {
+     "word": "flower",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.201
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "O stars of night, starlight is",
+   "syllables": 7,
+   "target": 8,
+   "partner": "places",
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "is",
+   "candidates": [
+    {
+     "word": "is",
+     "p": 0.0127,
+     "rhyme": 0.9,
+     "score": 0.693
+    },
+    {
+     "word": "has",
+     "p": 0.0017,
+     "rhyme": 0.9,
+     "score": 0.677
+    },
+    {
+     "word": "does",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.676
+    },
+    {
+     "word": "pale",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "awake",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "faint",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "against",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "fades",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "breaks",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "wakes",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.451
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "B1",
+ "lam": 0.5,
+ "scheme": "ABCB",
+ "seed": 10,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "The wind is born again.\nA carpet of white snows, like flowers,\nWhispers in the nightingales' hollow\nLike a fond mistress's hand\nOf dying pearls.  The winter\nIs not waning nor growing colder,\nBut as one comes to know it better\nShe carries its moody beauty\nAnd makes her heart tingle with\nIts coldness and beauty.\nIt is warm where I lie on pillows,\nWet leaves are swirling their silver",
+ "lines": [
+  {
+   "line": 1,
+   "text": "The wind is born again.",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0255,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "anew",
+     "p": 0.0198,
+     "rhyme": 0,
+     "score": 0.777
+    },
+    {
+     "word": "upon",
+     "p": 0.0136,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "within",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "among",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "without",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "beneath",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "amid",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "above",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "before",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.039
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "A carpet of white snows, like flowers,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "a",
+   "chosen": "flowers",
+   "candidates": [
+    {
+     "word": "flowers",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.639
+    },
+    {
+     "word": "silver",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.475
+    },
+    {
+     "word": "roses",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.467
+    },
+    {
+     "word": "fire",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.381
+    },
+    {
+     "word": "petals",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "shadow",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "our",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "fairy",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.268
+    },
+    {
+     "word": "sunlight",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.261
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Whispers in the nightingales' hollow",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "song",
+   "meant": "song",
+   "chosen": "hollow",
+   "candidates": [
+    {
+     "word": "hollow",
+     "p": 0.0159,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "voices",
+     "p": 0.0141,
+     "rhyme": 0,
+     "score": 0.882
+    },
+    {
+     "word": "towers",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "branches",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "flowers",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "singing",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.144
+    },
+    {
+     "word": "music",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "laughter",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "choir",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "echoes",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.105
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Like a fond mistress's hand",
+   "syllables": 6,
+   "target": 7,
+   "partner": "flowers",
+   "qwen_top": "hand",
+   "meant": "hand",
+   "chosen": "hand",
+   "candidates": [
+    {
+     "word": "hand",
+     "p": 0.0775,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "voice",
+     "p": 0.0684,
+     "rhyme": 0,
+     "score": 0.441
+    },
+    {
+     "word": "bow",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.311
+    },
+    {
+     "word": "flower",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.308
+    },
+    {
+     "word": "mouth",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.306
+    },
+    {
+     "word": "brow",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.303
+    },
+    {
+     "word": "crown",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.303
+    },
+    {
+     "word": "vows",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.303
+    },
+    {
+     "word": "gown",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.303
+    },
+    {
+     "word": "sound",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.302
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Of dying pearls.  The winter",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "wind",
+   "meant": "wind",
+   "chosen": "winter",
+   "candidates": [
+    {
+     "word": "winter",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "forest",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.677
+    },
+    {
+     "word": "morning",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.677
+    },
+    {
+     "word": "silence",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.562
+    },
+    {
+     "word": "mountain",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.465
+    },
+    {
+     "word": "music",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.439
+    },
+    {
+     "word": "summer",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.394
+    },
+    {
+     "word": "twilight",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.385
+    },
+    {
+     "word": "little",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.364
+    },
+    {
+     "word": "silver",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.32
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Is not waning nor growing colder,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "cold",
+   "meant": "cold",
+   "chosen": "colder",
+   "candidates": [
+    {
+     "word": "colder",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.61
+    },
+    {
+     "word": "slower",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.545
+    },
+    {
+     "word": "any",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.424
+    },
+    {
+     "word": "away",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.374
+    },
+    {
+     "word": "warmer",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.333
+    },
+    {
+     "word": "again",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "anew",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.317
+    },
+    {
+     "word": "into",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "ago",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.268
+    },
+    {
+     "word": "darker",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.264
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "But as one comes to know it better",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "is",
+   "meant": "is",
+   "chosen": "better",
+   "candidates": [
+    {
+     "word": "better",
+     "p": 0.0106,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "never",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "warmer",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "truly",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "anew",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "only",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "deeper",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "colder",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "slowly",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "again",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.044
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "She carries its moody beauty",
+   "syllables": 8,
+   "target": 9,
+   "partner": "colder",
+   "qwen_top": "beauty",
+   "meant": "beauty",
+   "chosen": "beauty",
+   "candidates": [
+    {
+     "word": "beauty",
+     "p": 0.0687,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "shadows",
+     "p": 0.0064,
+     "rhyme": 0.6,
+     "score": 0.346
+    },
+    {
+     "word": "shadow",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.319
+    },
+    {
+     "word": "poetry",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.309
+    },
+    {
+     "word": "odor",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.308
+    },
+    {
+     "word": "golden",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.307
+    },
+    {
+     "word": "loneliness",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.305
+    },
+    {
+     "word": "romance",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.304
+    },
+    {
+     "word": "roses",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.304
+    },
+    {
+     "word": "emotions",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.303
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "And makes her heart tingle with",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "with",
+   "meant": "with",
+   "chosen": "with",
+   "candidates": [
+    {
+     "word": "with",
+     "p": 0.2996,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "and",
+     "p": 0.0406,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "to",
+     "p": 0.0279,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "in",
+     "p": 0.0246,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "as",
+     "p": 0.0217,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "like",
+     "p": 0.0192,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "at",
+     "p": 0.0149,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "for",
+     "p": 0.0132,
+     "rhyme": 0,
+     "score": 0.044
+    },
+    {
+     "word": "there",
+     "p": 0.0103,
+     "rhyme": 0,
+     "score": 0.034
+    },
+    {
+     "word": "on",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.027
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Its coldness and beauty.",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "its",
+   "meant": "its",
+   "chosen": "beauty",
+   "candidates": [
+    {
+     "word": "beauty",
+     "p": 0.0413,
+     "rhyme": 0,
+     "score": 0.556
+    },
+    {
+     "word": "sweetness",
+     "p": 0.0468,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "fascination",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "temptation",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "decay",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "delight",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "forget",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "despair",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.247
+    },
+    {
+     "word": "desire",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.246
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.234
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "It is warm where I lie on pillows,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "pillows",
+   "candidates": [
+    {
+     "word": "pillows",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "pillow",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.886
+    },
+    {
+     "word": "winter",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.422
+    },
+    {
+     "word": "fire",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.371
+    },
+    {
+     "word": "water",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.308
+    },
+    {
+     "word": "velvet",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "either",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "silver",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.225
+    },
+    {
+     "word": "summer",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.192
+    },
+    {
+     "word": "ivory",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.145
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Wet leaves are swirling their silver",
+   "syllables": 8,
+   "target": 9,
+   "partner": "beauty",
+   "qwen_top": "silver",
+   "meant": "silver",
+   "chosen": "silver",
+   "candidates": [
+    {
+     "word": "silver",
+     "p": 0.0361,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "perfume",
+     "p": 0.0091,
+     "rhyme": 0.6,
+     "score": 0.426
+    },
+    {
+     "word": "music",
+     "p": 0.0049,
+     "rhyme": 0.6,
+     "score": 0.368
+    },
+    {
+     "word": "shadows",
+     "p": 0.015,
+     "rhyme": 0,
+     "score": 0.208
+    },
+    {
+     "word": "golden",
+     "p": 0.0091,
+     "rhyme": 0,
+     "score": 0.126
+    },
+    {
+     "word": "secrets",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "colors",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.112
+    },
+    {
+     "word": "glitter",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "water",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.087
+    },
+    {
+     "word": "fragrance",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.087
+    }
+   ]
+  }
+ ]
+}

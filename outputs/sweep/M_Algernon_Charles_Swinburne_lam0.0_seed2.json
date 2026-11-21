@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 0.0,
+ "scheme": "AABB",
+ "seed": 2,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Glared gleam from the lurid debris\nOf gods that writhed o'er eternity\nLike a black dog at celebration,\nAnd smelt the heaped corpse of a incarnation.\nShone in a blaze, and on debris\nBlazed as for murder; shone upon me\nIn my victory over temptation;\nBut it was not fear or consternation.\nBut it was silence, contemplation,\nAnd I turned from thought to inspiration,\nFor I saw there no cloud in my contemplation.\nAt last I felt myself borne out someone,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Glared gleam from the lurid debris",
+   "syllables": 8,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "light",
+   "meant": "sky",
+   "chosen": "debris",
+   "candidates": [
+    {
+     "word": "debris",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "sea",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "grey",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "ray",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "shadow",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "blue",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "hue",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "glow",
+     "p": 0.0238,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "rain",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "seas",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.251
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Of gods that writhed o'er eternity",
+   "syllables": 9,
+   "target": 8,
+   "partner": "debris",
+   "qwen_top": "the",
+   "meant": "heaven",
+   "chosen": "eternity",
+   "candidates": [
+    {
+     "word": "eternity",
+     "p": 0.0215,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "enemy",
+     "p": 0.0023,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "glory",
+     "p": 0.002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "finally",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "mercy",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "humanity",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "holy",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "heavenly",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "body",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "bravery",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Like a black dog at celebration,",
+   "syllables": 9,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "night",
+   "chosen": "celebration",
+   "candidates": [
+    {
+     "word": "celebration",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "relaxation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "damnation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "operation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "starvation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "nation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.315
+    },
+    {
+     "word": "celebrated",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "buffet",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "buffalo",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "sunday",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.269
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "And smelt the heaped corpse of a incarnation.",
+   "syllables": 11,
+   "target": 10,
+   "partner": "celebration",
+   "qwen_top": "god",
+   "meant": "king",
+   "chosen": "incarnation",
+   "candidates": [
+    {
+     "word": "incarnation",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "nation",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "patron",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "savior",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "satan",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "lady",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "proclaimed",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "greatest",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "famous",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "birthplace",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Shone in a blaze, and on debris",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "again",
+   "chosen": "debris",
+   "candidates": [
+    {
+     "word": "debris",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "away",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "anew",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "aglow",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0282,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "remain",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "degrees",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "unseen",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "between",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "inside",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.242
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Blazed as for murder; shone upon me",
+   "syllables": 9,
+   "target": 10,
+   "partner": "debris",
+   "qwen_top": "the",
+   "meant": "fire",
+   "chosen": "me",
+   "candidates": [
+    {
+     "word": "me",
+     "p": 0.0053,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "she",
+     "p": 0.0015,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "sea",
+     "p": 0.0011,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "thee",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "be",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "he",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "tree",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "body",
+     "p": 0.0035,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "enemy",
+     "p": 0.0024,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "the",
+     "p": 0.002,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "In my victory over temptation;",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "death",
+   "chosen": "temptation",
+   "candidates": [
+    {
+     "word": "temptation",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "damnation",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "salvation",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "desolation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "inferno",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "stupidity",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "temptations",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "again",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "suicide",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.243
+    },
+    {
+     "word": "homicide",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.243
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "But it was not fear or consternation.",
+   "syllables": 10,
+   "target": 9,
+   "partner": "temptation",
+   "qwen_top": "hate",
+   "meant": "fear",
+   "chosen": "consternation",
+   "candidates": [
+    {
+     "word": "consternation",
+     "p": 0.0025,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "admiration",
+     "p": 0.0018,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "indignation",
+     "p": 0.0016,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "desperation",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "provocation",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "fascination",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "damnation",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "jubilation",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "condemnation",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "anyone",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "But it was silence, contemplation,",
+   "syllables": 9,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "silence",
+   "chosen": "contemplation",
+   "candidates": [
+    {
+     "word": "contemplation",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "isolation",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "desolation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "consternation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "moderation",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "agitation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "hesitation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "desperation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "disarray",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "decay",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "And I turned from thought to inspiration,",
+   "syllables": 10,
+   "target": 9,
+   "partner": "contemplation",
+   "qwen_top": "the",
+   "meant": "view",
+   "chosen": "inspiration",
+   "candidates": [
+    {
+     "word": "inspiration",
+     "p": 0.0015,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "explanation",
+     "p": 0.0011,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "observation",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "fascination",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "revelation",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "meditation",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "dedication",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "admiration",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "anyone",
+     "p": 0.0012,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "everyone",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "For I saw there no cloud in my contemplation.",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "vision",
+   "meant": "eyes",
+   "chosen": "contemplation",
+   "candidates": [
+    {
+     "word": "contemplation",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "inspiration",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "fascination",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "away",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "shadow",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "reality",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "serene",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "despair",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "forget",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "upon",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.233
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "At last I felt myself borne out someone,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "contemplation",
+   "qwen_top": "of",
+   "meant": "again",
+   "chosen": "someone",
+   "candidates": [
+    {
+     "word": "someone",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "again",
+     "p": 0.0112,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "arrayed",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "arabs",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "consecrated",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "away",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "astray",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "separated",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "aflame",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "strangers",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  }
+ ]
+}

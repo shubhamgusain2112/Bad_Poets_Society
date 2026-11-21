@@ -1,0 +1,1452 @@
+{
+ "poet": "Henry Wadsworth Longfellow",
+ "system": "B1",
+ "lam": 1.0,
+ "scheme": "none",
+ "seed": 12,
+ "model": "lora",
+ "stop": "20 lines",
+ "poem": "My mother is here, and mother,\nAnd many a lovely mother,\nHolds in her hand the babe she never\nGave to man or woman else before.\nShe holds it like this--her own baby!\nHer own child!  Her mother's baby!\nAs sweetly as any mother,\nThe fair infant that you behold!\nYou see how hands are folded\nAlike across her bosom wide,\nIn tender embrace the baby,\nWho waits for us by his mother.\nI will talk with her; and then again\nYour white marble faces appear,\nWith your warm arms enveloping me,\nLike creatures that have all they desire,\nOnce more I will meet again.\nThey were not yet my fathers before,\nBut I myself am father.\nThe first of them, an angel-born child",
+ "lines": [
+  {
+   "line": 1,
+   "text": "My mother is here, and mother,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "i",
+   "meant": "i",
+   "chosen": "mother",
+   "candidates": [
+    {
+     "word": "mother",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "our",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.651
+    },
+    {
+     "word": "happy",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.58
+    },
+    {
+     "word": "ready",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.54
+    },
+    {
+     "word": "welcome",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.509
+    },
+    {
+     "word": "every",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.308
+    },
+    {
+     "word": "father",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "beside",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.239
+    },
+    {
+     "word": "everything",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.225
+    },
+    {
+     "word": "away",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.212
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "And many a lovely mother,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "child",
+   "meant": "child",
+   "chosen": "mother",
+   "candidates": [
+    {
+     "word": "mother",
+     "p": 0.0376,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "woman",
+     "p": 0.0273,
+     "rhyme": 0,
+     "score": 0.726
+    },
+    {
+     "word": "daughter",
+     "p": 0.0241,
+     "rhyme": 0,
+     "score": 0.642
+    },
+    {
+     "word": "maiden",
+     "p": 0.0176,
+     "rhyme": 0,
+     "score": 0.469
+    },
+    {
+     "word": "lady",
+     "p": 0.0138,
+     "rhyme": 0,
+     "score": 0.367
+    },
+    {
+     "word": "little",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "sister",
+     "p": 0.0101,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "creature",
+     "p": 0.0089,
+     "rhyme": 0,
+     "score": 0.236
+    },
+    {
+     "word": "flower",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.162
+    },
+    {
+     "word": "person",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.162
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Holds in her hand the babe she never",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "bore",
+   "meant": "bore",
+   "chosen": "never",
+   "candidates": [
+    {
+     "word": "never",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "wishes",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.939
+    },
+    {
+     "word": "carried",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "raises",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.346
+    },
+    {
+     "word": "carries",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.346
+    },
+    {
+     "word": "dearly",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "married",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "conceived",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "wanted",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "loving",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.119
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Gave to man or woman else before.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "than",
+   "meant": "than",
+   "chosen": "before",
+   "candidates": [
+    {
+     "word": "before",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "alone",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "except",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "ever",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "again",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "beside",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "above",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "until",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "upon",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "besides",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.064
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "She holds it like this--her own baby!",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "child",
+   "meant": "child",
+   "chosen": "baby",
+   "candidates": [
+    {
+     "word": "baby",
+     "p": 0.0273,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "little",
+     "p": 0.0213,
+     "rhyme": 0,
+     "score": 0.779
+    },
+    {
+     "word": "daughter",
+     "p": 0.0188,
+     "rhyme": 0,
+     "score": 0.688
+    },
+    {
+     "word": "darling",
+     "p": 0.0165,
+     "rhyme": 0,
+     "score": 0.606
+    },
+    {
+     "word": "precious",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "body",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.099
+    },
+    {
+     "word": "very",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.099
+    },
+    {
+     "word": "mother",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.079
+    },
+    {
+     "word": "beloved",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.077
+    },
+    {
+     "word": "children",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.06
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Her own child!  Her mother's baby!",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "child",
+   "meant": "child",
+   "chosen": "baby",
+   "candidates": [
+    {
+     "word": "baby",
+     "p": 0.0637,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "darling",
+     "p": 0.0265,
+     "rhyme": 0,
+     "score": 0.416
+    },
+    {
+     "word": "daughter",
+     "p": 0.0208,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "only",
+     "p": 0.0151,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "precious",
+     "p": 0.011,
+     "rhyme": 0,
+     "score": 0.173
+    },
+    {
+     "word": "little",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.144
+    },
+    {
+     "word": "mother",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.075
+    },
+    {
+     "word": "very",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "delight",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.034
+    },
+    {
+     "word": "infant",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.032
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "As sweetly as any mother,",
+   "syllables": 8,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "mother",
+   "meant": "mother",
+   "chosen": "mother",
+   "candidates": [
+    {
+     "word": "mother",
+     "p": 0.1672,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "child",
+     "p": 0.0736,
+     "rhyme": 0,
+     "score": 0.44
+    },
+    {
+     "word": "baby",
+     "p": 0.0538,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "angel",
+     "p": 0.045,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "sweet",
+     "p": 0.0394,
+     "rhyme": 0,
+     "score": 0.235
+    },
+    {
+     "word": "other",
+     "p": 0.0349,
+     "rhyme": 0,
+     "score": 0.209
+    },
+    {
+     "word": "babe",
+     "p": 0.0239,
+     "rhyme": 0,
+     "score": 0.143
+    },
+    {
+     "word": "woman",
+     "p": 0.0224,
+     "rhyme": 0,
+     "score": 0.134
+    },
+    {
+     "word": "rose",
+     "p": 0.0165,
+     "rhyme": 0,
+     "score": 0.099
+    },
+    {
+     "word": "maiden",
+     "p": 0.0155,
+     "rhyme": 0,
+     "score": 0.092
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "The fair infant that you behold!",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "see",
+   "meant": "see",
+   "chosen": "behold",
+   "candidates": [
+    {
+     "word": "behold",
+     "p": 0.234,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "adore",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.017
+    },
+    {
+     "word": "present",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.013
+    },
+    {
+     "word": "cherish",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.013
+    },
+    {
+     "word": "cannot",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.012
+    },
+    {
+     "word": "never",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.01
+    },
+    {
+     "word": "remember",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.01
+    },
+    {
+     "word": "possess",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.008
+    },
+    {
+     "word": "desire",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.007
+    },
+    {
+     "word": "display",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.005
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "You see how hands are folded",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "folded",
+   "meant": "folded",
+   "chosen": "folded",
+   "candidates": [
+    {
+     "word": "folded",
+     "p": 0.05,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "touching",
+     "p": 0.0236,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "moving",
+     "p": 0.0099,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "holding",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "bending",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "resting",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.127
+    },
+    {
+     "word": "lifted",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.112
+    },
+    {
+     "word": "waving",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "trembling",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "together",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.077
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Alike across her bosom wide,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "wide",
+   "meant": "wide",
+   "chosen": "wide",
+   "candidates": [
+    {
+     "word": "wide",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "round",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "and",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "sweet",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "soft",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "smooth",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "full",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "now",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "so",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "white",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.223
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "In tender embrace the baby,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "babe",
+   "meant": "babe",
+   "chosen": "baby",
+   "candidates": [
+    {
+     "word": "baby",
+     "p": 0.1003,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "mother",
+     "p": 0.0802,
+     "rhyme": 0,
+     "score": 0.8
+    },
+    {
+     "word": "little",
+     "p": 0.0473,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "infant",
+     "p": 0.035,
+     "rhyme": 0,
+     "score": 0.349
+    },
+    {
+     "word": "tender",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.087
+    },
+    {
+     "word": "precious",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "woman",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.041
+    },
+    {
+     "word": "darling",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.036
+    },
+    {
+     "word": "father",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.035
+    },
+    {
+     "word": "lovely",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.03
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Who waits for us by his mother.",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "mother",
+   "meant": "mother",
+   "chosen": "mother",
+   "candidates": [
+    {
+     "word": "mother",
+     "p": 0.7274,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "father",
+     "p": 0.0147,
+     "rhyme": 0,
+     "score": 0.02
+    },
+    {
+     "word": "little",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.009
+    },
+    {
+     "word": "pillow",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.008
+    },
+    {
+     "word": "parent",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.004
+    },
+    {
+     "word": "window",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.003
+    },
+    {
+     "word": "mothers",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.001
+    },
+    {
+     "word": "parents",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.001
+    },
+    {
+     "word": "mamma",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.001
+    },
+    {
+     "word": "grandmother",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.001
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "text": "I will talk with her; and then again",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "i",
+   "meant": "i",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "away",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "after",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "follow",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "together",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "return",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "alone",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "upon",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "begin",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "farewell",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.119
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "text": "Your white marble faces appear,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "will",
+   "meant": "will",
+   "chosen": "appear",
+   "candidates": [
+    {
+     "word": "appear",
+     "p": 0.0231,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "behold",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "again",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "unfold",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "begin",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "reflect",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "return",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "upon",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "arise",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "approach",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.05
+    }
+   ]
+  },
+  {
+   "line": 15,
+   "text": "With your warm arms enveloping me,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "me",
+   "meant": "me",
+   "chosen": "me",
+   "candidates": [
+    {
+     "word": "me",
+     "p": 0.1476,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "him",
+     "p": 0.09,
+     "rhyme": 0,
+     "score": 0.61
+    },
+    {
+     "word": "her",
+     "p": 0.0896,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "the",
+     "p": 0.0329,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "you",
+     "p": 0.0257,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "us",
+     "p": 0.02,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "again",
+     "p": 0.0176,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "them",
+     "p": 0.0156,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "my",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "your",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 0.082
+    }
+   ]
+  },
+  {
+   "line": 16,
+   "text": "Like creatures that have all they desire,",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "can",
+   "meant": "can",
+   "chosen": "desire",
+   "candidates": [
+    {
+     "word": "desire",
+     "p": 0.1689,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "desired",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.024
+    },
+    {
+     "word": "possess",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.021
+    },
+    {
+     "word": "require",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.018
+    },
+    {
+     "word": "ever",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.011
+    },
+    {
+     "word": "deserve",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.011
+    },
+    {
+     "word": "wanted",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.008
+    },
+    {
+     "word": "cannot",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.005
+    },
+    {
+     "word": "needed",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.005
+    },
+    {
+     "word": "hunger",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.004
+    }
+   ]
+  },
+  {
+   "line": 17,
+   "text": "Once more I will meet again.",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "you",
+   "meant": "you",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0093,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "our",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "mother",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.086
+    },
+    {
+     "word": "upon",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "within",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "before",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "myself",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.039
+    },
+    {
+     "word": "among",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.03
+    },
+    {
+     "word": "another",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.019
+    },
+    {
+     "word": "beside",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.016
+    }
+   ]
+  },
+  {
+   "line": 18,
+   "text": "They were not yet my fathers before,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "born",
+   "meant": "born",
+   "chosen": "before",
+   "candidates": [
+    {
+     "word": "before",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "chosen",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.606
+    },
+    {
+     "word": "married",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "coming",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "given",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "alone",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "ever",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "taken",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "either",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "alive",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.197
+    }
+   ]
+  },
+  {
+   "line": 19,
+   "text": "But I myself am father.",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "their",
+   "meant": "their",
+   "chosen": "father",
+   "candidates": [
+    {
+     "word": "father",
+     "p": 0.0726,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "mother",
+     "p": 0.0269,
+     "rhyme": 0,
+     "score": 0.37
+    },
+    {
+     "word": "living",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.069
+    },
+    {
+     "word": "only",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "happy",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.039
+    },
+    {
+     "word": "neither",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.039
+    },
+    {
+     "word": "brother",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.028
+    },
+    {
+     "word": "equal",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.025
+    },
+    {
+     "word": "waiting",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.024
+    },
+    {
+     "word": "many",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.024
+    }
+   ]
+  },
+  {
+   "line": 20,
+   "text": "The first of them, an angel-born child",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "child",
+   "meant": "child",
+   "chosen": "child",
+   "candidates": [
+    {
+     "word": "child",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "man",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.98
+    },
+    {
+     "word": "one",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "boy",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.247
+    },
+    {
+     "word": "son",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.177
+    },
+    {
+     "word": "and",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.15
+    },
+    {
+     "word": "prince",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.145
+    },
+    {
+     "word": "father",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.126
+    },
+    {
+     "word": "king",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.104
+    },
+    {
+     "word": "infant",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.094
+    }
+   ]
+  }
+ ]
+}

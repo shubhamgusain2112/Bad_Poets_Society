@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "M",
+ "lam": 0.5,
+ "scheme": "ABCB",
+ "seed": 10,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "The wind is born again.\nA carpet of white snows, like flowers,\nWhispers in the nightingales' voices\nWhere the endless mountain,\nWhere the forest tapers low,\nCries through its vastening thinnest boughs.\nBlue skies against that blue sky shadows\nBlows dappled mists to sleep. Again,\nFresh from the deluge again,\nSea and fire again,\nCame a flood away for me; again\nI flitted on through forests plain",
+ "lines": [
+  {
+   "line": 1,
+   "text": "The wind is born again.",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.3062,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "alone",
+     "p": 0.0217,
+     "rhyme": 0,
+     "score": 0.071
+    },
+    {
+     "word": "together",
+     "p": 0.0154,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "somewhere",
+     "p": 0.013,
+     "rhyme": 0,
+     "score": 0.042
+    },
+    {
+     "word": "until",
+     "p": 0.0089,
+     "rhyme": 0,
+     "score": 0.029
+    },
+    {
+     "word": "anew",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 0.027
+    },
+    {
+     "word": "awake",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.022
+    },
+    {
+     "word": "around",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.02
+    },
+    {
+     "word": "finally",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.019
+    },
+    {
+     "word": "before",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.014
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "A carpet of white snows, like flowers,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "snow",
+   "chosen": "flowers",
+   "candidates": [
+    {
+     "word": "flowers",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 0.639
+    },
+    {
+     "word": "roses",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.561
+    },
+    {
+     "word": "debris",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.427
+    },
+    {
+     "word": "fire",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.341
+    },
+    {
+     "word": "symbolize",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "shadow",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "everywhere",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "sunlight",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "candles",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "covered",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.283
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Whispers in the nightingales' voices",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "song",
+   "meant": "ears",
+   "chosen": "voices",
+   "candidates": [
+    {
+     "word": "voices",
+     "p": 0.0258,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "vocal",
+     "p": 0.0131,
+     "rhyme": 0,
+     "score": 0.508
+    },
+    {
+     "word": "singing",
+     "p": 0.0097,
+     "rhyme": 0,
+     "score": 0.377
+    },
+    {
+     "word": "feathers",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.315
+    },
+    {
+     "word": "melody",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "echoing",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.176
+    },
+    {
+     "word": "fingers",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.165
+    },
+    {
+     "word": "trumpet",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.127
+    },
+    {
+     "word": "chorus",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.108
+    },
+    {
+     "word": "fluttering",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.105
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Where the endless mountain,",
+   "syllables": 6,
+   "target": 7,
+   "partner": "flowers",
+   "qwen_top": "snow",
+   "meant": "snow",
+   "chosen": "mountain",
+   "candidates": [
+    {
+     "word": "mountain",
+     "p": 0.0191,
+     "rhyme": 0.6,
+     "score": 0.8
+    },
+    {
+     "word": "towers",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 0.524
+    },
+    {
+     "word": "hours",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 0.519
+    },
+    {
+     "word": "mountains",
+     "p": 0.0072,
+     "rhyme": 0.6,
+     "score": 0.488
+    },
+    {
+     "word": "surrounded",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.33
+    },
+    {
+     "word": "fountain",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.329
+    },
+    {
+     "word": "surrounding",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.328
+    },
+    {
+     "word": "tower",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.32
+    },
+    {
+     "word": "fountains",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.318
+    },
+    {
+     "word": "towering",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.317
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Where the forest tapers low,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "low",
+   "chosen": "low",
+   "candidates": [
+    {
+     "word": "low",
+     "p": 0.0468,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "high",
+     "p": 0.0353,
+     "rhyme": 0,
+     "score": 0.753
+    },
+    {
+     "word": "down",
+     "p": 0.0285,
+     "rhyme": 0,
+     "score": 0.609
+    },
+    {
+     "word": "above",
+     "p": 0.0193,
+     "rhyme": 0,
+     "score": 0.411
+    },
+    {
+     "word": "long",
+     "p": 0.0126,
+     "rhyme": 0,
+     "score": 0.268
+    },
+    {
+     "word": "narrow",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 0.179
+    },
+    {
+     "word": "below",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.159
+    },
+    {
+     "word": "dark",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.156
+    },
+    {
+     "word": "light",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.139
+    },
+    {
+     "word": "across",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.132
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Cries through its vastening thinnest boughs.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "leaves",
+   "meant": "branches",
+   "chosen": "boughs",
+   "candidates": [
+    {
+     "word": "boughs",
+     "p": 0.0145,
+     "rhyme": 0,
+     "score": 0.609
+    },
+    {
+     "word": "branches",
+     "p": 0.0159,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "shadows",
+     "p": 0.0106,
+     "rhyme": 0,
+     "score": 0.532
+    },
+    {
+     "word": "trees",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.488
+    },
+    {
+     "word": "doorways",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.438
+    },
+    {
+     "word": "thick",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.433
+    },
+    {
+     "word": "leaves",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.378
+    },
+    {
+     "word": "cloud",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.373
+    },
+    {
+     "word": "doors",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "shade",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.366
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Blue skies against that blue sky shadows",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "are",
+   "meant": "shine",
+   "chosen": "shadows",
+   "candidates": [
+    {
+     "word": "shadows",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "appear",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.941
+    },
+    {
+     "word": "continue",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.851
+    },
+    {
+     "word": "beneath",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.571
+    },
+    {
+     "word": "above",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.552
+    },
+    {
+     "word": "disappear",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.546
+    },
+    {
+     "word": "covered",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.538
+    },
+    {
+     "word": "cannot",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.514
+    },
+    {
+     "word": "likely",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.508
+    },
+    {
+     "word": "cover",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.482
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Blows dappled mists to sleep. Again,",
+   "syllables": 8,
+   "target": 9,
+   "partner": "boughs",
+   "qwen_top": "the",
+   "meant": "where",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0107,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "around",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.342
+    },
+    {
+     "word": "mountains",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.332
+    },
+    {
+     "word": "about",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.329
+    },
+    {
+     "word": "alone",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "above",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "present",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.242
+    },
+    {
+     "word": "shadows",
+     "p": 0.0015,
+     "rhyme": 0.3,
+     "score": 0.218
+    },
+    {
+     "word": "between",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.192
+    },
+    {
+     "word": "darkness",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.181
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Fresh from the deluge again,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0345,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "below",
+     "p": 0.019,
+     "rhyme": 0,
+     "score": 0.552
+    },
+    {
+     "word": "falling",
+     "p": 0.0106,
+     "rhyme": 0,
+     "score": 0.308
+    },
+    {
+     "word": "above",
+     "p": 0.0103,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "before",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "darkness",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 0.243
+    },
+    {
+     "word": "until",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.199
+    },
+    {
+     "word": "coming",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.17
+    },
+    {
+     "word": "somewhere",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.146
+    },
+    {
+     "word": "beneath",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.118
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Sea and fire again,",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0315,
+     "rhyme": 0,
+     "score": 0.753
+    },
+    {
+     "word": "arise",
+     "p": 0.0161,
+     "rhyme": 0,
+     "score": 0.474
+    },
+    {
+     "word": "anew",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 0.461
+    },
+    {
+     "word": "reappear",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.375
+    },
+    {
+     "word": "circulate",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.315
+    },
+    {
+     "word": "dominate",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.315
+    },
+    {
+     "word": "disappear",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.313
+    },
+    {
+     "word": "arose",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.311
+    },
+    {
+     "word": "separate",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.299
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Came a flood away for me; again",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.4473,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "finally",
+     "p": 0.0189,
+     "rhyme": 0,
+     "score": 0.042
+    },
+    {
+     "word": "away",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.018
+    },
+    {
+     "word": "until",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.017
+    },
+    {
+     "word": "coming",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.013
+    },
+    {
+     "word": "returned",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.012
+    },
+    {
+     "word": "before",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.011
+    },
+    {
+     "word": "later",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.007
+    },
+    {
+     "word": "suddenly",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.006
+    },
+    {
+     "word": "never",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.006
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "I flitted on through forests plain",
+   "syllables": 8,
+   "target": 9,
+   "partner": "again",
+   "qwen_top": "of",
+   "meant": "dark",
+   "chosen": "plain",
+   "candidates": [
+    {
+     "word": "plain",
+     "p": 0.0013,
+     "rhyme": 1.0,
+     "score": 0.509
+    },
+    {
+     "word": "when",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 0.507
+    },
+    {
+     "word": "remain",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 0.504
+    },
+    {
+     "word": "dark",
+     "p": 0.0691,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "gray",
+     "p": 0.0126,
+     "rhyme": 0.6,
+     "score": 0.391
+    },
+    {
+     "word": "pale",
+     "p": 0.0088,
+     "rhyme": 0.6,
+     "score": 0.364
+    },
+    {
+     "word": "grey",
+     "p": 0.0059,
+     "rhyme": 0.6,
+     "score": 0.343
+    },
+    {
+     "word": "haired",
+     "p": 0.0054,
+     "rhyme": 0.6,
+     "score": 0.339
+    },
+    {
+     "word": "there",
+     "p": 0.0042,
+     "rhyme": 0.6,
+     "score": 0.33
+    },
+    {
+     "word": "shades",
+     "p": 0.0034,
+     "rhyme": 0.6,
+     "score": 0.325
+    }
+   ]
+  }
+ ]
+}

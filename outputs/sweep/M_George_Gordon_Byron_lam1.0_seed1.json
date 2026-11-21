@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 1.0,
+ "scheme": "ABAB",
+ "seed": 1,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "183, The Commencement of the Composition of\nI. Adieu! Some Maidens have disappeared,\nLike stars whose brightness shall not return; you\nOf modest beauty there are only\nSome who for your sake have left their away,\nAnd some who with less longing desire you,\nBut all whom I see on hill and Meadow.\n204, Poem on the Last Year's Courtly Holiday\nThe solid heart which year after year\nMay carry on in his youth's desire;\nThe goodliest hands that never wearied him\nBy any one gift he could receive.",
+ "lines": [
+  {
+   "line": 1,
+   "text": "183, The Commencement of the Composition of",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "of",
+   "candidates": [
+    {
+     "word": "of",
+     "p": 0.4715,
+     "rhyme": 0,
+     "score": 1.11
+    },
+    {
+     "word": "be",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "he",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "three",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "may",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "the",
+     "p": 0.0744,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "day",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "way",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "they",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "to",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "I. Adieu! Some Maidens have disappeared,",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "gone",
+   "meant": "gone",
+   "chosen": "disappeared",
+   "candidates": [
+    {
+     "word": "disappeared",
+     "p": 0.0272,
+     "rhyme": 0,
+     "score": 1.165
+    },
+    {
+     "word": "ago",
+     "p": 0.017,
+     "rhyme": 0,
+     "score": 0.888
+    },
+    {
+     "word": "vanished",
+     "p": 0.0112,
+     "rhyme": 0,
+     "score": 0.446
+    },
+    {
+     "word": "forgotten",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.383
+    },
+    {
+     "word": "decade",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "arrived",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.306
+    },
+    {
+     "word": "probably",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "away",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "generations",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "returned",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.288
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Like stars whose brightness shall not return; you",
+   "syllables": 10,
+   "target": 11,
+   "partner": "of",
+   "qwen_top": "but",
+   "meant": "you",
+   "chosen": "you",
+   "candidates": [
+    {
+     "word": "you",
+     "p": 0.0349,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "i",
+     "p": 0.033,
+     "rhyme": 0,
+     "score": 0.944
+    },
+    {
+     "word": "yes",
+     "p": 0.0182,
+     "rhyme": 0,
+     "score": 0.52
+    },
+    {
+     "word": "do",
+     "p": 0.0161,
+     "rhyme": 0,
+     "score": 0.461
+    },
+    {
+     "word": "and",
+     "p": 0.0114,
+     "rhyme": 0.6,
+     "score": 0.325
+    },
+    {
+     "word": "so",
+     "p": 0.011,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "let",
+     "p": 0.0107,
+     "rhyme": 0,
+     "score": 0.307
+    },
+    {
+     "word": "oh",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.302
+    },
+    {
+     "word": "if",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "no",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.282
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Of modest beauty there are only",
+   "syllables": 9,
+   "target": 10,
+   "partner": "disappeared",
+   "qwen_top": "not",
+   "meant": "none",
+   "chosen": "only",
+   "candidates": [
+    {
+     "word": "only",
+     "p": 0.0159,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "alone",
+     "p": 0.0119,
+     "rhyme": 0,
+     "score": 0.747
+    },
+    {
+     "word": "many",
+     "p": 0.0112,
+     "rhyme": 0,
+     "score": 0.702
+    },
+    {
+     "word": "remain",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 0.527
+    },
+    {
+     "word": "others",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "even",
+     "p": 0.0048,
+     "rhyme": 0.6,
+     "score": 0.301
+    },
+    {
+     "word": "number",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "handful",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.266
+    },
+    {
+     "word": "other",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.258
+    },
+    {
+     "word": "appear",
+     "p": 0.0041,
+     "rhyme": 0.6,
+     "score": 0.258
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Some who for your sake have left their away,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "home",
+   "meant": "home",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 1.275
+    },
+    {
+     "word": "behind",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 1.153
+    },
+    {
+     "word": "places",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 1.023
+    },
+    {
+     "word": "village",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.918
+    },
+    {
+     "word": "garden",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.904
+    },
+    {
+     "word": "inside",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.854
+    },
+    {
+     "word": "cemetery",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.835
+    },
+    {
+     "word": "hidden",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.782
+    },
+    {
+     "word": "our",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.776
+    },
+    {
+     "word": "nearby",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.77
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "And some who with less longing desire you,",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "you",
+   "meant": "you",
+   "chosen": "you",
+   "candidates": [
+    {
+     "word": "you",
+     "p": 0.1071,
+     "rhyme": 0,
+     "score": 1.27
+    },
+    {
+     "word": "go",
+     "p": 0.0433,
+     "rhyme": 0,
+     "score": 0.666
+    },
+    {
+     "word": "do",
+     "p": 0.0213,
+     "rhyme": 0,
+     "score": 0.469
+    },
+    {
+     "word": "me",
+     "p": 0.0157,
+     "rhyme": 0,
+     "score": 0.428
+    },
+    {
+     "word": "can",
+     "p": 0.0197,
+     "rhyme": 0,
+     "score": 0.412
+    },
+    {
+     "word": "stay",
+     "p": 0.014,
+     "rhyme": 0,
+     "score": 0.406
+    },
+    {
+     "word": "so",
+     "p": 0.0129,
+     "rhyme": 0,
+     "score": 0.382
+    },
+    {
+     "word": "they",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.374
+    },
+    {
+     "word": "ca",
+     "p": 0.0099,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "i",
+     "p": 0.0129,
+     "rhyme": 0,
+     "score": 0.366
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "But all whom I see on hill and Meadow.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "away",
+   "qwen_top": "plain",
+   "meant": "plain",
+   "chosen": "meadow",
+   "candidates": [
+    {
+     "word": "meadow",
+     "p": 0.0118,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "valley",
+     "p": 0.0096,
+     "rhyme": 0,
+     "score": 0.814
+    },
+    {
+     "word": "hillside",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.67
+    },
+    {
+     "word": "village",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.639
+    },
+    {
+     "word": "nearby",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.425
+    },
+    {
+     "word": "forest",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.372
+    },
+    {
+     "word": "muddy",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "junction",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.24
+    },
+    {
+     "word": "mountain",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "river",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.233
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "204, Poem on the Last Year's Courtly Holiday",
+   "syllables": 11,
+   "target": 11,
+   "partner": "you",
+   "qwen_top": "show",
+   "meant": "holiday",
+   "chosen": "holiday",
+   "candidates": [
+    {
+     "word": "holiday",
+     "p": 0.019,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "journey",
+     "p": 0.0128,
+     "rhyme": 0,
+     "score": 0.671
+    },
+    {
+     "word": "celebration",
+     "p": 0.0115,
+     "rhyme": 0,
+     "score": 0.602
+    },
+    {
+     "word": "vacation",
+     "p": 0.0104,
+     "rhyme": 0,
+     "score": 0.546
+    },
+    {
+     "word": "carnival",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.41
+    },
+    {
+     "word": "hectic",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.396
+    },
+    {
+     "word": "holidays",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.378
+    },
+    {
+     "word": "hour",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.376
+    },
+    {
+     "word": "hours",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "adventure",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.294
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "The solid heart which year after year",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "year",
+   "meant": "year",
+   "chosen": "year",
+   "candidates": [
+    {
+     "word": "year",
+     "p": 0.6368,
+     "rhyme": 0,
+     "score": 1.229
+    },
+    {
+     "word": "years",
+     "p": 0.1026,
+     "rhyme": 0,
+     "score": 0.35
+    },
+    {
+     "word": "probation",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "he",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "graduate",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "three",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "may",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "day",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "ago",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.271
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "May carry on in his youth's desire;",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "bright",
+   "meant": "desire",
+   "chosen": "desire",
+   "candidates": [
+    {
+     "word": "desire",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 1.197
+    },
+    {
+     "word": "glory",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.979
+    },
+    {
+     "word": "delight",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.877
+    },
+    {
+     "word": "sojourn",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.745
+    },
+    {
+     "word": "discomfort",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.713
+    },
+    {
+     "word": "duration",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.663
+    },
+    {
+     "word": "pursuit",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.646
+    },
+    {
+     "word": "youthful",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.613
+    },
+    {
+     "word": "consternation",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.6
+    },
+    {
+     "word": "devotion",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.574
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "The goodliest hands that never wearied him",
+   "syllables": 10,
+   "target": 11,
+   "partner": "year",
+   "qwen_top": "of",
+   "meant": "him",
+   "chosen": "him",
+   "candidates": [
+    {
+     "word": "him",
+     "p": 0.0343,
+     "rhyme": 0.6,
+     "score": 1.0
+    },
+    {
+     "word": "be",
+     "p": 0.0265,
+     "rhyme": 0,
+     "score": 0.772
+    },
+    {
+     "word": "can",
+     "p": 0.0227,
+     "rhyme": 0,
+     "score": 0.661
+    },
+    {
+     "word": "them",
+     "p": 0.0215,
+     "rhyme": 0,
+     "score": 0.626
+    },
+    {
+     "word": "her",
+     "p": 0.0153,
+     "rhyme": 0,
+     "score": 0.446
+    },
+    {
+     "word": "so",
+     "p": 0.0151,
+     "rhyme": 0,
+     "score": 0.441
+    },
+    {
+     "word": "for",
+     "p": 0.0151,
+     "rhyme": 0.3,
+     "score": 0.439
+    },
+    {
+     "word": "you",
+     "p": 0.0117,
+     "rhyme": 0,
+     "score": 0.341
+    },
+    {
+     "word": "it",
+     "p": 0.0113,
+     "rhyme": 0.6,
+     "score": 0.329
+    },
+    {
+     "word": "way",
+     "p": 0.0112,
+     "rhyme": 0,
+     "score": 0.327
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "By any one gift he could receive.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "desire",
+   "qwen_top": "receive",
+   "meant": "receive",
+   "chosen": "receive",
+   "candidates": [
+    {
+     "word": "receive",
+     "p": 0.1065,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "deserve",
+     "p": 0.0354,
+     "rhyme": 0,
+     "score": 0.332
+    },
+    {
+     "word": "bestow",
+     "p": 0.0245,
+     "rhyme": 0,
+     "score": 0.23
+    },
+    {
+     "word": "provide",
+     "p": 0.0191,
+     "rhyme": 0.6,
+     "score": 0.179
+    },
+    {
+     "word": "afford",
+     "p": 0.0188,
+     "rhyme": 0,
+     "score": 0.177
+    },
+    {
+     "word": "offer",
+     "p": 0.0184,
+     "rhyme": 0,
+     "score": 0.172
+    },
+    {
+     "word": "offered",
+     "p": 0.014,
+     "rhyme": 0,
+     "score": 0.132
+    },
+    {
+     "word": "obtain",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 0.114
+    },
+    {
+     "word": "impart",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.084
+    },
+    {
+     "word": "withhold",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.073
+    }
+   ]
+  }
+ ]
+}

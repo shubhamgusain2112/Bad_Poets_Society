@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "AABB",
+ "seed": 3,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "But I am our Lord, although\nWe are not to hear him also;\nAnd he had found us and saw away\nOur manhood in our hands array,\nWhilst the light of his salvation\nWas darkening up against,\nAs they were making the right way away.\nNow he had made his choice as against\nThe castle from which we withdrew\nFor many a year: when into\nAn open field, through the grasses array,\nHe cried out to us all for flight: away",
+ "lines": [
+  {
+   "line": 1,
+   "text": "But I am our Lord, although",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "although",
+   "candidates": [
+    {
+     "word": "although",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "upon",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "our",
+     "p": 0.0801,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "before",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "unless",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "confess",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "beside",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.222
+    },
+    {
+     "word": "alone",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.218
+    },
+    {
+     "word": "within",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.217
+    },
+    {
+     "word": "mary",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.215
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "We are not to hear him also;",
+   "syllables": 8,
+   "target": 9,
+   "partner": "although",
+   "qwen_top": "speak",
+   "meant": "speak",
+   "chosen": "also",
+   "candidates": [
+    {
+     "word": "also",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "alone",
+     "p": 0.0049,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "spoken",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "over",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "only",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "wholly",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "ever",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "any",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "even",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "And he had found us and saw away",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "us",
+   "meant": "us",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "anew",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "into",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "between",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "upon",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "our",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "before",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "afar",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.229
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Our manhood in our hands array,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "away",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "array",
+   "candidates": [
+    {
+     "word": "array",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "decay",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "today",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "again",
+     "p": 0.0035,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "against",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "waiting",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "laying",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "taken",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "wasted",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "making",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Whilst the light of his salvation",
+   "syllables": 8,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "eyes",
+   "meant": "eyes",
+   "chosen": "salvation",
+   "candidates": [
+    {
+     "word": "salvation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "array",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "shadow",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "mission",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "very",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "divine",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.213
+    },
+    {
+     "word": "delight",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.212
+    },
+    {
+     "word": "fire",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "desire",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "perfect",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.197
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Was darkening up against,",
+   "syllables": 7,
+   "target": 8,
+   "partner": "salvation",
+   "qwen_top": "our",
+   "meant": "our",
+   "chosen": "against",
+   "candidates": [
+    {
+     "word": "against",
+     "p": 0.0156,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "away",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "array",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "today",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "faces",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "our",
+     "p": 0.2438,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "into",
+     "p": 0.0107,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "within",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "upon",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "As they were making the right way away.",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "through",
+   "meant": "through",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "array",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "today",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "into",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "anew",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "again",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "between",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "upon",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "before",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "afar",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.229
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Now he had made his choice as against",
+   "syllables": 9,
+   "target": 10,
+   "partner": "away",
+   "qwen_top": "he",
+   "meant": "he",
+   "chosen": "against",
+   "candidates": [
+    {
+     "word": "against",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "faithful",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "always",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "maker",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "our",
+     "p": 0.0116,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "chosen",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "ever",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "ours",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "surely",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "master",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "The castle from which we withdrew",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "came",
+   "meant": "came",
+   "chosen": "withdrew",
+   "candidates": [
+    {
+     "word": "withdrew",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "rebel",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "our",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "began",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.228
+    },
+    {
+     "word": "arose",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "arise",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.218
+    },
+    {
+     "word": "alone",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.218
+    },
+    {
+     "word": "begin",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.217
+    },
+    {
+     "word": "cannot",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "waited",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.193
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "For many a year: when into",
+   "syllables": 8,
+   "target": 9,
+   "partner": "withdrew",
+   "qwen_top": "he",
+   "meant": "he",
+   "chosen": "into",
+   "candidates": [
+    {
+     "word": "into",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "unto",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "our",
+     "p": 0.0229,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "suddenly",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "again",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "heaven",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "upon",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "before",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "against",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "behold",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "An open field, through the grasses array,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "green",
+   "meant": "green",
+   "chosen": "array",
+   "candidates": [
+    {
+     "word": "array",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "below",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "between",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "unseen",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "afar",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "alone",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.218
+    },
+    {
+     "word": "bending",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.178
+    },
+    {
+     "word": "narrow",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.178
+    },
+    {
+     "word": "flying",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.17
+    },
+    {
+     "word": "yellow",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.167
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "He cried out to us all for flight: away",
+   "syllables": 10,
+   "target": 11,
+   "partner": "array",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0011,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "saying",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "against",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "namely",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "afraid",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "proclaim",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awake",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "our",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "behold",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  }
+ ]
+}

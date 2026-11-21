@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 0.25,
+ "scheme": "AABB",
+ "seed": 13,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "The Spirit, who kept not them alive,\nWas weeping on the dead and dying,\nAnd hid His face from all unseen.\nTo him was drawn the holiest seen,\nFor that His spirit came again,\nFor He had trod our buried.\nBut the Lord, the manhood divine,\nWhom they worshiped for their sacrifice,\nNot now is He the demon.\nHushed were the murmurs of everyone,\nNo more he held a mystery high\nWho walked among men quietly.",
+ "lines": [
+  {
+   "line": 1,
+   "text": "The Spirit, who kept not them alive,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "from",
+   "meant": "alive",
+   "chosen": "alive",
+   "candidates": [
+    {
+     "word": "alive",
+     "p": 0.0198,
+     "rhyme": 0,
+     "score": 0.392
+    },
+    {
+     "word": "behind",
+     "p": 0.0151,
+     "rhyme": 0,
+     "score": 0.385
+    },
+    {
+     "word": "away",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.367
+    },
+    {
+     "word": "alone",
+     "p": 0.0104,
+     "rhyme": 0,
+     "score": 0.35
+    },
+    {
+     "word": "remain",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.347
+    },
+    {
+     "word": "forever",
+     "p": 0.0138,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "nobody",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "hitherto",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "astray",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "nowhere",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Was weeping on the dead and dying,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "alive",
+   "qwen_top": "dying",
+   "meant": "dead",
+   "chosen": "dying",
+   "candidates": [
+    {
+     "word": "dying",
+     "p": 0.0663,
+     "rhyme": 0.6,
+     "score": 0.7
+    },
+    {
+     "word": "crying",
+     "p": 0.0083,
+     "rhyme": 0.6,
+     "score": 0.481
+    },
+    {
+     "word": "tired",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.465
+    },
+    {
+     "word": "terrified",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "frightened",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "lying",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "lifeless",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "hiding",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "survived",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "fighting",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.452
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "And hid His face from all unseen.",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "sight",
+   "chosen": "unseen",
+   "candidates": [
+    {
+     "word": "unseen",
+     "p": 0.0182,
+     "rhyme": 0,
+     "score": 0.498
+    },
+    {
+     "word": "away",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "communicate",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "seeing",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "alone",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "ability",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "somebody",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "again",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "nobody",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "below",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.27
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "To him was drawn the holiest seen,",
+   "syllables": 9,
+   "target": 9,
+   "partner": "unseen",
+   "qwen_top": "thing",
+   "meant": "soul",
+   "chosen": "seen",
+   "candidates": [
+    {
+     "word": "seen",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 0.763
+    },
+    {
+     "word": "green",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 0.762
+    },
+    {
+     "word": "means",
+     "p": 0.0034,
+     "rhyme": 0.6,
+     "score": 0.517
+    },
+    {
+     "word": "meaning",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.515
+    },
+    {
+     "word": "me",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.5
+    },
+    {
+     "word": "sweet",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.493
+    },
+    {
+     "word": "healing",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.482
+    },
+    {
+     "word": "evil",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.477
+    },
+    {
+     "word": "tree",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.471
+    },
+    {
+     "word": "the",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.471
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "For that His spirit came again,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0884,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "anew",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "away",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "into",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "somebody",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "nobody",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "before",
+     "p": 0.0134,
+     "rhyme": 0,
+     "score": 0.266
+    },
+    {
+     "word": "somewhere",
+     "p": 0.0237,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "anyway",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.261
+    },
+    {
+     "word": "realised",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.255
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "For He had trod our buried.",
+   "syllables": 8,
+   "target": 9,
+   "partner": "again",
+   "qwen_top": "path",
+   "meant": "god",
+   "chosen": "buried",
+   "candidates": [
+    {
+     "word": "buried",
+     "p": 0.0076,
+     "rhyme": 0.6,
+     "score": 0.664
+    },
+    {
+     "word": "heaven",
+     "p": 0.0063,
+     "rhyme": 0.6,
+     "score": 0.627
+    },
+    {
+     "word": "resurrection",
+     "p": 0.0035,
+     "rhyme": 0.6,
+     "score": 0.547
+    },
+    {
+     "word": "heavenly",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.537
+    },
+    {
+     "word": "sacred",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.528
+    },
+    {
+     "word": "burial",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.52
+    },
+    {
+     "word": "ancient",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.512
+    },
+    {
+     "word": "despair",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.502
+    },
+    {
+     "word": "cemetery",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.5
+    },
+    {
+     "word": "pavement",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.492
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "But the Lord, the manhood divine,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "divine",
+   "chosen": "divine",
+   "candidates": [
+    {
+     "word": "divine",
+     "p": 0.0798,
+     "rhyme": 0,
+     "score": 0.463
+    },
+    {
+     "word": "incarnation",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "revelation",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "creation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "inspiration",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "incarnate",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "decree",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "consecrated",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "hitherto",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "hussein",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.256
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Whom they worshiped for their sacrifice,",
+   "syllables": 9,
+   "target": 9,
+   "partner": "divine",
+   "qwen_top": "sake",
+   "meant": "sake",
+   "chosen": "sacrifice",
+   "candidates": [
+    {
+     "word": "sacrifice",
+     "p": 0.0422,
+     "rhyme": 0.6,
+     "score": 0.7
+    },
+    {
+     "word": "sacrifices",
+     "p": 0.0079,
+     "rhyme": 0.6,
+     "score": 0.497
+    },
+    {
+     "word": "sacrificed",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.464
+    },
+    {
+     "word": "kindness",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "dying",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "desire",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "lion",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "almighty",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "mankind",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "righteousness",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.453
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Not now is He the demon.",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "man",
+   "meant": "god",
+   "chosen": "demon",
+   "candidates": [
+    {
+     "word": "demon",
+     "p": 0.0256,
+     "rhyme": 0,
+     "score": 0.389
+    },
+    {
+     "word": "incarnation",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.386
+    },
+    {
+     "word": "divine",
+     "p": 0.0154,
+     "rhyme": 0,
+     "score": 0.364
+    },
+    {
+     "word": "temptation",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "invocation",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "nation",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.318
+    },
+    {
+     "word": "devotee",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "incarnate",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "consecrated",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "shadow",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.276
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Hushed were the murmurs of everyone,",
+   "syllables": 9,
+   "target": 9,
+   "partner": "demon",
+   "qwen_top": "the",
+   "meant": "god",
+   "chosen": "everyone",
+   "candidates": [
+    {
+     "word": "everyone",
+     "p": 0.0014,
+     "rhyme": 0.9,
+     "score": 0.704
+    },
+    {
+     "word": "anyone",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.689
+    },
+    {
+     "word": "people",
+     "p": 0.0058,
+     "rhyme": 0.6,
+     "score": 0.575
+    },
+    {
+     "word": "beings",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.522
+    },
+    {
+     "word": "evil",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.494
+    },
+    {
+     "word": "believing",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.491
+    },
+    {
+     "word": "believers",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.479
+    },
+    {
+     "word": "believed",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.473
+    },
+    {
+     "word": "demons",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.473
+    },
+    {
+     "word": "jesus",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.472
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "No more he held a mystery high",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "for",
+   "meant": "high",
+   "chosen": "high",
+   "candidates": [
+    {
+     "word": "high",
+     "p": 0.0211,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "there",
+     "p": 0.0211,
+     "rhyme": 0,
+     "score": 0.487
+    },
+    {
+     "word": "known",
+     "p": 0.0143,
+     "rhyme": 0,
+     "score": 0.389
+    },
+    {
+     "word": "where",
+     "p": 0.0095,
+     "rhyme": 0,
+     "score": 0.35
+    },
+    {
+     "word": "long",
+     "p": 0.0138,
+     "rhyme": 0,
+     "score": 0.345
+    },
+    {
+     "word": "he",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.336
+    },
+    {
+     "word": "me",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "they",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "seen",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "so",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.317
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Who walked among men quietly.",
+   "syllables": 8,
+   "target": 8,
+   "partner": "high",
+   "qwen_top": "and",
+   "meant": "alone",
+   "chosen": "quietly",
+   "candidates": [
+    {
+     "word": "quietly",
+     "p": 0.0057,
+     "rhyme": 0.6,
+     "score": 0.499
+    },
+    {
+     "word": "alive",
+     "p": 0.0053,
+     "rhyme": 0.6,
+     "score": 0.495
+    },
+    {
+     "word": "realized",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.481
+    },
+    {
+     "word": "finally",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.471
+    },
+    {
+     "word": "reconciled",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.468
+    },
+    {
+     "word": "silent",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "crucified",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "dying",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "hiding",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "silently",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.458
+    }
+   ]
+  }
+ ]
+}

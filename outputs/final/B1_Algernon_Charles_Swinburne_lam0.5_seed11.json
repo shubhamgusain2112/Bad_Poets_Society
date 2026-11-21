@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 0.5,
+ "scheme": "AABB",
+ "seed": 11,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "West Wind, bring to us a delicate wind\nFrom the boundless deeps of the ages to\nThe faces of those whose souls are ours,\nWho fear and love not anger nor\nHate that endures not; they cannot\nMake fast the times of our years because\nThey have set all things to our\nMind before them in darkness\nThough each earth's life be numbered down before\nSo much shall we know how long, our\nKnowledge on its wings to unfold,\nBut more than ever behold",
+ "lines": [
+  {
+   "line": 1,
+   "text": "West Wind, bring to us a delicate wind",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "breath",
+   "meant": "breath",
+   "chosen": "wind",
+   "candidates": [
+    {
+     "word": "wind",
+     "p": 0.0368,
+     "rhyme": 0,
+     "score": 0.638
+    },
+    {
+     "word": "song",
+     "p": 0.0369,
+     "rhyme": 0,
+     "score": 0.628
+    },
+    {
+     "word": "breath",
+     "p": 0.0415,
+     "rhyme": 0,
+     "score": 0.597
+    },
+    {
+     "word": "breeze",
+     "p": 0.0236,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "and",
+     "p": 0.0222,
+     "rhyme": 0,
+     "score": 0.457
+    },
+    {
+     "word": "sound",
+     "p": 0.0223,
+     "rhyme": 0,
+     "score": 0.445
+    },
+    {
+     "word": "air",
+     "p": 0.0144,
+     "rhyme": 0,
+     "score": 0.411
+    },
+    {
+     "word": "rain",
+     "p": 0.0119,
+     "rhyme": 0,
+     "score": 0.396
+    },
+    {
+     "word": "sweet",
+     "p": 0.0143,
+     "rhyme": 0,
+     "score": 0.381
+    },
+    {
+     "word": "day",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.38
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "From the boundless deeps of the ages to",
+   "syllables": 10,
+   "target": 11,
+   "partner": "wind",
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "to",
+   "candidates": [
+    {
+     "word": "to",
+     "p": 0.0811,
+     "rhyme": 0.6,
+     "score": 0.644
+    },
+    {
+     "word": "behind",
+     "p": 0.0015,
+     "rhyme": 1.0,
+     "score": 0.506
+    },
+    {
+     "word": "blind",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 0.501
+    },
+    {
+     "word": "of",
+     "p": 0.118,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "mind",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 0.5
+    },
+    {
+     "word": "gone",
+     "p": 0.0811,
+     "rhyme": 0,
+     "score": 0.344
+    },
+    {
+     "word": "which",
+     "p": 0.0067,
+     "rhyme": 0.6,
+     "score": 0.328
+    },
+    {
+     "word": "wide",
+     "p": 0.0052,
+     "rhyme": 0.6,
+     "score": 0.322
+    },
+    {
+     "word": "in",
+     "p": 0.0046,
+     "rhyme": 0.6,
+     "score": 0.319
+    },
+    {
+     "word": "since",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.315
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "The faces of those whose souls are ours,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "ours",
+   "candidates": [
+    {
+     "word": "ours",
+     "p": 0.0224,
+     "rhyme": 0,
+     "score": 0.657
+    },
+    {
+     "word": "our",
+     "p": 0.0175,
+     "rhyme": 0,
+     "score": 0.621
+    },
+    {
+     "word": "shadow",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "divine",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "within",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "unseen",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.26
+    },
+    {
+     "word": "purified",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "upon",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "never",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.247
+    },
+    {
+     "word": "unknown",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.242
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Who fear and love not anger nor",
+   "syllables": 8,
+   "target": 9,
+   "partner": "ours",
+   "qwen_top": "nor",
+   "meant": "nor",
+   "chosen": "nor",
+   "candidates": [
+    {
+     "word": "nor",
+     "p": 0.1228,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "and",
+     "p": 0.1228,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "or",
+     "p": 0.0957,
+     "rhyme": 0,
+     "score": 0.389
+    },
+    {
+     "word": "not",
+     "p": 0.0042,
+     "rhyme": 0.6,
+     "score": 0.317
+    },
+    {
+     "word": "on",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.309
+    },
+    {
+     "word": "because",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.308
+    },
+    {
+     "word": "now",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.304
+    },
+    {
+     "word": "without",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.302
+    },
+    {
+     "word": "out",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.302
+    },
+    {
+     "word": "upon",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.301
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Hate that endures not; they cannot",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "are",
+   "meant": "are",
+   "chosen": "cannot",
+   "candidates": [
+    {
+     "word": "cannot",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.697
+    },
+    {
+     "word": "abide",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.611
+    },
+    {
+     "word": "forget",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.473
+    },
+    {
+     "word": "behold",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.385
+    },
+    {
+     "word": "never",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.364
+    },
+    {
+     "word": "only",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.357
+    },
+    {
+     "word": "alone",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.353
+    },
+    {
+     "word": "awake",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.349
+    },
+    {
+     "word": "arise",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.337
+    },
+    {
+     "word": "endure",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.33
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Make fast the times of our years because",
+   "syllables": 10,
+   "target": 11,
+   "partner": "cannot",
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "because",
+   "candidates": [
+    {
+     "word": "because",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.603
+    },
+    {
+     "word": "beyond",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.536
+    },
+    {
+     "word": "forgot",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 0.519
+    },
+    {
+     "word": "upon",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.508
+    },
+    {
+     "word": "begin",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "depart",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.462
+    },
+    {
+     "word": "apart",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.412
+    },
+    {
+     "word": "our",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.353
+    },
+    {
+     "word": "after",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.353
+    },
+    {
+     "word": "ago",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.344
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "They have set all things to our",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0171,
+     "rhyme": 0,
+     "score": 0.729
+    },
+    {
+     "word": "memory",
+     "p": 0.0133,
+     "rhyme": 0,
+     "score": 0.445
+    },
+    {
+     "word": "motion",
+     "p": 0.0097,
+     "rhyme": 0,
+     "score": 0.381
+    },
+    {
+     "word": "shadow",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.313
+    },
+    {
+     "word": "decay",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.309
+    },
+    {
+     "word": "fire",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "liberty",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "abide",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "eternity",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "forget",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.276
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Mind before them in darkness",
+   "syllables": 7,
+   "target": 8,
+   "partner": "our",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "darkness",
+   "candidates": [
+    {
+     "word": "darkness",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.549
+    },
+    {
+     "word": "power",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 0.537
+    },
+    {
+     "word": "memory",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "many",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.41
+    },
+    {
+     "word": "sorrow",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.386
+    },
+    {
+     "word": "heaven",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.371
+    },
+    {
+     "word": "harmony",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.353
+    },
+    {
+     "word": "knowledge",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.341
+    },
+    {
+     "word": "common",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.336
+    },
+    {
+     "word": "forgotten",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.328
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Though each earth's life be numbered down before",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "before",
+   "candidates": [
+    {
+     "word": "before",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.729
+    },
+    {
+     "word": "into",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.538
+    },
+    {
+     "word": "below",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.47
+    },
+    {
+     "word": "again",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.437
+    },
+    {
+     "word": "unto",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.389
+    },
+    {
+     "word": "until",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "upon",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "anew",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "away",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "today",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "So much shall we know how long, our",
+   "syllables": 9,
+   "target": 10,
+   "partner": "before",
+   "qwen_top": "how",
+   "meant": "how",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0081,
+     "rhyme": 0.3,
+     "score": 0.65
+    },
+    {
+     "word": "because",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.483
+    },
+    {
+     "word": "therefore",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.468
+    },
+    {
+     "word": "beyond",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.353
+    },
+    {
+     "word": "also",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.306
+    },
+    {
+     "word": "hour",
+     "p": 0.0004,
+     "rhyme": 0.3,
+     "score": 0.175
+    },
+    {
+     "word": "even",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.172
+    },
+    {
+     "word": "until",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.111
+    },
+    {
+     "word": "whether",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.098
+    },
+    {
+     "word": "after",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.067
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Knowledge on its wings to unfold,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "fly",
+   "meant": "fly",
+   "chosen": "unfold",
+   "candidates": [
+    {
+     "word": "unfold",
+     "p": 0.0131,
+     "rhyme": 0,
+     "score": 0.69
+    },
+    {
+     "word": "follow",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.521
+    },
+    {
+     "word": "carry",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.518
+    },
+    {
+     "word": "our",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.426
+    },
+    {
+     "word": "scatter",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.331
+    },
+    {
+     "word": "travel",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.306
+    },
+    {
+     "word": "pursue",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.302
+    },
+    {
+     "word": "renew",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "hover",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.268
+    },
+    {
+     "word": "wander",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.263
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "But more than ever behold",
+   "syllables": 7,
+   "target": 8,
+   "partner": "unfold",
+   "qwen_top": "shall",
+   "meant": "shall",
+   "chosen": "behold",
+   "candidates": [
+    {
+     "word": "behold",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 0.504
+    },
+    {
+     "word": "our",
+     "p": 0.0207,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "over",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.312
+    },
+    {
+     "word": "ago",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.31
+    },
+    {
+     "word": "only",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.309
+    },
+    {
+     "word": "alone",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.307
+    },
+    {
+     "word": "knowing",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.307
+    },
+    {
+     "word": "shadows",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.306
+    },
+    {
+     "word": "unknown",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.303
+    },
+    {
+     "word": "before",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.134
+    }
+   ]
+  }
+ ]
+}

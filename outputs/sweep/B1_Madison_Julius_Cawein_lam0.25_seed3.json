@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "B1",
+ "lam": 0.25,
+ "scheme": "ABCB",
+ "seed": 3,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "O'er the new moon's golden rim,\nAnd far up aloft above,\nThe stars from silver shimmerings creep,\nLike the dreams of a dreamer's lover.\nAround it, like silver,\nLike glittering silver,\nHis mouth its eyes he kisses softly,\nWhile through the cataract kisses.\nBut never shall I forget\nWhat love did in his kisses,\nOr ever such passionate kisses\nAs these were to me that night. Little",
+ "lines": [
+  {
+   "line": 1,
+   "text": "O'er the new moon's golden rim,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "rim",
+   "meant": "rim",
+   "chosen": "rim",
+   "candidates": [
+    {
+     "word": "rim",
+     "p": 0.0387,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "light",
+     "p": 0.0301,
+     "rhyme": 0,
+     "score": 0.779
+    },
+    {
+     "word": "breast",
+     "p": 0.0283,
+     "rhyme": 0,
+     "score": 0.732
+    },
+    {
+     "word": "edge",
+     "p": 0.025,
+     "rhyme": 0,
+     "score": 0.646
+    },
+    {
+     "word": "crest",
+     "p": 0.0207,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "face",
+     "p": 0.0207,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "glow",
+     "p": 0.0194,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "dome",
+     "p": 0.0126,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "wave",
+     "p": 0.0111,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "hand",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.253
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "And far up aloft above,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "above",
+   "candidates": [
+    {
+     "word": "above",
+     "p": 0.0195,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "into",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "away",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.293
+    },
+    {
+     "word": "upon",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "below",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "anew",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "again",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.264
+    },
+    {
+     "word": "between",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.255
+    },
+    {
+     "word": "unseen",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "serene",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.249
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "The stars from silver shimmerings creep,",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "creep",
+   "meant": "creep",
+   "chosen": "creep",
+   "candidates": [
+    {
+     "word": "creep",
+     "p": 0.0244,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "come",
+     "p": 0.0168,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "shine",
+     "p": 0.0168,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "fall",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "rise",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "rim",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "play",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "fly",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "glide",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "glow",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.325
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Like the dreams of a dreamer's lover.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "above",
+   "qwen_top": "eye",
+   "meant": "eye",
+   "chosen": "lover",
+   "candidates": [
+    {
+     "word": "lover",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.471
+    },
+    {
+     "word": "mother",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "summer",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "fever",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "hour",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.183
+    },
+    {
+     "word": "pillow",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.059
+    },
+    {
+     "word": "spirit",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "fire",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "weary",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.034
+    },
+    {
+     "word": "waking",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.023
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Around it, like silver,",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "a",
+   "chosen": "silver",
+   "candidates": [
+    {
+     "word": "silver",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "shadows",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.646
+    },
+    {
+     "word": "golden",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "many",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "distant",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "little",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.21
+    },
+    {
+     "word": "gentle",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "delicate",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.185
+    },
+    {
+     "word": "lovers",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "velvet",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.163
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Like glittering silver,",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "pearls",
+   "meant": "pearls",
+   "chosen": "silver",
+   "candidates": [
+    {
+     "word": "silver",
+     "p": 0.036,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "shadow",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "rainbow",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "shadows",
+     "p": 0.0103,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "fire",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.252
+    },
+    {
+     "word": "butterflies",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.241
+    },
+    {
+     "word": "fairy",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.232
+    },
+    {
+     "word": "sunlight",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "twilight",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.225
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "His mouth its eyes he kisses softly,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "softly",
+   "candidates": [
+    {
+     "word": "softly",
+     "p": 0.0097,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "again",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "lightly",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "away",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "gently",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "anew",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "very",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "ever",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.044
+    },
+    {
+     "word": "slowly",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.034
+    },
+    {
+     "word": "every",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.03
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "While through the cataract kisses.",
+   "syllables": 8,
+   "target": 9,
+   "partner": "silver",
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "kisses",
+   "candidates": [
+    {
+     "word": "kisses",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.657
+    },
+    {
+     "word": "glitter",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.584
+    },
+    {
+     "word": "shimmer",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.513
+    },
+    {
+     "word": "begins",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.476
+    },
+    {
+     "word": "river",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.47
+    },
+    {
+     "word": "appears",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.467
+    },
+    {
+     "word": "singing",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.467
+    },
+    {
+     "word": "below",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "falling",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.126
+    },
+    {
+     "word": "waters",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.118
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "But never shall I forget",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "see",
+   "meant": "see",
+   "chosen": "forget",
+   "candidates": [
+    {
+     "word": "forget",
+     "p": 0.0861,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "behold",
+     "p": 0.0204,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "ever",
+     "p": 0.0181,
+     "rhyme": 0,
+     "score": 0.21
+    },
+    {
+     "word": "return",
+     "p": 0.0097,
+     "rhyme": 0,
+     "score": 0.112
+    },
+    {
+     "word": "remember",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "again",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.044
+    },
+    {
+     "word": "marry",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.039
+    },
+    {
+     "word": "follow",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.036
+    },
+    {
+     "word": "awake",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.034
+    },
+    {
+     "word": "enter",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.028
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "What love did in his kisses,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "eyes",
+   "meant": "eyes",
+   "chosen": "kisses",
+   "candidates": [
+    {
+     "word": "kisses",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.34
+    },
+    {
+     "word": "golden",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.312
+    },
+    {
+     "word": "shadow",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "lover",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "tender",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.268
+    },
+    {
+     "word": "farewell",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.258
+    },
+    {
+     "word": "midnight",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "very",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.243
+    },
+    {
+     "word": "delight",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.24
+    },
+    {
+     "word": "twilight",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.235
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Or ever such passionate kisses",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "kisses",
+   "meant": "kisses",
+   "chosen": "kisses",
+   "candidates": [
+    {
+     "word": "kisses",
+     "p": 0.2717,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "beauty",
+     "p": 0.0093,
+     "rhyme": 0,
+     "score": 0.034
+    },
+    {
+     "word": "delight",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.027
+    },
+    {
+     "word": "fire",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.025
+    },
+    {
+     "word": "wonder",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.024
+    },
+    {
+     "word": "passion",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.022
+    },
+    {
+     "word": "ecstasy",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.021
+    },
+    {
+     "word": "magic",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.015
+    },
+    {
+     "word": "kissing",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.015
+    },
+    {
+     "word": "sweetness",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.014
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "As these were to me that night. Little",
+   "syllables": 9,
+   "target": 10,
+   "partner": "kisses",
+   "qwen_top": "o",
+   "meant": "o",
+   "chosen": "little",
+   "candidates": [
+    {
+     "word": "little",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "within",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "given",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "until",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "amen",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "indeed",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.183
+    },
+    {
+     "word": "happy",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "after",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.053
+    },
+    {
+     "word": "beyond",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.043
+    },
+    {
+     "word": "perhaps",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.043
+    }
+   ]
+  }
+ ]
+}

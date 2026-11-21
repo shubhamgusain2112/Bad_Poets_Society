@@ -1,0 +1,1452 @@
+{
+ "poet": "Henry Wadsworth Longfellow",
+ "system": "M",
+ "lam": 1.0,
+ "scheme": "none",
+ "seed": 10,
+ "model": "lora",
+ "stop": "20 lines",
+ "poem": "And I will yet more nectar deliver,\nTo my own soul and ours.\nIII. The Old Priest's Tale of Redemption\nThere was an old man, that alone\nThe fair Lyre could call to him being,\nIn a richly-moulded chamber,\nWhere the windows showed along\nAn avenue vast with flowers\nAnd lovely gardens profuse;  told\nAll the stories he knew about\nHis life in golden glory before\nThe sudden change from heaven.\nThis same tale is but story,\nBut then it is not untrue story;\nFor, when in springtime ere until\nThree years should come again again,\nThat ageless Spirit arrived\nWith visions and revelations there\nTo all who, like myself, might expect\nThe true fulfilment of mankind,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "And I will yet more nectar deliver,",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "to",
+   "chosen": "deliver",
+   "candidates": [
+    {
+     "word": "deliver",
+     "p": 0.0142,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "produce",
+     "p": 0.0125,
+     "rhyme": 0,
+     "score": 0.882
+    },
+    {
+     "word": "enough",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.614
+    },
+    {
+     "word": "collect",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.611
+    },
+    {
+     "word": "provide",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.418
+    },
+    {
+     "word": "gather",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.389
+    },
+    {
+     "word": "extract",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.318
+    },
+    {
+     "word": "able",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "consume",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "impart",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.27
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "To my own soul and ours.",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "thine",
+   "chosen": "ours",
+   "candidates": [
+    {
+     "word": "ours",
+     "p": 0.0294,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "eternal",
+     "p": 0.0103,
+     "rhyme": 0,
+     "score": 0.348
+    },
+    {
+     "word": "goodness",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.264
+    },
+    {
+     "word": "heaven",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.202
+    },
+    {
+     "word": "heavenly",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.193
+    },
+    {
+     "word": "unto",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.133
+    },
+    {
+     "word": "allah",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.125
+    },
+    {
+     "word": "posterity",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.122
+    },
+    {
+     "word": "humankind",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.117
+    },
+    {
+     "word": "conscience",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.111
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "III. The Old Priest's Tale of Redemption",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "of",
+   "chosen": "redemption",
+   "candidates": [
+    {
+     "word": "redemption",
+     "p": 0.0129,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "eternal",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.564
+    },
+    {
+     "word": "jesus",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.556
+    },
+    {
+     "word": "glory",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.491
+    },
+    {
+     "word": "forgiveness",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.478
+    },
+    {
+     "word": "after",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.393
+    },
+    {
+     "word": "resurrection",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.381
+    },
+    {
+     "word": "paradise",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.361
+    },
+    {
+     "word": "salvation",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "fellowship",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "There was an old man, that alone",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "was",
+   "meant": "lived",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "resided",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.979
+    },
+    {
+     "word": "listened",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.88
+    },
+    {
+     "word": "never",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.76
+    },
+    {
+     "word": "believed",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.727
+    },
+    {
+     "word": "remained",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.697
+    },
+    {
+     "word": "afterward",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.69
+    },
+    {
+     "word": "waited",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.668
+    },
+    {
+     "word": "realized",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.649
+    },
+    {
+     "word": "having",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.624
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "The fair Lyre could call to him being,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "all",
+   "chosen": "being",
+   "candidates": [
+    {
+     "word": "being",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "alone",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.698
+    },
+    {
+     "word": "going",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.613
+    },
+    {
+     "word": "himself",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.604
+    },
+    {
+     "word": "someone",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.471
+    },
+    {
+     "word": "others",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.444
+    },
+    {
+     "word": "again",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.413
+    },
+    {
+     "word": "always",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.409
+    },
+    {
+     "word": "only",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "saying",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.357
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "In a richly-moulded chamber,",
+   "syllables": 8,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "house",
+   "meant": "chamber",
+   "chosen": "chamber",
+   "candidates": [
+    {
+     "word": "chamber",
+     "p": 0.0602,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "gilded",
+     "p": 0.0175,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "chair",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 0.2
+    },
+    {
+     "word": "house",
+     "p": 0.0109,
+     "rhyme": 0,
+     "score": 0.181
+    },
+    {
+     "word": "room",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.121
+    },
+    {
+     "word": "wooden",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.116
+    },
+    {
+     "word": "walled",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.111
+    },
+    {
+     "word": "door",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "tomb",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.096
+    },
+    {
+     "word": "enclosure",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.089
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Where the windows showed along",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "along",
+   "chosen": "along",
+   "candidates": [
+    {
+     "word": "along",
+     "p": 0.0349,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "across",
+     "p": 0.0178,
+     "rhyme": 0,
+     "score": 0.511
+    },
+    {
+     "word": "afar",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "above",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.198
+    },
+    {
+     "word": "heavens",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.154
+    },
+    {
+     "word": "mountains",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.152
+    },
+    {
+     "word": "alone",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.11
+    },
+    {
+     "word": "everywhere",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.108
+    },
+    {
+     "word": "beyond",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.084
+    },
+    {
+     "word": "visible",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.081
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "An avenue vast with flowers",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "trees",
+   "meant": "trees",
+   "chosen": "flowers",
+   "candidates": [
+    {
+     "word": "flowers",
+     "p": 0.0535,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "roses",
+     "p": 0.0164,
+     "rhyme": 0,
+     "score": 0.306
+    },
+    {
+     "word": "majestic",
+     "p": 0.0099,
+     "rhyme": 0,
+     "score": 0.185
+    },
+    {
+     "word": "gardens",
+     "p": 0.0099,
+     "rhyme": 0,
+     "score": 0.185
+    },
+    {
+     "word": "chandeliers",
+     "p": 0.0095,
+     "rhyme": 0,
+     "score": 0.178
+    },
+    {
+     "word": "fountains",
+     "p": 0.0094,
+     "rhyme": 0,
+     "score": 0.175
+    },
+    {
+     "word": "forests",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "branches",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.118
+    },
+    {
+     "word": "towers",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.111
+    },
+    {
+     "word": "foliage",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.104
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "And lovely gardens profuse;  told",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "told",
+   "chosen": "told",
+   "candidates": [
+    {
+     "word": "told",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "road",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.788
+    },
+    {
+     "word": "there",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.775
+    },
+    {
+     "word": "i",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.66
+    },
+    {
+     "word": "heard",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.659
+    },
+    {
+     "word": "we",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.632
+    },
+    {
+     "word": "where",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.589
+    },
+    {
+     "word": "heads",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.556
+    },
+    {
+     "word": "connection",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.504
+    },
+    {
+     "word": "the",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.494
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "All the stories he knew about",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "well",
+   "chosen": "about",
+   "candidates": [
+    {
+     "word": "about",
+     "p": 0.0246,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "before",
+     "p": 0.0097,
+     "rhyme": 0,
+     "score": 0.395
+    },
+    {
+     "word": "only",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "together",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "over",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.155
+    },
+    {
+     "word": "within",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.137
+    },
+    {
+     "word": "history",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.13
+    },
+    {
+     "word": "present",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.125
+    },
+    {
+     "word": "many",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.12
+    },
+    {
+     "word": "living",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.119
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "His life in golden glory before",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "years",
+   "chosen": "before",
+   "candidates": [
+    {
+     "word": "before",
+     "p": 0.0141,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "ago",
+     "p": 0.0119,
+     "rhyme": 0,
+     "score": 0.845
+    },
+    {
+     "word": "over",
+     "p": 0.0099,
+     "rhyme": 0,
+     "score": 0.701
+    },
+    {
+     "word": "glory",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.415
+    },
+    {
+     "word": "after",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.304
+    },
+    {
+     "word": "decade",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "winning",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.252
+    },
+    {
+     "word": "coming",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.23
+    },
+    {
+     "word": "career",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.205
+    },
+    {
+     "word": "finally",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.201
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "The sudden change from heaven.",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "life",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0125,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "eternal",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 0.963
+    },
+    {
+     "word": "beauty",
+     "p": 0.0101,
+     "rhyme": 0,
+     "score": 0.81
+    },
+    {
+     "word": "paradise",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 0.669
+    },
+    {
+     "word": "happiness",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.644
+    },
+    {
+     "word": "glory",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.52
+    },
+    {
+     "word": "heavenly",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.456
+    },
+    {
+     "word": "righteousness",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.455
+    },
+    {
+     "word": "darkness",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.436
+    },
+    {
+     "word": "eternity",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.43
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "text": "This same tale is but story,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "story",
+   "chosen": "story",
+   "candidates": [
+    {
+     "word": "story",
+     "p": 0.0228,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "forgotten",
+     "p": 0.0125,
+     "rhyme": 0,
+     "score": 0.548
+    },
+    {
+     "word": "anecdote",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.354
+    },
+    {
+     "word": "aloud",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.242
+    },
+    {
+     "word": "stories",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.2
+    },
+    {
+     "word": "happened",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "tragic",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.184
+    },
+    {
+     "word": "glories",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.171
+    },
+    {
+     "word": "fanciful",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.164
+    },
+    {
+     "word": "repeats",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.151
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "text": "But then it is not untrue story;",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "truth",
+   "meant": "still",
+   "chosen": "story",
+   "candidates": [
+    {
+     "word": "story",
+     "p": 0.0091,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "even",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.788
+    },
+    {
+     "word": "only",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.696
+    },
+    {
+     "word": "indeed",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.661
+    },
+    {
+     "word": "about",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.588
+    },
+    {
+     "word": "never",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.581
+    },
+    {
+     "word": "something",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.468
+    },
+    {
+     "word": "enough",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.452
+    },
+    {
+     "word": "nothing",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.437
+    },
+    {
+     "word": "perhaps",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.408
+    }
+   ]
+  },
+  {
+   "line": 15,
+   "text": "For, when in springtime ere until",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "days",
+   "chosen": "until",
+   "candidates": [
+    {
+     "word": "until",
+     "p": 0.0175,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "beginning",
+     "p": 0.0171,
+     "rhyme": 0,
+     "score": 0.977
+    },
+    {
+     "word": "summer",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.701
+    },
+    {
+     "word": "before",
+     "p": 0.0116,
+     "rhyme": 0,
+     "score": 0.662
+    },
+    {
+     "word": "autumn",
+     "p": 0.0093,
+     "rhyme": 0,
+     "score": 0.532
+    },
+    {
+     "word": "winter",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.466
+    },
+    {
+     "word": "early",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.34
+    },
+    {
+     "word": "coming",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.306
+    },
+    {
+     "word": "after",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "during",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.296
+    }
+   ]
+  },
+  {
+   "line": 16,
+   "text": "Three years should come again again,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.1807,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "before",
+     "p": 0.1045,
+     "rhyme": 0,
+     "score": 0.578
+    },
+    {
+     "word": "finally",
+     "p": 0.0178,
+     "rhyme": 0,
+     "score": 0.099
+    },
+    {
+     "word": "coming",
+     "p": 0.0133,
+     "rhyme": 0,
+     "score": 0.073
+    },
+    {
+     "word": "later",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.044
+    },
+    {
+     "word": "after",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.043
+    },
+    {
+     "word": "until",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.036
+    },
+    {
+     "word": "ago",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.027
+    },
+    {
+     "word": "returned",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.024
+    },
+    {
+     "word": "began",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.022
+    }
+   ]
+  },
+  {
+   "line": 17,
+   "text": "That ageless Spirit arrived",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "came",
+   "chosen": "arrived",
+   "candidates": [
+    {
+     "word": "arrived",
+     "p": 0.0225,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "returned",
+     "p": 0.0114,
+     "rhyme": 0,
+     "score": 0.506
+    },
+    {
+     "word": "arose",
+     "p": 0.0111,
+     "rhyme": 0,
+     "score": 0.494
+    },
+    {
+     "word": "afterward",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.409
+    },
+    {
+     "word": "replied",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.347
+    },
+    {
+     "word": "emerged",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.333
+    },
+    {
+     "word": "awoke",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.331
+    },
+    {
+     "word": "later",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "suddenly",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "recalled",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.259
+    }
+   ]
+  },
+  {
+   "line": 18,
+   "text": "With visions and revelations there",
+   "syllables": 9,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "divine",
+   "meant": "there",
+   "chosen": "there",
+   "candidates": [
+    {
+     "word": "there",
+     "p": 0.0193,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "strange",
+     "p": 0.0163,
+     "rhyme": 0,
+     "score": 0.842
+    },
+    {
+     "word": "bright",
+     "p": 0.0094,
+     "rhyme": 0,
+     "score": 0.485
+    },
+    {
+     "word": "true",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.446
+    },
+    {
+     "word": "brought",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.343
+    },
+    {
+     "word": "clear",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.342
+    },
+    {
+     "word": "sweet",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.314
+    },
+    {
+     "word": "come",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.309
+    },
+    {
+     "word": "yet",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.258
+    },
+    {
+     "word": "light",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.247
+    }
+   ]
+  },
+  {
+   "line": 19,
+   "text": "To all who, like myself, might expect",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "be",
+   "meant": "see",
+   "chosen": "expect",
+   "candidates": [
+    {
+     "word": "expect",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "listen",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.657
+    },
+    {
+     "word": "believe",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.52
+    },
+    {
+     "word": "able",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.504
+    },
+    {
+     "word": "happen",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.425
+    },
+    {
+     "word": "happy",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.367
+    },
+    {
+     "word": "follow",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "probably",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.359
+    },
+    {
+     "word": "wondering",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.353
+    },
+    {
+     "word": "always",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.333
+    }
+   ]
+  },
+  {
+   "line": 20,
+   "text": "The true fulfilment of mankind,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "life",
+   "chosen": "mankind",
+   "candidates": [
+    {
+     "word": "mankind",
+     "p": 0.0209,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "heaven",
+     "p": 0.0133,
+     "rhyme": 0,
+     "score": 0.638
+    },
+    {
+     "word": "happiness",
+     "p": 0.011,
+     "rhyme": 0,
+     "score": 0.524
+    },
+    {
+     "word": "destiny",
+     "p": 0.0101,
+     "rhyme": 0,
+     "score": 0.484
+    },
+    {
+     "word": "eternity",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.441
+    },
+    {
+     "word": "eternal",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.409
+    },
+    {
+     "word": "divine",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.357
+    },
+    {
+     "word": "humankind",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "prophecy",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.314
+    },
+    {
+     "word": "glory",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.245
+    }
+   ]
+  }
+ ]
+}

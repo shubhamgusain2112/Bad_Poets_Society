@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "ABAB",
+ "seed": 0,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Farewell, my dear boy! When haply away\nThe day has flown and I sleep no tomorrow,\nMy eyes are dim as a rosy ray\nThat gilds my cheeks; the drowsy light below\nBegins to lighten each spirit away;\nYet, perchance, yet, some one may chance agree\nTo bring me back again by an essay\nOf those lost chains which now bind me wholly;\nAnd if you can afford it, \"last away,\nAnd be with us--with us till salvation\nIs passed from earth into heaven,\" may,\nGod grant your prayer, that we may meet again.",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Farewell, my dear boy! When haply away",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "i",
+   "meant": "i",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "into",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "anew",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "again",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "farewell",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "upon",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "our",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.229
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The day has flown and I sleep no tomorrow,",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "more",
+   "meant": "more",
+   "chosen": "tomorrow",
+   "candidates": [
+    {
+     "word": "tomorrow",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "again",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "midnight",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "alone",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.218
+    },
+    {
+     "word": "delight",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.212
+    },
+    {
+     "word": "desire",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "sire",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "minute",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.193
+    },
+    {
+     "word": "awake",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.176
+    },
+    {
+     "word": "return",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.173
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "My eyes are dim as a rosy ray",
+   "syllables": 9,
+   "target": 10,
+   "partner": "away",
+   "qwen_top": "moon",
+   "meant": "moon",
+   "chosen": "ray",
+   "candidates": [
+    {
+     "word": "ray",
+     "p": 0.0103,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "day",
+     "p": 0.0081,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "bay",
+     "p": 0.0014,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "grey",
+     "p": 0.0011,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "a",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "re",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "may",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "decay",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "flame",
+     "p": 0.0125,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "grave",
+     "p": 0.0046,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "That gilds my cheeks; the drowsy light below",
+   "syllables": 10,
+   "target": 11,
+   "partner": "tomorrow",
+   "qwen_top": "is",
+   "meant": "is",
+   "chosen": "below",
+   "candidates": [
+    {
+     "word": "below",
+     "p": 0.0023,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "alone",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "only",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "closes",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "unfolds",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "approaches",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "withdraw",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "away",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "appears",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "passes",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Begins to lighten each spirit away;",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "array",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "anew",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "unseen",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "serene",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "inside",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.242
+    },
+    {
+     "word": "aware",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.236
+    },
+    {
+     "word": "upon",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.233
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Yet, perchance, yet, some one may chance agree",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "agree",
+   "candidates": [
+    {
+     "word": "agree",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "away",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "today",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "anew",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "into",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "obtain",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "again",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "remain",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "reply",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.249
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "To bring me back again by an essay",
+   "syllables": 10,
+   "target": 11,
+   "partner": "away",
+   "qwen_top": "hour",
+   "meant": "hour",
+   "chosen": "essay",
+   "candidates": [
+    {
+     "word": "essay",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "array",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "angel",
+     "p": 0.0818,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "escape",
+     "p": 0.0147,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "alternate",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "april",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "exchange",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "ancient",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "embrace",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "invitation",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Of those lost chains which now bind me wholly;",
+   "syllables": 10,
+   "target": 11,
+   "partner": "agree",
+   "qwen_top": "so",
+   "meant": "so",
+   "chosen": "wholly",
+   "candidates": [
+    {
+     "word": "wholly",
+     "p": 0.002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "sadly",
+     "p": 0.0014,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "strangely",
+     "p": 0.0012,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "only",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "closely",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "very",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "truly",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "freely",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "securely",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "slowly",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "And if you can afford it, \"last away,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "night",
+   "meant": "night",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "sunday",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "thursday",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "holiday",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "friday",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "birthday",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "again",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "remain",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "farewell",
+     "p": 0.0142,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "goodbye",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.25
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "And be with us--with us till salvation",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "salvation",
+   "candidates": [
+    {
+     "word": "salvation",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "away",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "into",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "sunday",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "below",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "thursday",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "monday",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "friday",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.256
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Is passed from earth into heaven,\" may,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "away",
+   "qwen_top": "i",
+   "meant": "i",
+   "chosen": "may",
+   "candidates": [
+    {
+     "word": "may",
+     "p": 0.0357,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "say",
+     "p": 0.009,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "a",
+     "p": 0.0049,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "they",
+     "p": 0.0035,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "pray",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "nay",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "de",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "stay",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "ay",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "take",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "God grant your prayer, that we may meet again.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "salvation",
+   "qwen_top": "again",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.5221,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "away",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "safely",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "always",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "daily",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "today",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "later",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awake",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "against",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "together",
+     "p": 0.0179,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  }
+ ]
+}

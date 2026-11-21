@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 1.0,
+ "scheme": "ABAB",
+ "seed": 3,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "XIII. OMNES DE ILLUMINUS in\nThe World and the Soul to die, alas!\nThou hast ne'er been born a man of power;\nHe who hath his soul's steed as to heaven,\nThat thou shouldst be a more sublime thing,\nMight tell thy nature at thy command.\nSuch is the sad pride that grows within us;\nI am not, but thou shalt know it never.\nXIV. So thou must die for this our\nHospitable planet; where our\nDusty priests are in all things swarthy and\nAlluring, and they wear their shawls over",
+ "lines": [
+  {
+   "line": 1,
+   "text": "XIII. OMNES DE ILLUMINUS in",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "in",
+   "candidates": [
+    {
+     "word": "in",
+     "p": 0.0207,
+     "rhyme": 0,
+     "score": 1.217
+    },
+    {
+     "word": "a",
+     "p": 0.0108,
+     "rhyme": 0,
+     "score": 0.792
+    },
+    {
+     "word": "i",
+     "p": 0.0107,
+     "rhyme": 0,
+     "score": 0.765
+    },
+    {
+     "word": "et",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 0.719
+    },
+    {
+     "word": "est",
+     "p": 0.0103,
+     "rhyme": 0,
+     "score": 0.718
+    },
+    {
+     "word": "e",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.615
+    },
+    {
+     "word": "non",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.571
+    },
+    {
+     "word": "sum",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.513
+    },
+    {
+     "word": "de",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.512
+    },
+    {
+     "word": "am",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.447
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The World and the Soul to die, alas!",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "alas",
+   "candidates": [
+    {
+     "word": "alas",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 1.184
+    },
+    {
+     "word": "etc",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.766
+    },
+    {
+     "word": "our",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.665
+    },
+    {
+     "word": "before",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.537
+    },
+    {
+     "word": "without",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.516
+    },
+    {
+     "word": "indeed",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.396
+    },
+    {
+     "word": "again",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.383
+    },
+    {
+     "word": "dying",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.367
+    },
+    {
+     "word": "away",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "because",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.322
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Thou hast ne'er been born a man of power;",
+   "syllables": 10,
+   "target": 11,
+   "partner": "in",
+   "qwen_top": "men",
+   "meant": "men",
+   "chosen": "power",
+   "candidates": [
+    {
+     "word": "power",
+     "p": 0.0176,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "science",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "ours",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.18
+    },
+    {
+     "word": "action",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "feeling",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.172
+    },
+    {
+     "word": "renown",
+     "p": 0.0028,
+     "rhyme": 0.3,
+     "score": 0.159
+    },
+    {
+     "word": "genius",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.145
+    },
+    {
+     "word": "fire",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.138
+    },
+    {
+     "word": "virtue",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.132
+    },
+    {
+     "word": "evil",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.127
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "He who hath his soul's steed as to heaven,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "alas",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "power",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.434
+    },
+    {
+     "word": "follow",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "obey",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "conquer",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "defend",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "fire",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.191
+    },
+    {
+     "word": "our",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.181
+    },
+    {
+     "word": "govern",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.179
+    },
+    {
+     "word": "himself",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.177
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "That thou shouldst be a more sublime thing,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "thing",
+   "meant": "thing",
+   "chosen": "thing",
+   "candidates": [
+    {
+     "word": "thing",
+     "p": 0.2968,
+     "rhyme": 0,
+     "score": 1.183
+    },
+    {
+     "word": "man",
+     "p": 0.0587,
+     "rhyme": 0,
+     "score": 0.427
+    },
+    {
+     "word": "race",
+     "p": 0.0666,
+     "rhyme": 0,
+     "score": 0.396
+    },
+    {
+     "word": "king",
+     "p": 0.0604,
+     "rhyme": 0,
+     "score": 0.385
+    },
+    {
+     "word": "nation",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.318
+    },
+    {
+     "word": "knight",
+     "p": 0.0255,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "bee",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "tree",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "be",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "sea",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.282
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Might tell thy nature at thy command.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "birth",
+   "meant": "birth",
+   "chosen": "command",
+   "candidates": [
+    {
+     "word": "command",
+     "p": 0.0286,
+     "rhyme": 0,
+     "score": 1.189
+    },
+    {
+     "word": "very",
+     "p": 0.0134,
+     "rhyme": 0,
+     "score": 0.684
+    },
+    {
+     "word": "dying",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.473
+    },
+    {
+     "word": "creation",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.399
+    },
+    {
+     "word": "bidding",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "desire",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "farewell",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.304
+    },
+    {
+     "word": "degree",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "decay",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "birthday",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Such is the sad pride that grows within us;",
+   "syllables": 10,
+   "target": 11,
+   "partner": "thing",
+   "qwen_top": "us",
+   "meant": "us",
+   "chosen": "us",
+   "candidates": [
+    {
+     "word": "us",
+     "p": 0.0879,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "me",
+     "p": 0.0605,
+     "rhyme": 0,
+     "score": 0.688
+    },
+    {
+     "word": "thee",
+     "p": 0.0604,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "a",
+     "p": 0.0135,
+     "rhyme": 0,
+     "score": 0.154
+    },
+    {
+     "word": "the",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.14
+    },
+    {
+     "word": "men",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 0.136
+    },
+    {
+     "word": "him",
+     "p": 0.0094,
+     "rhyme": 0.6,
+     "score": 0.106
+    },
+    {
+     "word": "man",
+     "p": 0.0093,
+     "rhyme": 0,
+     "score": 0.106
+    },
+    {
+     "word": "each",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "thy",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.084
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "I am not, but thou shalt know it never.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "command",
+   "qwen_top": "well",
+   "meant": "well",
+   "chosen": "never",
+   "candidates": [
+    {
+     "word": "never",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "better",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.882
+    },
+    {
+     "word": "clearly",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "plainly",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "very",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "truly",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "surely",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "indeed",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "also",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "again",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.153
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "XIV. So thou must die for this our",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "world",
+   "meant": "world",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 1.229
+    },
+    {
+     "word": "evil",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.836
+    },
+    {
+     "word": "immortal",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.673
+    },
+    {
+     "word": "alone",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.658
+    },
+    {
+     "word": "mortal",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.635
+    },
+    {
+     "word": "very",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.628
+    },
+    {
+     "word": "divine",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.618
+    },
+    {
+     "word": "supreme",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.606
+    },
+    {
+     "word": "awful",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.584
+    },
+    {
+     "word": "despair",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.521
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Hospitable planet; where our",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "thou",
+   "meant": "thou",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 1.229
+    },
+    {
+     "word": "ever",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.549
+    },
+    {
+     "word": "every",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.507
+    },
+    {
+     "word": "many",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.38
+    },
+    {
+     "word": "indeed",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.358
+    },
+    {
+     "word": "nations",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.358
+    },
+    {
+     "word": "never",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.338
+    },
+    {
+     "word": "others",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.333
+    },
+    {
+     "word": "heaven",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.314
+    },
+    {
+     "word": "liberty",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.292
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Dusty priests are in all things swarthy and",
+   "syllables": 10,
+   "target": 11,
+   "partner": "our",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "and",
+   "candidates": [
+    {
+     "word": "and",
+     "p": 0.0138,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "as",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "clad",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "men",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.12
+    },
+    {
+     "word": "grey",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.027
+    },
+    {
+     "word": "white",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.024
+    },
+    {
+     "word": "of",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.021
+    },
+    {
+     "word": "cloth",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.018
+    },
+    {
+     "word": "dark",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.016
+    },
+    {
+     "word": "with",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.016
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Alluring, and they wear their shawls over",
+   "syllables": 10,
+   "target": 11,
+   "partner": "our",
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "over",
+   "candidates": [
+    {
+     "word": "over",
+     "p": 0.0091,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "about",
+     "p": 0.008,
+     "rhyme": 0.6,
+     "score": 0.883
+    },
+    {
+     "word": "upon",
+     "p": 0.0038,
+     "rhyme": 0.6,
+     "score": 0.417
+    },
+    {
+     "word": "above",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "around",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.325
+    },
+    {
+     "word": "dirty",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "again",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "abroad",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "beneath",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "away",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.153
+    }
+   ]
+  }
+ ]
+}

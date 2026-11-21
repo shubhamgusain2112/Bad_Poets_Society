@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 1.0,
+ "scheme": "ABAB",
+ "seed": 10,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Though, in a little walk by river,\nThe lovers' love was sharpest to behold;\nBut 'twere not their rosy lips they behold\nMore clearly than the last happy hour.\nThey kissed and parted as pales depart,\nWith oneness new-sprung from sepulchre!  Instead\nOf throwing out a joyful farewell to\nA garland for another's grave beside.\nAnd such is the one-day love between\nWho give each other joys of eternal;\nBut when there are no more present flowers,\nNo further wedded lives remaineth. O",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Though, in a little walk by river,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "river",
+   "candidates": [
+    {
+     "word": "river",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 1.115
+    },
+    {
+     "word": "sunset",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.882
+    },
+    {
+     "word": "evening",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.772
+    },
+    {
+     "word": "our",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.768
+    },
+    {
+     "word": "many",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.74
+    },
+    {
+     "word": "summer",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.675
+    },
+    {
+     "word": "venice",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.646
+    },
+    {
+     "word": "oxford",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.509
+    },
+    {
+     "word": "nature",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.496
+    },
+    {
+     "word": "morning",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.472
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The lovers' love was sharpest to behold;",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "be",
+   "meant": "be",
+   "chosen": "behold",
+   "candidates": [
+    {
+     "word": "behold",
+     "p": 0.0218,
+     "rhyme": 0,
+     "score": 1.189
+    },
+    {
+     "word": "forget",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "display",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "borrow",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "betray",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "pursue",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "deny",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "detect",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "appear",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.267
+    },
+    {
+     "word": "declare",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.265
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "But 'twere not their rosy lips they behold",
+   "syllables": 10,
+   "target": 11,
+   "partner": "river",
+   "qwen_top": "shed",
+   "meant": "shed",
+   "chosen": "behold",
+   "candidates": [
+    {
+     "word": "behold",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "adorn",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.829
+    },
+    {
+     "word": "delight",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.779
+    },
+    {
+     "word": "noted",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "cherish",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "adorned",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "adore",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "displayed",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.444
+    },
+    {
+     "word": "display",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "painted",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.417
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "More clearly than the last happy hour.",
+   "syllables": 10,
+   "target": 10,
+   "partner": "behold",
+   "qwen_top": "hour",
+   "meant": "hour",
+   "chosen": "hour",
+   "candidates": [
+    {
+     "word": "hour",
+     "p": 0.067,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "scene",
+     "p": 0.0593,
+     "rhyme": 0,
+     "score": 0.886
+    },
+    {
+     "word": "kiss",
+     "p": 0.0591,
+     "rhyme": 0,
+     "score": 0.882
+    },
+    {
+     "word": "night",
+     "p": 0.0406,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "word",
+     "p": 0.0365,
+     "rhyme": 0,
+     "score": 0.546
+    },
+    {
+     "word": "dream",
+     "p": 0.0232,
+     "rhyme": 0,
+     "score": 0.347
+    },
+    {
+     "word": "moment",
+     "p": 0.0218,
+     "rhyme": 0.6,
+     "score": 0.325
+    },
+    {
+     "word": "day",
+     "p": 0.0205,
+     "rhyme": 0,
+     "score": 0.306
+    },
+    {
+     "word": "set",
+     "p": 0.0193,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "meet",
+     "p": 0.016,
+     "rhyme": 0,
+     "score": 0.239
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "They kissed and parted as pales depart,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "depart",
+   "candidates": [
+    {
+     "word": "depart",
+     "p": 0.0133,
+     "rhyme": 0,
+     "score": 1.15
+    },
+    {
+     "word": "retire",
+     "p": 0.0103,
+     "rhyme": 0,
+     "score": 0.974
+    },
+    {
+     "word": "divide",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.868
+    },
+    {
+     "word": "alone",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.662
+    },
+    {
+     "word": "cannot",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.64
+    },
+    {
+     "word": "decay",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.562
+    },
+    {
+     "word": "dissolve",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.548
+    },
+    {
+     "word": "appear",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.515
+    },
+    {
+     "word": "reflect",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.502
+    },
+    {
+     "word": "upon",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.486
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "With oneness new-sprung from sepulchre!  Instead",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "e",
+   "meant": "e",
+   "chosen": "instead",
+   "candidates": [
+    {
+     "word": "instead",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 1.198
+    },
+    {
+     "word": "translation",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.339
+    },
+    {
+     "word": "indeed",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "station",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "however",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "although",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "broadway",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "progress",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.268
+    },
+    {
+     "word": "between",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "whether",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.242
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Of throwing out a joyful farewell to",
+   "syllables": 10,
+   "target": 11,
+   "partner": "depart",
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "to",
+   "candidates": [
+    {
+     "word": "to",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "cry",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "in",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "sigh",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "word",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.106
+    },
+    {
+     "word": "song",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.106
+    },
+    {
+     "word": "now",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "like",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "smile",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "on",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.082
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "A garland for another's grave beside.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "instead",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "beside",
+   "candidates": [
+    {
+     "word": "beside",
+     "p": 0.0056,
+     "rhyme": 0.3,
+     "score": 1.0
+    },
+    {
+     "word": "alone",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "beneath",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "again",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.197
+    },
+    {
+     "word": "below",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "before",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "embrace",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "away",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "above",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "entrance",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.057
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "And such is the one-day love between",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "between",
+   "candidates": [
+    {
+     "word": "between",
+     "p": 0.0099,
+     "rhyme": 0,
+     "score": 1.248
+    },
+    {
+     "word": "again",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.359
+    },
+    {
+     "word": "divine",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.312
+    },
+    {
+     "word": "before",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "upon",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "wherein",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "away",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.293
+    },
+    {
+     "word": "indeed",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "anew",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "display",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.284
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Who give each other joys of eternal;",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "eternal",
+   "candidates": [
+    {
+     "word": "eternal",
+     "p": 0.0497,
+     "rhyme": 0,
+     "score": 1.139
+    },
+    {
+     "word": "immortal",
+     "p": 0.0372,
+     "rhyme": 0,
+     "score": 0.784
+    },
+    {
+     "word": "everlasting",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 0.333
+    },
+    {
+     "word": "perfect",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.327
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "every",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "delight",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.267
+    },
+    {
+     "word": "heaven",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "our",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "unseen",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.26
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "But when there are no more present flowers,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "between",
+   "qwen_top": "joys",
+   "meant": "joys",
+   "chosen": "flowers",
+   "candidates": [
+    {
+     "word": "flowers",
+     "p": 0.0107,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "delights",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "pleasures",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "presents",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "present",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "hours",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.128
+    },
+    {
+     "word": "fires",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "happy",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "moments",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "prizes",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.064
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "No further wedded lives remaineth. O",
+   "syllables": 10,
+   "target": 11,
+   "partner": "eternal",
+   "qwen_top": "o",
+   "meant": "o",
+   "chosen": "o",
+   "candidates": [
+    {
+     "word": "o",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "the",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.879
+    },
+    {
+     "word": "no",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.691
+    },
+    {
+     "word": "to",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.468
+    },
+    {
+     "word": "i",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.398
+    },
+    {
+     "word": "a",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.393
+    },
+    {
+     "word": "this",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.336
+    },
+    {
+     "word": "there",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "for",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.329
+    },
+    {
+     "word": "then",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.263
+    }
+   ]
+  }
+ ]
+}

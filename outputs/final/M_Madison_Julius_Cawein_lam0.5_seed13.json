@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "M",
+ "lam": 0.5,
+ "scheme": "ABCB",
+ "seed": 13,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "I thought I had seen the darkness\nThrough some small window of darkness,\nBut was startled by darkness\nI could not see--or hardly\nSee, though I saw it never!\nOh! let my shadow disappear!\nAnd feel no twilight, darkness,\nOr light or darkness reappear\nBefore your eyes. alas!\nNo, no; the tower tower\nIn which you dwell upon heaven.\nThe stars were still before",
+ "lines": [
+  {
+   "line": 1,
+   "text": "I thought I had seen the darkness",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "sun",
+   "meant": "sun",
+   "chosen": "darkness",
+   "candidates": [
+    {
+     "word": "darkness",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.924
+    },
+    {
+     "word": "beautiful",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.787
+    },
+    {
+     "word": "morning",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.727
+    },
+    {
+     "word": "golden",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.631
+    },
+    {
+     "word": "sunset",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.547
+    },
+    {
+     "word": "mountain",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.514
+    },
+    {
+     "word": "autumn",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.459
+    },
+    {
+     "word": "water",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.456
+    },
+    {
+     "word": "moonlight",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.4
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Through some small window of darkness,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "night",
+   "chosen": "darkness",
+   "candidates": [
+    {
+     "word": "darkness",
+     "p": 0.0485,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "celebration",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "shadow",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "sunday",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "reality",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "midnight",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.266
+    },
+    {
+     "word": "saturday",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.264
+    },
+    {
+     "word": "monday",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "friday",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.261
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "But was startled by darkness",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "sight",
+   "chosen": "darkness",
+   "candidates": [
+    {
+     "word": "darkness",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "nothing",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.755
+    },
+    {
+     "word": "only",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 0.692
+    },
+    {
+     "word": "coming",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.672
+    },
+    {
+     "word": "seeing",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.446
+    },
+    {
+     "word": "again",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "echoes",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "notice",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "something",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.302
+    },
+    {
+     "word": "any",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.297
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "I could not see--or hardly",
+   "syllables": 7,
+   "target": 8,
+   "partner": "darkness",
+   "qwen_top": "see",
+   "meant": "know",
+   "chosen": "hardly",
+   "candidates": [
+    {
+     "word": "hardly",
+     "p": 0.0141,
+     "rhyme": 0.6,
+     "score": 0.733
+    },
+    {
+     "word": "believe",
+     "p": 0.0162,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "cannot",
+     "p": 0.0051,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "never",
+     "p": 0.0142,
+     "rhyme": 0,
+     "score": 0.439
+    },
+    {
+     "word": "anything",
+     "p": 0.0136,
+     "rhyme": 0,
+     "score": 0.42
+    },
+    {
+     "word": "indeed",
+     "p": 0.0119,
+     "rhyme": 0,
+     "score": 0.366
+    },
+    {
+     "word": "impossible",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.347
+    },
+    {
+     "word": "imagine",
+     "p": 0.0109,
+     "rhyme": 0,
+     "score": 0.335
+    },
+    {
+     "word": "because",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.331
+    },
+    {
+     "word": "possible",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.326
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "See, though I saw it never!",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "through",
+   "meant": "not",
+   "chosen": "never",
+   "candidates": [
+    {
+     "word": "never",
+     "p": 0.0202,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "even",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.396
+    },
+    {
+     "word": "visible",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "everywhere",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.318
+    },
+    {
+     "word": "indeed",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "again",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "only",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "fully",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.217
+    },
+    {
+     "word": "cannot",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.186
+    },
+    {
+     "word": "everything",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.179
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Oh! let my shadow disappear!",
+   "syllables": 8,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "be",
+   "meant": "fall",
+   "chosen": "disappear",
+   "candidates": [
+    {
+     "word": "disappear",
+     "p": 0.0324,
+     "rhyme": 0,
+     "score": 0.729
+    },
+    {
+     "word": "shadows",
+     "p": 0.0101,
+     "rhyme": 0,
+     "score": 0.356
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.302
+    },
+    {
+     "word": "operate",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "tolerate",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "dissipate",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "reappear",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "into",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "shadow",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "away",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.283
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "And feel no twilight, darkness,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "no",
+   "meant": "darkness",
+   "chosen": "darkness",
+   "candidates": [
+    {
+     "word": "darkness",
+     "p": 0.0132,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "shadows",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.932
+    },
+    {
+     "word": "alone",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 0.637
+    },
+    {
+     "word": "nothing",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.527
+    },
+    {
+     "word": "never",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.45
+    },
+    {
+     "word": "even",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.422
+    },
+    {
+     "word": "distant",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.391
+    },
+    {
+     "word": "indeed",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.38
+    },
+    {
+     "word": "forever",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.372
+    },
+    {
+     "word": "except",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.324
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Or light or darkness reappear",
+   "syllables": 8,
+   "target": 8,
+   "partner": "disappear",
+   "qwen_top": "in",
+   "meant": "again",
+   "chosen": "reappear",
+   "candidates": [
+    {
+     "word": "reappear",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 0.502
+    },
+    {
+     "word": "again",
+     "p": 0.217,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "until",
+     "p": 0.0083,
+     "rhyme": 0.6,
+     "score": 0.319
+    },
+    {
+     "word": "exist",
+     "p": 0.0058,
+     "rhyme": 0.6,
+     "score": 0.313
+    },
+    {
+     "word": "within",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.308
+    },
+    {
+     "word": "between",
+     "p": 0.0032,
+     "rhyme": 0.6,
+     "score": 0.307
+    },
+    {
+     "word": "even",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.307
+    },
+    {
+     "word": "indeed",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.304
+    },
+    {
+     "word": "either",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.303
+    },
+    {
+     "word": "leaving",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.303
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Before your eyes. alas!",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "i",
+   "meant": "alas",
+   "chosen": "alas",
+   "candidates": [
+    {
+     "word": "alas",
+     "p": 0.0137,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "behold",
+     "p": 0.0135,
+     "rhyme": 0,
+     "score": 0.99
+    },
+    {
+     "word": "alone",
+     "p": 0.0135,
+     "rhyme": 0,
+     "score": 0.983
+    },
+    {
+     "word": "indeed",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.618
+    },
+    {
+     "word": "forget",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 0.61
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "forever",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "again",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "present",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.245
+    },
+    {
+     "word": "answer",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.24
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "No, no; the tower tower",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "is",
+   "meant": "tower",
+   "chosen": "tower",
+   "candidates": [
+    {
+     "word": "tower",
+     "p": 0.0313,
+     "rhyme": 0,
+     "score": 0.663
+    },
+    {
+     "word": "rises",
+     "p": 0.0148,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "disappears",
+     "p": 0.0113,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "towers",
+     "p": 0.0137,
+     "rhyme": 0,
+     "score": 0.358
+    },
+    {
+     "word": "elevation",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.344
+    },
+    {
+     "word": "appears",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.335
+    },
+    {
+     "word": "observation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "shadow",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "location",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "overhead",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.316
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "In which you dwell upon heaven.",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "earth",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0097,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "above",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.419
+    },
+    {
+     "word": "again",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.411
+    },
+    {
+     "word": "even",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.351
+    },
+    {
+     "word": "forever",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "only",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "within",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.261
+    },
+    {
+     "word": "darkness",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "living",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.242
+    },
+    {
+     "word": "every",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.242
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "The stars were still before",
+   "syllables": 6,
+   "target": 7,
+   "partner": "tower",
+   "qwen_top": "in",
+   "meant": "before",
+   "chosen": "before",
+   "candidates": [
+    {
+     "word": "before",
+     "p": 0.0639,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "around",
+     "p": 0.0062,
+     "rhyme": 0.6,
+     "score": 0.348
+    },
+    {
+     "word": "without",
+     "p": 0.0034,
+     "rhyme": 0.6,
+     "score": 0.327
+    },
+    {
+     "word": "about",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.31
+    },
+    {
+     "word": "hours",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.307
+    },
+    {
+     "word": "surrounded",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.307
+    },
+    {
+     "word": "somewhere",
+     "p": 0.022,
+     "rhyme": 0,
+     "score": 0.172
+    },
+    {
+     "word": "again",
+     "p": 0.0181,
+     "rhyme": 0,
+     "score": 0.142
+    },
+    {
+     "word": "alone",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.07
+    },
+    {
+     "word": "quietly",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.056
+    }
+   ]
+  }
+ ]
+}

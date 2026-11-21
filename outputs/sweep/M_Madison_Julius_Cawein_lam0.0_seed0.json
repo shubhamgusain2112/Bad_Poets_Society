@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "M",
+ "lam": 0.0,
+ "scheme": "ABCB",
+ "seed": 0,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "How the falling leaves fall on above,\nThe life that hath passed away away;\nThe woman who alone\nLay sheltered in her maidenhood's day,\nIn the lone, lonely world of beauty;\nBut now that time has ceased to hesitate,\nShe bends at last down to forgive\nHer lost and ruined lover--her great,\nMighty one; but with an silent\nPains and tears she sighs separated.\nO children! O sons, forget!\nForget once more all that always",
+ "lines": [
+  {
+   "line": 1,
+   "text": "How the falling leaves fall on above,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "me",
+   "chosen": "above",
+   "candidates": [
+    {
+     "word": "above",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "fire",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.498
+    },
+    {
+     "word": "heaven",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.467
+    },
+    {
+     "word": "again",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "burning",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.201
+    },
+    {
+     "word": "because",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.193
+    },
+    {
+     "word": "others",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.191
+    },
+    {
+     "word": "darkness",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.187
+    },
+    {
+     "word": "along",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.178
+    },
+    {
+     "word": "heavens",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.158
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The life that hath passed away away;",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "is",
+   "meant": "away",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0621,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "today",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "into",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "probably",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "ago",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "although",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "below",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "anyway",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "again",
+     "p": 0.0133,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "july",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.249
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "The woman who alone",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "hath",
+   "meant": "died",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0164,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "remembers",
+     "p": 0.0109,
+     "rhyme": 0,
+     "score": 0.664
+    },
+    {
+     "word": "dying",
+     "p": 0.0109,
+     "rhyme": 0,
+     "score": 0.663
+    },
+    {
+     "word": "disappeared",
+     "p": 0.0097,
+     "rhyme": 0,
+     "score": 0.592
+    },
+    {
+     "word": "widow",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.437
+    },
+    {
+     "word": "survived",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.392
+    },
+    {
+     "word": "buried",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.299
+    },
+    {
+     "word": "mother",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "vanished",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "sadly",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.241
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Lay sheltered in her maidenhood's day,",
+   "syllables": 9,
+   "target": 9,
+   "partner": "away",
+   "qwen_top": "shade",
+   "meant": "burial",
+   "chosen": "day",
+   "candidates": [
+    {
+     "word": "day",
+     "p": 0.0109,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "lay",
+     "p": 0.0033,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "gray",
+     "p": 0.0028,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "pray",
+     "p": 0.0022,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "may",
+     "p": 0.0013,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "stay",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "clay",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "a",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "sunday",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "friday",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "In the lone, lonely world of beauty;",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "her",
+   "meant": "life",
+   "chosen": "beauty",
+   "candidates": [
+    {
+     "word": "beauty",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "darkness",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.899
+    },
+    {
+     "word": "autumn",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.873
+    },
+    {
+     "word": "dying",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.719
+    },
+    {
+     "word": "childhood",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.698
+    },
+    {
+     "word": "mother",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.573
+    },
+    {
+     "word": "memories",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.567
+    },
+    {
+     "word": "eternal",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.565
+    },
+    {
+     "word": "flowers",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.556
+    },
+    {
+     "word": "sadness",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.489
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "But now that time has ceased to hesitate,",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "be",
+   "meant": "will",
+   "chosen": "hesitate",
+   "candidates": [
+    {
+     "word": "hesitate",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "circulate",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "abdicate",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "operate",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "agree",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "delay",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "probably",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "ability",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "undergo",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.262
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "She bends at last down to forgive",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "her",
+   "meant": "pray",
+   "chosen": "forgive",
+   "candidates": [
+    {
+     "word": "forgive",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "forget",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.912
+    },
+    {
+     "word": "listen",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.805
+    },
+    {
+     "word": "remember",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.482
+    },
+    {
+     "word": "goodbye",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.46
+    },
+    {
+     "word": "heaven",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.439
+    },
+    {
+     "word": "confess",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.423
+    },
+    {
+     "word": "weeping",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "dying",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "betray",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.265
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Her lost and ruined lover--her great,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "hesitate",
+   "qwen_top": "lover",
+   "meant": "love",
+   "chosen": "great",
+   "candidates": [
+    {
+     "word": "great",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "fate",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "lady",
+     "p": 0.0035,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "named",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "famous",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "greatest",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "name",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "stranger",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "angel",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "maid",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Mighty one; but with an silent",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "empty",
+   "meant": "eye",
+   "chosen": "silent",
+   "candidates": [
+    {
+     "word": "silent",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "watchful",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.967
+    },
+    {
+     "word": "untrained",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.872
+    },
+    {
+     "word": "moment",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.857
+    },
+    {
+     "word": "tender",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.834
+    },
+    {
+     "word": "incredulous",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.729
+    },
+    {
+     "word": "eerie",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.625
+    },
+    {
+     "word": "gesture",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.599
+    },
+    {
+     "word": "silence",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.554
+    },
+    {
+     "word": "downcast",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.538
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Pains and tears she sighs separated.",
+   "syllables": 9,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "again",
+   "chosen": "separated",
+   "candidates": [
+    {
+     "word": "separated",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "away",
+     "p": 0.0141,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "anew",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "anyway",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "again",
+     "p": 0.0482,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "remain",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "despair",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "afraid",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "before",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.229
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "O children! O sons, forget!",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "o",
+   "meant": "dear",
+   "chosen": "forget",
+   "candidates": [
+    {
+     "word": "forget",
+     "p": 0.0199,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "forgive",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.432
+    },
+    {
+     "word": "forgot",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.392
+    },
+    {
+     "word": "remember",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "alas",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "forgotten",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "alone",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "farewell",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "rejoice",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "behold",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.231
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Forget once more all that always",
+   "syllables": 8,
+   "target": 9,
+   "partner": "separated",
+   "qwen_top": "you",
+   "meant": "love",
+   "chosen": "always",
+   "candidates": [
+    {
+     "word": "always",
+     "p": 0.0035,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "heartache",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "today",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "maybe",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "ashamed",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "mother",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "woman",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "happened",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  }
+ ]
+}

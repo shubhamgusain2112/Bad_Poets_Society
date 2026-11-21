@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 0.5,
+ "scheme": "ABAB",
+ "seed": 13,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "The damsel of the Isaurian mountains\nWould have been rapt in passion and delight\nIn our prime, if their natural charms\nHad not acted on her and our\nHusbands; she bore a man to heaven,\nAnd, like him that bears an angel to\nThe airy palace beneath our\nSoul's depth. A virginal emblematical of\nThe glorious love with which our\nLovers rove through all Heaven below.\nThese planets aye are born for women's love,\nThey light the purple skies behind o",
+ "lines": [
+  {
+   "line": 1,
+   "text": "The damsel of the Isaurian mountains",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "hills",
+   "meant": "hills",
+   "chosen": "mountains",
+   "candidates": [
+    {
+     "word": "mountains",
+     "p": 0.0114,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "nation",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.366
+    },
+    {
+     "word": "forest",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.336
+    },
+    {
+     "word": "desert",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "domain",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.312
+    },
+    {
+     "word": "nations",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.293
+    },
+    {
+     "word": "valley",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "mountain",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.26
+    },
+    {
+     "word": "estate",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.235
+    },
+    {
+     "word": "region",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.215
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Would have been rapt in passion and delight",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "delight",
+   "candidates": [
+    {
+     "word": "delight",
+     "p": 0.1486,
+     "rhyme": 0,
+     "score": 0.712
+    },
+    {
+     "word": "admiration",
+     "p": 0.0147,
+     "rhyme": 0,
+     "score": 0.369
+    },
+    {
+     "word": "revelation",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "expectation",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "meditation",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "despair",
+     "p": 0.0177,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "dismay",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "display",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "array",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "decay",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.277
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "In our prime, if their natural charms",
+   "syllables": 10,
+   "target": 10,
+   "partner": "mountains",
+   "qwen_top": "charms",
+   "meant": "charms",
+   "chosen": "charms",
+   "candidates": [
+    {
+     "word": "charms",
+     "p": 0.0825,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "sons",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.453
+    },
+    {
+     "word": "beauty",
+     "p": 0.0569,
+     "rhyme": 0,
+     "score": 0.345
+    },
+    {
+     "word": "powers",
+     "p": 0.0068,
+     "rhyme": 0.6,
+     "score": 0.341
+    },
+    {
+     "word": "power",
+     "p": 0.0064,
+     "rhyme": 0.6,
+     "score": 0.339
+    },
+    {
+     "word": "mountain",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.306
+    },
+    {
+     "word": "flowers",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.306
+    },
+    {
+     "word": "flower",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.306
+    },
+    {
+     "word": "prowess",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.306
+    },
+    {
+     "word": "fountain",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.305
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Had not acted on her and our",
+   "syllables": 9,
+   "target": 10,
+   "partner": "delight",
+   "qwen_top": "her",
+   "meant": "her",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0193,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "inspired",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.356
+    },
+    {
+     "word": "denied",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.336
+    },
+    {
+     "word": "blinded",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.334
+    },
+    {
+     "word": "excited",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.328
+    },
+    {
+     "word": "deprived",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.323
+    },
+    {
+     "word": "confined",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.311
+    },
+    {
+     "word": "triumph",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.31
+    },
+    {
+     "word": "surprised",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.31
+    },
+    {
+     "word": "silenced",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.309
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Husbands; she bore a man to heaven,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0189,
+     "rhyme": 0,
+     "score": 0.62
+    },
+    {
+     "word": "our",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.456
+    },
+    {
+     "word": "decay",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "liberty",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "despair",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "power",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.267
+    },
+    {
+     "word": "excel",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "become",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "delight",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "adore",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.254
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "And, like him that bears an angel to",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "down",
+   "meant": "down",
+   "chosen": "to",
+   "candidates": [
+    {
+     "word": "to",
+     "p": 0.0626,
+     "rhyme": 0,
+     "score": 0.659
+    },
+    {
+     "word": "down",
+     "p": 0.0805,
+     "rhyme": 0,
+     "score": 0.645
+    },
+    {
+     "word": "on",
+     "p": 0.0261,
+     "rhyme": 0,
+     "score": 0.396
+    },
+    {
+     "word": "in",
+     "p": 0.018,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "there",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.314
+    },
+    {
+     "word": "too",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "away",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "he",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "she",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "tree",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.282
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "The airy palace beneath our",
+   "syllables": 9,
+   "target": 10,
+   "partner": "heaven",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0669,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "neptune",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.301
+    },
+    {
+     "word": "paris",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.301
+    },
+    {
+     "word": "himself",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.301
+    },
+    {
+     "word": "herself",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.3
+    },
+    {
+     "word": "celestial",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.3
+    },
+    {
+     "word": "ourselves",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.3
+    },
+    {
+     "word": "every",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.3
+    },
+    {
+     "word": "again",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.3
+    },
+    {
+     "word": "itself",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.3
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Soul's depth. A virginal emblematical of",
+   "syllables": 12,
+   "target": 10,
+   "partner": "to",
+   "qwen_top": "form",
+   "meant": "form",
+   "chosen": "of",
+   "candidates": [
+    {
+     "word": "of",
+     "p": 0.0075,
+     "rhyme": 0.6,
+     "score": 0.8
+    },
+    {
+     "word": "love",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.539
+    },
+    {
+     "word": "thing",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.536
+    },
+    {
+     "word": "view",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 0.525
+    },
+    {
+     "word": "hue",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 0.515
+    },
+    {
+     "word": "de",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 0.509
+    },
+    {
+     "word": "form",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "link",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.387
+    },
+    {
+     "word": "bliss",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.382
+    },
+    {
+     "word": "one",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.372
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "The glorious love with which our",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "she",
+   "meant": "she",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0841,
+     "rhyme": 0,
+     "score": 0.729
+    },
+    {
+     "word": "creation",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "liberty",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "nations",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "between",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "divine",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.239
+    },
+    {
+     "word": "before",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.23
+    },
+    {
+     "word": "alone",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "within",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.218
+    },
+    {
+     "word": "mary",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.216
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Lovers rove through all Heaven below.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "below",
+   "candidates": [
+    {
+     "word": "below",
+     "p": 0.0089,
+     "rhyme": 0,
+     "score": 0.702
+    },
+    {
+     "word": "above",
+     "p": 0.0101,
+     "rhyme": 0,
+     "score": 0.61
+    },
+    {
+     "word": "together",
+     "p": 0.0101,
+     "rhyme": 0,
+     "score": 0.609
+    },
+    {
+     "word": "unseen",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.432
+    },
+    {
+     "word": "into",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.311
+    },
+    {
+     "word": "between",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.308
+    },
+    {
+     "word": "upon",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "again",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "away",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "array",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.283
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "These planets aye are born for women's love,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "our",
+   "qwen_top": "love",
+   "meant": "love",
+   "chosen": "love",
+   "candidates": [
+    {
+     "word": "love",
+     "p": 0.1896,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "mar",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 0.5
+    },
+    {
+     "word": "flower",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 0.5
+    },
+    {
+     "word": "hearts",
+     "p": 0.0065,
+     "rhyme": 0.6,
+     "score": 0.317
+    },
+    {
+     "word": "charms",
+     "p": 0.005,
+     "rhyme": 0.6,
+     "score": 0.313
+    },
+    {
+     "word": "want",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.304
+    },
+    {
+     "word": "wants",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.304
+    },
+    {
+     "word": "arms",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.303
+    },
+    {
+     "word": "part",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.302
+    },
+    {
+     "word": "heart",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.302
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "They light the purple skies behind o",
+   "syllables": 9,
+   "target": 10,
+   "partner": "below",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "o",
+   "candidates": [
+    {
+     "word": "o",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 0.501
+    },
+    {
+     "word": "the",
+     "p": 0.1923,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "so",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 0.5
+    },
+    {
+     "word": "no",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 0.5
+    },
+    {
+     "word": "bow",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 0.5
+    },
+    {
+     "word": "apollo",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.45
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.45
+    },
+    {
+     "word": "their",
+     "p": 0.1497,
+     "rhyme": 0,
+     "score": 0.389
+    },
+    {
+     "word": "them",
+     "p": 0.1321,
+     "rhyme": 0,
+     "score": 0.343
+    },
+    {
+     "word": "those",
+     "p": 0.0035,
+     "rhyme": 0.6,
+     "score": 0.309
+    }
+   ]
+  }
+ ]
+}

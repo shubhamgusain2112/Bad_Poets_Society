@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "ABCB",
+ "seed": 0,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "How the falling leaves fall on our\nCurved fence - how they are fallen away\nIn small clusters, scattered\nAbove and below it array.\nWhat gives them their coldness? Where ever\nWe stand in any shade of decay,\nThey cling to the branches above,\nAnd touch the ground below us away.\nWhat do they fear from us? Our\nMotion that draws from away,\nFalling down again, again,\nTo their natural place array.",
+ "lines": [
+  {
+   "line": 1,
+   "text": "How the falling leaves fall on our",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0107,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "every",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.345
+    },
+    {
+     "word": "summer",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.11
+    },
+    {
+     "word": "winter",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.103
+    },
+    {
+     "word": "silver",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.075
+    },
+    {
+     "word": "autumn",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.061
+    },
+    {
+     "word": "april",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.041
+    },
+    {
+     "word": "heaven",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.04
+    },
+    {
+     "word": "any",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.036
+    },
+    {
+     "word": "river",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.035
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Curved fence - how they are fallen away",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "on",
+   "meant": "on",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "into",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "anew",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "unseen",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "upon",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "before",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "afar",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "alone",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.218
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "In small clusters, scattered",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "scattered",
+   "candidates": [
+    {
+     "word": "scattered",
+     "p": 0.0208,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "falling",
+     "p": 0.0172,
+     "rhyme": 0,
+     "score": 0.829
+    },
+    {
+     "word": "dropping",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "little",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "broken",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "drifting",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "without",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.112
+    },
+    {
+     "word": "floating",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "tiny",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "over",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.087
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Above and below it array.",
+   "syllables": 8,
+   "target": 9,
+   "partner": "away",
+   "qwen_top": "like",
+   "meant": "like",
+   "chosen": "array",
+   "candidates": [
+    {
+     "word": "array",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "strangely",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "against",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "raining",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "always",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "plainly",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "breaking",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "waving",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "sideways",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "What gives them their coldness? Where ever",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "are",
+   "meant": "are",
+   "chosen": "ever",
+   "candidates": [
+    {
+     "word": "ever",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "abide",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "begins",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.606
+    },
+    {
+     "word": "began",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "about",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.369
+    },
+    {
+     "word": "along",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "perhaps",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "among",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "begin",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "before",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.325
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "We stand in any shade of decay,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "decay",
+   "candidates": [
+    {
+     "word": "decay",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "shadow",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "july",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "february",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.231
+    },
+    {
+     "word": "our",
+     "p": 0.0097,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "twilight",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "sunlight",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "daylight",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "afternoon",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.207
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "They cling to the branches above,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "above",
+   "candidates": [
+    {
+     "word": "above",
+     "p": 0.0116,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "until",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "below",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "together",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "forever",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "around",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "without",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "ever",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "even",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "upright",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.105
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "And touch the ground below us away.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "decay",
+   "qwen_top": "with",
+   "meant": "with",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "array",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "again",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "laying",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "strangely",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "waiting",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "daily",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "always",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "making",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "sideways",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "What do they fear from us? Our",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "what",
+   "meant": "what",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "only",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.539
+    },
+    {
+     "word": "nothing",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.507
+    },
+    {
+     "word": "never",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.445
+    },
+    {
+     "word": "perhaps",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.381
+    },
+    {
+     "word": "even",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "surely",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.236
+    },
+    {
+     "word": "sometimes",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.18
+    },
+    {
+     "word": "ever",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "every",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.16
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Motion that draws from away,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "them",
+   "meant": "them",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "decay",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "shadow",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "below",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "unseen",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "between",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "inside",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.242
+    },
+    {
+     "word": "upon",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.231
+    },
+    {
+     "word": "our",
+     "p": 0.0343,
+     "rhyme": 0,
+     "score": 0.229
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Falling down again, again,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0303,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "falling",
+     "p": 0.0236,
+     "rhyme": 0,
+     "score": 0.778
+    },
+    {
+     "word": "into",
+     "p": 0.0134,
+     "rhyme": 0,
+     "score": 0.444
+    },
+    {
+     "word": "over",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "upon",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "our",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "ever",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "away",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "towards",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "against",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.153
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "To their natural place array.",
+   "syllables": 8,
+   "target": 9,
+   "partner": "away",
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "array",
+   "candidates": [
+    {
+     "word": "array",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "decay",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "again",
+     "p": 0.0473,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awaiting",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "against",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "await",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "waiting",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remaining",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awaits",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "making",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  }
+ ]
+}

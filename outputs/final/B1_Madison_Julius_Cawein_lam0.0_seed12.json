@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "ABCB",
+ "seed": 12,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Or a lingering heave of sorrow,\nOr the feathery touch away\nOf a long-lost daughter's finger,\nAnd the way that sweetly they\nWandered on the moonlight skies, together\nIn the river shadow.\nNow the woodlands are full again,\nWith the blossoms underfoot; below,\nA bough is tinged with bright crimson\nFor a time when summer is away\nFrom its starry heaven of\nPallid mists. A maiden",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Or a lingering heave of sorrow,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "sorrow",
+   "candidates": [
+    {
+     "word": "sorrow",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "laughter",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.779
+    },
+    {
+     "word": "memory",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.693
+    },
+    {
+     "word": "water",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.648
+    },
+    {
+     "word": "heavy",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.646
+    },
+    {
+     "word": "silence",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.61
+    },
+    {
+     "word": "spirit",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.579
+    },
+    {
+     "word": "distant",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.57
+    },
+    {
+     "word": "shadow",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.537
+    },
+    {
+     "word": "passion",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.37
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Or the feathery touch away",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "into",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "anew",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "midway",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "again",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "whereby",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "between",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "unseen",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "inside",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.242
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Of a long-lost daughter's finger,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "hand",
+   "meant": "hand",
+   "chosen": "finger",
+   "candidates": [
+    {
+     "word": "finger",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "fingers",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.732
+    },
+    {
+     "word": "gentle",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "dying",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "tender",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.392
+    },
+    {
+     "word": "silver",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "shoulder",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "laughter",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "embrace",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "garment",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.185
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "And the way that sweetly they",
+   "syllables": 7,
+   "target": 8,
+   "partner": "away",
+   "qwen_top": "she",
+   "meant": "she",
+   "chosen": "they",
+   "candidates": [
+    {
+     "word": "they",
+     "p": 0.0106,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "lay",
+     "p": 0.0082,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "a",
+     "p": 0.0045,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "ca",
+     "p": 0.0027,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "may",
+     "p": 0.0024,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "da",
+     "p": 0.0011,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "re",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "play",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "se",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "fades",
+     "p": 0.0306,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Wandered on the moonlight skies, together",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "together",
+   "candidates": [
+    {
+     "word": "together",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "until",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.473
+    },
+    {
+     "word": "away",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "before",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "apart",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "etc",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "without",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "along",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "asleep",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "unseen",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.197
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "In the river shadow.",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "shadow",
+   "candidates": [
+    {
+     "word": "shadow",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "below",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "midway",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "again",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "nearby",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "between",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "upon",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "before",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "afar",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "recess",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.224
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Now the woodlands are full again,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "upon",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.027
+    },
+    {
+     "word": "anew",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.021
+    },
+    {
+     "word": "asleep",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.018
+    },
+    {
+     "word": "within",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.013
+    },
+    {
+     "word": "without",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.013
+    },
+    {
+     "word": "often",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.011
+    },
+    {
+     "word": "alive",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.01
+    },
+    {
+     "word": "content",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.008
+    },
+    {
+     "word": "beyond",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.008
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "With the blossoms underfoot; below,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "shadow",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "below",
+   "candidates": [
+    {
+     "word": "below",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "also",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "yellow",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "behold",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "only",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "over",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "alone",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "shadows",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "lonely",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "slowly",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "A bough is tinged with bright crimson",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "red",
+   "meant": "red",
+   "chosen": "crimson",
+   "candidates": [
+    {
+     "word": "crimson",
+     "p": 0.0296,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "yellow",
+     "p": 0.0261,
+     "rhyme": 0,
+     "score": 0.883
+    },
+    {
+     "word": "orange",
+     "p": 0.0158,
+     "rhyme": 0,
+     "score": 0.536
+    },
+    {
+     "word": "purple",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "colors",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "silver",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "fire",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "flowers",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "color",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.136
+    },
+    {
+     "word": "violet",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.082
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "For a time when summer is away",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "done",
+   "meant": "done",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "below",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "upon",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "our",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "unknown",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "alone",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.218
+    },
+    {
+     "word": "very",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "complete",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.208
+    },
+    {
+     "word": "forgot",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.198
+    },
+    {
+     "word": "ahead",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.197
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "From its starry heaven of",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "of",
+   "candidates": [
+    {
+     "word": "of",
+     "p": 0.0973,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "and",
+     "p": 0.0859,
+     "rhyme": 0,
+     "score": 0.883
+    },
+    {
+     "word": "to",
+     "p": 0.0192,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "in",
+     "p": 0.0116,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "that",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.073
+    },
+    {
+     "word": "on",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "above",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "with",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "below",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.034
+    },
+    {
+     "word": "upon",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.03
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Pallid mists. A maiden",
+   "syllables": 6,
+   "target": 7,
+   "partner": "away",
+   "qwen_top": "little",
+   "meant": "little",
+   "chosen": "maiden",
+   "candidates": [
+    {
+     "word": "maiden",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "lady",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "maple",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "fading",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "fragrance",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "graceful",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "stranger",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "little",
+     "p": 0.0248,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "moment",
+     "p": 0.011,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "shadow",
+     "p": 0.0097,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  }
+ ]
+}

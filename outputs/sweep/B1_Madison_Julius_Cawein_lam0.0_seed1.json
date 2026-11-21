@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "ABCB",
+ "seed": 1,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "The current world with many\nHallows and hinds, upon\nThe level of the galley: the\nGauging o' the current.\nBut nivver heard I there his story,\nI, O suer! for all my knowledge. He\nWent to a gallant ship on river\nRhein, he went into it - they only\nSaw him come as hoarse upon\nA-shipwrecked away,\nInto the sea's vast embrace; away.\nAnd through night in danger,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "The current world with many",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "its",
+   "meant": "its",
+   "chosen": "many",
+   "candidates": [
+    {
+     "word": "many",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "music",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.738
+    },
+    {
+     "word": "every",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.473
+    },
+    {
+     "word": "laughter",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "our",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.421
+    },
+    {
+     "word": "sudden",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "fever",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "ever",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "itself",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "tumult",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.253
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Hallows and hinds, upon",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "upon",
+   "candidates": [
+    {
+     "word": "upon",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "our",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "before",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "began",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.228
+    },
+    {
+     "word": "within",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.217
+    },
+    {
+     "word": "wherein",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.217
+    },
+    {
+     "word": "until",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.211
+    },
+    {
+     "word": "shadows",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.2
+    },
+    {
+     "word": "alas",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.184
+    },
+    {
+     "word": "along",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.183
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "The level of the galley: the",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "the",
+   "candidates": [
+    {
+     "word": "the",
+     "p": 0.0477,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "and",
+     "p": 0.0368,
+     "rhyme": 0,
+     "score": 0.773
+    },
+    {
+     "word": "but",
+     "p": 0.0154,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "a",
+     "p": 0.0101,
+     "rhyme": 0,
+     "score": 0.211
+    },
+    {
+     "word": "there",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "it",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "where",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.11
+    },
+    {
+     "word": "i",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.103
+    },
+    {
+     "word": "one",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "no",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.092
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Gauging o' the current.",
+   "syllables": 6,
+   "target": 7,
+   "partner": "upon",
+   "qwen_top": "gal",
+   "meant": "gal",
+   "chosen": "current",
+   "candidates": [
+    {
+     "word": "current",
+     "p": 0.0046,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "copper",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "harbor",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "water",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "river",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "ocean",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "waters",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "vessel",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "silver",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "golden",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "But nivver heard I there his story,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "name",
+   "meant": "name",
+   "chosen": "story",
+   "candidates": [
+    {
+     "word": "story",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "praises",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.365
+    },
+    {
+     "word": "spirit",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.335
+    },
+    {
+     "word": "music",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "singing",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "footsteps",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "father",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.309
+    },
+    {
+     "word": "lady",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.207
+    },
+    {
+     "word": "command",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.198
+    },
+    {
+     "word": "sire",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.195
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "I, O suer! for all my knowledge. He",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "i",
+   "meant": "i",
+   "chosen": "he",
+   "candidates": [
+    {
+     "word": "he",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "see",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ye",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ne",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "vi",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "de",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Went to a gallant ship on river",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "river",
+   "candidates": [
+    {
+     "word": "river",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "our",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.987
+    },
+    {
+     "word": "many",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.85
+    },
+    {
+     "word": "voyage",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.64
+    },
+    {
+     "word": "another",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.482
+    },
+    {
+     "word": "ocean",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.438
+    },
+    {
+     "word": "ireland",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.399
+    },
+    {
+     "word": "water",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.39
+    },
+    {
+     "word": "duty",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.381
+    },
+    {
+     "word": "silver",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.351
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Rhein, he went into it - they only",
+   "syllables": 9,
+   "target": 10,
+   "partner": "he",
+   "qwen_top": "were",
+   "meant": "were",
+   "chosen": "only",
+   "candidates": [
+    {
+     "word": "only",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "carry",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "believed",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "believe",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "never",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "counted",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "covered",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "began",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "carried",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "waited",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Saw him come as hoarse upon",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "as",
+   "meant": "as",
+   "chosen": "upon",
+   "candidates": [
+    {
+     "word": "upon",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "into",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.534
+    },
+    {
+     "word": "thunder",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "sailing",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.173
+    },
+    {
+     "word": "against",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "before",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "water",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.12
+    },
+    {
+     "word": "away",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "among",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.112
+    },
+    {
+     "word": "again",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.099
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "A-shipwrecked away,",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "cargo",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "into",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "canoe",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "upon",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "before",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "within",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.217
+    },
+    {
+     "word": "ferry",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.215
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Into the sea's vast embrace; away.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "into",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.564
+    },
+    {
+     "word": "never",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.387
+    },
+    {
+     "word": "only",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.267
+    },
+    {
+     "word": "upon",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "behold",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "after",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.152
+    },
+    {
+     "word": "behind",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.126
+    },
+    {
+     "word": "until",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.118
+    },
+    {
+     "word": "below",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.111
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "And through night in danger,",
+   "syllables": 6,
+   "target": 7,
+   "partner": "away",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "danger",
+   "candidates": [
+    {
+     "word": "danger",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "safety",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "places",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "sailing",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "sailor",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "darkness",
+     "p": 0.0404,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "silence",
+     "p": 0.0191,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "many",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "river",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "silent",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  }
+ ]
+}

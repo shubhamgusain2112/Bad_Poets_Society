@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 0.0,
+ "scheme": "AABB",
+ "seed": 1,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "And May is all sweet the today,\nPleasure of my days away,\nA merry day on green grass away.\nThese things we do with birthday\nAnd me for other day, day by celebration,\nThat night is now day and then next Sunday,\nThe night that's so bright in her eyes away.\nHere she stands beside the wheel-house cafe,\nAnd he's home at the door away.\nO thing that's come from birthday\nFor others to be their supper celebration,\nFor his day at mine destination,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "And May is all sweet the today,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "more",
+   "meant": "day",
+   "chosen": "today",
+   "candidates": [
+    {
+     "word": "today",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "sunday",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "maggie",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "ago",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "although",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "friday",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "monday",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "thursday",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "birthday",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "tuesday",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.256
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Pleasure of my days away,",
+   "syllables": 7,
+   "target": 8,
+   "partner": "today",
+   "qwen_top": "and",
+   "meant": "before",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.003,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "anyway",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "again",
+     "p": 0.0248,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "decade",
+     "p": 0.004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "later",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remain",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remains",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remade",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "begun",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "taken",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "A merry day on green grass away.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "lay",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "broadway",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.255
+    },
+    {
+     "word": "again",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "july",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "january",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "february",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "before",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "outside",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.222
+    },
+    {
+     "word": "beside",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.222
+    },
+    {
+     "word": "mary",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.215
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "These things we do with birthday",
+   "syllables": 7,
+   "target": 8,
+   "partner": "away",
+   "qwen_top": "our",
+   "meant": "joy",
+   "chosen": "birthday",
+   "candidates": [
+    {
+     "word": "birthday",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "praying",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "lady",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "patience",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "aching",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "greatest",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "strangers",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "always",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "breaking",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "And me for other day, day by celebration,",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "day",
+   "meant": "day",
+   "chosen": "celebration",
+   "candidates": [
+    {
+     "word": "celebration",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "vacation",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "commemorate",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "celebrate",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "celebrated",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "today",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "sunday",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "probably",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "ago",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.262
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "That night is now day and then next Sunday,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "celebration",
+   "qwen_top": "day",
+   "meant": "day",
+   "chosen": "sunday",
+   "candidates": [
+    {
+     "word": "sunday",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "friday",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "holiday",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "birthday",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "saturday",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "monday",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "april",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "thursday",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "wednesday",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "tuesday",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "The night that's so bright in her eyes away.",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "again",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "today",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "sunday",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "although",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "ago",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0749,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "july",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "january",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "february",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "before",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.229
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Here she stands beside the wheel-house cafe,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "away",
+   "qwen_top": "door",
+   "meant": "door",
+   "chosen": "cafe",
+   "candidates": [
+    {
+     "word": "cafe",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "doorway",
+     "p": 0.0033,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "stairway",
+     "p": 0.0018,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "hallway",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "staircase",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "gable",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "painted",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "basement",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "railings",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "railing",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "And he's home at the door away.",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "again",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "nobody",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "probably",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "somebody",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "although",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "doorway",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "anyway",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "hallway",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "again",
+     "p": 0.0866,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "remain",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.253
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "O thing that's come from birthday",
+   "syllables": 7,
+   "target": 8,
+   "partner": "away",
+   "qwen_top": "the",
+   "meant": "away",
+   "chosen": "birthday",
+   "candidates": [
+    {
+     "word": "birthday",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "sunday",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "highway",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "holiday",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "places",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "staying",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "baby",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "escaped",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "chasing",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "holidays",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "For others to be their supper celebration,",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "there",
+   "meant": "day",
+   "chosen": "celebration",
+   "candidates": [
+    {
+     "word": "celebration",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "celebrate",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "celebrated",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "today",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "sunday",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "saturday",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "friday",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "birthday",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "wednesday",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "tuesday",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.256
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "For his day at mine destination,",
+   "syllables": 9,
+   "target": 8,
+   "partner": "celebration",
+   "qwen_top": "to",
+   "meant": "away",
+   "chosen": "destination",
+   "candidates": [
+    {
+     "word": "destination",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "vacation",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "everyone",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "away",
+     "p": 0.3033,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "sunday",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "taking",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "saturday",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "staying",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "taken",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "holiday",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  }
+ ]
+}

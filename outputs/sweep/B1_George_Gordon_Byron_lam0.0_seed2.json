@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "ABAB",
+ "seed": 2,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "FROM HER ROBING-SHIP - REV. JONAS de\nHAMILTON, HIS ISLANDS AND cit\nOft in my heart I see the glory\nOf England's long and holy war, namely,\nThe latest period of Restoration;\nIf I was one like her, as you contemplate\nThis great magnitude, I should be undone,\nAlthough on such an occasion great\nI would have been proud to walk away\nWith a manly face and brave, articulate\nVoice; but now, for my part, if she again\nFor ten or twenty years had been reigning",
+ "lines": [
+  {
+   "line": 1,
+   "text": "FROM HER ROBING-SHIP - REV. JONAS de",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "a",
+   "chosen": "de",
+   "candidates": [
+    {
+     "word": "de",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "re",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ne",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "vi",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "mit",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "HAMILTON, HIS ISLANDS AND cit",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "cit",
+   "candidates": [
+    {
+     "word": "cit",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ce",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ira",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "ba",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "company",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "our",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "return",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.173
+    },
+    {
+     "word": "many",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.157
+    },
+    {
+     "word": "united",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.152
+    },
+    {
+     "word": "foreign",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.135
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Oft in my heart I see the glory",
+   "syllables": 9,
+   "target": 10,
+   "partner": "de",
+   "qwen_top": "sun",
+   "meant": "sun",
+   "chosen": "glory",
+   "candidates": [
+    {
+     "word": "glory",
+     "p": 0.0026,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "sunny",
+     "p": 0.0016,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "happy",
+     "p": 0.0016,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "city",
+     "p": 0.0016,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "beauty",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "country",
+     "p": 0.0012,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "lovely",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "snowy",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "memory",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "holy",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Of England's long and holy war, namely,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "cit",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "namely",
+   "candidates": [
+    {
+     "word": "namely",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "many",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "glory",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "every",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "indeed",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "even",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "seeing",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "beneath",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "unseen",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "between",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "The latest period of Restoration;",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "restoration",
+   "candidates": [
+    {
+     "word": "restoration",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "thirty",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "liberty",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "nations",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "thirteen",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "fifteen",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "fourteen",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "sixteen",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "seventeen",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "eighteen",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.248
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "If I was one like her, as you contemplate",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "say",
+   "meant": "say",
+   "chosen": "contemplate",
+   "candidates": [
+    {
+     "word": "contemplate",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "decree",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "foresee",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "pursue",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "probably",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "disdain",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "excel",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "imply",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "deny",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "declare",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.237
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "This great magnitude, I should be undone,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "restoration",
+   "qwen_top": "proud",
+   "meant": "proud",
+   "chosen": "undone",
+   "candidates": [
+    {
+     "word": "undone",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "ashamed",
+     "p": 0.0111,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "able",
+     "p": 0.0072,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "amazed",
+     "p": 0.0063,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "grateful",
+     "p": 0.0043,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "afraid",
+     "p": 0.0038,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "dismay",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "greatly",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "taken",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "greater",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Although on such an occasion great",
+   "syllables": 9,
+   "target": 10,
+   "partner": "contemplate",
+   "qwen_top": "i",
+   "meant": "i",
+   "chosen": "great",
+   "candidates": [
+    {
+     "word": "great",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "a",
+     "p": 0.0086,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "able",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "may",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "made",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "brave",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "taken",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "capable",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "make",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "de",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "I would have been proud to walk away",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "today",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "array",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "into",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "company",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "below",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "thereby",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "between",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "unseen",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.248
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "With a manly face and brave, articulate",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "articulate",
+   "candidates": [
+    {
+     "word": "articulate",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "array",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "although",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "serene",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "sincere",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "before",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "severe",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.228
+    },
+    {
+     "word": "unless",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "upright",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "indeed",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.214
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Voice; but now, for my part, if she again",
+   "syllables": 10,
+   "target": 11,
+   "partner": "away",
+   "qwen_top": "were",
+   "meant": "were",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remains",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "escaped",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "mistakes",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remained",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remain",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "forget",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "ever",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "desired",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "wishes",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "For ten or twenty years had been reigning",
+   "syllables": 10,
+   "target": 11,
+   "partner": "articulate",
+   "qwen_top": "my",
+   "meant": "my",
+   "chosen": "reigning",
+   "candidates": [
+    {
+     "word": "reigning",
+     "p": 0.0209,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "england",
+     "p": 0.0135,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "living",
+     "p": 0.0077,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "engaged",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "away",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "able",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "taken",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awake",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "given",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "risen",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 0.0,
+ "scheme": "AABB",
+ "seed": 11,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "West Wind, bring to us a delicate sensation,\nSmell it round our lips; do not provocation\nWeary your ministrations with provocation,\nDimmer and dimmer nightingales can\nSoftly sing in the myrtle-wood's tree,\nBrighter their song than the morning misty,\nMaking our spirits sensation.\nBreathe on our blood again,\nBreath over it once more: it is although\nHeart-sick as last night, though its sorrow\nStill may gush from it at celebration,\nBut already through everyone",
+ "lines": [
+  {
+   "line": 1,
+   "text": "West Wind, bring to us a delicate sensation,",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "breath",
+   "meant": "wind",
+   "chosen": "sensation",
+   "candidates": [
+    {
+     "word": "sensation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "vibration",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "me",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "tea",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "sea",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "day",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "may",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "spray",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "dew",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "hue",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.27
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Smell it round our lips; do not provocation",
+   "syllables": 12,
+   "target": 11,
+   "partner": "sensation",
+   "qwen_top": "let",
+   "meant": "ignore",
+   "chosen": "provocation",
+   "candidates": [
+    {
+     "word": "provocation",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "anyone",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "hesitate",
+     "p": 0.03,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "tolerate",
+     "p": 0.0032,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "delay",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "frustrate",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "betray",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "persuade",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "erase",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "complain",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Weary your ministrations with provocation,",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "cries",
+   "chosen": "provocation",
+   "candidates": [
+    {
+     "word": "provocation",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "vibration",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "agitation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "delay",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "complain",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "refrain",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "exercise",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.245
+    },
+    {
+     "word": "criticism",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.242
+    },
+    {
+     "word": "despair",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "delays",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.231
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Dimmer and dimmer nightingales can",
+   "syllables": 9,
+   "target": 9,
+   "partner": "provocation",
+   "qwen_top": "and",
+   "meant": "cry",
+   "chosen": "can",
+   "candidates": [
+    {
+     "word": "can",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "someone",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "wail",
+     "p": 0.011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "they",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "ca",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "raise",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "exclaim",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "say",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "faint",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Softly sing in the myrtle-wood's tree,",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "shade",
+   "meant": "shade",
+   "chosen": "tree",
+   "candidates": [
+    {
+     "word": "tree",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "grey",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "may",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "willow",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "meadow",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "hue",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "glow",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "low",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "trees",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "degrees",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.251
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Brighter their song than the morning misty,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "tree",
+   "qwen_top": "star",
+   "meant": "sun",
+   "chosen": "misty",
+   "candidates": [
+    {
+     "word": "misty",
+     "p": 0.0021,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "sunny",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "honey",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "heavenly",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "johnny",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "lily",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "every",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "hazy",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "glory",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "billy",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Making our spirits sensation.",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "more",
+   "meant": "glow",
+   "chosen": "sensation",
+   "candidates": [
+    {
+     "word": "sensation",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "dissipate",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "sensations",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "vibrations",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "again",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "serene",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "realise",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.245
+    },
+    {
+     "word": "afraid",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "disappear",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "appear",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.228
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Breathe on our blood again,",
+   "syllables": 7,
+   "target": 8,
+   "partner": "sensation",
+   "qwen_top": "and",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.1404,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remain",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remains",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awake",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "always",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "label",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "danger",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "away",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "anyway",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "dangerous",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Breath over it once more: it is although",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "not",
+   "meant": "cold",
+   "chosen": "although",
+   "candidates": [
+    {
+     "word": "although",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "remain",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "before",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "very",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "despite",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.212
+    },
+    {
+     "word": "until",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.211
+    },
+    {
+     "word": "always",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.209
+    },
+    {
+     "word": "remains",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.208
+    },
+    {
+     "word": "fire",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.197
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Heart-sick as last night, though its sorrow",
+   "syllables": 9,
+   "target": 10,
+   "partner": "although",
+   "qwen_top": "heart",
+   "meant": "breath",
+   "chosen": "sorrow",
+   "candidates": [
+    {
+     "word": "sorrow",
+     "p": 0.0017,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "emotion",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "odor",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "aroma",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "loneliness",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "coma",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "moments",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "control",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "devotion",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "moment",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Still may gush from it at celebration,",
+   "syllables": 10,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "night",
+   "chosen": "celebration",
+   "candidates": [
+    {
+     "word": "celebration",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "duration",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "operation",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "delay",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "sunday",
+     "p": 0.0134,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "ago",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "saturday",
+     "p": 0.0117,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "friday",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "monday",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "thursday",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.256
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "But already through everyone",
+   "syllables": 8,
+   "target": 8,
+   "partner": "celebration",
+   "qwen_top": "the",
+   "meant": "it",
+   "chosen": "everyone",
+   "candidates": [
+    {
+     "word": "everyone",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "again",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "today",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "hatred",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "occasion",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "heartache",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "praying",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "waking",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "taken",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "later",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  }
+ ]
+}

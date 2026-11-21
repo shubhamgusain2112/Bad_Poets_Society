@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "M",
+ "lam": 0.25,
+ "scheme": "ABCB",
+ "seed": 3,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "O'er the new moon's golden beam,\nI've read \"The Dandy,\" again.\nThat Poet must have been very\nA poet of great renown. Whether\nWe love him or despise,\nAnd if he exists now\nUnfathomable, we can forget.\nWill never since his day without\nOur wisest numbers are\nWhose painless tongues have spoken\nOf Jacob le Fay and of himself.\nThere is a multitude of poems",
+ "lines": [
+  {
+   "line": 1,
+   "text": "O'er the new moon's golden beam,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "rim",
+   "meant": "beam",
+   "chosen": "beam",
+   "candidates": [
+    {
+     "word": "beam",
+     "p": 0.0202,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "angle",
+     "p": 0.0118,
+     "rhyme": 0,
+     "score": 0.588
+    },
+    {
+     "word": "glow",
+     "p": 0.0103,
+     "rhyme": 0,
+     "score": 0.513
+    },
+    {
+     "word": "forehead",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.4
+    },
+    {
+     "word": "silvery",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.396
+    },
+    {
+     "word": "wave",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "edge",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.314
+    },
+    {
+     "word": "height",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "shield",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "width",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.287
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "I've read \"The Dandy,\" again.",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "etc",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0165,
+     "rhyme": 0,
+     "score": 0.444
+    },
+    {
+     "word": "etc",
+     "p": 0.0216,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "essay",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "library",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "geraldine",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.268
+    },
+    {
+     "word": "february",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.255
+    },
+    {
+     "word": "july",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.255
+    },
+    {
+     "word": "january",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "kathleen",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "began",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.248
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "That Poet must have been very",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "wise",
+   "chosen": "very",
+   "candidates": [
+    {
+     "word": "very",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "lucky",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.811
+    },
+    {
+     "word": "pretty",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.551
+    },
+    {
+     "word": "brilliant",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.48
+    },
+    {
+     "word": "little",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.441
+    },
+    {
+     "word": "happy",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.432
+    },
+    {
+     "word": "really",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.389
+    },
+    {
+     "word": "minded",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.34
+    },
+    {
+     "word": "educated",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "lazy",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.314
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "A poet of great renown. Whether",
+   "syllables": 9,
+   "target": 10,
+   "partner": "again",
+   "qwen_top": "he",
+   "meant": "and",
+   "chosen": "whether",
+   "candidates": [
+    {
+     "word": "whether",
+     "p": 0.0035,
+     "rhyme": 0.6,
+     "score": 0.693
+    },
+    {
+     "word": "present",
+     "p": 0.0032,
+     "rhyme": 0.6,
+     "score": 0.671
+    },
+    {
+     "word": "question",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.644
+    },
+    {
+     "word": "every",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.576
+    },
+    {
+     "word": "always",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.543
+    },
+    {
+     "word": "never",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.522
+    },
+    {
+     "word": "himself",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.52
+    },
+    {
+     "word": "any",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.517
+    },
+    {
+     "word": "instead",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.51
+    },
+    {
+     "word": "maybe",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.51
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "We love him or despise,",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "hate",
+   "meant": "despise",
+   "chosen": "despise",
+   "candidates": [
+    {
+     "word": "despise",
+     "p": 0.1335,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "dislike",
+     "p": 0.0307,
+     "rhyme": 0,
+     "score": 0.23
+    },
+    {
+     "word": "hated",
+     "p": 0.0181,
+     "rhyme": 0,
+     "score": 0.136
+    },
+    {
+     "word": "disagree",
+     "p": 0.0127,
+     "rhyme": 0,
+     "score": 0.096
+    },
+    {
+     "word": "forget",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 0.09
+    },
+    {
+     "word": "admire",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.078
+    },
+    {
+     "word": "adore",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.076
+    },
+    {
+     "word": "resent",
+     "p": 0.0095,
+     "rhyme": 0,
+     "score": 0.071
+    },
+    {
+     "word": "detest",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.067
+    },
+    {
+     "word": "believe",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.043
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "And if he exists now",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "or",
+   "meant": "now",
+   "chosen": "now",
+   "candidates": [
+    {
+     "word": "now",
+     "p": 0.1947,
+     "rhyme": 0,
+     "score": 0.461
+    },
+    {
+     "word": "again",
+     "p": 0.0981,
+     "rhyme": 0,
+     "score": 0.379
+    },
+    {
+     "word": "be",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "still",
+     "p": 0.0591,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "we",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "he",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "today",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "see",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "she",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "me",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Unfathomable, we can forget.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "know",
+   "meant": "know",
+   "chosen": "forget",
+   "candidates": [
+    {
+     "word": "forget",
+     "p": 0.0172,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "understand",
+     "p": 0.0155,
+     "rhyme": 0,
+     "score": 0.901
+    },
+    {
+     "word": "believe",
+     "p": 0.0122,
+     "rhyme": 0,
+     "score": 0.71
+    },
+    {
+     "word": "remember",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 0.491
+    },
+    {
+     "word": "agree",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.45
+    },
+    {
+     "word": "wonder",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.361
+    },
+    {
+     "word": "never",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "belong",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.299
+    },
+    {
+     "word": "pretend",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.266
+    },
+    {
+     "word": "presume",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.265
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Will never since his day without",
+   "syllables": 8,
+   "target": 9,
+   "partner": "now",
+   "qwen_top": "be",
+   "meant": "begin",
+   "chosen": "without",
+   "candidates": [
+    {
+     "word": "without",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "begin",
+     "p": 0.0282,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "again",
+     "p": 0.0235,
+     "rhyme": 0,
+     "score": 0.209
+    },
+    {
+     "word": "sometime",
+     "p": 0.0153,
+     "rhyme": 0,
+     "score": 0.136
+    },
+    {
+     "word": "before",
+     "p": 0.0147,
+     "rhyme": 0,
+     "score": 0.131
+    },
+    {
+     "word": "appear",
+     "p": 0.0138,
+     "rhyme": 0,
+     "score": 0.122
+    },
+    {
+     "word": "arrive",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.109
+    },
+    {
+     "word": "until",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 0.107
+    },
+    {
+     "word": "return",
+     "p": 0.0107,
+     "rhyme": 0,
+     "score": 0.095
+    },
+    {
+     "word": "returned",
+     "p": 0.0101,
+     "rhyme": 0,
+     "score": 0.09
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Our wisest numbers are",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "have",
+   "meant": "are",
+   "chosen": "are",
+   "candidates": [
+    {
+     "word": "are",
+     "p": 0.0141,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "be",
+     "p": 0.0131,
+     "rhyme": 0,
+     "score": 0.929
+    },
+    {
+     "word": "they",
+     "p": 0.0127,
+     "rhyme": 0,
+     "score": 0.903
+    },
+    {
+     "word": "here",
+     "p": 0.0115,
+     "rhyme": 0,
+     "score": 0.817
+    },
+    {
+     "word": "will",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.55
+    },
+    {
+     "word": "can",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.388
+    },
+    {
+     "word": "still",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.341
+    },
+    {
+     "word": "time",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "come",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "not",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.296
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Whose painless tongues have spoken",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "sung",
+   "meant": "sung",
+   "chosen": "spoken",
+   "candidates": [
+    {
+     "word": "spoken",
+     "p": 0.0301,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "ago",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "explained",
+     "p": 0.0115,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "away",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "generations",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "although",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "realized",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.259
+    },
+    {
+     "word": "translated",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "testified",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.247
+    },
+    {
+     "word": "interview",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.242
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Of Jacob le Fay and of himself.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "him",
+   "chosen": "himself",
+   "candidates": [
+    {
+     "word": "himself",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "lady",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.694
+    },
+    {
+     "word": "dante",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.68
+    },
+    {
+     "word": "lover",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.581
+    },
+    {
+     "word": "simon",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.58
+    },
+    {
+     "word": "cinderella",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.579
+    },
+    {
+     "word": "marie",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.568
+    },
+    {
+     "word": "merlin",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.567
+    },
+    {
+     "word": "shakespeare",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.501
+    },
+    {
+     "word": "robin",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.457
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "There is a multitude of poems",
+   "syllables": 9,
+   "target": 10,
+   "partner": "spoken",
+   "qwen_top": "men",
+   "meant": "men",
+   "chosen": "poems",
+   "candidates": [
+    {
+     "word": "poems",
+     "p": 0.0065,
+     "rhyme": 0.6,
+     "score": 0.579
+    },
+    {
+     "word": "poets",
+     "p": 0.0046,
+     "rhyme": 0.6,
+     "score": 0.541
+    },
+    {
+     "word": "poetry",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.483
+    },
+    {
+     "word": "shadows",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.481
+    },
+    {
+     "word": "noble",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.477
+    },
+    {
+     "word": "older",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.466
+    },
+    {
+     "word": "coaches",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.466
+    },
+    {
+     "word": "soldiers",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.462
+    },
+    {
+     "word": "only",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "over",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.46
+    }
+   ]
+  }
+ ]
+}

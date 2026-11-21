@@ -1,0 +1,1452 @@
+{
+ "poet": "Henry Wadsworth Longfellow",
+ "system": "B1",
+ "lam": 1.0,
+ "scheme": "none",
+ "seed": 11,
+ "model": "lora",
+ "stop": "20 lines",
+ "poem": "Cricket-filled, where it pitched itself\nOn the prairie boughs of the forest,\nAnd where the fireside chimney\nMade its white effulgence appear,\nThough the roof was not all opaque and\nBlack with smoke as far below our\nEars grew fainter still; until\nThe moon in her midnight glow\nCame down upon us like a shadow,\nScattering it on the forest;\nAnd we were silent save for our\nSounds and shadows; until one morning,\nWhen the sky looked clear above\nEarth's high ridge, we heard again\nA cricket crackle; then again,\nWhen the moon had gone out again\nRusset-browed, and rosy-golden eyes,\nWe heard again a cricket\nClack! clack! clack, by way of welcome, and\nPity that we were not there again.",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Cricket-filled, where it pitched itself",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "itself",
+   "candidates": [
+    {
+     "word": "itself",
+     "p": 0.0186,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "against",
+     "p": 0.0099,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "upon",
+     "p": 0.0099,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "again",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "about",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "before",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "above",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "our",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.073
+    },
+    {
+     "word": "every",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "into",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.064
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "On the prairie boughs of the forest,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "oak",
+   "meant": "oak",
+   "chosen": "forest",
+   "candidates": [
+    {
+     "word": "forest",
+     "p": 0.0231,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "mountain",
+     "p": 0.0094,
+     "rhyme": 0,
+     "score": 0.409
+    },
+    {
+     "word": "river",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.312
+    },
+    {
+     "word": "maple",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.267
+    },
+    {
+     "word": "prairie",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.189
+    },
+    {
+     "word": "summer",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.173
+    },
+    {
+     "word": "morning",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.172
+    },
+    {
+     "word": "mountains",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.143
+    },
+    {
+     "word": "valley",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.137
+    },
+    {
+     "word": "cedar",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.13
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "And where the fireside chimney",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "chimney",
+   "candidates": [
+    {
+     "word": "chimney",
+     "p": 0.0236,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "fire",
+     "p": 0.0127,
+     "rhyme": 0,
+     "score": 0.536
+    },
+    {
+     "word": "fires",
+     "p": 0.0099,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "table",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "fireplace",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "tables",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "window",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "children",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.112
+    },
+    {
+     "word": "candle",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.099
+    },
+    {
+     "word": "lantern",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.099
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Made its white effulgence appear,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "appear",
+   "candidates": [
+    {
+     "word": "appear",
+     "p": 0.0125,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "visible",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "glitter",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "over",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.144
+    },
+    {
+     "word": "ever",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "radiant",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.112
+    },
+    {
+     "word": "shimmer",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.112
+    },
+    {
+     "word": "sparkle",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "shower",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "glorious",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.072
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Though the roof was not all opaque and",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "and",
+   "candidates": [
+    {
+     "word": "and",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "with",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "to",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "as",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "of",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "gray",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.106
+    },
+    {
+     "word": "so",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "or",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "in",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "yet",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.064
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Black with smoke as far below our",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "it",
+   "meant": "it",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "into",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.473
+    },
+    {
+     "word": "below",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "itself",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "appeared",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "heaven",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.146
+    },
+    {
+     "word": "until",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "began",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "away",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.106
+    },
+    {
+     "word": "afar",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.105
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Ears grew fainter still; until",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "until",
+   "candidates": [
+    {
+     "word": "until",
+     "p": 0.0316,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "our",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "distant",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.06
+    },
+    {
+     "word": "beneath",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "indeed",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.053
+    },
+    {
+     "word": "above",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "only",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "alas",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.047
+    },
+    {
+     "word": "below",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.036
+    },
+    {
+     "word": "every",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.034
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "The moon in her midnight glow",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "glow",
+   "meant": "glow",
+   "chosen": "glow",
+   "candidates": [
+    {
+     "word": "glow",
+     "p": 0.0776,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "robe",
+     "p": 0.0685,
+     "rhyme": 0,
+     "score": 0.882
+    },
+    {
+     "word": "glory",
+     "p": 0.0471,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "light",
+     "p": 0.0367,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "robes",
+     "p": 0.0237,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "star",
+     "p": 0.0223,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "car",
+     "p": 0.0196,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "beauty",
+     "p": 0.0163,
+     "rhyme": 0,
+     "score": 0.21
+    },
+    {
+     "word": "garment",
+     "p": 0.0144,
+     "rhyme": 0,
+     "score": 0.185
+    },
+    {
+     "word": "hour",
+     "p": 0.0135,
+     "rhyme": 0,
+     "score": 0.174
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Came down upon us like a shadow,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "cloud",
+   "meant": "cloud",
+   "chosen": "shadow",
+   "candidates": [
+    {
+     "word": "shadow",
+     "p": 0.0266,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "banner",
+     "p": 0.0134,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "phantom",
+     "p": 0.0111,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "halo",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.367
+    },
+    {
+     "word": "silver",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.346
+    },
+    {
+     "word": "lantern",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "comet",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "candle",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "shower",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.144
+    },
+    {
+     "word": "curtain",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.144
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Scattering it on the forest;",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "grass",
+   "meant": "grass",
+   "chosen": "forest",
+   "candidates": [
+    {
+     "word": "forest",
+     "p": 0.0188,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "little",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "silent",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.345
+    },
+    {
+     "word": "mountain",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "water",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "distant",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "fire",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "river",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "landscape",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "horizon",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.238
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "And we were silent save for our",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0597,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "cricket",
+     "p": 0.0295,
+     "rhyme": 0,
+     "score": 0.494
+    },
+    {
+     "word": "laughter",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.06
+    },
+    {
+     "word": "music",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.045
+    },
+    {
+     "word": "whisper",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.041
+    },
+    {
+     "word": "silence",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.037
+    },
+    {
+     "word": "voices",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.034
+    },
+    {
+     "word": "whispers",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.025
+    },
+    {
+     "word": "singing",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.014
+    },
+    {
+     "word": "noises",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.012
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Sounds and shadows; until one morning,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "day",
+   "meant": "day",
+   "chosen": "morning",
+   "candidates": [
+    {
+     "word": "morning",
+     "p": 0.0412,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "hour",
+     "p": 0.0195,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "moment",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "evening",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.175
+    },
+    {
+     "word": "afternoon",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.041
+    },
+    {
+     "word": "summer",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.039
+    },
+    {
+     "word": "little",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.028
+    },
+    {
+     "word": "instant",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.027
+    },
+    {
+     "word": "minute",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.021
+    },
+    {
+     "word": "sudden",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.021
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "text": "When the sky looked clear above",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "above",
+   "candidates": [
+    {
+     "word": "above",
+     "p": 0.0428,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "again",
+     "p": 0.026,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "enough",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "upon",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "across",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "below",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "without",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "beyond",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.044
+    },
+    {
+     "word": "against",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.044
+    },
+    {
+     "word": "about",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.039
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "text": "Earth's high ridge, we heard again",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "a",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.056,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "our",
+     "p": 0.0265,
+     "rhyme": 0,
+     "score": 0.473
+    },
+    {
+     "word": "above",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "within",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "voices",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "something",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "distinctly",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "upon",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.039
+    },
+    {
+     "word": "another",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.034
+    },
+    {
+     "word": "afar",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.034
+    }
+   ]
+  },
+  {
+   "line": 15,
+   "text": "A cricket crackle; then again,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "we",
+   "meant": "we",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0529,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "our",
+     "p": 0.0283,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "began",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "arose",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "suddenly",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "above",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "upon",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.047
+    },
+    {
+     "word": "below",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.047
+    },
+    {
+     "word": "another",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.041
+    },
+    {
+     "word": "after",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.032
+    }
+   ]
+  },
+  {
+   "line": 16,
+   "text": "When the moon had gone out again",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.027,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "behind",
+     "p": 0.0163,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "away",
+     "p": 0.0163,
+     "rhyme": 0,
+     "score": 0.606
+    },
+    {
+     "word": "above",
+     "p": 0.0099,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "into",
+     "p": 0.0099,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "below",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "before",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "among",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "upon",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "beneath",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.105
+    }
+   ]
+  },
+  {
+   "line": 17,
+   "text": "Russet-browed, and rosy-golden eyes,",
+   "syllables": 9,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "eyes",
+   "meant": "eyes",
+   "chosen": "eyes",
+   "candidates": [
+    {
+     "word": "eyes",
+     "p": 0.0667,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "hair",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "eye",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "gray",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.039
+    },
+    {
+     "word": "hue",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.027
+    },
+    {
+     "word": "white",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.024
+    },
+    {
+     "word": "cheek",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.021
+    },
+    {
+     "word": "light",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.016
+    },
+    {
+     "word": "in",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.016
+    },
+    {
+     "word": "sun",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.014
+    }
+   ]
+  },
+  {
+   "line": 18,
+   "text": "We heard again a cricket",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "cricket",
+   "meant": "cricket",
+   "chosen": "cricket",
+   "candidates": [
+    {
+     "word": "cricket",
+     "p": 0.6763,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "robin",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.012
+    },
+    {
+     "word": "little",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.012
+    },
+    {
+     "word": "mocking",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.008
+    },
+    {
+     "word": "whisper",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.006
+    },
+    {
+     "word": "cracking",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.006
+    },
+    {
+     "word": "distant",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.004
+    },
+    {
+     "word": "flutter",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.003
+    },
+    {
+     "word": "chorus",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.003
+    },
+    {
+     "word": "humming",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.003
+    }
+   ]
+  },
+  {
+   "line": 19,
+   "text": "Clack! clack! clack, by way of welcome, and",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "and",
+   "candidates": [
+    {
+     "word": "and",
+     "p": 0.0244,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "in",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "to",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "as",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "on",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.154
+    },
+    {
+     "word": "here",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.136
+    },
+    {
+     "word": "again",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.106
+    },
+    {
+     "word": "fly",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.094
+    },
+    {
+     "word": "then",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "welcome",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.082
+    }
+   ]
+  },
+  {
+   "line": 20,
+   "text": "Pity that we were not there again.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "beside",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "before",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.882
+    },
+    {
+     "word": "together",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "ourselves",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "alone",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "enough",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "among",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "waiting",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "already",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.253
+    }
+   ]
+  }
+ ]
+}

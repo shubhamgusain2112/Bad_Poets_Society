@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 1.0,
+ "scheme": "AABB",
+ "seed": 3,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "But I am our Lord, alone,\nThe marvellous heart of heaven\nAnd the wild tongue of the cloudless sky.\nEven as we were one in glory born\nThrough the light of the divine,\nSo to thine own home alone\nWe are one with life and death. 84A83B391d0e52a76bc0b a\nO thou who art made me glad again,\nI have known thee but long ago,\nWith thy low breath that gave heaven\nIts own new song when all things were very.\nThat sweet sweet breath which hath come at ago,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "But I am our Lord, alone,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0323,
+     "rhyme": 0,
+     "score": 1.218
+    },
+    {
+     "word": "crucified",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.371
+    },
+    {
+     "word": "consecrated",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.347
+    },
+    {
+     "word": "salvation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.337
+    },
+    {
+     "word": "temptation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "afraid",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "whereupon",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.309
+    },
+    {
+     "word": "again",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "likewise",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "thereupon",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.288
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The marvellous heart of heaven",
+   "syllables": 8,
+   "target": 9,
+   "partner": "alone",
+   "qwen_top": "god",
+   "meant": "god",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0217,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "allah",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "jesus",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.166
+    },
+    {
+     "word": "divine",
+     "p": 0.0033,
+     "rhyme": 0.3,
+     "score": 0.153
+    },
+    {
+     "word": "mercy",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.134
+    },
+    {
+     "word": "eternal",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.124
+    },
+    {
+     "word": "woman",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.101
+    },
+    {
+     "word": "father",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.094
+    },
+    {
+     "word": "unto",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.083
+    },
+    {
+     "word": "fire",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.074
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "And the wild tongue of the cloudless sky.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "sea",
+   "meant": "sky",
+   "chosen": "sky",
+   "candidates": [
+    {
+     "word": "sky",
+     "p": 0.3617,
+     "rhyme": 0,
+     "score": 1.25
+    },
+    {
+     "word": "skies",
+     "p": 0.0814,
+     "rhyme": 0,
+     "score": 0.444
+    },
+    {
+     "word": "sea",
+     "p": 0.0485,
+     "rhyme": 0,
+     "score": 0.415
+    },
+    {
+     "word": "air",
+     "p": 0.053,
+     "rhyme": 0,
+     "score": 0.384
+    },
+    {
+     "word": "station",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "day",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "blue",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "tree",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "gray",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "grey",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.276
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Even as we were one in glory born",
+   "syllables": 10,
+   "target": 11,
+   "partner": "sky",
+   "qwen_top": "and",
+   "meant": "born",
+   "chosen": "born",
+   "candidates": [
+    {
+     "word": "born",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "now",
+     "p": 0.0117,
+     "rhyme": 0,
+     "score": 0.967
+    },
+    {
+     "word": "came",
+     "p": 0.0113,
+     "rhyme": 0,
+     "score": 0.931
+    },
+    {
+     "word": "before",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.701
+    },
+    {
+     "word": "here",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 0.693
+    },
+    {
+     "word": "come",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.66
+    },
+    {
+     "word": "so",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.59
+    },
+    {
+     "word": "then",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.582
+    },
+    {
+     "word": "he",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.506
+    },
+    {
+     "word": "when",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.497
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Through the light of the divine,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "sun",
+   "meant": "sun",
+   "chosen": "divine",
+   "candidates": [
+    {
+     "word": "divine",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 1.213
+    },
+    {
+     "word": "heavens",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 1.023
+    },
+    {
+     "word": "darkness",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.926
+    },
+    {
+     "word": "eternal",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.926
+    },
+    {
+     "word": "universe",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.903
+    },
+    {
+     "word": "planet",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.902
+    },
+    {
+     "word": "heaven",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.851
+    },
+    {
+     "word": "heavenly",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.703
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.589
+    },
+    {
+     "word": "cosmos",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.555
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "So to thine own home alone",
+   "syllables": 7,
+   "target": 8,
+   "partner": "divine",
+   "qwen_top": "we",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.024,
+     "rhyme": 0.3,
+     "score": 1.0
+    },
+    {
+     "word": "somewhere",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "again",
+     "p": 0.0071,
+     "rhyme": 0.3,
+     "score": 0.297
+    },
+    {
+     "word": "unknown",
+     "p": 0.007,
+     "rhyme": 0.3,
+     "score": 0.292
+    },
+    {
+     "word": "ours",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.186
+    },
+    {
+     "word": "reborn",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "wherever",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.171
+    },
+    {
+     "word": "nowhere",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.162
+    },
+    {
+     "word": "forever",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.16
+    },
+    {
+     "word": "henceforth",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.139
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "We are one with life and death. 84A83B391d0e52a76bc0b a",
+   "syllables": 16,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "a",
+   "chosen": "a",
+   "candidates": [
+    {
+     "word": "a",
+     "p": 0.0097,
+     "rhyme": 0,
+     "score": 1.27
+    },
+    {
+     "word": "is",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.844
+    },
+    {
+     "word": "the",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.677
+    },
+    {
+     "word": "than",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.57
+    },
+    {
+     "word": "white",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.51
+    },
+    {
+     "word": "note",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.47
+    },
+    {
+     "word": "root",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.425
+    },
+    {
+     "word": "for",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.425
+    },
+    {
+     "word": "known",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.423
+    },
+    {
+     "word": "of",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.422
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "O thou who art made me glad again,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "a",
+   "qwen_top": "with",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0983,
+     "rhyme": 0.6,
+     "score": 1.0
+    },
+    {
+     "word": "alone",
+     "p": 0.0497,
+     "rhyme": 0,
+     "score": 0.505
+    },
+    {
+     "word": "only",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.088
+    },
+    {
+     "word": "within",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.071
+    },
+    {
+     "word": "living",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.067
+    },
+    {
+     "word": "ever",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.065
+    },
+    {
+     "word": "being",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "until",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.048
+    },
+    {
+     "word": "even",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.041
+    },
+    {
+     "word": "become",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.039
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "I have known thee but long ago,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "ago",
+   "meant": "ago",
+   "chosen": "ago",
+   "candidates": [
+    {
+     "word": "ago",
+     "p": 0.7063,
+     "rhyme": 0,
+     "score": 1.262
+    },
+    {
+     "word": "before",
+     "p": 0.0381,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "today",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "away",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "probably",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "sunday",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "thirty",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "monday",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "thursday",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.256
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "With thy low breath that gave heaven",
+   "syllables": 8,
+   "target": 9,
+   "partner": "ago",
+   "qwen_top": "me",
+   "meant": "me",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "giving",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.498
+    },
+    {
+     "word": "unto",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.457
+    },
+    {
+     "word": "spirit",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.415
+    },
+    {
+     "word": "encouragement",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.381
+    },
+    {
+     "word": "divine",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.378
+    },
+    {
+     "word": "comfort",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.369
+    },
+    {
+     "word": "heavenly",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "allah",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "awake",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.278
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Its own new song when all things were very.",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "one",
+   "meant": "old",
+   "chosen": "very",
+   "candidates": [
+    {
+     "word": "very",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 1.215
+    },
+    {
+     "word": "ago",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 1.157
+    },
+    {
+     "word": "woman",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.727
+    },
+    {
+     "word": "described",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.658
+    },
+    {
+     "word": "many",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.645
+    },
+    {
+     "word": "people",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.588
+    },
+    {
+     "word": "noted",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.534
+    },
+    {
+     "word": "working",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.526
+    },
+    {
+     "word": "only",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "beautiful",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.47
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "That sweet sweet breath which hath come at ago,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "very",
+   "qwen_top": "last",
+   "meant": "last",
+   "chosen": "ago",
+   "candidates": [
+    {
+     "word": "ago",
+     "p": 0.014,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "earlier",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.456
+    },
+    {
+     "word": "after",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.434
+    },
+    {
+     "word": "before",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.367
+    },
+    {
+     "word": "during",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "followed",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.309
+    },
+    {
+     "word": "evening",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.219
+    },
+    {
+     "word": "midnight",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.176
+    },
+    {
+     "word": "period",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.166
+    },
+    {
+     "word": "only",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.158
+    }
+   ]
+  }
+ ]
+}

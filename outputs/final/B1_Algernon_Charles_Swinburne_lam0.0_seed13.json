@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "AABB",
+ "seed": 13,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "The Spirit, who kept not them away,\nSaw the body of his son decay,\nAnd man that came and walked away\nWas to be conquered by decay.\nHe saw it; he took him away,\nMade his soul give way with decay,\nThat man's flesh might break like decay\nTo flesh's fall into the naked.\nAnd even that death, decay,\nWhich did more than all things away\nA body from its spirit away,\nThrew on heart-burns for decay,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "The Spirit, who kept not them away,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "from",
+   "meant": "from",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "into",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "between",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "unseen",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "solitary",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "unaware",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.236
+    },
+    {
+     "word": "upon",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "afraid",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.233
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Saw the body of his son decay,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "away",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "decay",
+   "candidates": [
+    {
+     "word": "decay",
+     "p": 0.0061,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "betray",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "array",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "dismay",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "again",
+     "p": 0.0128,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awake",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "taken",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "escape",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "betrayed",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "against",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "And man that came and walked away",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "with",
+   "meant": "with",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0093,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "today",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "into",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "anew",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "thereby",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "between",
+     "p": 0.0119,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "unseen",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "inside",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.242
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Was to be conquered by decay.",
+   "syllables": 8,
+   "target": 9,
+   "partner": "away",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "decay",
+   "candidates": [
+    {
+     "word": "decay",
+     "p": 0.0032,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "angel",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "satan",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "angels",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "nature",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "greater",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "alien",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "chaos",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "creation",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "naked",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "He saw it; he took him away,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "by",
+   "meant": "by",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0155,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "array",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "into",
+     "p": 0.0137,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "anew",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "again",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "thereby",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "between",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "unseen",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "upon",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "before",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.229
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Made his soul give way with decay,",
+   "syllables": 8,
+   "target": 9,
+   "partner": "away",
+   "qwen_top": "his",
+   "meant": "his",
+   "chosen": "decay",
+   "candidates": [
+    {
+     "word": "decay",
+     "p": 0.0188,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "dismay",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "delay",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "disdain",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "alien",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "naked",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "breaking",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "disgrace",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "nature",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "himself",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "That man's flesh might break like decay",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "a",
+   "chosen": "decay",
+   "candidates": [
+    {
+     "word": "decay",
+     "p": 0.0271,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "away",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "our",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "fire",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "marrow",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.178
+    },
+    {
+     "word": "flower",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "flour",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "many",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.157
+    },
+    {
+     "word": "any",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.157
+    },
+    {
+     "word": "coral",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.145
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "To flesh's fall into the naked.",
+   "syllables": 8,
+   "target": 9,
+   "partner": "decay",
+   "qwen_top": "decay",
+   "meant": "decay",
+   "chosen": "naked",
+   "candidates": [
+    {
+     "word": "naked",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "fire",
+     "p": 0.019,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "abyss",
+     "p": 0.0156,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "spirit",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "divine",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "father",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "heaven",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "body",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "water",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "belly",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "And even that death, decay,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "which",
+   "meant": "which",
+   "chosen": "decay",
+   "candidates": [
+    {
+     "word": "decay",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "away",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "into",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "although",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "whereby",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "between",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "unseen",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "despair",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "upon",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "our",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.229
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Which did more than all things away",
+   "syllables": 8,
+   "target": 9,
+   "partner": "decay",
+   "qwen_top": "decay",
+   "meant": "decay",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.003,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "delay",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "dismay",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "create",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "avail",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "degrade",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "greater",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remain",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "prevail",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "disgrace",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "A body from its spirit away,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "away",
+   "meant": "away",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.2644,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "decay",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "afar",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "arose",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "alone",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.218
+    },
+    {
+     "word": "dying",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.17
+    },
+    {
+     "word": "power",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.159
+    },
+    {
+     "word": "weary",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.155
+    },
+    {
+     "word": "apart",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.15
+    },
+    {
+     "word": "beyond",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.147
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Threw on heart-burns for decay,",
+   "syllables": 7,
+   "target": 8,
+   "partner": "away",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "decay",
+   "candidates": [
+    {
+     "word": "decay",
+     "p": 0.0012,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "breaking",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "naked",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "greater",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "salvation",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "ages",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "angels",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "angel",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "spirit",
+     "p": 0.0211,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "ever",
+     "p": 0.0196,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 1.0,
+ "scheme": "AABB",
+ "seed": 3,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "But I am our Lord, our,\nOur God above the heavens,\nSoul of all who sinned or sat beneath,\nWho created and made us man before.\nYou have come to me because\nI knew not that you alone\nAnd you are my friend, but thou hast spoken\nThat I was in hell's deep depths before.\nOh soul! thy feet came out again\nFrom the world where thou hadst wandered,\nWhat a splendid sight is this earth again,\nWith such a heaven as heaven before.",
+ "lines": [
+  {
+   "line": 1,
+   "text": "But I am our Lord, our,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0801,
+     "rhyme": 0,
+     "score": 1.229
+    },
+    {
+     "word": "although",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.266
+    },
+    {
+     "word": "upon",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.236
+    },
+    {
+     "word": "before",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.234
+    },
+    {
+     "word": "alone",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.227
+    },
+    {
+     "word": "unless",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.226
+    },
+    {
+     "word": "confess",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.225
+    },
+    {
+     "word": "beside",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "within",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.219
+    },
+    {
+     "word": "indeed",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.217
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Our God above the heavens,",
+   "syllables": 8,
+   "target": 9,
+   "partner": "our",
+   "qwen_top": "sea",
+   "meant": "sea",
+   "chosen": "heavens",
+   "candidates": [
+    {
+     "word": "heavens",
+     "p": 0.0505,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "heaven",
+     "p": 0.0238,
+     "rhyme": 0,
+     "score": 0.47
+    },
+    {
+     "word": "waters",
+     "p": 0.0122,
+     "rhyme": 0,
+     "score": 0.241
+    },
+    {
+     "word": "mountains",
+     "p": 0.0094,
+     "rhyme": 0.6,
+     "score": 0.186
+    },
+    {
+     "word": "nations",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.078
+    },
+    {
+     "word": "living",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.073
+    },
+    {
+     "word": "angels",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.07
+    },
+    {
+     "word": "mountain",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.057
+    },
+    {
+     "word": "rainbow",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.054
+    },
+    {
+     "word": "ocean",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.053
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Soul of all who sinned or sat beneath,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "beneath",
+   "candidates": [
+    {
+     "word": "beneath",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 1.124
+    },
+    {
+     "word": "upon",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 1.012
+    },
+    {
+     "word": "below",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.868
+    },
+    {
+     "word": "asleep",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.837
+    },
+    {
+     "word": "under",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.785
+    },
+    {
+     "word": "before",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.597
+    },
+    {
+     "word": "beside",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.418
+    },
+    {
+     "word": "content",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.375
+    },
+    {
+     "word": "without",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.339
+    },
+    {
+     "word": "upright",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.339
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Who created and made us man before.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "beneath",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "before",
+   "candidates": [
+    {
+     "word": "before",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "above",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.418
+    },
+    {
+     "word": "again",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "below",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "after",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "apart",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "beside",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "without",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "alone",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "among",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.119
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "You have come to me because",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "because",
+   "candidates": [
+    {
+     "word": "because",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 1.167
+    },
+    {
+     "word": "alone",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.906
+    },
+    {
+     "word": "again",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.578
+    },
+    {
+     "word": "before",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.554
+    },
+    {
+     "word": "upon",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.369
+    },
+    {
+     "word": "today",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.358
+    },
+    {
+     "word": "indeed",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "into",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "our",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "below",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.292
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "I knew not that you alone",
+   "syllables": 7,
+   "target": 8,
+   "partner": "because",
+   "qwen_top": "were",
+   "meant": "were",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "believed",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.606
+    },
+    {
+     "word": "ever",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "desired",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "wanted",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.417
+    },
+    {
+     "word": "existed",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "needed",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "belong",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.305
+    },
+    {
+     "word": "deserved",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "exist",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.197
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "And you are my friend, but thou hast spoken",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "come",
+   "meant": "come",
+   "chosen": "spoken",
+   "candidates": [
+    {
+     "word": "spoken",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 1.11
+    },
+    {
+     "word": "taken",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.807
+    },
+    {
+     "word": "given",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.777
+    },
+    {
+     "word": "never",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.51
+    },
+    {
+     "word": "chosen",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "fallen",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.342
+    },
+    {
+     "word": "broken",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.333
+    },
+    {
+     "word": "waited",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "denied",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "begun",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.306
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "That I was in hell's deep depths before.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "spoken",
+   "qwen_top": "before",
+   "meant": "before",
+   "chosen": "before",
+   "candidates": [
+    {
+     "word": "before",
+     "p": 0.0409,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "alone",
+     "p": 0.0361,
+     "rhyme": 0.6,
+     "score": 0.882
+    },
+    {
+     "word": "below",
+     "p": 0.0043,
+     "rhyme": 0.6,
+     "score": 0.105
+    },
+    {
+     "word": "waiting",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "denied",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "undone",
+     "p": 0.0026,
+     "rhyme": 0.9,
+     "score": 0.064
+    },
+    {
+     "word": "above",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "hidden",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "ever",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "again",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.039
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Oh soul! thy feet came out again",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 1.253
+    },
+    {
+     "word": "upon",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 1.116
+    },
+    {
+     "word": "before",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.916
+    },
+    {
+     "word": "into",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.743
+    },
+    {
+     "word": "unto",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "against",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.506
+    },
+    {
+     "word": "among",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.495
+    },
+    {
+     "word": "without",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.489
+    },
+    {
+     "word": "alive",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.365
+    },
+    {
+     "word": "below",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.296
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "From the world where thou hadst wandered,",
+   "syllables": 8,
+   "target": 9,
+   "partner": "again",
+   "qwen_top": "been",
+   "meant": "been",
+   "chosen": "wandered",
+   "candidates": [
+    {
+     "word": "wandered",
+     "p": 0.0207,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "never",
+     "p": 0.0126,
+     "rhyme": 0.6,
+     "score": 0.607
+    },
+    {
+     "word": "entered",
+     "p": 0.0046,
+     "rhyme": 0.6,
+     "score": 0.223
+    },
+    {
+     "word": "fallen",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.21
+    },
+    {
+     "word": "begun",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.174
+    },
+    {
+     "word": "taken",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.119
+    },
+    {
+     "word": "hidden",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.077
+    },
+    {
+     "word": "remained",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.064
+    },
+    {
+     "word": "eaten",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "neither",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.047
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "What a splendid sight is this earth again,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "again",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0701,
+     "rhyme": 0,
+     "score": 1.253
+    },
+    {
+     "word": "below",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "anew",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "upon",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "today",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "away",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "array",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "before",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "unseen",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "between",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.252
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "With such a heaven as heaven before.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "again",
+   "qwen_top": "had",
+   "meant": "had",
+   "chosen": "before",
+   "candidates": [
+    {
+     "word": "before",
+     "p": 0.0576,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "itself",
+     "p": 0.0129,
+     "rhyme": 0.6,
+     "score": 0.223
+    },
+    {
+     "word": "never",
+     "p": 0.0114,
+     "rhyme": 0.6,
+     "score": 0.197
+    },
+    {
+     "word": "cannot",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "above",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.044
+    },
+    {
+     "word": "alone",
+     "p": 0.0025,
+     "rhyme": 0.3,
+     "score": 0.044
+    },
+    {
+     "word": "belongs",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.03
+    },
+    {
+     "word": "unto",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.03
+    },
+    {
+     "word": "without",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.024
+    },
+    {
+     "word": "ever",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.021
+    }
+   ]
+  }
+ ]
+}

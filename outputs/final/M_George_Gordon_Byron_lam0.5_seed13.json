@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 0.5,
+ "scheme": "ABAB",
+ "seed": 13,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "The damsel of the Isaurian mountain\nHer youth is golden, and her youth appears\nThe first bliss to all by education won;\nBut she in vain would urge that beauty\nTo higher degrees: I think again\nShe hath not lost a length; though hitherto\nNo palace had been of its maintain\nFor her who, unhappy but truly,\nA vast multitude in some destination\nMust leave them at each other's command.\nYet how little, without further duration,\nThis flower grew on old Fortuny's hand,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "The damsel of the Isaurian mountain",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "hills",
+   "meant": "mountain",
+   "chosen": "mountain",
+   "candidates": [
+    {
+     "word": "mountain",
+     "p": 0.0149,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "mountains",
+     "p": 0.011,
+     "rhyme": 0,
+     "score": 0.403
+    },
+    {
+     "word": "elevation",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.356
+    },
+    {
+     "word": "desert",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.333
+    },
+    {
+     "word": "nation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.333
+    },
+    {
+     "word": "plateau",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "meadow",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "battle",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "border",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "shadow",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.289
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Her youth is golden, and her youth appears",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "is",
+   "meant": "appears",
+   "chosen": "appears",
+   "candidates": [
+    {
+     "word": "appears",
+     "p": 0.0955,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "remains",
+     "p": 0.0377,
+     "rhyme": 0,
+     "score": 0.405
+    },
+    {
+     "word": "destination",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "incarnation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "location",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "indicate",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "afterglow",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "although",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "remain",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.262
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "The first bliss to all by education won;",
+   "syllables": 11,
+   "target": 10,
+   "partner": "mountain",
+   "qwen_top": "born",
+   "meant": "born",
+   "chosen": "won",
+   "candidates": [
+    {
+     "word": "won",
+     "p": 0.0098,
+     "rhyme": 0.9,
+     "score": 0.609
+    },
+    {
+     "word": "been",
+     "p": 0.0061,
+     "rhyme": 0.9,
+     "score": 0.549
+    },
+    {
+     "word": "born",
+     "p": 0.0309,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "son",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.466
+    },
+    {
+     "word": "an",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.457
+    },
+    {
+     "word": "brought",
+     "p": 0.0229,
+     "rhyme": 0,
+     "score": 0.371
+    },
+    {
+     "word": "bred",
+     "p": 0.0226,
+     "rhyme": 0,
+     "score": 0.366
+    },
+    {
+     "word": "crowned",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.317
+    },
+    {
+     "word": "by",
+     "p": 0.0093,
+     "rhyme": 0,
+     "score": 0.151
+    },
+    {
+     "word": "wrought",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.131
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "But she in vain would urge that beauty",
+   "syllables": 9,
+   "target": 10,
+   "partner": "appears",
+   "qwen_top": "youth",
+   "meant": "beauty",
+   "chosen": "beauty",
+   "candidates": [
+    {
+     "word": "beauty",
+     "p": 0.0195,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "dignity",
+     "p": 0.0045,
+     "rhyme": 0.6,
+     "score": 0.416
+    },
+    {
+     "word": "happiness",
+     "p": 0.0156,
+     "rhyme": 0,
+     "score": 0.4
+    },
+    {
+     "word": "innocence",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.369
+    },
+    {
+     "word": "wisdom",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.366
+    },
+    {
+     "word": "humility",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.357
+    },
+    {
+     "word": "mystical",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.351
+    },
+    {
+     "word": "perseverance",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.347
+    },
+    {
+     "word": "superstition",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.343
+    },
+    {
+     "word": "symbol",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.34
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "To higher degrees: I think again",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "she",
+   "meant": "it",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0247,
+     "rhyme": 0,
+     "score": 0.753
+    },
+    {
+     "word": "alone",
+     "p": 0.0134,
+     "rhyme": 0,
+     "score": 0.489
+    },
+    {
+     "word": "indeed",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 0.46
+    },
+    {
+     "word": "herself",
+     "p": 0.0153,
+     "rhyme": 0,
+     "score": 0.435
+    },
+    {
+     "word": "therefore",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.38
+    },
+    {
+     "word": "itself",
+     "p": 0.0106,
+     "rhyme": 0,
+     "score": 0.342
+    },
+    {
+     "word": "temptation",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.335
+    },
+    {
+     "word": "upon",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.317
+    },
+    {
+     "word": "likewise",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.313
+    },
+    {
+     "word": "dedicate",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.294
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "She hath not lost a length; though hitherto",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "she",
+   "meant": "abundantly",
+   "chosen": "hitherto",
+   "candidates": [
+    {
+     "word": "hitherto",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.541
+    },
+    {
+     "word": "abundantly",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "admired",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.45
+    },
+    {
+     "word": "nevertheless",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.426
+    },
+    {
+     "word": "beheld",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.405
+    },
+    {
+     "word": "obscurity",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.401
+    },
+    {
+     "word": "refined",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.4
+    },
+    {
+     "word": "acquiesce",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.395
+    },
+    {
+     "word": "adored",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.372
+    },
+    {
+     "word": "unbowed",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.365
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "No palace had been of its maintain",
+   "syllables": 9,
+   "target": 10,
+   "partner": "again",
+   "qwen_top": "own",
+   "meant": "own",
+   "chosen": "maintain",
+   "candidates": [
+    {
+     "word": "maintain",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 0.561
+    },
+    {
+     "word": "retain",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 0.549
+    },
+    {
+     "word": "attain",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 0.548
+    },
+    {
+     "word": "greater",
+     "p": 0.0041,
+     "rhyme": 0.6,
+     "score": 0.545
+    },
+    {
+     "word": "grandeur",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "depending",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.481
+    },
+    {
+     "word": "stature",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.479
+    },
+    {
+     "word": "immense",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.466
+    },
+    {
+     "word": "dimensions",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.443
+    },
+    {
+     "word": "location",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.436
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "For her who, unhappy but truly,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "hitherto",
+   "qwen_top": "for",
+   "meant": "unattainable",
+   "chosen": "truly",
+   "candidates": [
+    {
+     "word": "truly",
+     "p": 0.0057,
+     "rhyme": 0.6,
+     "score": 0.709
+    },
+    {
+     "word": "virtue",
+     "p": 0.0023,
+     "rhyme": 0.9,
+     "score": 0.616
+    },
+    {
+     "word": "musically",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.509
+    },
+    {
+     "word": "wholly",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "utterly",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.494
+    },
+    {
+     "word": "unto",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.494
+    },
+    {
+     "word": "aloof",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.475
+    },
+    {
+     "word": "beautiful",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.405
+    },
+    {
+     "word": "alluring",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.39
+    },
+    {
+     "word": "foolishly",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.387
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "A vast multitude in some destination",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "distant",
+   "meant": "remote",
+   "chosen": "destination",
+   "candidates": [
+    {
+     "word": "destination",
+     "p": 0.0095,
+     "rhyme": 0,
+     "score": 0.751
+    },
+    {
+     "word": "remote",
+     "p": 0.011,
+     "rhyme": 0,
+     "score": 0.672
+    },
+    {
+     "word": "abode",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.665
+    },
+    {
+     "word": "location",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.639
+    },
+    {
+     "word": "desolate",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.543
+    },
+    {
+     "word": "sanctuary",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.443
+    },
+    {
+     "word": "paradise",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.439
+    },
+    {
+     "word": "countryside",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.409
+    },
+    {
+     "word": "serene",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.407
+    },
+    {
+     "word": "elevation",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.404
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Must leave them at each other's command.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "feet",
+   "meant": "feet",
+   "chosen": "command",
+   "candidates": [
+    {
+     "word": "command",
+     "p": 0.0226,
+     "rhyme": 0,
+     "score": 0.689
+    },
+    {
+     "word": "operation",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.349
+    },
+    {
+     "word": "control",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.345
+    },
+    {
+     "word": "elevation",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.343
+    },
+    {
+     "word": "cargo",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.327
+    },
+    {
+     "word": "commands",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.309
+    },
+    {
+     "word": "operations",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.299
+    },
+    {
+     "word": "operate",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "subordinate",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "outstretched",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.285
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Yet how little, without further duration,",
+   "syllables": 11,
+   "target": 11,
+   "partner": "destination",
+   "qwen_top": "thought",
+   "meant": "care",
+   "chosen": "duration",
+   "candidates": [
+    {
+     "word": "duration",
+     "p": 0.0027,
+     "rhyme": 1.0,
+     "score": 0.789
+    },
+    {
+     "word": "delay",
+     "p": 0.0044,
+     "rhyme": 0.6,
+     "score": 0.776
+    },
+    {
+     "word": "raising",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.655
+    },
+    {
+     "word": "speculation",
+     "p": 0.0013,
+     "rhyme": 1.0,
+     "score": 0.636
+    },
+    {
+     "word": "education",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 0.597
+    },
+    {
+     "word": "explanation",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 0.589
+    },
+    {
+     "word": "compensation",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 0.583
+    },
+    {
+     "word": "legislation",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 0.574
+    },
+    {
+     "word": "debate",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.545
+    },
+    {
+     "word": "raises",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.543
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "This flower grew on old Fortuny's hand,",
+   "syllables": 10,
+   "target": 10,
+   "partner": "command",
+   "qwen_top": "brow",
+   "meant": "hill",
+   "chosen": "hand",
+   "candidates": [
+    {
+     "word": "hand",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 0.508
+    },
+    {
+     "word": "hill",
+     "p": 0.0646,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "stands",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.32
+    },
+    {
+     "word": "castle",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.319
+    },
+    {
+     "word": "angle",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.317
+    },
+    {
+     "word": "manor",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.31
+    },
+    {
+     "word": "grassy",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.309
+    },
+    {
+     "word": "mast",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.307
+    },
+    {
+     "word": "at",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.307
+    },
+    {
+     "word": "lambert",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.306
+    }
+   ]
+  }
+ ]
+}

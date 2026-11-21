@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "AABB",
+ "seed": 1,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "And May is all sweet the shadow\nOf a crowd of wistful snow\nThat keepeth home, to let out again\nTheir things that they have taken.\nO gentle April leafy breezes free\nFrom the red and black old leaves on every\nTree's face, O sighing sky-heron away\nHis boundless song for thee! - say not, saying\nI shall wait thine hour, away\nFor the moon to light again\nThe shining gates and starry hallways. See\nThe stars at last be ready",
+ "lines": [
+  {
+   "line": 1,
+   "text": "And May is all sweet the shadow",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "more",
+   "meant": "more",
+   "chosen": "shadow",
+   "candidates": [
+    {
+     "word": "shadow",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "sunshine",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.231
+    },
+    {
+     "word": "twilight",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "very",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "merry",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "present",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.201
+    },
+    {
+     "word": "shadows",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.2
+    },
+    {
+     "word": "fire",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "higher",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "glory",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.183
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Of a crowd of wistful snow",
+   "syllables": 7,
+   "target": 8,
+   "partner": "shadow",
+   "qwen_top": "eyes",
+   "meant": "eyes",
+   "chosen": "snow",
+   "candidates": [
+    {
+     "word": "snow",
+     "p": 0.002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "ow",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "crow",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "mo",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "lo",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "yellow",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "bow",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "o",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "souls",
+     "p": 0.0071,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "That keepeth home, to let out again",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "our",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "alone",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.218
+    },
+    {
+     "word": "fire",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "awhile",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.183
+    },
+    {
+     "word": "flower",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "power",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.159
+    },
+    {
+     "word": "many",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.157
+    },
+    {
+     "word": "never",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.142
+    },
+    {
+     "word": "flowers",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.139
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Their things that they have taken.",
+   "syllables": 7,
+   "target": 8,
+   "partner": "again",
+   "qwen_top": "not",
+   "meant": "not",
+   "chosen": "taken",
+   "candidates": [
+    {
+     "word": "taken",
+     "p": 0.0112,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "waited",
+     "p": 0.0049,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "begun",
+     "p": 0.0034,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "never",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "away",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "wasted",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "already",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "buried",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "neglected",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "carried",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "O gentle April leafy breezes free",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "that",
+   "meant": "that",
+   "chosen": "free",
+   "candidates": [
+    {
+     "word": "free",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "see",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "e",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "gay",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "gray",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "may",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "say",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "From the red and black old leaves on every",
+   "syllables": 11,
+   "target": 11,
+   "partner": "free",
+   "qwen_top": "high",
+   "meant": "high",
+   "chosen": "every",
+   "candidates": [
+    {
+     "word": "every",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "many",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "honey",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "either",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "easter",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "fire",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "our",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "heaven",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "summer",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "towers",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Tree's face, O sighing sky-heron away",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "that",
+   "meant": "that",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "below",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "unseen",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "bending",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.178
+    },
+    {
+     "word": "gentle",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.176
+    },
+    {
+     "word": "awake",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.176
+    },
+    {
+     "word": "flying",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.17
+    },
+    {
+     "word": "yellow",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.167
+    },
+    {
+     "word": "blowing",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.161
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "His boundless song for thee! - say not, saying",
+   "syllables": 10,
+   "target": 11,
+   "partner": "away",
+   "qwen_top": "say",
+   "meant": "say",
+   "chosen": "saying",
+   "candidates": [
+    {
+     "word": "saying",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "april",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "refrain",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awake",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "farewell",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "summer",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "alas",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "happy",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "rejoice",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "I shall wait thine hour, away",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "although",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "farewell",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "unseen",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "our",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "before",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "unless",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "abide",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.222
+    },
+    {
+     "word": "indeed",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.214
+    },
+    {
+     "word": "until",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.211
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "For the moon to light again",
+   "syllables": 7,
+   "target": 8,
+   "partner": "away",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0114,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "against",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awake",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "april",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "upon",
+     "p": 0.0166,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "our",
+     "p": 0.0114,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "over",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "heaven",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "above",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "every",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "The shining gates and starry hallways. See",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "o",
+   "meant": "o",
+   "chosen": "see",
+   "candidates": [
+    {
+     "word": "see",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ye",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ne",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "three",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "re",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "The stars at last be ready",
+   "syllables": 7,
+   "target": 8,
+   "partner": "see",
+   "qwen_top": "light",
+   "meant": "light",
+   "chosen": "ready",
+   "candidates": [
+    {
+     "word": "ready",
+     "p": 0.0063,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "happy",
+     "p": 0.0033,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "merry",
+     "p": 0.0018,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "very",
+     "p": 0.0015,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "heavy",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "steady",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "holy",
+     "p": 0.0012,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "many",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "weary",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "only",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  }
+ ]
+}

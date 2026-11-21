@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 0.0,
+ "scheme": "ABAB",
+ "seed": 3,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "XIII. OMNES DE ILLUMINUS si\nIn sacerdotal glories shadow.\nII. O! such a wonder of an journey,\nHad never come to my heart before, O,\nOf God's innocent faith, which explanation\nIs complete from a least to revelation,\nThe light he hath given; what lulls revelation,\nAnd guides perfect knowledge? To be undone,\nTo have the human soul made inadequate,\nWherein we are nothing but imitation,\nThen what must be is all produced innate,\nAs in that minute moment wherein one,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "XIII. OMNES DE ILLUMINUS si",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "domine",
+   "chosen": "si",
+   "candidates": [
+    {
+     "word": "si",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ni",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "te",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ne",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "mit",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "di",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "mi",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "de",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "thi",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "merci",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "In sacerdotal glories shadow.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "shine",
+   "chosen": "shadow",
+   "candidates": [
+    {
+     "word": "shadow",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "broadway",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.255
+    },
+    {
+     "word": "serene",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "recognise",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.245
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.231
+    },
+    {
+     "word": "outshine",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.231
+    },
+    {
+     "word": "skyline",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.231
+    },
+    {
+     "word": "adore",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "beside",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.222
+    },
+    {
+     "word": "sunlight",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.22
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "II. O! such a wonder of an journey,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "si",
+   "qwen_top": "eye",
+   "meant": "eye",
+   "chosen": "journey",
+   "candidates": [
+    {
+     "word": "journey",
+     "p": 0.0017,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "shortly",
+     "p": 0.0016,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "monday",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "fantasy",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "friday",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "every",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "glory",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "reality",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "beauty",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "thursday",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Had never come to my heart before, O,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "shadow",
+   "qwen_top": "nor",
+   "meant": "o",
+   "chosen": "o",
+   "candidates": [
+    {
+     "word": "o",
+     "p": 0.0209,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "oh",
+     "p": 0.0172,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "so",
+     "p": 0.0091,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "no",
+     "p": 0.0087,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "know",
+     "p": 0.0021,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "also",
+     "p": 0.0015,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "lo",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "go",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "though",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "yo",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Of God's innocent faith, which explanation",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "i",
+   "meant": "alone",
+   "chosen": "explanation",
+   "candidates": [
+    {
+     "word": "explanation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "hitherto",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "nobody",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "instinctively",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "although",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "remain",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "again",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "agrees",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "realized",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "recognized",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.251
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Is complete from a least to revelation,",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "one",
+   "chosen": "revelation",
+   "candidates": [
+    {
+     "word": "revelation",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "iteration",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "devastation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "incarnation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "calculation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "desolation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "temptation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "limitation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "postulate",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "essay",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "The light he hath given; what lulls revelation,",
+   "syllables": 12,
+   "target": 11,
+   "partner": "explanation",
+   "qwen_top": "the",
+   "meant": "alone",
+   "chosen": "revelation",
+   "candidates": [
+    {
+     "word": "revelation",
+     "p": 0.0021,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "contemplation",
+     "p": 0.0015,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "someone",
+     "p": 0.004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "anyone",
+     "p": 0.0038,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "everyone",
+     "p": 0.0018,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "awake",
+     "p": 0.0063,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awaken",
+     "p": 0.0056,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "danger",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awakened",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "And guides perfect knowledge? To be undone,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "revelation",
+   "qwen_top": "a",
+   "meant": "be",
+   "chosen": "undone",
+   "candidates": [
+    {
+     "word": "undone",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "someone",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "anyone",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "explained",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "grateful",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "afraid",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awake",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "always",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "educated",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awakened",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "To have the human soul made inadequate,",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "useless",
+   "chosen": "inadequate",
+   "candidates": [
+    {
+     "word": "inadequate",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "desolate",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "untrue",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "hitherto",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "stupidity",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "insane",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "civilized",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "unclean",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "obscene",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "otherwise",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.245
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Wherein we are nothing but imitation,",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "beings",
+   "chosen": "imitation",
+   "candidates": [
+    {
+     "word": "imitation",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "creation",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "habitation",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "relation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "isolation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "mutation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "incarnate",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "animate",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "postulate",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "decay",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Then what must be is all produced innate,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "inadequate",
+   "qwen_top": "by",
+   "meant": "thus",
+   "chosen": "innate",
+   "candidates": [
+    {
+     "word": "innate",
+     "p": 0.0012,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "perhaps",
+     "p": 0.0056,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "exactly",
+     "p": 0.0054,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "latter",
+     "p": 0.0034,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "making",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "imagine",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "plainly",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "rather",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "happening",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "As in that minute moment wherein one,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "imitation",
+   "qwen_top": "we",
+   "meant": "he",
+   "chosen": "one",
+   "candidates": [
+    {
+     "word": "one",
+     "p": 0.0127,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "someone",
+     "p": 0.0014,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "everyone",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "done",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "been",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "son",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "anyone",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "can",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "came",
+     "p": 0.0044,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "day",
+     "p": 0.004,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "AABB",
+ "seed": 10,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "And, as a king mine array,\nI took my armed forces and set away.\nFor the sun came down in the morning he\nHad sent me forth alone, we\nSleeped on in our array\nTo quench this day's young white flame with decay.\nBut now the middle star of all creation,\nThat began its birth at dawn undone,\nHas trampled us. Light is away\nFrom here to heaven; decay\nIs fallen from men's doors towards creation.\nThere, where night's horn has reached out again",
+ "lines": [
+  {
+   "line": 1,
+   "text": "And, as a king mine array,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "own",
+   "meant": "own",
+   "chosen": "array",
+   "candidates": [
+    {
+     "word": "array",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "shadow",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "overthrow",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "again",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "ally",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "adversary",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "upon",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "ambition",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "oppress",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "alone",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.218
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "I took my armed forces and set away.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "array",
+   "qwen_top": "them",
+   "meant": "them",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "against",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awake",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "sailing",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "about",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "fire",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "before",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "upon",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "our",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "For the sun came down in the morning he",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "he",
+   "candidates": [
+    {
+     "word": "he",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "three",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "sea",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "e",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "day",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "gray",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "grey",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "way",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Had sent me forth alone, we",
+   "syllables": 7,
+   "target": 8,
+   "partner": "he",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "we",
+   "candidates": [
+    {
+     "word": "we",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "she",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "me",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "e",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "be",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "three",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "the",
+     "p": 0.0179,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "only",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "weary",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "lonely",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Sleeped on in our array",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "beds",
+   "meant": "beds",
+   "chosen": "array",
+   "candidates": [
+    {
+     "word": "array",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "shadow",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "solitary",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "sanctuary",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "twilight",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "woodland",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.203
+    },
+    {
+     "word": "shadows",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.2
+    },
+    {
+     "word": "glory",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.183
+    },
+    {
+     "word": "desert",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.181
+    },
+    {
+     "word": "narrow",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.178
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "To quench this day's young white flame with decay.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "array",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "decay",
+   "candidates": [
+    {
+     "word": "decay",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "delay",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "naked",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "our",
+     "p": 0.0665,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "fire",
+     "p": 0.0179,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "silver",
+     "p": 0.0115,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "darkness",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "silence",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "winter",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "But now the middle star of all creation,",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "creation",
+   "candidates": [
+    {
+     "word": "creation",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "array",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "nations",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "below",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "between",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "our",
+     "p": 0.0508,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "before",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "afar",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "began",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.228
+    },
+    {
+     "word": "twilight",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.22
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "That began its birth at dawn undone,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "creation",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "undone",
+   "candidates": [
+    {
+     "word": "undone",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "again",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "against",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "away",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "today",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awake",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "proclaim",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "making",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "naked",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Has trampled us. Light is away",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "gone",
+   "meant": "gone",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "decay",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "below",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "between",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "upon",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "afraid",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "our",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "denied",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.222
+    },
+    {
+     "word": "alone",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.218
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "From here to heaven; decay",
+   "syllables": 7,
+   "target": 8,
+   "partner": "away",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "decay",
+   "candidates": [
+    {
+     "word": "decay",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "again",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "against",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awake",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "darkness",
+     "p": 0.0222,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "our",
+     "p": 0.022,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "fire",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "heaven",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "even",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "nothing",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Is fallen from men's doors towards creation.",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "creation",
+   "candidates": [
+    {
+     "word": "creation",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "salvation",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "decay",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "away",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "shadow",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "nations",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "below",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "unseen",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "despair",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.237
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "There, where night's horn has reached out again",
+   "syllables": 9,
+   "target": 10,
+   "partner": "creation",
+   "qwen_top": "its",
+   "meant": "its",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "against",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "array",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "away",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "naked",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awake",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "dismay",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "heaven",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "across",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "our",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  }
+ ]
+}

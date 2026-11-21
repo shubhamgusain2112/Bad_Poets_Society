@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "M",
+ "lam": 0.75,
+ "scheme": "ABCB",
+ "seed": 2,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "(Areion and Peleus together.\nBEAR - a lapin elephant.\nFISHING ASSISTANT sign.\nQUEEN of the QUEENS, or KAIOS; goddess\nOf the land. The Greek mythology\nProclaims that Zeus took command of\nThe people in his behalf and\nHis wrath upon the inhabitants\nWas punished by impending\nVengeance from Iapetus. The\nAncient records record no about\nIapetus except as the brother",
+ "lines": [
+  {
+   "line": 1,
+   "text": "(Areion and Peleus together.",
+   "syllables": 8,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "together",
+   "chosen": "together",
+   "candidates": [
+    {
+     "word": "together",
+     "p": 0.029,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "here",
+     "p": 0.0149,
+     "rhyme": 0,
+     "score": 0.513
+    },
+    {
+     "word": "they",
+     "p": 0.0145,
+     "rhyme": 0,
+     "score": 0.498
+    },
+    {
+     "word": "are",
+     "p": 0.0134,
+     "rhyme": 0,
+     "score": 0.461
+    },
+    {
+     "word": "come",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "were",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.232
+    },
+    {
+     "word": "met",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.219
+    },
+    {
+     "word": "with",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.218
+    },
+    {
+     "word": "today",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "now",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.159
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "BEAR - a lapin elephant.",
+   "syllables": 7,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "or",
+   "meant": "horse",
+   "chosen": "elephant",
+   "candidates": [
+    {
+     "word": "elephant",
+     "p": 0.0221,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "lion",
+     "p": 0.0171,
+     "rhyme": 0,
+     "score": 0.73
+    },
+    {
+     "word": "rhino",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.375
+    },
+    {
+     "word": "shadow",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "gazelle",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "pony",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "runaway",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "eagle",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "rearing",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.268
+    },
+    {
+     "word": "porcupine",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.268
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "FISHING ASSISTANT sign.",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "accompany",
+   "chosen": "sign",
+   "candidates": [
+    {
+     "word": "sign",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "william",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.67
+    },
+    {
+     "word": "written",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.658
+    },
+    {
+     "word": "may",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.602
+    },
+    {
+     "word": "presented",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.527
+    },
+    {
+     "word": "english",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.513
+    },
+    {
+     "word": "will",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.455
+    },
+    {
+     "word": "named",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.422
+    },
+    {
+     "word": "is",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.419
+    },
+    {
+     "word": "be",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.407
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "QUEEN of the QUEENS, or KAIOS; goddess",
+   "syllables": 8,
+   "target": 9,
+   "partner": "elephant",
+   "qwen_top": "the",
+   "meant": "queen",
+   "chosen": "goddess",
+   "candidates": [
+    {
+     "word": "goddess",
+     "p": 0.0304,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "lady",
+     "p": 0.0144,
+     "rhyme": 0,
+     "score": 0.356
+    },
+    {
+     "word": "woman",
+     "p": 0.013,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "empress",
+     "p": 0.007,
+     "rhyme": 0.6,
+     "score": 0.322
+    },
+    {
+     "word": "mother",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "princess",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "emperor",
+     "p": 0.0032,
+     "rhyme": 0.6,
+     "score": 0.229
+    },
+    {
+     "word": "consort",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.213
+    },
+    {
+     "word": "herself",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.207
+    },
+    {
+     "word": "mary",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.207
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Of the land. The Greek mythology",
+   "syllables": 9,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "goddess",
+   "meant": "greek",
+   "chosen": "mythology",
+   "candidates": [
+    {
+     "word": "mythology",
+     "p": 0.0415,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "persian",
+     "p": 0.0277,
+     "rhyme": 0,
+     "score": 0.669
+    },
+    {
+     "word": "goddess",
+     "p": 0.0251,
+     "rhyme": 0,
+     "score": 0.604
+    },
+    {
+     "word": "ancient",
+     "p": 0.0184,
+     "rhyme": 0,
+     "score": 0.445
+    },
+    {
+     "word": "origin",
+     "p": 0.018,
+     "rhyme": 0,
+     "score": 0.435
+    },
+    {
+     "word": "deity",
+     "p": 0.0146,
+     "rhyme": 0,
+     "score": 0.353
+    },
+    {
+     "word": "deities",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.222
+    },
+    {
+     "word": "goddesses",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.216
+    },
+    {
+     "word": "hebrew",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 0.202
+    },
+    {
+     "word": "pagan",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.145
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Proclaims that Zeus took command of",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "of",
+   "candidates": [
+    {
+     "word": "of",
+     "p": 0.0974,
+     "rhyme": 0,
+     "score": 0.86
+    },
+    {
+     "word": "in",
+     "p": 0.0729,
+     "rhyme": 0,
+     "score": 0.779
+    },
+    {
+     "word": "the",
+     "p": 0.084,
+     "rhyme": 0,
+     "score": 0.767
+    },
+    {
+     "word": "and",
+     "p": 0.0345,
+     "rhyme": 0,
+     "score": 0.455
+    },
+    {
+     "word": "on",
+     "p": 0.0205,
+     "rhyme": 0,
+     "score": 0.392
+    },
+    {
+     "word": "where",
+     "p": 0.0193,
+     "rhyme": 0,
+     "score": 0.386
+    },
+    {
+     "word": "as",
+     "p": 0.0244,
+     "rhyme": 0,
+     "score": 0.352
+    },
+    {
+     "word": "same",
+     "p": 0.0216,
+     "rhyme": 0,
+     "score": 0.348
+    },
+    {
+     "word": "near",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "to",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.308
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "The people in his behalf and",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "and",
+   "candidates": [
+    {
+     "word": "and",
+     "p": 0.0758,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "of",
+     "p": 0.0618,
+     "rhyme": 0,
+     "score": 0.814
+    },
+    {
+     "word": "in",
+     "p": 0.0543,
+     "rhyme": 0,
+     "score": 0.716
+    },
+    {
+     "word": "the",
+     "p": 0.0439,
+     "rhyme": 0,
+     "score": 0.579
+    },
+    {
+     "word": "then",
+     "p": 0.0164,
+     "rhyme": 0,
+     "score": 0.216
+    },
+    {
+     "word": "on",
+     "p": 0.0153,
+     "rhyme": 0,
+     "score": 0.202
+    },
+    {
+     "word": "as",
+     "p": 0.0148,
+     "rhyme": 0,
+     "score": 0.196
+    },
+    {
+     "word": "where",
+     "p": 0.0128,
+     "rhyme": 0,
+     "score": 0.169
+    },
+    {
+     "word": "before",
+     "p": 0.0127,
+     "rhyme": 0,
+     "score": 0.167
+    },
+    {
+     "word": "while",
+     "p": 0.0107,
+     "rhyme": 0,
+     "score": 0.141
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "His wrath upon the inhabitants",
+   "syllables": 9,
+   "target": 8,
+   "partner": "of",
+   "qwen_top": "gods",
+   "meant": "gods",
+   "chosen": "inhabitants",
+   "candidates": [
+    {
+     "word": "inhabitants",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "deities",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.662
+    },
+    {
+     "word": "empire",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.426
+    },
+    {
+     "word": "goddesses",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.402
+    },
+    {
+     "word": "descended",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.4
+    },
+    {
+     "word": "spirits",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.371
+    },
+    {
+     "word": "ancient",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.338
+    },
+    {
+     "word": "inhabited",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "romans",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.309
+    },
+    {
+     "word": "natives",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.3
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Was punished by impending",
+   "syllables": 7,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "god",
+   "chosen": "impending",
+   "candidates": [
+    {
+     "word": "impending",
+     "p": 0.0104,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "heaven",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.65
+    },
+    {
+     "word": "heavens",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.577
+    },
+    {
+     "word": "divine",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.545
+    },
+    {
+     "word": "chaos",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.505
+    },
+    {
+     "word": "killing",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.496
+    },
+    {
+     "word": "bringing",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.463
+    },
+    {
+     "word": "covenant",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.435
+    },
+    {
+     "word": "destruction",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.434
+    },
+    {
+     "word": "lightning",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.331
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Vengeance from Iapetus. The",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "the",
+   "candidates": [
+    {
+     "word": "the",
+     "p": 0.107,
+     "rhyme": 0,
+     "score": 0.87
+    },
+    {
+     "word": "he",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.315
+    },
+    {
+     "word": "a",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.309
+    },
+    {
+     "word": "to",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.307
+    },
+    {
+     "word": "this",
+     "p": 0.0179,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "may",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "sea",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "in",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "vi",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "see",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.287
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Ancient records record no about",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "such",
+   "meant": "god",
+   "chosen": "about",
+   "candidates": [
+    {
+     "word": "about",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "another",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.857
+    },
+    {
+     "word": "meaning",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.845
+    },
+    {
+     "word": "only",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.792
+    },
+    {
+     "word": "any",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.751
+    },
+    {
+     "word": "battle",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.747
+    },
+    {
+     "word": "reason",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.617
+    },
+    {
+     "word": "result",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.567
+    },
+    {
+     "word": "people",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.516
+    },
+    {
+     "word": "believe",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.488
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Iapetus except as the brother",
+   "syllables": 9,
+   "target": 10,
+   "partner": "the",
+   "qwen_top": "god",
+   "meant": "named",
+   "chosen": "brother",
+   "candidates": [
+    {
+     "word": "brother",
+     "p": 0.018,
+     "rhyme": 0.6,
+     "score": 0.9
+    },
+    {
+     "word": "deity",
+     "p": 0.0116,
+     "rhyme": 0.9,
+     "score": 0.705
+    },
+    {
+     "word": "another",
+     "p": 0.0081,
+     "rhyme": 0.6,
+     "score": 0.486
+    },
+    {
+     "word": "demon",
+     "p": 0.0077,
+     "rhyme": 0.6,
+     "score": 0.468
+    },
+    {
+     "word": "evil",
+     "p": 0.0055,
+     "rhyme": 0.6,
+     "score": 0.378
+    },
+    {
+     "word": "protector",
+     "p": 0.0091,
+     "rhyme": 0,
+     "score": 0.377
+    },
+    {
+     "word": "fellow",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.338
+    },
+    {
+     "word": "mighty",
+     "p": 0.0024,
+     "rhyme": 0.9,
+     "score": 0.326
+    },
+    {
+     "word": "enemy",
+     "p": 0.0018,
+     "rhyme": 0.9,
+     "score": 0.3
+    },
+    {
+     "word": "father",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.282
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 0.25,
+ "scheme": "AABB",
+ "seed": 0,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "This is my poor heart's life, o'er sixty years,\nThe love I had for thee; it has disappeared\nAs the spring in summer disappears.\nIt was mine to keep the dead spirit,\nNot mine to keep its image; and again\nSays this of me: \"That is thy dream, never,\nAnd thou shalt not see nor hear again\nHow they say 'Oh joy! how glad are many\nWhen man is happy!'\" O yes, again\nThou art gone from me, yet remain\nA strange longing still.  Thou wherefore\nDidst bequeath all these things?  How before",
+ "lines": [
+  {
+   "line": 1,
+   "text": "This is my poor heart's life, o'er sixty years,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "years",
+   "meant": "years",
+   "chosen": "years",
+   "candidates": [
+    {
+     "word": "years",
+     "p": 0.7308,
+     "rhyme": 0,
+     "score": 0.439
+    },
+    {
+     "word": "three",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "he",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "day",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "today",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "ago",
+     "p": 0.0309,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "two",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "thirty",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "few",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.27
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The love I had for thee; it has disappeared",
+   "syllables": 11,
+   "target": 11,
+   "partner": "years",
+   "qwen_top": "been",
+   "meant": "been",
+   "chosen": "disappeared",
+   "candidates": [
+    {
+     "word": "disappeared",
+     "p": 0.0165,
+     "rhyme": 0.6,
+     "score": 0.624
+    },
+    {
+     "word": "until",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.464
+    },
+    {
+     "word": "captivity",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "rebuilt",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "extinguished",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.462
+    },
+    {
+     "word": "nearly",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "risen",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "forgiven",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "withered",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "insisted",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.457
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "As the spring in summer disappears.",
+   "syllables": 9,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "when",
+   "meant": "disappears",
+   "chosen": "disappears",
+   "candidates": [
+    {
+     "word": "disappears",
+     "p": 0.0502,
+     "rhyme": 0,
+     "score": 0.438
+    },
+    {
+     "word": "rain",
+     "p": 0.0156,
+     "rhyme": 0,
+     "score": 0.331
+    },
+    {
+     "word": "vacation",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "away",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "goes",
+     "p": 0.0129,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "sea",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "debris",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "day",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "dies",
+     "p": 0.0126,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "due",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.279
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "It was mine to keep the dead spirit,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "disappears",
+   "qwen_top": "in",
+   "meant": "forever",
+   "chosen": "spirit",
+   "candidates": [
+    {
+     "word": "spirit",
+     "p": 0.006,
+     "rhyme": 0.6,
+     "score": 0.541
+    },
+    {
+     "word": "hidden",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.505
+    },
+    {
+     "word": "leaving",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.496
+    },
+    {
+     "word": "spirits",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.494
+    },
+    {
+     "word": "within",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.484
+    },
+    {
+     "word": "asleep",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.478
+    },
+    {
+     "word": "distance",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.478
+    },
+    {
+     "word": "being",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.477
+    },
+    {
+     "word": "reason",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.476
+    },
+    {
+     "word": "sleeping",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.474
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Not mine to keep its image; and again",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "i",
+   "meant": "so",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0423,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "anyway",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "today",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "nobody",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "away",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "indeed",
+     "p": 0.0109,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "realized",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "probably",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "somebody",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "never",
+     "p": 0.0212,
+     "rhyme": 0,
+     "score": 0.267
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Says this of me: \"That is thy dream, never,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "again",
+   "qwen_top": "o",
+   "meant": "dear",
+   "chosen": "never",
+   "candidates": [
+    {
+     "word": "never",
+     "p": 0.0066,
+     "rhyme": 0.6,
+     "score": 0.555
+    },
+    {
+     "word": "forever",
+     "p": 0.0038,
+     "rhyme": 0.6,
+     "score": 0.51
+    },
+    {
+     "word": "anyway",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.507
+    },
+    {
+     "word": "however",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.494
+    },
+    {
+     "word": "afraid",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.486
+    },
+    {
+     "word": "forget",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.478
+    },
+    {
+     "word": "betrayed",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.475
+    },
+    {
+     "word": "lady",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.475
+    },
+    {
+     "word": "stated",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.474
+    },
+    {
+     "word": "ashamed",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.474
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "And thou shalt not see nor hear again",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "it",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.2555,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "situation",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "today",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "anew",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "somebody",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "nobody",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "into",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "probably",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "although",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "anyway",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.256
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "How they say 'Oh joy! how glad are many",
+   "syllables": 10,
+   "target": 11,
+   "partner": "again",
+   "qwen_top": "they",
+   "meant": "they",
+   "chosen": "many",
+   "candidates": [
+    {
+     "word": "many",
+     "p": 0.0046,
+     "rhyme": 0.6,
+     "score": 0.699
+    },
+    {
+     "word": "themselves",
+     "p": 0.004,
+     "rhyme": 0.6,
+     "score": 0.668
+    },
+    {
+     "word": "always",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.57
+    },
+    {
+     "word": "forget",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.543
+    },
+    {
+     "word": "together",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.538
+    },
+    {
+     "word": "remember",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.532
+    },
+    {
+     "word": "never",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.514
+    },
+    {
+     "word": "everywhere",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.507
+    },
+    {
+     "word": "very",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.505
+    },
+    {
+     "word": "ourselves",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.496
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "When man is happy!'\" O yes, again",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "i",
+   "meant": "indeed",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0285,
+     "rhyme": 0,
+     "score": 0.492
+    },
+    {
+     "word": "indeed",
+     "p": 0.0299,
+     "rhyme": 0,
+     "score": 0.464
+    },
+    {
+     "word": "anyway",
+     "p": 0.011,
+     "rhyme": 0,
+     "score": 0.347
+    },
+    {
+     "word": "alas",
+     "p": 0.0174,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "realized",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.311
+    },
+    {
+     "word": "likewise",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "nobody",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "today",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "probably",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.274
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Thou art gone from me, yet remain",
+   "syllables": 8,
+   "target": 9,
+   "partner": "again",
+   "qwen_top": "i",
+   "meant": "forever",
+   "chosen": "remain",
+   "candidates": [
+    {
+     "word": "remain",
+     "p": 0.005,
+     "rhyme": 1.0,
+     "score": 0.783
+    },
+    {
+     "word": "forever",
+     "p": 0.0378,
+     "rhyme": 0.6,
+     "score": 0.7
+    },
+    {
+     "word": "never",
+     "p": 0.0117,
+     "rhyme": 0.6,
+     "score": 0.527
+    },
+    {
+     "word": "ever",
+     "p": 0.0092,
+     "rhyme": 0.6,
+     "score": 0.511
+    },
+    {
+     "word": "remains",
+     "p": 0.006,
+     "rhyme": 0.6,
+     "score": 0.49
+    },
+    {
+     "word": "nowhere",
+     "p": 0.0053,
+     "rhyme": 0.6,
+     "score": 0.485
+    },
+    {
+     "word": "always",
+     "p": 0.0045,
+     "rhyme": 0.6,
+     "score": 0.48
+    },
+    {
+     "word": "grateful",
+     "p": 0.0037,
+     "rhyme": 0.6,
+     "score": 0.474
+    },
+    {
+     "word": "everywhere",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.469
+    },
+    {
+     "word": "anyway",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.468
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "A strange longing still.  Thou wherefore",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "art",
+   "meant": "art",
+   "chosen": "wherefore",
+   "candidates": [
+    {
+     "word": "wherefore",
+     "p": 0.0179,
+     "rhyme": 0,
+     "score": 0.451
+    },
+    {
+     "word": "illustration",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "inspiration",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "essay",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "imitated",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "probably",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "studio",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "nobody",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "realized",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "ago",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.273
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Didst bequeath all these things?  How before",
+   "syllables": 9,
+   "target": 10,
+   "partner": "wherefore",
+   "qwen_top": "can",
+   "meant": "long",
+   "chosen": "before",
+   "candidates": [
+    {
+     "word": "before",
+     "p": 0.0012,
+     "rhyme": 0.9,
+     "score": 0.716
+    },
+    {
+     "word": "always",
+     "p": 0.0053,
+     "rhyme": 0.6,
+     "score": 0.627
+    },
+    {
+     "word": "because",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.506
+    },
+    {
+     "word": "wanted",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.5
+    },
+    {
+     "word": "along",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.494
+    },
+    {
+     "word": "also",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.491
+    },
+    {
+     "word": "longer",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.481
+    },
+    {
+     "word": "often",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.48
+    },
+    {
+     "word": "daughter",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.469
+    },
+    {
+     "word": "morning",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.468
+    }
+   ]
+  }
+ ]
+}

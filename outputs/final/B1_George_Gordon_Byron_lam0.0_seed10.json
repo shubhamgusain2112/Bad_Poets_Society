@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "ABAB",
+ "seed": 10,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Though, in a little walk by Sunday,\nThe maiden's moonlight mirrored her shadow;\nYet she hath not been to the halls away,\nFor 'tis no place for Dian below.\nAnd thus, while thou friendst with me agree,\nThou sayest that I am cool and cumbering me;\nThou art bounteous to my few sicknesse me,\nAnd thou hast nourished my suffering thee.\nBut how can pity be e'er appropriate\nTo me who ne're fail'd but once away?\nFor if they must stay, where are the places?\nNay, all happy what were their pleasure they!",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Though, in a little walk by Sunday,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "sunday",
+   "candidates": [
+    {
+     "word": "sunday",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "sunrise",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.245
+    },
+    {
+     "word": "canterbury",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "our",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "waterloo",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.226
+    },
+    {
+     "word": "midnight",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "twilight",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "mary",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "fairy",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "diana",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.208
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The maiden's moonlight mirrored her shadow;",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "face",
+   "meant": "face",
+   "chosen": "shadow",
+   "candidates": [
+    {
+     "word": "shadow",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "fire",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "glory",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.183
+    },
+    {
+     "word": "flower",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "hour",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.161
+    },
+    {
+     "word": "pillow",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.145
+    },
+    {
+     "word": "faces",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.142
+    },
+    {
+     "word": "roses",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.142
+    },
+    {
+     "word": "flowers",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.139
+    },
+    {
+     "word": "pretty",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.128
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Yet she hath not been to the halls away,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "sunday",
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0035,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "any",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "decay",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "solitary",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "array",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "many",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "beneath",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "unseen",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "between",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "For 'tis no place for Dian below.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "shadow",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "below",
+   "candidates": [
+    {
+     "word": "below",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "apollo",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "alone",
+     "p": 0.0034,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "sophia",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "holding",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "only",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "herself",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "any",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "after",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "upon",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "And thus, while thou friendst with me agree,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "agree",
+   "candidates": [
+    {
+     "word": "agree",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "array",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "away",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "today",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "anew",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "disdain",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "again",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "farewell",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "unseen",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.248
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Thou sayest that I am cool and cumbering me;",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "me",
+   "meant": "me",
+   "chosen": "me",
+   "candidates": [
+    {
+     "word": "me",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "thee",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ye",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "te",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ne",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "fee",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "de",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "free",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Thou art bounteous to my few sicknesse me,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "agree",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "me",
+   "candidates": [
+    {
+     "word": "me",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "be",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "free",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "we",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "de",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "ye",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "fee",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "he",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "re",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "e",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "And thou hast nourished my suffering thee.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "me",
+   "qwen_top": "me",
+   "meant": "me",
+   "chosen": "thee",
+   "candidates": [
+    {
+     "word": "thee",
+     "p": 0.0201,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "e",
+     "p": 0.006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "mee",
+     "p": 0.004,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "be",
+     "p": 0.0021,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "de",
+     "p": 0.0017,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "fee",
+     "p": 0.0017,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "we",
+     "p": 0.0017,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "bee",
+     "p": 0.0015,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "she",
+     "p": 0.0015,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "he",
+     "p": 0.0014,
+     "rhyme": 1.0,
+     "score": 1.0
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "But how can pity be e'er appropriate",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "appropriate",
+   "candidates": [
+    {
+     "word": "appropriate",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "agree",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "obey",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "convey",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "repay",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "renew",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "attain",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "obtain",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "again",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "supply",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.248
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "To me who ne're fail'd but once away?",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "into",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "ago",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "although",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "again",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "between",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "despair",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "upon",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.233
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "For if they must stay, where are the places?",
+   "syllables": 10,
+   "target": 11,
+   "partner": "appropriate",
+   "qwen_top": "rest",
+   "meant": "rest",
+   "chosen": "places",
+   "candidates": [
+    {
+     "word": "places",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "ladies",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "angels",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "roses",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "poets",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "strangers",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remains",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "neighbours",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "tokens",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "soldiers",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Nay, all happy what were their pleasure they!",
+   "syllables": 10,
+   "target": 11,
+   "partner": "away",
+   "qwen_top": "there",
+   "meant": "there",
+   "chosen": "they",
+   "candidates": [
+    {
+     "word": "they",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "may",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "a",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "fe",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "ne",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "lay",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "day",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "say",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "se",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "de",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    }
+   ]
+  }
+ ]
+}

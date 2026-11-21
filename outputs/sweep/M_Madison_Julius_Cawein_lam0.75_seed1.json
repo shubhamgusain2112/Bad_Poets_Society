@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "M",
+ "lam": 0.75,
+ "scheme": "ABCB",
+ "seed": 1,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "The current world with wonder\nBasks in the reflected light.\nWe have its hues and colors, so\nTo see each thing unseen\nShines on a lustrous gilded mirror,\nAnd those who never saw it seeing.\nWe behold the golden suns above\nWhich throned in the blue atmosphere, and\nWent out of sight at midnight\n(For the pure heaven glows\nFrom time to eternity), again\nAnd rose from darkness again",
+ "lines": [
+  {
+   "line": 1,
+   "text": "The current world with wonder",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "its",
+   "meant": "me",
+   "chosen": "wonder",
+   "candidates": [
+    {
+     "word": "wonder",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "sadness",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.991
+    },
+    {
+     "word": "silence",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.98
+    },
+    {
+     "word": "laughter",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.774
+    },
+    {
+     "word": "echoes",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.691
+    },
+    {
+     "word": "beauty",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.594
+    },
+    {
+     "word": "emotion",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.57
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.56
+    },
+    {
+     "word": "singing",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.528
+    },
+    {
+     "word": "melody",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.51
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Basks in the reflected light.",
+   "syllables": 7,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "light",
+   "meant": "light",
+   "chosen": "light",
+   "candidates": [
+    {
+     "word": "light",
+     "p": 0.2513,
+     "rhyme": 0,
+     "score": 0.962
+    },
+    {
+     "word": "blue",
+     "p": 0.0306,
+     "rhyme": 0,
+     "score": 0.362
+    },
+    {
+     "word": "sky",
+     "p": 0.0361,
+     "rhyme": 0,
+     "score": 0.357
+    },
+    {
+     "word": "glow",
+     "p": 0.0275,
+     "rhyme": 0,
+     "score": 0.344
+    },
+    {
+     "word": "star",
+     "p": 0.0365,
+     "rhyme": 0,
+     "score": 0.338
+    },
+    {
+     "word": "ray",
+     "p": 0.0168,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "sun",
+     "p": 0.0425,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "shine",
+     "p": 0.03,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "sea",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "debris",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.282
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "We have its hues and colors, so",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "too",
+   "meant": "so",
+   "chosen": "so",
+   "candidates": [
+    {
+     "word": "so",
+     "p": 0.0266,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "and",
+     "p": 0.0259,
+     "rhyme": 0,
+     "score": 0.973
+    },
+    {
+     "word": "too",
+     "p": 0.019,
+     "rhyme": 0,
+     "score": 0.714
+    },
+    {
+     "word": "all",
+     "p": 0.0165,
+     "rhyme": 0,
+     "score": 0.621
+    },
+    {
+     "word": "see",
+     "p": 0.0159,
+     "rhyme": 0,
+     "score": 0.598
+    },
+    {
+     "word": "these",
+     "p": 0.0127,
+     "rhyme": 0,
+     "score": 0.475
+    },
+    {
+     "word": "look",
+     "p": 0.0124,
+     "rhyme": 0,
+     "score": 0.464
+    },
+    {
+     "word": "are",
+     "p": 0.0096,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "those",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 0.315
+    },
+    {
+     "word": "come",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.285
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "To see each thing unseen",
+   "syllables": 6,
+   "target": 7,
+   "partner": "light",
+   "qwen_top": "is",
+   "meant": "unseen",
+   "chosen": "unseen",
+   "candidates": [
+    {
+     "word": "unseen",
+     "p": 0.0116,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "alone",
+     "p": 0.0106,
+     "rhyme": 0,
+     "score": 0.682
+    },
+    {
+     "word": "appears",
+     "p": 0.0095,
+     "rhyme": 0,
+     "score": 0.617
+    },
+    {
+     "word": "indeed",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.414
+    },
+    {
+     "word": "precisely",
+     "p": 0.0037,
+     "rhyme": 0.6,
+     "score": 0.387
+    },
+    {
+     "word": "unfolding",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "reconciled",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.33
+    },
+    {
+     "word": "arise",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.307
+    },
+    {
+     "word": "happening",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "unite",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.27
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Shines on a lustrous gilded mirror,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "screen",
+   "meant": "wall",
+   "chosen": "mirror",
+   "candidates": [
+    {
+     "word": "mirror",
+     "p": 0.0318,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "surface",
+     "p": 0.018,
+     "rhyme": 0,
+     "score": 0.566
+    },
+    {
+     "word": "outer",
+     "p": 0.0122,
+     "rhyme": 0,
+     "score": 0.384
+    },
+    {
+     "word": "crystal",
+     "p": 0.0116,
+     "rhyme": 0,
+     "score": 0.366
+    },
+    {
+     "word": "window",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "bottom",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "ceiling",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.2
+    },
+    {
+     "word": "layer",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.114
+    },
+    {
+     "word": "cover",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.112
+    },
+    {
+     "word": "circular",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.098
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "And those who never saw it seeing.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "see",
+   "meant": "see",
+   "chosen": "seeing",
+   "candidates": [
+    {
+     "word": "seeing",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.874
+    },
+    {
+     "word": "everywhere",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.77
+    },
+    {
+     "word": "appear",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.647
+    },
+    {
+     "word": "believe",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.598
+    },
+    {
+     "word": "happen",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.593
+    },
+    {
+     "word": "able",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.59
+    },
+    {
+     "word": "expect",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.583
+    },
+    {
+     "word": "indeed",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.546
+    },
+    {
+     "word": "cannot",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.542
+    },
+    {
+     "word": "never",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.507
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "We behold the golden suns above",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "shine",
+   "chosen": "above",
+   "candidates": [
+    {
+     "word": "above",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "again",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.857
+    },
+    {
+     "word": "shadows",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.835
+    },
+    {
+     "word": "appear",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.755
+    },
+    {
+     "word": "blazing",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.707
+    },
+    {
+     "word": "shining",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.479
+    },
+    {
+     "word": "occur",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.443
+    },
+    {
+     "word": "rising",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.387
+    },
+    {
+     "word": "alight",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.339
+    },
+    {
+     "word": "around",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.304
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Which throned in the blue atmosphere, and",
+   "syllables": 10,
+   "target": 10,
+   "partner": "seeing",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "and",
+   "candidates": [
+    {
+     "word": "and",
+     "p": 0.0443,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "see",
+     "p": 0.0204,
+     "rhyme": 0.6,
+     "score": 0.494
+    },
+    {
+     "word": "sky",
+     "p": 0.0261,
+     "rhyme": 0,
+     "score": 0.441
+    },
+    {
+     "word": "so",
+     "p": 0.0239,
+     "rhyme": 0,
+     "score": 0.404
+    },
+    {
+     "word": "being",
+     "p": 0.0012,
+     "rhyme": 1.0,
+     "score": 0.271
+    },
+    {
+     "word": "high",
+     "p": 0.0142,
+     "rhyme": 0,
+     "score": 0.24
+    },
+    {
+     "word": "we",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.201
+    },
+    {
+     "word": "be",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.194
+    },
+    {
+     "word": "where",
+     "p": 0.0114,
+     "rhyme": 0,
+     "score": 0.193
+    },
+    {
+     "word": "seen",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.193
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Went out of sight at midnight",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "noon",
+   "meant": "night",
+   "chosen": "midnight",
+   "candidates": [
+    {
+     "word": "midnight",
+     "p": 0.077,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "evening",
+     "p": 0.0225,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "sunset",
+     "p": 0.0221,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "morning",
+     "p": 0.0183,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "hour",
+     "p": 0.0154,
+     "rhyme": 0,
+     "score": 0.199
+    },
+    {
+     "word": "sunday",
+     "p": 0.0153,
+     "rhyme": 0,
+     "score": 0.198
+    },
+    {
+     "word": "hours",
+     "p": 0.0144,
+     "rhyme": 0,
+     "score": 0.187
+    },
+    {
+     "word": "saturday",
+     "p": 0.0108,
+     "rhyme": 0,
+     "score": 0.14
+    },
+    {
+     "word": "sunrise",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.094
+    },
+    {
+     "word": "during",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.091
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "(For the pure heaven glows",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "is",
+   "meant": "glows",
+   "chosen": "glows",
+   "candidates": [
+    {
+     "word": "glows",
+     "p": 0.0119,
+     "rhyme": 0,
+     "score": 0.97
+    },
+    {
+     "word": "still",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.718
+    },
+    {
+     "word": "unaware",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.629
+    },
+    {
+     "word": "nobody",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.558
+    },
+    {
+     "word": "clear",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.443
+    },
+    {
+     "word": "denies",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.402
+    },
+    {
+     "word": "overhead",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.4
+    },
+    {
+     "word": "adores",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.398
+    },
+    {
+     "word": "glowed",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.39
+    },
+    {
+     "word": "he",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.389
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "From time to eternity), again",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "then",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0142,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "everywhere",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.571
+    },
+    {
+     "word": "alone",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.525
+    },
+    {
+     "word": "present",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.258
+    },
+    {
+     "word": "being",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.252
+    },
+    {
+     "word": "suddenly",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "together",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.214
+    },
+    {
+     "word": "before",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.202
+    },
+    {
+     "word": "finally",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.201
+    },
+    {
+     "word": "overhead",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.191
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "And rose from darkness again",
+   "syllables": 7,
+   "target": 7,
+   "partner": "glows",
+   "qwen_top": "to",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.623,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "arose",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 0.25
+    },
+    {
+     "word": "shadows",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.226
+    },
+    {
+     "word": "boldly",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.152
+    },
+    {
+     "word": "slowly",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.151
+    },
+    {
+     "word": "so",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.151
+    },
+    {
+     "word": "behold",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.151
+    },
+    {
+     "word": "moment",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.151
+    },
+    {
+     "word": "going",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.151
+    },
+    {
+     "word": "october",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.151
+    }
+   ]
+  }
+ ]
+}

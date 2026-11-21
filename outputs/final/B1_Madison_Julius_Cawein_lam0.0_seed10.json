@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "ABCB",
+ "seed": 10,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "The wind is born again.\nA carpet of white snows, like shadow\nOn earth and sky the fragrant flowers\nOf May are new-born o\nTheir sweet old flesh turned into\nA velvet emerald all one array,\nAnd little boyish young trees begin\nTo move about the same again.\nTall green pine trees through many\nSilent distances we\nDance in like seasons of flowers. The\nStars in their spinning wheels suddenly",
+ "lines": [
+  {
+   "line": 1,
+   "text": "The wind is born again.",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0255,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "anew",
+     "p": 0.0198,
+     "rhyme": 0,
+     "score": 0.777
+    },
+    {
+     "word": "upon",
+     "p": 0.0136,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "within",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "among",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "without",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "beneath",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "amid",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "above",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "before",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.039
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "A carpet of white snows, like shadow",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "a",
+   "chosen": "shadow",
+   "candidates": [
+    {
+     "word": "shadow",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.231
+    },
+    {
+     "word": "our",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "sunlight",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "twilight",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "midnight",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "fairy",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "shadows",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.2
+    },
+    {
+     "word": "fire",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "perfume",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.175
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "On earth and sky the fragrant flowers",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "wind",
+   "meant": "wind",
+   "chosen": "flowers",
+   "candidates": [
+    {
+     "word": "flowers",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "winter",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.732
+    },
+    {
+     "word": "music",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.61
+    },
+    {
+     "word": "morning",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.506
+    },
+    {
+     "word": "forest",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.422
+    },
+    {
+     "word": "mountain",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.369
+    },
+    {
+     "word": "flower",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "city",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.201
+    },
+    {
+     "word": "season",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.186
+    },
+    {
+     "word": "perfume",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.184
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Of May are new-born o",
+   "syllables": 6,
+   "target": 7,
+   "partner": "shadow",
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "o",
+   "candidates": [
+    {
+     "word": "o",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "snow",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "so",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "no",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "fro",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "below",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "though",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "also",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "lo",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "yellow",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Their sweet old flesh turned into",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "into",
+   "candidates": [
+    {
+     "word": "into",
+     "p": 0.0265,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "golden",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "away",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "again",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "yellow",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "flower",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "purple",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.099
+    },
+    {
+     "word": "unto",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "anew",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.077
+    },
+    {
+     "word": "crimson",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.056
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "A velvet emerald all one array,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "hue",
+   "meant": "hue",
+   "chosen": "array",
+   "candidates": [
+    {
+     "word": "array",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "again",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "fire",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "minute",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.193
+    },
+    {
+     "word": "glory",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.183
+    },
+    {
+     "word": "yellow",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.167
+    },
+    {
+     "word": "jewel",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.167
+    },
+    {
+     "word": "flower",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "hour",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.161
+    },
+    {
+     "word": "layer",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.161
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "And little boyish young trees begin",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "are",
+   "meant": "are",
+   "chosen": "begin",
+   "candidates": [
+    {
+     "word": "begin",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "above",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.883
+    },
+    {
+     "word": "appear",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.779
+    },
+    {
+     "word": "blossom",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.57
+    },
+    {
+     "word": "around",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "gather",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "arise",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.444
+    },
+    {
+     "word": "upon",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.346
+    },
+    {
+     "word": "whisper",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.346
+    },
+    {
+     "word": "array",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.346
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "To move about the same again.",
+   "syllables": 8,
+   "target": 9,
+   "partner": "array",
+   "qwen_top": "with",
+   "meant": "with",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "places",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "naked",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "graceful",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "landscape",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "table",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "ancient",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "sacred",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "amazed",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "shady",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Tall green pine trees through many",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "many",
+   "candidates": [
+    {
+     "word": "many",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "every",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.779
+    },
+    {
+     "word": "winter",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.738
+    },
+    {
+     "word": "open",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "summer",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.513
+    },
+    {
+     "word": "forest",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.504
+    },
+    {
+     "word": "yellow",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.473
+    },
+    {
+     "word": "golden",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.419
+    },
+    {
+     "word": "hollow",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "snowy",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.305
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Silent distances we",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "we",
+   "candidates": [
+    {
+     "word": "we",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "see",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "re",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "tree",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "they",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "sway",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "lay",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "may",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Dance in like seasons of flowers. The",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "the",
+   "candidates": [
+    {
+     "word": "the",
+     "p": 0.0373,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "and",
+     "p": 0.0203,
+     "rhyme": 0,
+     "score": 0.543
+    },
+    {
+     "word": "they",
+     "p": 0.0176,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "we",
+     "p": 0.0107,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "in",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.175
+    },
+    {
+     "word": "o",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "there",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "a",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.154
+    },
+    {
+     "word": "now",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "then",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.153
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Stars in their spinning wheels suddenly",
+   "syllables": 9,
+   "target": 9,
+   "partner": "we",
+   "qwen_top": "are",
+   "meant": "are",
+   "chosen": "suddenly",
+   "candidates": [
+    {
+     "word": "suddenly",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "softly",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "slowly",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "emerge",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "beneath",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "repeat",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "proceed",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "retreat",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "reveal",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "disappear",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  }
+ ]
+}

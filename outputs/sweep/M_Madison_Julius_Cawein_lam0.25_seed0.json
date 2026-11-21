@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "M",
+ "lam": 0.25,
+ "scheme": "ABCB",
+ "seed": 0,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "How the falling leaves fall on above,\nThe life that hath passed away away;\nThe woman who alone\nLay sheltered in her maidenhood's day,\nIn the lone, lonely world of beauty;\nBut now that time has ceased to endure,\nShe lay by herself at Sunday.\nThe winds blew softly and softly pushed\nThe leafy curlews from away,\nTill their feathers drifted away,\nAnd a soft, tender melancholy\nBore them into the woodlands.  Today",
+ "lines": [
+  {
+   "line": 1,
+   "text": "How the falling leaves fall on above,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "me",
+   "chosen": "above",
+   "candidates": [
+    {
+     "word": "above",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "fire",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.498
+    },
+    {
+     "word": "heaven",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.467
+    },
+    {
+     "word": "again",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "burning",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.201
+    },
+    {
+     "word": "because",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.193
+    },
+    {
+     "word": "others",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.191
+    },
+    {
+     "word": "darkness",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.187
+    },
+    {
+     "word": "along",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.178
+    },
+    {
+     "word": "heavens",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.158
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The life that hath passed away away;",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "is",
+   "meant": "away",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0621,
+     "rhyme": 0,
+     "score": 0.525
+    },
+    {
+     "word": "before",
+     "p": 0.0432,
+     "rhyme": 0,
+     "score": 0.403
+    },
+    {
+     "word": "again",
+     "p": 0.0133,
+     "rhyme": 0,
+     "score": 0.307
+    },
+    {
+     "word": "today",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "into",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "probably",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "ago",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "although",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "below",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.264
+    },
+    {
+     "word": "anyway",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.261
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "The woman who alone",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "hath",
+   "meant": "died",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0164,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "remembers",
+     "p": 0.0109,
+     "rhyme": 0,
+     "score": 0.664
+    },
+    {
+     "word": "dying",
+     "p": 0.0109,
+     "rhyme": 0,
+     "score": 0.663
+    },
+    {
+     "word": "disappeared",
+     "p": 0.0097,
+     "rhyme": 0,
+     "score": 0.592
+    },
+    {
+     "word": "widow",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.437
+    },
+    {
+     "word": "survived",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.392
+    },
+    {
+     "word": "buried",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.299
+    },
+    {
+     "word": "mother",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "vanished",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "sadly",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.241
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Lay sheltered in her maidenhood's day,",
+   "syllables": 9,
+   "target": 9,
+   "partner": "away",
+   "qwen_top": "shade",
+   "meant": "burial",
+   "chosen": "day",
+   "candidates": [
+    {
+     "word": "day",
+     "p": 0.0109,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "lay",
+     "p": 0.0033,
+     "rhyme": 1.0,
+     "score": 0.825
+    },
+    {
+     "word": "gray",
+     "p": 0.0028,
+     "rhyme": 1.0,
+     "score": 0.815
+    },
+    {
+     "word": "pray",
+     "p": 0.0022,
+     "rhyme": 1.0,
+     "score": 0.801
+    },
+    {
+     "word": "may",
+     "p": 0.0013,
+     "rhyme": 1.0,
+     "score": 0.78
+    },
+    {
+     "word": "stay",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 0.772
+    },
+    {
+     "word": "clay",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 0.768
+    },
+    {
+     "word": "a",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 0.762
+    },
+    {
+     "word": "sunday",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.694
+    },
+    {
+     "word": "friday",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.691
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "In the lone, lonely world of beauty;",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "her",
+   "meant": "life",
+   "chosen": "beauty",
+   "candidates": [
+    {
+     "word": "beauty",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "darkness",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.899
+    },
+    {
+     "word": "autumn",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.873
+    },
+    {
+     "word": "dying",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.719
+    },
+    {
+     "word": "childhood",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.698
+    },
+    {
+     "word": "mother",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.573
+    },
+    {
+     "word": "memories",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.567
+    },
+    {
+     "word": "eternal",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.565
+    },
+    {
+     "word": "flowers",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.556
+    },
+    {
+     "word": "sadness",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.489
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "But now that time has ceased to endure,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "be",
+   "meant": "will",
+   "chosen": "endure",
+   "candidates": [
+    {
+     "word": "endure",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.437
+    },
+    {
+     "word": "cannot",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.432
+    },
+    {
+     "word": "occur",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.361
+    },
+    {
+     "word": "delay",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "hesitate",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "expected",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.317
+    },
+    {
+     "word": "circulate",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.313
+    },
+    {
+     "word": "probably",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.309
+    },
+    {
+     "word": "expect",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "abdicate",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.301
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "She lay by herself at Sunday.",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "her",
+   "meant": "night",
+   "chosen": "sunday",
+   "candidates": [
+    {
+     "word": "sunday",
+     "p": 0.0143,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "saturday",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 0.588
+    },
+    {
+     "word": "evening",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.469
+    },
+    {
+     "word": "christmas",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.454
+    },
+    {
+     "word": "sleeping",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.37
+    },
+    {
+     "word": "alone",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "serenity",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "ago",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "midnight",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "after",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.212
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "The winds blew softly and softly pushed",
+   "syllables": 9,
+   "target": 10,
+   "partner": "endure",
+   "qwen_top": "by",
+   "meant": "by",
+   "chosen": "pushed",
+   "candidates": [
+    {
+     "word": "pushed",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "by",
+     "p": 0.2302,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "are",
+     "p": 0.0046,
+     "rhyme": 0.3,
+     "score": 0.23
+    },
+    {
+     "word": "near",
+     "p": 0.0029,
+     "rhyme": 0.3,
+     "score": 0.228
+    },
+    {
+     "word": "there",
+     "p": 0.0014,
+     "rhyme": 0.3,
+     "score": 0.227
+    },
+    {
+     "word": "before",
+     "p": 0.0014,
+     "rhyme": 0.3,
+     "score": 0.227
+    },
+    {
+     "word": "here",
+     "p": 0.0013,
+     "rhyme": 0.3,
+     "score": 0.226
+    },
+    {
+     "word": "air",
+     "p": 0.0012,
+     "rhyme": 0.3,
+     "score": 0.226
+    },
+    {
+     "word": "year",
+     "p": 0.0012,
+     "rhyme": 0.3,
+     "score": 0.226
+    },
+    {
+     "word": "where",
+     "p": 0.0009,
+     "rhyme": 0.3,
+     "score": 0.226
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "The leafy curlews from away,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "away",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.046,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "above",
+     "p": 0.0253,
+     "rhyme": 0,
+     "score": 0.551
+    },
+    {
+     "word": "around",
+     "p": 0.0104,
+     "rhyme": 0,
+     "score": 0.227
+    },
+    {
+     "word": "along",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.199
+    },
+    {
+     "word": "overhead",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.102
+    },
+    {
+     "word": "over",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.101
+    },
+    {
+     "word": "coming",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.074
+    },
+    {
+     "word": "flying",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.073
+    },
+    {
+     "word": "behind",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.071
+    },
+    {
+     "word": "apart",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.057
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Till their feathers drifted away,",
+   "syllables": 8,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "down",
+   "meant": "away",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.2959,
+     "rhyme": 0,
+     "score": 0.525
+    },
+    {
+     "word": "debris",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "be",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "sea",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "astray",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "way",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "they",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "few",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "flew",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "too",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.272
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "And a soft, tender melancholy",
+   "syllables": 9,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "sound",
+   "meant": "voice",
+   "chosen": "melancholy",
+   "candidates": [
+    {
+     "word": "melancholy",
+     "p": 0.0179,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "melody",
+     "p": 0.0157,
+     "rhyme": 0,
+     "score": 0.878
+    },
+    {
+     "word": "silence",
+     "p": 0.0137,
+     "rhyme": 0,
+     "score": 0.764
+    },
+    {
+     "word": "haunting",
+     "p": 0.0116,
+     "rhyme": 0,
+     "score": 0.646
+    },
+    {
+     "word": "ethereal",
+     "p": 0.0111,
+     "rhyme": 0,
+     "score": 0.618
+    },
+    {
+     "word": "mournful",
+     "p": 0.0103,
+     "rhyme": 0,
+     "score": 0.576
+    },
+    {
+     "word": "eerie",
+     "p": 0.0096,
+     "rhyme": 0,
+     "score": 0.536
+    },
+    {
+     "word": "stillness",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.453
+    },
+    {
+     "word": "voices",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.366
+    },
+    {
+     "word": "soothing",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.353
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Bore them into the woodlands.  Today",
+   "syllables": 9,
+   "target": 9,
+   "partner": "away",
+   "qwen_top": "and",
+   "meant": "told",
+   "chosen": "today",
+   "candidates": [
+    {
+     "word": "today",
+     "p": 0.0025,
+     "rhyme": 1.0,
+     "score": 0.853
+    },
+    {
+     "word": "say",
+     "p": 0.0014,
+     "rhyme": 1.0,
+     "score": 0.809
+    },
+    {
+     "word": "play",
+     "p": 0.0013,
+     "rhyme": 1.0,
+     "score": 0.806
+    },
+    {
+     "word": "hey",
+     "p": 0.0012,
+     "rhyme": 1.0,
+     "score": 0.8
+    },
+    {
+     "word": "ca",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 0.792
+    },
+    {
+     "word": "they",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 0.79
+    },
+    {
+     "word": "gray",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 0.786
+    },
+    {
+     "word": "pray",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 0.777
+    },
+    {
+     "word": "may",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 0.773
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0016,
+     "rhyme": 0.9,
+     "score": 0.741
+    }
+   ]
+  }
+ ]
+}

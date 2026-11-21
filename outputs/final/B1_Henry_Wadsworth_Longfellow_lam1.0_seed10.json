@@ -1,0 +1,1452 @@
+{
+ "poet": "Henry Wadsworth Longfellow",
+ "system": "B1",
+ "lam": 1.0,
+ "scheme": "none",
+ "seed": 10,
+ "model": "lora",
+ "stop": "20 lines",
+ "poem": "And I will yet more nectar prepare,\nTo mingle with the waters;\nBut at this time, to my sorrow,\nI shall not be allowed any;\nYet still my darling brood shall follow,\nWhile in her harem's palace\nI leave her naked body,\nAnd their captive bird to devour.\nXIII - THE SPOUSE OF QUEEN MARIA.  The\nQueen: \"My God! how will you answer\nThe urgent desires of Heaven!\nAnd for these woes and troubles,\nWhat is the way to escape?\n\"Here once again I thought upon it,\nSince even now you know nothing.\n\"I had better flee before you,\nAnd promise not aught before;\nIf you then allow any\nThat are useful or hateful alike,\nOr one thing that may please yourself,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "And I will yet more nectar prepare,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "prepare",
+   "candidates": [
+    {
+     "word": "prepare",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "gather",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.606
+    },
+    {
+     "word": "obtain",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "offer",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "produce",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "impart",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "supply",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "extract",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "afford",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "divine",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.287
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "To mingle with the waters;",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "wine",
+   "meant": "wine",
+   "chosen": "waters",
+   "candidates": [
+    {
+     "word": "waters",
+     "p": 0.0116,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "honey",
+     "p": 0.0108,
+     "rhyme": 0,
+     "score": 0.931
+    },
+    {
+     "word": "perfume",
+     "p": 0.0101,
+     "rhyme": 0,
+     "score": 0.873
+    },
+    {
+     "word": "flowers",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.604
+    },
+    {
+     "word": "golden",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.584
+    },
+    {
+     "word": "sacred",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.451
+    },
+    {
+     "word": "other",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.367
+    },
+    {
+     "word": "morning",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.345
+    },
+    {
+     "word": "spirit",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "water",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.304
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "But at this time, to my sorrow,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "sorrow",
+   "meant": "sorrow",
+   "chosen": "sorrow",
+   "candidates": [
+    {
+     "word": "sorrow",
+     "p": 0.0635,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "delight",
+     "p": 0.0171,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "father",
+     "p": 0.0132,
+     "rhyme": 0,
+     "score": 0.208
+    },
+    {
+     "word": "mother",
+     "p": 0.0128,
+     "rhyme": 0,
+     "score": 0.201
+    },
+    {
+     "word": "master",
+     "p": 0.0125,
+     "rhyme": 0,
+     "score": 0.198
+    },
+    {
+     "word": "surprise",
+     "p": 0.0125,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "knowledge",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.136
+    },
+    {
+     "word": "desire",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.1
+    },
+    {
+     "word": "understanding",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "country",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.085
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "I shall not be allowed any;",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "any",
+   "candidates": [
+    {
+     "word": "any",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "again",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "therein",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "even",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "ever",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "enter",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "within",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "access",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "alone",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "into",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.174
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Yet still my darling brood shall follow,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "live",
+   "meant": "live",
+   "chosen": "follow",
+   "candidates": [
+    {
+     "word": "follow",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "linger",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.444
+    },
+    {
+     "word": "rejoice",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.392
+    },
+    {
+     "word": "remain",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.346
+    },
+    {
+     "word": "enjoy",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "listen",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "abide",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "welcome",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "wander",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "cherish",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.163
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "While in her harem's palace",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "palace",
+   "meant": "palace",
+   "chosen": "palace",
+   "candidates": [
+    {
+     "word": "palace",
+     "p": 0.0253,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "golden",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 0.473
+    },
+    {
+     "word": "chamber",
+     "p": 0.0112,
+     "rhyme": 0,
+     "score": 0.443
+    },
+    {
+     "word": "chambers",
+     "p": 0.0099,
+     "rhyme": 0,
+     "score": 0.391
+    },
+    {
+     "word": "royal",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "embrace",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.209
+    },
+    {
+     "word": "circle",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "beauty",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "interior",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "shadow",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.163
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "I leave her naked body,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "body",
+   "candidates": [
+    {
+     "word": "body",
+     "p": 0.0147,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "beneath",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.367
+    },
+    {
+     "word": "naked",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "shoulders",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "under",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "beauty",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.138
+    },
+    {
+     "word": "woman",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "bodies",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "before",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "within",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.105
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "And their captive bird to devour.",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "devour",
+   "candidates": [
+    {
+     "word": "devour",
+     "p": 0.0177,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "follow",
+     "p": 0.0101,
+     "rhyme": 0,
+     "score": 0.57
+    },
+    {
+     "word": "torment",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "swallow",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "carry",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "capture",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "return",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.21
+    },
+    {
+     "word": "pursue",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.21
+    },
+    {
+     "word": "behold",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "adore",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.197
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "XIII - THE SPOUSE OF QUEEN MARIA.  The",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "the",
+   "candidates": [
+    {
+     "word": "the",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "it",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "text",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.21
+    },
+    {
+     "word": "a",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.184
+    },
+    {
+     "word": "i",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.162
+    },
+    {
+     "word": "vi",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.121
+    },
+    {
+     "word": "and",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.101
+    },
+    {
+     "word": "this",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.099
+    },
+    {
+     "word": "then",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.087
+    },
+    {
+     "word": "when",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.087
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Queen: \"My God! how will you answer",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "please",
+   "meant": "please",
+   "chosen": "answer",
+   "candidates": [
+    {
+     "word": "answer",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "perish",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.939
+    },
+    {
+     "word": "escape",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.732
+    },
+    {
+     "word": "manage",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "endure",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "comfort",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "survive",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "conquer",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "repay",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "ever",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.238
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "The urgent desires of Heaven!",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "my",
+   "meant": "my",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0292,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "our",
+     "p": 0.0239,
+     "rhyme": 0,
+     "score": 0.82
+    },
+    {
+     "word": "mankind",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.194
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.092
+    },
+    {
+     "word": "women",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.071
+    },
+    {
+     "word": "woman",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.063
+    },
+    {
+     "word": "fortune",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.051
+    },
+    {
+     "word": "nature",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.035
+    },
+    {
+     "word": "human",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.03
+    },
+    {
+     "word": "others",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.026
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "And for these woes and troubles,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "sor",
+   "meant": "sor",
+   "chosen": "troubles",
+   "candidates": [
+    {
+     "word": "troubles",
+     "p": 0.0412,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "suffer",
+     "p": 0.0235,
+     "rhyme": 0,
+     "score": 0.57
+    },
+    {
+     "word": "other",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "dangers",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "trials",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.185
+    },
+    {
+     "word": "anguish",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "others",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "suffering",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "curses",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.153
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "text": "What is the way to escape?",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "be",
+   "meant": "be",
+   "chosen": "escape",
+   "candidates": [
+    {
+     "word": "escape",
+     "p": 0.1388,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "salvation",
+     "p": 0.0596,
+     "rhyme": 0,
+     "score": 0.429
+    },
+    {
+     "word": "heaven",
+     "p": 0.0444,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "freedom",
+     "p": 0.0205,
+     "rhyme": 0,
+     "score": 0.148
+    },
+    {
+     "word": "relieve",
+     "p": 0.0156,
+     "rhyme": 0,
+     "score": 0.112
+    },
+    {
+     "word": "comfort",
+     "p": 0.0138,
+     "rhyme": 0,
+     "score": 0.099
+    },
+    {
+     "word": "relief",
+     "p": 0.0107,
+     "rhyme": 0,
+     "score": 0.077
+    },
+    {
+     "word": "pardon",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.047
+    },
+    {
+     "word": "obtain",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.039
+    },
+    {
+     "word": "avoid",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.036
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "text": "\"Here once again I thought upon it,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "it",
+   "meant": "it",
+   "chosen": "it",
+   "candidates": [
+    {
+     "word": "it",
+     "p": 0.0657,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "you",
+     "p": 0.0582,
+     "rhyme": 0,
+     "score": 0.886
+    },
+    {
+     "word": "the",
+     "p": 0.0406,
+     "rhyme": 0,
+     "score": 0.618
+    },
+    {
+     "word": "my",
+     "p": 0.0189,
+     "rhyme": 0,
+     "score": 0.288
+    },
+    {
+     "word": "this",
+     "p": 0.0188,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "him",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.188
+    },
+    {
+     "word": "your",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.155
+    },
+    {
+     "word": "her",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.108
+    },
+    {
+     "word": "that",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.107
+    },
+    {
+     "word": "these",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.082
+    }
+   ]
+  },
+  {
+   "line": 15,
+   "text": "Since even now you know nothing.",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "not",
+   "meant": "not",
+   "chosen": "nothing",
+   "candidates": [
+    {
+     "word": "nothing",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "yourself",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "better",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "our",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "about",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "myself",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "very",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "little",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "something",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "indeed",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.082
+    }
+   ]
+  },
+  {
+   "line": 16,
+   "text": "\"I had better flee before you,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "you",
+   "meant": "you",
+   "chosen": "you",
+   "candidates": [
+    {
+     "word": "you",
+     "p": 0.2268,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "the",
+     "p": 0.1213,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "i",
+     "p": 0.0736,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "it",
+     "p": 0.0394,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "your",
+     "p": 0.0308,
+     "rhyme": 0,
+     "score": 0.136
+    },
+    {
+     "word": "my",
+     "p": 0.0307,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "night",
+     "p": 0.0274,
+     "rhyme": 0,
+     "score": 0.121
+    },
+    {
+     "word": "this",
+     "p": 0.0239,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "they",
+     "p": 0.0211,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "death",
+     "p": 0.0206,
+     "rhyme": 0,
+     "score": 0.091
+    }
+   ]
+  },
+  {
+   "line": 17,
+   "text": "And promise not aught before;",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "before",
+   "candidates": [
+    {
+     "word": "before",
+     "p": 0.015,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "again",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "until",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "about",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "beyond",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "except",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "beside",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "against",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "after",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "besides",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.093
+    }
+   ]
+  },
+  {
+   "line": 18,
+   "text": "If you then allow any",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "me",
+   "meant": "me",
+   "chosen": "any",
+   "candidates": [
+    {
+     "word": "any",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "even",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "our",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.473
+    },
+    {
+     "word": "myself",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "anything",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "only",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "nothing",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "yourself",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "something",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "another",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.253
+    }
+   ]
+  },
+  {
+   "line": 19,
+   "text": "That are useful or hateful alike,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "alike",
+   "candidates": [
+    {
+     "word": "alike",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "unto",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "before",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "instead",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "indeed",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "even",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "only",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "events",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.073
+    },
+    {
+     "word": "matters",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "also",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.064
+    }
+   ]
+  },
+  {
+   "line": 20,
+   "text": "Or one thing that may please yourself,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "you",
+   "meant": "you",
+   "chosen": "yourself",
+   "candidates": [
+    {
+     "word": "yourself",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "neither",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.881
+    },
+    {
+     "word": "before",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "heaven",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.459
+    },
+    {
+     "word": "alone",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "without",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.367
+    },
+    {
+     "word": "myself",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.367
+    },
+    {
+     "word": "another",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "either",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "any",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.153
+    }
+   ]
+  }
+ ]
+}

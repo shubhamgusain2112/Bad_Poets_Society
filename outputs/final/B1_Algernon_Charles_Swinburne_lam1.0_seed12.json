@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 1.0,
+ "scheme": "AABB",
+ "seed": 12,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "It may be that purer minds now awake\nThan were before our ancient gods.\nI know not how its way is taken\nOr from whence it comes to our,\nBut I will ever say that the fire\nOf this great Earth's spirit is\nThat was burning in her most holy\nBy years of wondrous things wrought and given,\nAnd here, too, still burneth bright above\nThe fountain that hath shallbe made white again,\nA shining sea for all our,\nWhose waters have been never",
+ "lines": [
+  {
+   "line": 1,
+   "text": "It may be that purer minds now awake",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "than",
+   "meant": "than",
+   "chosen": "awake",
+   "candidates": [
+    {
+     "word": "awake",
+     "p": 0.0192,
+     "rhyme": 0,
+     "score": 1.176
+    },
+    {
+     "word": "understand",
+     "p": 0.0149,
+     "rhyme": 0,
+     "score": 0.966
+    },
+    {
+     "word": "perceive",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.536
+    },
+    {
+     "word": "behold",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.514
+    },
+    {
+     "word": "believe",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.39
+    },
+    {
+     "word": "abide",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.375
+    },
+    {
+     "word": "prevail",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.331
+    },
+    {
+     "word": "pursue",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.317
+    },
+    {
+     "word": "contemplate",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "survey",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.302
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Than were before our ancient gods.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "awake",
+   "qwen_top": "gods",
+   "meant": "gods",
+   "chosen": "gods",
+   "candidates": [
+    {
+     "word": "gods",
+     "p": 0.0252,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "times",
+     "p": 0.025,
+     "rhyme": 0,
+     "score": 0.989
+    },
+    {
+     "word": "fathers",
+     "p": 0.0232,
+     "rhyme": 0,
+     "score": 0.918
+    },
+    {
+     "word": "world",
+     "p": 0.0219,
+     "rhyme": 0,
+     "score": 0.868
+    },
+    {
+     "word": "time",
+     "p": 0.0217,
+     "rhyme": 0,
+     "score": 0.86
+    },
+    {
+     "word": "age",
+     "p": 0.0209,
+     "rhyme": 0.6,
+     "score": 0.83
+    },
+    {
+     "word": "days",
+     "p": 0.0194,
+     "rhyme": 0.6,
+     "score": 0.769
+    },
+    {
+     "word": "dawn",
+     "p": 0.0174,
+     "rhyme": 0,
+     "score": 0.688
+    },
+    {
+     "word": "eyes",
+     "p": 0.016,
+     "rhyme": 0,
+     "score": 0.633
+    },
+    {
+     "word": "day",
+     "p": 0.0121,
+     "rhyme": 0.6,
+     "score": 0.479
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "I know not how its way is taken",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "taken",
+   "candidates": [
+    {
+     "word": "taken",
+     "p": 0.0151,
+     "rhyme": 0,
+     "score": 1.12
+    },
+    {
+     "word": "begun",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.539
+    },
+    {
+     "word": "opened",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.478
+    },
+    {
+     "word": "going",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.38
+    },
+    {
+     "word": "given",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.376
+    },
+    {
+     "word": "pursued",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.356
+    },
+    {
+     "word": "chosen",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.35
+    },
+    {
+     "word": "broken",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.347
+    },
+    {
+     "word": "open",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.346
+    },
+    {
+     "word": "ended",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.325
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Or from whence it comes to our,",
+   "syllables": 8,
+   "target": 9,
+   "partner": "taken",
+   "qwen_top": "be",
+   "meant": "be",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0096,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "heaven",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "become",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.196
+    },
+    {
+     "word": "itself",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "ours",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "enter",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.12
+    },
+    {
+     "word": "travel",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "lighten",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "arise",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "abide",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.06
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "But I will ever say that the fire",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "sun",
+   "meant": "sun",
+   "chosen": "fire",
+   "candidates": [
+    {
+     "word": "fire",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 1.197
+    },
+    {
+     "word": "power",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.829
+    },
+    {
+     "word": "spirit",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.787
+    },
+    {
+     "word": "flower",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.588
+    },
+    {
+     "word": "hour",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.53
+    },
+    {
+     "word": "divine",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.408
+    },
+    {
+     "word": "powers",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.378
+    },
+    {
+     "word": "flowers",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.359
+    },
+    {
+     "word": "very",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.347
+    },
+    {
+     "word": "holy",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.338
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Of this great Earth's spirit is",
+   "syllables": 7,
+   "target": 8,
+   "partner": "fire",
+   "qwen_top": "is",
+   "meant": "is",
+   "chosen": "is",
+   "candidates": [
+    {
+     "word": "is",
+     "p": 0.1209,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "flame",
+     "p": 0.0394,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "comes",
+     "p": 0.0392,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "shall",
+     "p": 0.0306,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "lives",
+     "p": 0.027,
+     "rhyme": 0.6,
+     "score": 0.223
+    },
+    {
+     "word": "fires",
+     "p": 0.021,
+     "rhyme": 0.6,
+     "score": 0.174
+    },
+    {
+     "word": "was",
+     "p": 0.0185,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "dies",
+     "p": 0.0174,
+     "rhyme": 0.6,
+     "score": 0.144
+    },
+    {
+     "word": "came",
+     "p": 0.0164,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "lies",
+     "p": 0.0154,
+     "rhyme": 0.6,
+     "score": 0.127
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "That was burning in her most holy",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "high",
+   "meant": "high",
+   "chosen": "holy",
+   "candidates": [
+    {
+     "word": "holy",
+     "p": 0.0441,
+     "rhyme": 0,
+     "score": 1.15
+    },
+    {
+     "word": "ancient",
+     "p": 0.0389,
+     "rhyme": 0,
+     "score": 0.883
+    },
+    {
+     "word": "divine",
+     "p": 0.0112,
+     "rhyme": 0,
+     "score": 0.468
+    },
+    {
+     "word": "shadow",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "early",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.264
+    },
+    {
+     "word": "remote",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.259
+    },
+    {
+     "word": "serene",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.255
+    },
+    {
+     "word": "afraid",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.24
+    },
+    {
+     "word": "perfect",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "severe",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.237
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "By years of wondrous things wrought and given,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "holy",
+   "qwen_top": "wrought",
+   "meant": "wrought",
+   "chosen": "given",
+   "candidates": [
+    {
+     "word": "given",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "spoken",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.325
+    },
+    {
+     "word": "written",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "unknown",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.223
+    },
+    {
+     "word": "ended",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "begun",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.185
+    },
+    {
+     "word": "driven",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.185
+    },
+    {
+     "word": "unseen",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.185
+    },
+    {
+     "word": "forgot",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "broken",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.144
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "And here, too, still burneth bright above",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "above",
+   "candidates": [
+    {
+     "word": "above",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 1.11
+    },
+    {
+     "word": "within",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 1.099
+    },
+    {
+     "word": "below",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.484
+    },
+    {
+     "word": "before",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.425
+    },
+    {
+     "word": "anew",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.405
+    },
+    {
+     "word": "beyond",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.401
+    },
+    {
+     "word": "among",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.393
+    },
+    {
+     "word": "again",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.389
+    },
+    {
+     "word": "beneath",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.376
+    },
+    {
+     "word": "upon",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.352
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "The fountain that hath shallbe made white again,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "above",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "below",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "anew",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "before",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "unto",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.072
+    },
+    {
+     "word": "beneath",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "under",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.057
+    },
+    {
+     "word": "over",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "heaven",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.039
+    },
+    {
+     "word": "upon",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.039
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "A shining sea for all our,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0357,
+     "rhyme": 0,
+     "score": 1.229
+    },
+    {
+     "word": "eternity",
+     "p": 0.0356,
+     "rhyme": 0,
+     "score": 1.053
+    },
+    {
+     "word": "mankind",
+     "p": 0.0191,
+     "rhyme": 0,
+     "score": 0.73
+    },
+    {
+     "word": "nations",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.374
+    },
+    {
+     "word": "ages",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.363
+    },
+    {
+     "word": "creation",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.35
+    },
+    {
+     "word": "salvation",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "generation",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "generations",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.318
+    },
+    {
+     "word": "below",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.29
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Whose waters have been never",
+   "syllables": 7,
+   "target": 8,
+   "partner": "our",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "never",
+   "candidates": [
+    {
+     "word": "never",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "ever",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.779
+    },
+    {
+     "word": "water",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.536
+    },
+    {
+     "word": "ours",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.503
+    },
+    {
+     "word": "many",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "holy",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.419
+    },
+    {
+     "word": "given",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "gathered",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "broken",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.392
+    },
+    {
+     "word": "rivers",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.369
+    }
+   ]
+  }
+ ]
+}

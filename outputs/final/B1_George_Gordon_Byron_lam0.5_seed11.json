@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 0.5,
+ "scheme": "ABAB",
+ "seed": 11,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Ear and Ease, as if the couch were heaven,\nCall me of earth to welcome my spirit,\nAnd that I be mine; but never again\nThis first, this last solitude admit.\nBut when in hours like these, alone,\nMy soul's likeness dies on earth too early,\nI feel it with a greater sorrow,\nThough its price should be infinitely dear.\nYou are so lovely now! You have forgotten\nWhy you sit at my feet in earthly love.\nWhat can it cost me now to forget\nAll things which e'er our happiness have?",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Ear and Ease, as if the couch were heaven,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "a",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0612,
+     "rhyme": 0,
+     "score": 0.62
+    },
+    {
+     "word": "our",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "upon",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "divine",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.228
+    },
+    {
+     "word": "alone",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.226
+    },
+    {
+     "word": "within",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.222
+    },
+    {
+     "word": "indeed",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.217
+    },
+    {
+     "word": "fire",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.206
+    },
+    {
+     "word": "higher",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.2
+    },
+    {
+     "word": "ours",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.19
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Call me of earth to welcome my spirit,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "stay",
+   "meant": "stay",
+   "chosen": "spirit",
+   "candidates": [
+    {
+     "word": "spirit",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "visit",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.49
+    },
+    {
+     "word": "coming",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.461
+    },
+    {
+     "word": "heaven",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.391
+    },
+    {
+     "word": "return",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.369
+    },
+    {
+     "word": "hour",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.341
+    },
+    {
+     "word": "delight",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.267
+    },
+    {
+     "word": "descent",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "welcome",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.242
+    },
+    {
+     "word": "present",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.24
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "And that I be mine; but never again",
+   "syllables": 10,
+   "target": 11,
+   "partner": "heaven",
+   "qwen_top": "mind",
+   "meant": "mind",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0185,
+     "rhyme": 0.6,
+     "score": 0.8
+    },
+    {
+     "word": "forget",
+     "p": 0.0175,
+     "rhyme": 0.6,
+     "score": 0.771
+    },
+    {
+     "word": "despair",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.344
+    },
+    {
+     "word": "expect",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.327
+    },
+    {
+     "word": "any",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.326
+    },
+    {
+     "word": "ever",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.321
+    },
+    {
+     "word": "repent",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.317
+    },
+    {
+     "word": "enter",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.313
+    },
+    {
+     "word": "farewell",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.312
+    },
+    {
+     "word": "myself",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.31
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "This first, this last solitude admit.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "spirit",
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "admit",
+   "candidates": [
+    {
+     "word": "admit",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.569
+    },
+    {
+     "word": "permit",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.527
+    },
+    {
+     "word": "alone",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "within",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.443
+    },
+    {
+     "word": "recall",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.442
+    },
+    {
+     "word": "visit",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.427
+    },
+    {
+     "word": "into",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.372
+    },
+    {
+     "word": "appear",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.364
+    },
+    {
+     "word": "begin",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.36
+    },
+    {
+     "word": "continue",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.336
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "But when in hours like these, alone,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "i",
+   "meant": "i",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.718
+    },
+    {
+     "word": "our",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.573
+    },
+    {
+     "word": "before",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.437
+    },
+    {
+     "word": "without",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.432
+    },
+    {
+     "word": "upon",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "between",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "alas",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.336
+    },
+    {
+     "word": "despair",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "within",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "away",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.299
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "My soul's likeness dies on earth too early,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "soon",
+   "meant": "soon",
+   "chosen": "early",
+   "candidates": [
+    {
+     "word": "early",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.628
+    },
+    {
+     "word": "decay",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "slowly",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "very",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.246
+    },
+    {
+     "word": "often",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.243
+    },
+    {
+     "word": "many",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "alone",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.221
+    },
+    {
+     "word": "divine",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.214
+    },
+    {
+     "word": "dearly",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.209
+    },
+    {
+     "word": "little",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.178
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "I feel it with a greater sorrow,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "alone",
+   "qwen_top": "pain",
+   "meant": "pain",
+   "chosen": "sorrow",
+   "candidates": [
+    {
+     "word": "sorrow",
+     "p": 0.0262,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "delight",
+     "p": 0.0231,
+     "rhyme": 0,
+     "score": 0.441
+    },
+    {
+     "word": "pleasure",
+     "p": 0.018,
+     "rhyme": 0,
+     "score": 0.344
+    },
+    {
+     "word": "loneliness",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.319
+    },
+    {
+     "word": "devotion",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.317
+    },
+    {
+     "word": "emotion",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.314
+    },
+    {
+     "word": "passion",
+     "p": 0.015,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "desire",
+     "p": 0.014,
+     "rhyme": 0,
+     "score": 0.268
+    },
+    {
+     "word": "anguish",
+     "p": 0.0132,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "despair",
+     "p": 0.0124,
+     "rhyme": 0,
+     "score": 0.236
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Though its price should be infinitely dear.",
+   "syllables": 10,
+   "target": 10,
+   "partner": "early",
+   "qwen_top": "dear",
+   "meant": "dear",
+   "chosen": "dear",
+   "candidates": [
+    {
+     "word": "dear",
+     "p": 0.572,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "free",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.451
+    },
+    {
+     "word": "me",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.45
+    },
+    {
+     "word": "fee",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.45
+    },
+    {
+     "word": "re",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.45
+    },
+    {
+     "word": "the",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.45
+    },
+    {
+     "word": "he",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.45
+    },
+    {
+     "word": "de",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.45
+    },
+    {
+     "word": "be",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.45
+    },
+    {
+     "word": "we",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.45
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "You are so lovely now! You have forgotten",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "so",
+   "meant": "so",
+   "chosen": "forgotten",
+   "candidates": [
+    {
+     "word": "forgotten",
+     "p": 0.0124,
+     "rhyme": 0,
+     "score": 0.59
+    },
+    {
+     "word": "become",
+     "p": 0.0091,
+     "rhyme": 0,
+     "score": 0.538
+    },
+    {
+     "word": "taken",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.356
+    },
+    {
+     "word": "forgot",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.35
+    },
+    {
+     "word": "decay",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "given",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "never",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "begun",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "attained",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "escaped",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.288
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Why you sit at my feet in earthly love.",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "love",
+   "meant": "love",
+   "chosen": "love",
+   "candidates": [
+    {
+     "word": "love",
+     "p": 0.0263,
+     "rhyme": 0,
+     "score": 0.61
+    },
+    {
+     "word": "state",
+     "p": 0.0195,
+     "rhyme": 0,
+     "score": 0.583
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0226,
+     "rhyme": 0,
+     "score": 0.582
+    },
+    {
+     "word": "hours",
+     "p": 0.0228,
+     "rhyme": 0,
+     "score": 0.568
+    },
+    {
+     "word": "things",
+     "p": 0.0226,
+     "rhyme": 0,
+     "score": 0.568
+    },
+    {
+     "word": "times",
+     "p": 0.0226,
+     "rhyme": 0,
+     "score": 0.559
+    },
+    {
+     "word": "court",
+     "p": 0.0192,
+     "rhyme": 0,
+     "score": 0.546
+    },
+    {
+     "word": "glory",
+     "p": 0.0166,
+     "rhyme": 0,
+     "score": 0.499
+    },
+    {
+     "word": "ways",
+     "p": 0.0114,
+     "rhyme": 0,
+     "score": 0.448
+    },
+    {
+     "word": "clothes",
+     "p": 0.0114,
+     "rhyme": 0,
+     "score": 0.436
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "What can it cost me now to forget",
+   "syllables": 9,
+   "target": 10,
+   "partner": "forgotten",
+   "qwen_top": "be",
+   "meant": "be",
+   "chosen": "forget",
+   "candidates": [
+    {
+     "word": "forget",
+     "p": 0.0134,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "follow",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.412
+    },
+    {
+     "word": "converse",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.382
+    },
+    {
+     "word": "acknowledge",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.353
+    },
+    {
+     "word": "console",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.322
+    },
+    {
+     "word": "regard",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.322
+    },
+    {
+     "word": "honour",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.321
+    },
+    {
+     "word": "depart",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.321
+    },
+    {
+     "word": "wander",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.318
+    },
+    {
+     "word": "pardon",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.318
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "All things which e'er our happiness have?",
+   "syllables": 10,
+   "target": 10,
+   "partner": "love",
+   "qwen_top": "have",
+   "meant": "have",
+   "chosen": "have",
+   "candidates": [
+    {
+     "word": "have",
+     "p": 0.0402,
+     "rhyme": 0.3,
+     "score": 0.65
+    },
+    {
+     "word": "gave",
+     "p": 0.0313,
+     "rhyme": 0.3,
+     "score": 0.539
+    },
+    {
+     "word": "of",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 0.51
+    },
+    {
+     "word": "has",
+     "p": 0.0139,
+     "rhyme": 0.6,
+     "score": 0.473
+    },
+    {
+     "word": "can",
+     "p": 0.0115,
+     "rhyme": 0.6,
+     "score": 0.443
+    },
+    {
+     "word": "did",
+     "p": 0.0355,
+     "rhyme": 0,
+     "score": 0.441
+    },
+    {
+     "word": "could",
+     "p": 0.0355,
+     "rhyme": 0,
+     "score": 0.441
+    },
+    {
+     "word": "loved",
+     "p": 0.0074,
+     "rhyme": 0.6,
+     "score": 0.392
+    },
+    {
+     "word": "made",
+     "p": 0.0313,
+     "rhyme": 0,
+     "score": 0.389
+    },
+    {
+     "word": "will",
+     "p": 0.0051,
+     "rhyme": 0.6,
+     "score": 0.364
+    }
+   ]
+  }
+ ]
+}

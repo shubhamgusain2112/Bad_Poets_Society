@@ -1,0 +1,1452 @@
+{
+ "poet": "Henry Wadsworth Longfellow",
+ "system": "B1",
+ "lam": 1.0,
+ "scheme": "none",
+ "seed": 14,
+ "model": "lora",
+ "stop": "20 lines",
+ "poem": "On his best colt, without a\nWhistle of alarm he crept along.\nHis wife came forth from her booth.  Instead\nOf the usual cup and pitcher\nHer dark eyes shone upon the stranger,\nAnd he recognized himself.\n\"Good-morning,\" she said.  \"How many\nHave you gone? how much time have taken?\nYou are too lazy to answer\nThe call of nature! I cannot\nProve it in so great a degree!\"  She\nJoined him at the door; upon\nTheir knees they wept together again.\nHe tried to join them with another\nLittle child's handkerchief over\nHer wet hair that ruffled about,\nBut her light fingers grasped not lightly,\nAnd she turned away before he\nWas ready to reach for another\nIn order to be comfort.",
+ "lines": [
+  {
+   "line": 1,
+   "text": "On his best colt, without a",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "a",
+   "chosen": "a",
+   "candidates": [
+    {
+     "word": "a",
+     "p": 0.2707,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "delay",
+     "p": 0.1279,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "the",
+     "p": 0.0471,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "fear",
+     "p": 0.0323,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "any",
+     "p": 0.0285,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "his",
+     "p": 0.0237,
+     "rhyme": 0,
+     "score": 0.087
+    },
+    {
+     "word": "fail",
+     "p": 0.0112,
+     "rhyme": 0,
+     "score": 0.041
+    },
+    {
+     "word": "warning",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.032
+    },
+    {
+     "word": "an",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.032
+    },
+    {
+     "word": "pause",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.03
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Whistle of alarm he crept along.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "along",
+   "meant": "along",
+   "chosen": "along",
+   "candidates": [
+    {
+     "word": "along",
+     "p": 0.1199,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "away",
+     "p": 0.1058,
+     "rhyme": 0,
+     "score": 0.882
+    },
+    {
+     "word": "forward",
+     "p": 0.0208,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "toward",
+     "p": 0.0126,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "across",
+     "p": 0.0111,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "into",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "behind",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "before",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "upon",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.039
+    },
+    {
+     "word": "ahead",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.039
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "His wife came forth from her booth.  Instead",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "instead",
+   "candidates": [
+    {
+     "word": "instead",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "after",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "however",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "either",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "morning",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "within",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "although",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "indeed",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "record",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.106
+    },
+    {
+     "word": "complete",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.105
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Of the usual cup and pitcher",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "bowl",
+   "meant": "bowl",
+   "chosen": "pitcher",
+   "candidates": [
+    {
+     "word": "pitcher",
+     "p": 0.0302,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "basin",
+     "p": 0.0221,
+     "rhyme": 0,
+     "score": 0.732
+    },
+    {
+     "word": "bottle",
+     "p": 0.0195,
+     "rhyme": 0,
+     "score": 0.646
+    },
+    {
+     "word": "silver",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "table",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.21
+    },
+    {
+     "word": "towel",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.21
+    },
+    {
+     "word": "water",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "candle",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.144
+    },
+    {
+     "word": "butter",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.127
+    },
+    {
+     "word": "sugar",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.112
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Her dark eyes shone upon the stranger,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "stranger",
+   "meant": "stranger",
+   "chosen": "stranger",
+   "candidates": [
+    {
+     "word": "stranger",
+     "p": 0.0219,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "little",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "hunter",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "cattle",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "water",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "maiden",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.21
+    },
+    {
+     "word": "horses",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "farmer",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.13
+    },
+    {
+     "word": "fire",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.128
+    },
+    {
+     "word": "visitor",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.12
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "And he recognized himself.",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "her",
+   "meant": "her",
+   "chosen": "himself",
+   "candidates": [
+    {
+     "word": "himself",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "instantly",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.829
+    },
+    {
+     "word": "every",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.571
+    },
+    {
+     "word": "herself",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.569
+    },
+    {
+     "word": "upon",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "neither",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "only",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "perfectly",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "nothing",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "again",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.305
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "\"Good-morning,\" she said.  \"How many",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "fares",
+   "meant": "fares",
+   "chosen": "many",
+   "candidates": [
+    {
+     "word": "many",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "often",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "happy",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "lovely",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "pleasant",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "very",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.185
+    },
+    {
+     "word": "welcome",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "beautiful",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "friendly",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "began",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.105
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Have you gone? how much time have taken?",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "you",
+   "meant": "you",
+   "chosen": "taken",
+   "candidates": [
+    {
+     "word": "taken",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "given",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.882
+    },
+    {
+     "word": "others",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.473
+    },
+    {
+     "word": "eaten",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "fallen",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "lately",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "driven",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "begun",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "counted",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "other",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.135
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "You are too lazy to answer",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "be",
+   "meant": "be",
+   "chosen": "answer",
+   "candidates": [
+    {
+     "word": "answer",
+     "p": 0.024,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "hurry",
+     "p": 0.0187,
+     "rhyme": 0,
+     "score": 0.779
+    },
+    {
+     "word": "begin",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "travel",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "return",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "labor",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "venture",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.144
+    },
+    {
+     "word": "inquire",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.144
+    },
+    {
+     "word": "attend",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "appear",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.135
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "The call of nature! I cannot",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "have",
+   "meant": "have",
+   "chosen": "cannot",
+   "candidates": [
+    {
+     "word": "cannot",
+     "p": 0.0136,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "wonder",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 0.882
+    },
+    {
+     "word": "suppose",
+     "p": 0.0106,
+     "rhyme": 0,
+     "score": 0.779
+    },
+    {
+     "word": "never",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "expect",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "remember",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "pity",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "believe",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.185
+    },
+    {
+     "word": "only",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.185
+    },
+    {
+     "word": "declare",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.174
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Prove it in so great a degree!\"  She",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "she",
+   "meant": "she",
+   "chosen": "she",
+   "candidates": [
+    {
+     "word": "she",
+     "p": 0.0895,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "and",
+     "p": 0.0615,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "he",
+     "p": 0.0543,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "then",
+     "p": 0.0543,
+     "rhyme": 0,
+     "score": 0.606
+    },
+    {
+     "word": "so",
+     "p": 0.0137,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "the",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "but",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "they",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "as",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "her",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.034
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Joined him at the door; upon",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "upon",
+   "candidates": [
+    {
+     "word": "upon",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "into",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "together",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "after",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "without",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.346
+    },
+    {
+     "word": "followed",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "behind",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "leaning",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.21
+    },
+    {
+     "word": "neither",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "beside",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.197
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "text": "Their knees they wept together again.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "together",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "over",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.779
+    },
+    {
+     "word": "sadly",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "earnest",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "until",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "bitterly",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "silently",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "softly",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "before",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.368
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "text": "He tried to join them with another",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "his",
+   "meant": "his",
+   "chosen": "another",
+   "candidates": [
+    {
+     "word": "another",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "kisses",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "affection",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "tender",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.087
+    },
+    {
+     "word": "other",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.087
+    },
+    {
+     "word": "gentle",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "silence",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.068
+    },
+    {
+     "word": "music",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.053
+    },
+    {
+     "word": "eager",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.053
+    },
+    {
+     "word": "relief",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.05
+    }
+   ]
+  },
+  {
+   "line": 15,
+   "text": "Little child's handkerchief over",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "over",
+   "candidates": [
+    {
+     "word": "over",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "upon",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "folded",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "between",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "under",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "about",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "around",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "alone",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "only",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "lightly",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.135
+    }
+   ]
+  },
+  {
+   "line": 16,
+   "text": "Her wet hair that ruffled about,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "about",
+   "candidates": [
+    {
+     "word": "about",
+     "p": 0.0397,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "around",
+     "p": 0.0146,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "along",
+     "p": 0.0129,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "before",
+     "p": 0.0114,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "against",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "beneath",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "everywhere",
+     "p": 0.0089,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "behind",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "above",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "upon",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.153
+    }
+   ]
+  },
+  {
+   "line": 17,
+   "text": "But her light fingers grasped not lightly,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "it",
+   "meant": "it",
+   "chosen": "lightly",
+   "candidates": [
+    {
+     "word": "lightly",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "enough",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "upon",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.536
+    },
+    {
+     "word": "again",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.536
+    },
+    {
+     "word": "even",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "very",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "easily",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "only",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "into",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "firmly",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.325
+    }
+   ]
+  },
+  {
+   "line": 18,
+   "text": "And she turned away before he",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "he",
+   "meant": "he",
+   "chosen": "he",
+   "candidates": [
+    {
+     "word": "he",
+     "p": 0.5745,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "she",
+     "p": 0.1453,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "they",
+     "p": 0.0778,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "it",
+     "p": 0.0416,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "the",
+     "p": 0.0286,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "his",
+     "p": 0.0197,
+     "rhyme": 0,
+     "score": 0.034
+    },
+    {
+     "word": "her",
+     "p": 0.0153,
+     "rhyme": 0,
+     "score": 0.027
+    },
+    {
+     "word": "their",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.005
+    },
+    {
+     "word": "him",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.005
+    },
+    {
+     "word": "that",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.005
+    }
+   ]
+  },
+  {
+   "line": 19,
+   "text": "Was ready to reach for another",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "her",
+   "meant": "her",
+   "chosen": "another",
+   "candidates": [
+    {
+     "word": "another",
+     "p": 0.0161,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "something",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "any",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "herself",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "himself",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.039
+    },
+    {
+     "word": "anything",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.034
+    },
+    {
+     "word": "either",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.03
+    },
+    {
+     "word": "again",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.018
+    },
+    {
+     "word": "other",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.014
+    },
+    {
+     "word": "comfort",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.012
+    }
+   ]
+  },
+  {
+   "line": 20,
+   "text": "In order to be comfort.",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "comfort",
+   "meant": "comfort",
+   "chosen": "comfort",
+   "candidates": [
+    {
+     "word": "comfort",
+     "p": 0.0817,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "able",
+     "p": 0.0301,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "alone",
+     "p": 0.0161,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "tender",
+     "p": 0.0142,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "nearer",
+     "p": 0.0142,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "closer",
+     "p": 0.0125,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "seated",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "admitted",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "satisfied",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "embraced",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.105
+    }
+   ]
+  }
+ ]
+}

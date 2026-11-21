@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 0.0,
+ "scheme": "AABB",
+ "seed": 12,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "It may be that purer minds now communicate\nWith one of us but doth not hesitate\nThat no tongue, love, or faith can obligation\nFor an endless kingdom dispensation.\nO yes! thy voice hath been heard in revelation\nToward the earth's annihilation; been\nWhose footward tread hath come on salvation\nFrom first to last. But we will not declaration,\nOr slavish liberty whose salvation\nMay doubtfully lead away from obligation\nThe life before it is commemorate.\nBut as the fine face prostrate,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "It may be that purer minds now communicate",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "than",
+   "meant": "see",
+   "chosen": "communicate",
+   "candidates": [
+    {
+     "word": "communicate",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "anticipate",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "meditate",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "appreciate",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "hesitate",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "agree",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "disagree",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "betray",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "pursue",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.27
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "With one of us but doth not hesitate",
+   "syllables": 10,
+   "target": 10,
+   "partner": "communicate",
+   "qwen_top": "yet",
+   "meant": "cannot",
+   "chosen": "hesitate",
+   "candidates": [
+    {
+     "word": "hesitate",
+     "p": 0.0013,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "appropriate",
+     "p": 0.0013,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "dictate",
+     "p": 0.0011,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "appreciate",
+     "p": 0.0011,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "anticipate",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "separate",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "relate",
+     "p": 0.0024,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "create",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "translate",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "able",
+     "p": 0.0077,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "That no tongue, love, or faith can obligation",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "ever",
+   "meant": "speak",
+   "chosen": "obligation",
+   "candidates": [
+    {
+     "word": "obligation",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "information",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "revelation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "communicate",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "hesitate",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "appreciate",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "illustrate",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "anticipate",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "imitate",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "separate",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.282
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "For an endless kingdom dispensation.",
+   "syllables": 10,
+   "target": 9,
+   "partner": "obligation",
+   "qwen_top": "of",
+   "meant": "seek",
+   "chosen": "dispensation",
+   "candidates": [
+    {
+     "word": "dispensation",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "obtain",
+     "p": 0.0058,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "able",
+     "p": 0.0049,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "create",
+     "p": 0.0043,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "attain",
+     "p": 0.0032,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "proclaim",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "translate",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "unable",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "hesitate",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "retain",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "O yes! thy voice hath been heard in revelation",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "heaven",
+   "chosen": "revelation",
+   "candidates": [
+    {
+     "word": "revelation",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "contemplation",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "consolation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "inspiration",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "salvation",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "astray",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "inferno",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "vibrations",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "thirty",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "ago",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.262
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Toward the earth's annihilation; been",
+   "syllables": 10,
+   "target": 8,
+   "partner": "revelation",
+   "qwen_top": "and",
+   "meant": "thou",
+   "chosen": "been",
+   "candidates": [
+    {
+     "word": "been",
+     "p": 0.0012,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "done",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "none",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "they",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "wait",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "say",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "may",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "came",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "pray",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "name",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Whose footward tread hath come on salvation",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "thee",
+   "chosen": "salvation",
+   "candidates": [
+    {
+     "word": "salvation",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "revelation",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "damnation",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "temptation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "astray",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "inferno",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "jericho",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "sunrise",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.245
+    },
+    {
+     "word": "crucified",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.243
+    },
+    {
+     "word": "prophesied",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.243
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "From first to last. But we will not declaration,",
+   "syllables": 12,
+   "target": 11,
+   "partner": "salvation",
+   "qwen_top": "be",
+   "meant": "accept",
+   "chosen": "declaration",
+   "candidates": [
+    {
+     "word": "declaration",
+     "p": 0.0011,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "explanation",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "explain",
+     "p": 0.0041,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "hesitate",
+     "p": 0.0041,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "obey",
+     "p": 0.0034,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "able",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "persuaded",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "embrace",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "await",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "arabs",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Or slavish liberty whose salvation",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "hand",
+   "meant": "rule",
+   "chosen": "salvation",
+   "candidates": [
+    {
+     "word": "salvation",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "proclamation",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "limitation",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "declaration",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "duration",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "legislation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "translation",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "domination",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "creation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "nation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.315
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "May doubtfully lead away from obligation",
+   "syllables": 12,
+   "target": 11,
+   "partner": "salvation",
+   "qwen_top": "the",
+   "meant": "thee",
+   "chosen": "obligation",
+   "candidates": [
+    {
+     "word": "obligation",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "damnation",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "temptation",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "satan",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "prevail",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "canaan",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "hades",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "proclaim",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "crusade",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "prevails",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "The life before it is commemorate.",
+   "syllables": 10,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "life",
+   "meant": "forever",
+   "chosen": "commemorate",
+   "candidates": [
+    {
+     "word": "commemorate",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "recreated",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "generations",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "probably",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "identity",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "ago",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "anyway",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "again",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "realized",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "realised",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.251
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "But as the fine face prostrate,",
+   "syllables": 7,
+   "target": 8,
+   "partner": "commemorate",
+   "qwen_top": "of",
+   "meant": "emerges",
+   "chosen": "prostrate",
+   "candidates": [
+    {
+     "word": "prostrate",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "partakes",
+     "p": 0.0042,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "proclaims",
+     "p": 0.0041,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "contemplates",
+     "p": 0.0037,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remains",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awaits",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "faces",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "gazes",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awakes",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "plainly",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  }
+ ]
+}

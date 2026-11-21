@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 0.75,
+ "scheme": "ABAB",
+ "seed": 2,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "FROM HER ROBING-SHIP - REV. JONAS A.\nO sweet old Tower of Judah! O,\nA tomb that bared the pillars above,\nAnd in those kings' eyes, thine is a glory,\nYet here beneath thee yet ne'er appears\nWhat glory was o'er thy towers before;\nFor all the rooms are full of evil things,\nWhich bring them back to their own evil.\nNor can I fancy what a glorious\nDay's blest aspect we'll see when our\nCrowns shall be coronated on our\nInstructive monument; and the people",
+ "lines": [
+  {
+   "line": 1,
+   "text": "FROM HER ROBING-SHIP - REV. JONAS A.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "a",
+   "chosen": "a",
+   "candidates": [
+    {
+     "word": "a",
+     "p": 0.0132,
+     "rhyme": 0,
+     "score": 1.02
+    },
+    {
+     "word": "e",
+     "p": 0.0117,
+     "rhyme": 0,
+     "score": 0.941
+    },
+    {
+     "word": "co",
+     "p": 0.0091,
+     "rhyme": 0,
+     "score": 0.777
+    },
+    {
+     "word": "de",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.66
+    },
+    {
+     "word": "ro",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.616
+    },
+    {
+     "word": "bo",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.616
+    },
+    {
+     "word": "o",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.615
+    },
+    {
+     "word": "be",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.557
+    },
+    {
+     "word": "re",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.54
+    },
+    {
+     "word": "jo",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.538
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "O sweet old Tower of Judah! O,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "o",
+   "meant": "o",
+   "chosen": "o",
+   "candidates": [
+    {
+     "word": "o",
+     "p": 0.073,
+     "rhyme": 0,
+     "score": 1.01
+    },
+    {
+     "word": "where",
+     "p": 0.0561,
+     "rhyme": 0,
+     "score": 0.814
+    },
+    {
+     "word": "thou",
+     "p": 0.0342,
+     "rhyme": 0,
+     "score": 0.562
+    },
+    {
+     "word": "whose",
+     "p": 0.0307,
+     "rhyme": 0,
+     "score": 0.543
+    },
+    {
+     "word": "thy",
+     "p": 0.0275,
+     "rhyme": 0,
+     "score": 0.532
+    },
+    {
+     "word": "how",
+     "p": 0.0287,
+     "rhyme": 0,
+     "score": 0.506
+    },
+    {
+     "word": "that",
+     "p": 0.0295,
+     "rhyme": 0,
+     "score": 0.492
+    },
+    {
+     "word": "in",
+     "p": 0.0237,
+     "rhyme": 0,
+     "score": 0.461
+    },
+    {
+     "word": "i",
+     "p": 0.0199,
+     "rhyme": 0,
+     "score": 0.45
+    },
+    {
+     "word": "to",
+     "p": 0.0118,
+     "rhyme": 0,
+     "score": 0.391
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "A tomb that bared the pillars above,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "a",
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "above",
+   "candidates": [
+    {
+     "word": "above",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.9
+    },
+    {
+     "word": "purple",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.484
+    },
+    {
+     "word": "naked",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.393
+    },
+    {
+     "word": "away",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 0.38
+    },
+    {
+     "word": "ancient",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.342
+    },
+    {
+     "word": "upright",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.293
+    },
+    {
+     "word": "thereof",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.289
+    },
+    {
+     "word": "sacred",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.234
+    },
+    {
+     "word": "over",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "hollow",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.215
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "And in those kings' eyes, thine is a glory,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "o",
+   "qwen_top": "throne",
+   "meant": "throne",
+   "chosen": "glory",
+   "candidates": [
+    {
+     "word": "glory",
+     "p": 0.0265,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "shadow",
+     "p": 0.0056,
+     "rhyme": 0.9,
+     "score": 0.383
+    },
+    {
+     "word": "hero",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.236
+    },
+    {
+     "word": "halo",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.236
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.236
+    },
+    {
+     "word": "holy",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.198
+    },
+    {
+     "word": "token",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.19
+    },
+    {
+     "word": "trophy",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.168
+    },
+    {
+     "word": "flower",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.147
+    },
+    {
+     "word": "tower",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.133
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Yet here beneath thee yet ne'er appears",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "a",
+   "chosen": "appears",
+   "candidates": [
+    {
+     "word": "appears",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.937
+    },
+    {
+     "word": "appear",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.744
+    },
+    {
+     "word": "before",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.684
+    },
+    {
+     "word": "forgot",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.625
+    },
+    {
+     "word": "again",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.608
+    },
+    {
+     "word": "our",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "behold",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.502
+    },
+    {
+     "word": "appeared",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.496
+    },
+    {
+     "word": "forget",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.482
+    },
+    {
+     "word": "rises",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.465
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "What glory was o'er thy towers before;",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "before",
+   "candidates": [
+    {
+     "word": "before",
+     "p": 0.1327,
+     "rhyme": 0,
+     "score": 0.979
+    },
+    {
+     "word": "above",
+     "p": 0.0553,
+     "rhyme": 0,
+     "score": 0.422
+    },
+    {
+     "word": "decay",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "display",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "array",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "away",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "below",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "ago",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.267
+    },
+    {
+     "word": "again",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "displayed",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.262
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "For all the rooms are full of evil things,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "appears",
+   "qwen_top": "things",
+   "meant": "things",
+   "chosen": "things",
+   "candidates": [
+    {
+     "word": "things",
+     "p": 0.0624,
+     "rhyme": 0.6,
+     "score": 0.9
+    },
+    {
+     "word": "dreams",
+     "p": 0.0379,
+     "rhyme": 0,
+     "score": 0.455
+    },
+    {
+     "word": "thoughts",
+     "p": 0.0295,
+     "rhyme": 0,
+     "score": 0.354
+    },
+    {
+     "word": "spirits",
+     "p": 0.0142,
+     "rhyme": 0.6,
+     "score": 0.32
+    },
+    {
+     "word": "deeds",
+     "p": 0.026,
+     "rhyme": 0,
+     "score": 0.312
+    },
+    {
+     "word": "fears",
+     "p": 0.0012,
+     "rhyme": 1.0,
+     "score": 0.265
+    },
+    {
+     "word": "tears",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 0.261
+    },
+    {
+     "word": "air",
+     "p": 0.0158,
+     "rhyme": 0,
+     "score": 0.19
+    },
+    {
+     "word": "winds",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.176
+    },
+    {
+     "word": "spirit",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.173
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Which bring them back to their own evil.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "before",
+   "qwen_top": "ab",
+   "meant": "ab",
+   "chosen": "evil",
+   "candidates": [
+    {
+     "word": "evil",
+     "p": 0.0313,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "despair",
+     "p": 0.0147,
+     "rhyme": 0.3,
+     "score": 0.428
+    },
+    {
+     "word": "ruin",
+     "p": 0.0178,
+     "rhyme": 0,
+     "score": 0.425
+    },
+    {
+     "word": "former",
+     "p": 0.007,
+     "rhyme": 0.6,
+     "score": 0.317
+    },
+    {
+     "word": "awful",
+     "p": 0.0048,
+     "rhyme": 0.6,
+     "score": 0.264
+    },
+    {
+     "word": "horrible",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.201
+    },
+    {
+     "word": "decay",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.18
+    },
+    {
+     "word": "disgrace",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.177
+    },
+    {
+     "word": "deform",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.165
+    },
+    {
+     "word": "disorder",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.161
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Nor can I fancy what a glorious",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "scene",
+   "meant": "scene",
+   "chosen": "glorious",
+   "candidates": [
+    {
+     "word": "glorious",
+     "p": 0.0185,
+     "rhyme": 0,
+     "score": 0.83
+    },
+    {
+     "word": "glory",
+     "p": 0.0106,
+     "rhyme": 0,
+     "score": 0.612
+    },
+    {
+     "word": "noble",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.443
+    },
+    {
+     "word": "shadow",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.363
+    },
+    {
+     "word": "vision",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.352
+    },
+    {
+     "word": "mighty",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "palace",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.309
+    },
+    {
+     "word": "heaven",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.307
+    },
+    {
+     "word": "better",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "tower",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.301
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Day's blest aspect we'll see when our",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "we",
+   "meant": "we",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0237,
+     "rhyme": 0,
+     "score": 0.979
+    },
+    {
+     "word": "again",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.529
+    },
+    {
+     "word": "heaven",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "away",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "liberty",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "decay",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "below",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "anew",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "nations",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.271
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Crowns shall be coronated on our",
+   "syllables": 10,
+   "target": 11,
+   "partner": "glorious",
+   "qwen_top": "thy",
+   "meant": "thy",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0373,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "lofty",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.166
+    },
+    {
+     "word": "august",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.151
+    },
+    {
+     "word": "former",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.151
+    },
+    {
+     "word": "glory",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.151
+    },
+    {
+     "word": "florence",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.151
+    },
+    {
+     "word": "record",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.151
+    },
+    {
+     "word": "heaven",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.049
+    },
+    {
+     "word": "zion",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.02
+    },
+    {
+     "word": "again",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.016
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Instructive monument; and the people",
+   "syllables": 10,
+   "target": 11,
+   "partner": "our",
+   "qwen_top": "world",
+   "meant": "world",
+   "chosen": "people",
+   "candidates": [
+    {
+     "word": "people",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "tower",
+     "p": 0.0051,
+     "rhyme": 1.0,
+     "score": 0.732
+    },
+    {
+     "word": "glory",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.653
+    },
+    {
+     "word": "towers",
+     "p": 0.0048,
+     "rhyme": 0.6,
+     "score": 0.606
+    },
+    {
+     "word": "angels",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.398
+    },
+    {
+     "word": "power",
+     "p": 0.0012,
+     "rhyme": 1.0,
+     "score": 0.36
+    },
+    {
+     "word": "nations",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.35
+    },
+    {
+     "word": "flower",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 0.324
+    },
+    {
+     "word": "flowers",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.303
+    },
+    {
+     "word": "hour",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.293
+    }
+   ]
+  }
+ ]
+}

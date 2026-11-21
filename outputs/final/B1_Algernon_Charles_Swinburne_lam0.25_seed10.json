@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 0.25,
+ "scheme": "AABB",
+ "seed": 10,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "And, as a king mine hour,\nI will speak to thee alone in power.\nMy country's glory is thy name alone\nAs the bramble of golden\nWith salt teeth that steal its flowers\nTo scorch them from my lips with reek about.\nThy world-ruining hand has stolen my\nBalm and my music and my fire\nFor an ephemeral hour,\nBut evermore shall flower\nMy heart-beat from thine unspoken fire.\nFor thou art strong, for thy love divine",
+ "lines": [
+  {
+   "line": 1,
+   "text": "And, as a king mine hour,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "own",
+   "meant": "own",
+   "chosen": "hour",
+   "candidates": [
+    {
+     "word": "hour",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.411
+    },
+    {
+     "word": "array",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "shadow",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "overthrow",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "honour",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.267
+    },
+    {
+     "word": "ally",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.267
+    },
+    {
+     "word": "again",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.26
+    },
+    {
+     "word": "adversary",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "upon",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.241
+    },
+    {
+     "word": "alone",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.237
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "I will speak to thee alone in power.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "hour",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "power",
+   "candidates": [
+    {
+     "word": "power",
+     "p": 0.0013,
+     "rhyme": 1.0,
+     "score": 0.756
+    },
+    {
+     "word": "our",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.462
+    },
+    {
+     "word": "council",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "counsel",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "heaven",
+     "p": 0.0519,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "fire",
+     "p": 0.0009,
+     "rhyme": 0.3,
+     "score": 0.229
+    },
+    {
+     "word": "despair",
+     "p": 0.0005,
+     "rhyme": 0.3,
+     "score": 0.228
+    },
+    {
+     "word": "silence",
+     "p": 0.0117,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "secret",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.032
+    },
+    {
+     "word": "spirit",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.016
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "My country's glory is thy name alone",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.468
+    },
+    {
+     "word": "today",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "away",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "anew",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "below",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.267
+    },
+    {
+     "word": "again",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "between",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "unseen",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "upon",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.243
+    },
+    {
+     "word": "before",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.237
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "As the bramble of golden",
+   "syllables": 7,
+   "target": 8,
+   "partner": "alone",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "golden",
+   "candidates": [
+    {
+     "word": "golden",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "holy",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "roses",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "ocean",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "noble",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "our",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "renown",
+     "p": 0.0003,
+     "rhyme": 0.3,
+     "score": 0.231
+    },
+    {
+     "word": "babylon",
+     "p": 0.0002,
+     "rhyme": 0.3,
+     "score": 0.229
+    },
+    {
+     "word": "heaven",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.116
+    },
+    {
+     "word": "many",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.052
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "With salt teeth that steal its flowers",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "fruit",
+   "meant": "fruit",
+   "chosen": "flowers",
+   "candidates": [
+    {
+     "word": "flowers",
+     "p": 0.0144,
+     "rhyme": 0,
+     "score": 0.389
+    },
+    {
+     "word": "flower",
+     "p": 0.0127,
+     "rhyme": 0,
+     "score": 0.384
+    },
+    {
+     "word": "golden",
+     "p": 0.0127,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "shadow",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.312
+    },
+    {
+     "word": "decay",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "fire",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "very",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.239
+    },
+    {
+     "word": "honey",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.23
+    },
+    {
+     "word": "delight",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.222
+    },
+    {
+     "word": "bitter",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.215
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "To scorch them from my lips with reek about.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "flowers",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "about",
+   "candidates": [
+    {
+     "word": "about",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.488
+    },
+    {
+     "word": "without",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.466
+    },
+    {
+     "word": "around",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.462
+    },
+    {
+     "word": "divine",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "alone",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.194
+    },
+    {
+     "word": "upon",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.118
+    },
+    {
+     "word": "before",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.118
+    },
+    {
+     "word": "again",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.081
+    },
+    {
+     "word": "until",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.063
+    },
+    {
+     "word": "thereof",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.063
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Thy world-ruining hand has stolen my",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "my",
+   "candidates": [
+    {
+     "word": "my",
+     "p": 0.0753,
+     "rhyme": 0,
+     "score": 0.401
+    },
+    {
+     "word": "from",
+     "p": 0.1094,
+     "rhyme": 0,
+     "score": 0.393
+    },
+    {
+     "word": "the",
+     "p": 0.1242,
+     "rhyme": 0,
+     "score": 0.37
+    },
+    {
+     "word": "thy",
+     "p": 0.0521,
+     "rhyme": 0,
+     "score": 0.354
+    },
+    {
+     "word": "thee",
+     "p": 0.0168,
+     "rhyme": 0,
+     "score": 0.315
+    },
+    {
+     "word": "me",
+     "p": 0.0148,
+     "rhyme": 0,
+     "score": 0.311
+    },
+    {
+     "word": "away",
+     "p": 0.0148,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "a",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "to",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "ye",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Balm and my music and my fire",
+   "syllables": 9,
+   "target": 10,
+   "partner": "my",
+   "qwen_top": "song",
+   "meant": "song",
+   "chosen": "fire",
+   "candidates": [
+    {
+     "word": "fire",
+     "p": 0.0081,
+     "rhyme": 0.6,
+     "score": 0.584
+    },
+    {
+     "word": "delight",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.484
+    },
+    {
+     "word": "choir",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "beauty",
+     "p": 0.0151,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "music",
+     "p": 0.0097,
+     "rhyme": 0,
+     "score": 0.162
+    },
+    {
+     "word": "flower",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.134
+    },
+    {
+     "word": "glory",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.086
+    },
+    {
+     "word": "flowers",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.081
+    },
+    {
+     "word": "power",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.076
+    },
+    {
+     "word": "honey",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.072
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "For an ephemeral hour,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "gift",
+   "meant": "gift",
+   "chosen": "hour",
+   "candidates": [
+    {
+     "word": "hour",
+     "p": 0.019,
+     "rhyme": 0,
+     "score": 0.411
+    },
+    {
+     "word": "flower",
+     "p": 0.0139,
+     "rhyme": 0,
+     "score": 0.346
+    },
+    {
+     "word": "nation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "shadow",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "fire",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "holiday",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.266
+    },
+    {
+     "word": "delight",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.259
+    },
+    {
+     "word": "glory",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "present",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.211
+    },
+    {
+     "word": "reward",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.21
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "But evermore shall flower",
+   "syllables": 7,
+   "target": 8,
+   "partner": "hour",
+   "qwen_top": "i",
+   "meant": "i",
+   "chosen": "flower",
+   "candidates": [
+    {
+     "word": "flower",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 0.796
+    },
+    {
+     "word": "power",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 0.774
+    },
+    {
+     "word": "our",
+     "p": 0.0034,
+     "rhyme": 0.6,
+     "score": 0.7
+    },
+    {
+     "word": "flowers",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.468
+    },
+    {
+     "word": "ours",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.466
+    },
+    {
+     "word": "fire",
+     "p": 0.0013,
+     "rhyme": 0.3,
+     "score": 0.318
+    },
+    {
+     "word": "restore",
+     "p": 0.0007,
+     "rhyme": 0.3,
+     "score": 0.277
+    },
+    {
+     "word": "appear",
+     "p": 0.0002,
+     "rhyme": 0.3,
+     "score": 0.239
+    },
+    {
+     "word": "return",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.092
+    },
+    {
+     "word": "heaven",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.081
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "My heart-beat from thine unspoken fire.",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "words",
+   "meant": "words",
+   "chosen": "fire",
+   "candidates": [
+    {
+     "word": "fire",
+     "p": 0.0173,
+     "rhyme": 0,
+     "score": 0.447
+    },
+    {
+     "word": "decree",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "refrain",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "desire",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.26
+    },
+    {
+     "word": "farewell",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "power",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.235
+    },
+    {
+     "word": "sire",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "delight",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "command",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.206
+    },
+    {
+     "word": "hour",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.193
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "For thou art strong, for thy love divine",
+   "syllables": 9,
+   "target": 10,
+   "partner": "fire",
+   "qwen_top": "is",
+   "meant": "is",
+   "chosen": "divine",
+   "candidates": [
+    {
+     "word": "divine",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.527
+    },
+    {
+     "word": "alive",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "abide",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "sublime",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "delights",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "fires",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "beside",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "behind",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "inspires",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "arises",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.453
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "M",
+ "lam": 0.25,
+ "scheme": "ABCB",
+ "seed": 12,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Or a lingering heave of breathing,\nOr the shafts that flit in vibration,\nAnd the sharp echo heard around,\nOr the deep, writhing relaxation,\nOf the four lower souls at entire;\nBut no sound is nowhere\nSave among them and I alone;\nFor they know not nor understand there\nWhat my heart is feeling again.\nThe walls are dry as sea-gulls' debris,\nThe sky darkens with darkness;\nBut I know nothing see,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Or a lingering heave of breathing,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "breath",
+   "chosen": "breathing",
+   "candidates": [
+    {
+     "word": "breathing",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "fatigue",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.68
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.628
+    },
+    {
+     "word": "agony",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.587
+    },
+    {
+     "word": "melancholy",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.584
+    },
+    {
+     "word": "sadness",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "sudden",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.514
+    },
+    {
+     "word": "heavy",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.462
+    },
+    {
+     "word": "darkness",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.428
+    },
+    {
+     "word": "body",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.428
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Or the shafts that flit in vibration,",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "air",
+   "chosen": "vibration",
+   "candidates": [
+    {
+     "word": "vibration",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.347
+    },
+    {
+     "word": "sunlight",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 0.345
+    },
+    {
+     "word": "propagation",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.336
+    },
+    {
+     "word": "debris",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.299
+    },
+    {
+     "word": "vibrations",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "darkness",
+     "p": 0.0169,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "away",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "shadows",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "between",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "fire",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.266
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "And the sharp echo heard around,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "around",
+   "chosen": "around",
+   "candidates": [
+    {
+     "word": "around",
+     "p": 0.0468,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "somewhere",
+     "p": 0.0317,
+     "rhyme": 0,
+     "score": 0.679
+    },
+    {
+     "word": "within",
+     "p": 0.0185,
+     "rhyme": 0,
+     "score": 0.396
+    },
+    {
+     "word": "before",
+     "p": 0.0172,
+     "rhyme": 0,
+     "score": 0.369
+    },
+    {
+     "word": "afar",
+     "p": 0.0108,
+     "rhyme": 0,
+     "score": 0.232
+    },
+    {
+     "word": "above",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.217
+    },
+    {
+     "word": "about",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.182
+    },
+    {
+     "word": "alone",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.16
+    },
+    {
+     "word": "outside",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.139
+    },
+    {
+     "word": "between",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.128
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Or the deep, writhing relaxation,",
+   "syllables": 9,
+   "target": 8,
+   "partner": "vibration",
+   "qwen_top": "of",
+   "meant": "sound",
+   "chosen": "relaxation",
+   "candidates": [
+    {
+     "word": "relaxation",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 0.767
+    },
+    {
+     "word": "meditation",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 0.765
+    },
+    {
+     "word": "sensation",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 0.764
+    },
+    {
+     "word": "agitation",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 0.758
+    },
+    {
+     "word": "vibrations",
+     "p": 0.0064,
+     "rhyme": 0.6,
+     "score": 0.559
+    },
+    {
+     "word": "aching",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.479
+    },
+    {
+     "word": "wailing",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.474
+    },
+    {
+     "word": "cadence",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.474
+    },
+    {
+     "word": "chamber",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "shaking",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.463
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Of the four lower souls at entire;",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "rest",
+   "meant": "rest",
+   "chosen": "entire",
+   "candidates": [
+    {
+     "word": "entire",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "tension",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.928
+    },
+    {
+     "word": "final",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.879
+    },
+    {
+     "word": "extended",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.486
+    },
+    {
+     "word": "remaining",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.439
+    },
+    {
+     "word": "relax",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.385
+    },
+    {
+     "word": "ending",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.38
+    },
+    {
+     "word": "ended",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "divided",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.308
+    },
+    {
+     "word": "return",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.305
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "But no sound is nowhere",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "heard",
+   "meant": "heard",
+   "chosen": "nowhere",
+   "candidates": [
+    {
+     "word": "nowhere",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.415
+    },
+    {
+     "word": "today",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "confirmation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.336
+    },
+    {
+     "word": "situation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.335
+    },
+    {
+     "word": "muffled",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "nobody",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "probably",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.314
+    },
+    {
+     "word": "sounded",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "indeed",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "although",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.294
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Save among them and I alone;",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "alone",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.234,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "together",
+     "p": 0.1406,
+     "rhyme": 0,
+     "score": 0.601
+    },
+    {
+     "word": "again",
+     "p": 0.0124,
+     "rhyme": 0,
+     "score": 0.053
+    },
+    {
+     "word": "only",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.03
+    },
+    {
+     "word": "beside",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.015
+    },
+    {
+     "word": "others",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.014
+    },
+    {
+     "word": "living",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.013
+    },
+    {
+     "word": "standing",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.012
+    },
+    {
+     "word": "sitting",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.012
+    },
+    {
+     "word": "present",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.009
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "For they know not nor understand there",
+   "syllables": 9,
+   "target": 10,
+   "partner": "nowhere",
+   "qwen_top": "me",
+   "meant": "me",
+   "chosen": "there",
+   "candidates": [
+    {
+     "word": "there",
+     "p": 0.0069,
+     "rhyme": 0.9,
+     "score": 0.68
+    },
+    {
+     "word": "us",
+     "p": 0.062,
+     "rhyme": 0.6,
+     "score": 0.498
+    },
+    {
+     "word": "them",
+     "p": 0.0451,
+     "rhyme": 0.6,
+     "score": 0.485
+    },
+    {
+     "word": "never",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "anyone",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "let",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "when",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "again",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "tell",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "else",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.452
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "What my heart is feeling again.",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "or",
+   "meant": "there",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "within",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.839
+    },
+    {
+     "word": "only",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.636
+    },
+    {
+     "word": "over",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.493
+    },
+    {
+     "word": "going",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.447
+    },
+    {
+     "word": "today",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.358
+    },
+    {
+     "word": "even",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "alone",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "many",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "others",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.288
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "The walls are dry as sea-gulls' debris,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "wings",
+   "meant": "wings",
+   "chosen": "debris",
+   "candidates": [
+    {
+     "word": "debris",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "feathers",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "away",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "butterflies",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "tissue",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.235
+    },
+    {
+     "word": "butterfly",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.228
+    },
+    {
+     "word": "include",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.209
+    },
+    {
+     "word": "flapping",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.199
+    },
+    {
+     "word": "flying",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.196
+    },
+    {
+     "word": "laying",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.19
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "The sky darkens with darkness;",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "clouds",
+   "chosen": "darkness",
+   "candidates": [
+    {
+     "word": "darkness",
+     "p": 0.0804,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "shadows",
+     "p": 0.0129,
+     "rhyme": 0,
+     "score": 0.16
+    },
+    {
+     "word": "shadow",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.066
+    },
+    {
+     "word": "twilight",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.059
+    },
+    {
+     "word": "sunlight",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.049
+    },
+    {
+     "word": "debris",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.046
+    },
+    {
+     "word": "danger",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.046
+    },
+    {
+     "word": "looming",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.04
+    },
+    {
+     "word": "fading",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.031
+    },
+    {
+     "word": "warning",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.029
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "But I know nothing see,",
+   "syllables": 6,
+   "target": 7,
+   "partner": "debris",
+   "qwen_top": "of",
+   "meant": "now",
+   "chosen": "see",
+   "candidates": [
+    {
+     "word": "see",
+     "p": 0.0032,
+     "rhyme": 1.0,
+     "score": 0.766
+    },
+    {
+     "word": "we",
+     "p": 0.003,
+     "rhyme": 1.0,
+     "score": 0.765
+    },
+    {
+     "word": "he",
+     "p": 0.0011,
+     "rhyme": 1.0,
+     "score": 0.756
+    },
+    {
+     "word": "she",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 0.755
+    },
+    {
+     "word": "be",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 0.754
+    },
+    {
+     "word": "me",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 0.753
+    },
+    {
+     "word": "nobody",
+     "p": 0.0045,
+     "rhyme": 0.9,
+     "score": 0.698
+    },
+    {
+     "word": "only",
+     "p": 0.0033,
+     "rhyme": 0.9,
+     "score": 0.692
+    },
+    {
+     "word": "presently",
+     "p": 0.0021,
+     "rhyme": 0.9,
+     "score": 0.686
+    },
+    {
+     "word": "exactly",
+     "p": 0.0018,
+     "rhyme": 0.9,
+     "score": 0.684
+    }
+   ]
+  }
+ ]
+}

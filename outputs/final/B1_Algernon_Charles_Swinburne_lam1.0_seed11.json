@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 1.0,
+ "scheme": "AABB",
+ "seed": 11,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "West Wind, bring to us a delicate breath,\nAnd long over our face and our\nHands--where the wildfire has burned our\nFlesh's body; for we know nothing\nOf what will be.    Bring in our\nBreasts: do you mean that we shall die? etc.\nO Sea!  Where is your fire and\nGirth of sea-weed? O Ocean!\nFor no One knows that we are dying or\nLiving nor where or how, as our\nSoul, which the winds take now away,\nIs not known.  Down on our",
+ "lines": [
+  {
+   "line": 1,
+   "text": "West Wind, bring to us a delicate breath,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "breath",
+   "meant": "breath",
+   "chosen": "breath",
+   "candidates": [
+    {
+     "word": "breath",
+     "p": 0.0415,
+     "rhyme": 0,
+     "score": 1.097
+    },
+    {
+     "word": "wind",
+     "p": 0.0368,
+     "rhyme": 0,
+     "score": 1.081
+    },
+    {
+     "word": "song",
+     "p": 0.0369,
+     "rhyme": 0,
+     "score": 1.072
+    },
+    {
+     "word": "breeze",
+     "p": 0.0236,
+     "rhyme": 0,
+     "score": 0.819
+    },
+    {
+     "word": "and",
+     "p": 0.0222,
+     "rhyme": 0,
+     "score": 0.724
+    },
+    {
+     "word": "sound",
+     "p": 0.0223,
+     "rhyme": 0,
+     "score": 0.713
+    },
+    {
+     "word": "air",
+     "p": 0.0144,
+     "rhyme": 0,
+     "score": 0.584
+    },
+    {
+     "word": "sweet",
+     "p": 0.0143,
+     "rhyme": 0,
+     "score": 0.554
+    },
+    {
+     "word": "rain",
+     "p": 0.0119,
+     "rhyme": 0,
+     "score": 0.539
+    },
+    {
+     "word": "day",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.486
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "And long over our face and our",
+   "syllables": 10,
+   "target": 11,
+   "partner": "breath",
+   "qwen_top": "our",
+   "meant": "our",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.1381,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "over",
+     "p": 0.0272,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "forehead",
+     "p": 0.0212,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "every",
+     "p": 0.0073,
+     "rhyme": 0.6,
+     "score": 0.053
+    },
+    {
+     "word": "shoulder",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.044
+    },
+    {
+     "word": "body",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.027
+    },
+    {
+     "word": "under",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.021
+    },
+    {
+     "word": "spirit",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.018
+    },
+    {
+     "word": "heaven",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.016
+    },
+    {
+     "word": "silent",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.011
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Hands--where the wildfire has burned our",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0506,
+     "rhyme": 0,
+     "score": 1.229
+    },
+    {
+     "word": "away",
+     "p": 0.0211,
+     "rhyme": 0,
+     "score": 0.692
+    },
+    {
+     "word": "into",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "below",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "again",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "between",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "anew",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "ago",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.268
+    },
+    {
+     "word": "before",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.257
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Flesh's body; for we know nothing",
+   "syllables": 8,
+   "target": 9,
+   "partner": "our",
+   "qwen_top": "not",
+   "meant": "not",
+   "chosen": "nothing",
+   "candidates": [
+    {
+     "word": "nothing",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "neither",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.688
+    },
+    {
+     "word": "only",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "better",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "even",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "never",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "indeed",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "fire",
+     "p": 0.0006,
+     "rhyme": 0.3,
+     "score": 0.219
+    },
+    {
+     "word": "enough",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.209
+    },
+    {
+     "word": "ourselves",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.209
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Of what will be.    Bring in our",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.1136,
+     "rhyme": 0,
+     "score": 1.229
+    },
+    {
+     "word": "again",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "away",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "shadow",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "into",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "degrees",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.252
+    },
+    {
+     "word": "between",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "forget",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.239
+    },
+    {
+     "word": "upon",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.232
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Breasts: do you mean that we shall die? etc.",
+   "syllables": 12,
+   "target": 11,
+   "partner": "our",
+   "qwen_top": "no",
+   "meant": "no",
+   "chosen": "etc",
+   "candidates": [
+    {
+     "word": "etc",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "whether",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.499
+    },
+    {
+     "word": "before",
+     "p": 0.0001,
+     "rhyme": 0.3,
+     "score": 0.474
+    },
+    {
+     "word": "perhaps",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.45
+    },
+    {
+     "word": "indeed",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.397
+    },
+    {
+     "word": "prepare",
+     "p": 0.0001,
+     "rhyme": 0.3,
+     "score": 0.392
+    },
+    {
+     "word": "behold",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "awake",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.361
+    },
+    {
+     "word": "neither",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.348
+    },
+    {
+     "word": "nothing",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.303
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "O Sea!  Where is your fire and",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "and",
+   "candidates": [
+    {
+     "word": "and",
+     "p": 0.0548,
+     "rhyme": 0,
+     "score": 1.189
+    },
+    {
+     "word": "to",
+     "p": 0.0293,
+     "rhyme": 0,
+     "score": 0.805
+    },
+    {
+     "word": "that",
+     "p": 0.0332,
+     "rhyme": 0,
+     "score": 0.796
+    },
+    {
+     "word": "of",
+     "p": 0.0293,
+     "rhyme": 0,
+     "score": 0.645
+    },
+    {
+     "word": "in",
+     "p": 0.0108,
+     "rhyme": 0,
+     "score": 0.414
+    },
+    {
+     "word": "for",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 0.383
+    },
+    {
+     "word": "so",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "on",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.307
+    },
+    {
+     "word": "again",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "we",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.291
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Girth of sea-weed? O Ocean!",
+   "syllables": 7,
+   "target": 8,
+   "partner": "and",
+   "qwen_top": "sea",
+   "meant": "sea",
+   "chosen": "ocean",
+   "candidates": [
+    {
+     "word": "ocean",
+     "p": 0.0469,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "fire",
+     "p": 0.0162,
+     "rhyme": 0,
+     "score": 0.346
+    },
+    {
+     "word": "river",
+     "p": 0.015,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "water",
+     "p": 0.0139,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "our",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.1
+    },
+    {
+     "word": "mountain",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.091
+    },
+    {
+     "word": "heaven",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.07
+    },
+    {
+     "word": "spirit",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.068
+    },
+    {
+     "word": "thunder",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.053
+    },
+    {
+     "word": "waters",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.053
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "For no One knows that we are dying or",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "or",
+   "meant": "or",
+   "chosen": "or",
+   "candidates": [
+    {
+     "word": "or",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 1.228
+    },
+    {
+     "word": "yet",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 1.122
+    },
+    {
+     "word": "here",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 1.039
+    },
+    {
+     "word": "and",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.969
+    },
+    {
+     "word": "in",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.691
+    },
+    {
+     "word": "now",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "for",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.647
+    },
+    {
+     "word": "to",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.638
+    },
+    {
+     "word": "of",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.527
+    },
+    {
+     "word": "but",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.49
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Living nor where or how, as our",
+   "syllables": 9,
+   "target": 10,
+   "partner": "or",
+   "qwen_top": "we",
+   "meant": "we",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0158,
+     "rhyme": 0.9,
+     "score": 1.0
+    },
+    {
+     "word": "ever",
+     "p": 0.0022,
+     "rhyme": 0.9,
+     "score": 0.137
+    },
+    {
+     "word": "unto",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.104
+    },
+    {
+     "word": "against",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.078
+    },
+    {
+     "word": "ocean",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.076
+    },
+    {
+     "word": "only",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.074
+    },
+    {
+     "word": "many",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.073
+    },
+    {
+     "word": "being",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.073
+    },
+    {
+     "word": "heaven",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.07
+    },
+    {
+     "word": "before",
+     "p": 0.0011,
+     "rhyme": 1.0,
+     "score": 0.069
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Soul, which the winds take now away,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0107,
+     "rhyme": 0,
+     "score": 1.275
+    },
+    {
+     "word": "into",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.638
+    },
+    {
+     "word": "upon",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.43
+    },
+    {
+     "word": "again",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.427
+    },
+    {
+     "word": "our",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.365
+    },
+    {
+     "word": "without",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.362
+    },
+    {
+     "word": "before",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.348
+    },
+    {
+     "word": "alone",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.338
+    },
+    {
+     "word": "between",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "below",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.28
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Is not known.  Down on our",
+   "syllables": 7,
+   "target": 8,
+   "partner": "away",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.2191,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "every",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.006
+    },
+    {
+     "word": "water",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.003
+    },
+    {
+     "word": "ourselves",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.003
+    },
+    {
+     "word": "either",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.002
+    },
+    {
+     "word": "ours",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.002
+    },
+    {
+     "word": "below",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.002
+    },
+    {
+     "word": "ocean",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.002
+    },
+    {
+     "word": "yourself",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.001
+    },
+    {
+     "word": "yourselves",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.001
+    }
+   ]
+  }
+ ]
+}

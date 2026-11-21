@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "ABCB",
+ "seed": 2,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "(Areion and Peleus in\nThe theatre today.\nWhy not to hear again\nThese fellows, playing hero play,\nFrom the old time of our\nTales, that never died? - oh! hello!\nI am ready now as ever.\nPerhaps I can take hero\nAnd song, like my father!\nHeroes! heroes! heroes! ye\nFor you have no doubt already been\nIn your play tonight. I'd rather see",
+ "lines": [
+  {
+   "line": 1,
+   "text": "(Areion and Peleus in",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "in",
+   "candidates": [
+    {
+     "word": "in",
+     "p": 0.0442,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "are",
+     "p": 0.0304,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "and",
+     "p": 0.0303,
+     "rhyme": 0,
+     "score": 0.686
+    },
+    {
+     "word": "at",
+     "p": 0.0143,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "were",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "on",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "with",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "to",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "have",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "of",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.093
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The theatre today.",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "today",
+   "candidates": [
+    {
+     "word": "today",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "below",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "between",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "unseen",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "upon",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "before",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "appear",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.228
+    },
+    {
+     "word": "beside",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.222
+    },
+    {
+     "word": "arena",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.222
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Why not to hear again",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0104,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "our",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.42
+    },
+    {
+     "word": "homer",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "music",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.13
+    },
+    {
+     "word": "another",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "about",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.073
+    },
+    {
+     "word": "voices",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.069
+    },
+    {
+     "word": "something",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.06
+    },
+    {
+     "word": "athens",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.053
+    },
+    {
+     "word": "together",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.047
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "These fellows, playing hero play,",
+   "syllables": 8,
+   "target": 9,
+   "partner": "today",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "play",
+   "candidates": [
+    {
+     "word": "play",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "a",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "they",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "de",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "way",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "gay",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "again",
+     "p": 0.0035,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "plays",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "tales",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "against",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "From the old time of our",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0206,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "ages",
+     "p": 0.0167,
+     "rhyme": 0,
+     "score": 0.811
+    },
+    {
+     "word": "homer",
+     "p": 0.0122,
+     "rhyme": 0,
+     "score": 0.594
+    },
+    {
+     "word": "athens",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 0.589
+    },
+    {
+     "word": "ancient",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.307
+    },
+    {
+     "word": "heroes",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "epic",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "achilles",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.246
+    },
+    {
+     "word": "many",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.231
+    },
+    {
+     "word": "trojan",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.204
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Tales, that never died? - oh! hello!",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "why",
+   "meant": "why",
+   "chosen": "hello",
+   "candidates": [
+    {
+     "word": "hello",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "forget",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "beware",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "our",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "before",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "very",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "indeed",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.214
+    },
+    {
+     "word": "behold",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.189
+    },
+    {
+     "word": "alas",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.184
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "I am ready now as ever.",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "i",
+   "meant": "i",
+   "chosen": "ever",
+   "candidates": [
+    {
+     "word": "ever",
+     "p": 0.0937,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "always",
+     "p": 0.0144,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "ready",
+     "p": 0.0099,
+     "rhyme": 0,
+     "score": 0.106
+    },
+    {
+     "word": "before",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "any",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.06
+    },
+    {
+     "word": "never",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.047
+    },
+    {
+     "word": "often",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.019
+    },
+    {
+     "word": "usual",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.019
+    },
+    {
+     "word": "easy",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.013
+    },
+    {
+     "word": "heroes",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.012
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Perhaps I can take hero",
+   "syllables": 7,
+   "target": 8,
+   "partner": "hello",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "hero",
+   "candidates": [
+    {
+     "word": "hero",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "also",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "plato",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "over",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "notice",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "only",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "alone",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "control",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "away",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "again",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "And song, like my father!",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "old",
+   "meant": "old",
+   "chosen": "father",
+   "candidates": [
+    {
+     "word": "father",
+     "p": 0.0819,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "mother",
+     "p": 0.0241,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "ancestors",
+     "p": 0.0199,
+     "rhyme": 0,
+     "score": 0.243
+    },
+    {
+     "word": "hero",
+     "p": 0.0198,
+     "rhyme": 0,
+     "score": 0.241
+    },
+    {
+     "word": "heroes",
+     "p": 0.0156,
+     "rhyme": 0,
+     "score": 0.191
+    },
+    {
+     "word": "brother",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.15
+    },
+    {
+     "word": "former",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 0.148
+    },
+    {
+     "word": "fathers",
+     "p": 0.0116,
+     "rhyme": 0,
+     "score": 0.141
+    },
+    {
+     "word": "fellows",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 0.122
+    },
+    {
+     "word": "grandfather",
+     "p": 0.0094,
+     "rhyme": 0,
+     "score": 0.115
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Heroes! heroes! heroes! ye",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "heroes",
+   "meant": "heroes",
+   "chosen": "ye",
+   "candidates": [
+    {
+     "word": "ye",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "see",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "three",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "de",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "e",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.279
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "For you have no doubt already been",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "been",
+   "meant": "been",
+   "chosen": "been",
+   "candidates": [
+    {
+     "word": "been",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "played",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "heard",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "done",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "made",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "seen",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "taken",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "sung",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "told",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "won",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.223
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "In your play tonight. I'd rather see",
+   "syllables": 9,
+   "target": 10,
+   "partner": "ye",
+   "qwen_top": "see",
+   "meant": "see",
+   "chosen": "see",
+   "candidates": [
+    {
+     "word": "see",
+     "p": 0.0675,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "be",
+     "p": 0.0596,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "we",
+     "p": 0.0016,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "he",
+     "p": 0.0011,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "e",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "re",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "she",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "me",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "de",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "the",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  }
+ ]
+}

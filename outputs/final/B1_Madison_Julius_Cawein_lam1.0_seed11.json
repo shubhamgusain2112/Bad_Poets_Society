@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "B1",
+ "lam": 1.0,
+ "scheme": "ABCB",
+ "seed": 11,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "The sky is on her; she glides along,\nShe leads a swan in the water's glow,\nAnd with an air of sweet, old delight,\nA few long-sought outswings she\nWandered and flung them over\nAs far as you can see. - And away\nI flew to make myself a\nGay hallelujah for\nFishing upon this shady river.\nTo-day I came back again to\nThis strange lake, with one little\nSmall boat that floats upon",
+ "lines": [
+  {
+   "line": 1,
+   "text": "The sky is on her; she glides along,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "on",
+   "meant": "on",
+   "chosen": "along",
+   "candidates": [
+    {
+     "word": "along",
+     "p": 0.0319,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "across",
+     "p": 0.0171,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "away",
+     "p": 0.0171,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "upon",
+     "p": 0.0151,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "above",
+     "p": 0.0133,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "over",
+     "p": 0.0103,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "among",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "beneath",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "below",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "between",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.153
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "She leads a swan in the water's glow,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "glow",
+   "meant": "glow",
+   "chosen": "glow",
+   "candidates": [
+    {
+     "word": "glow",
+     "p": 0.0681,
+     "rhyme": 0,
+     "score": 1.262
+    },
+    {
+     "word": "flow",
+     "p": 0.0601,
+     "rhyme": 0,
+     "score": 1.144
+    },
+    {
+     "word": "blue",
+     "p": 0.0468,
+     "rhyme": 0,
+     "score": 0.958
+    },
+    {
+     "word": "green",
+     "p": 0.0284,
+     "rhyme": 0,
+     "score": 0.665
+    },
+    {
+     "word": "silver",
+     "p": 0.0342,
+     "rhyme": 0,
+     "score": 0.538
+    },
+    {
+     "word": "light",
+     "p": 0.0195,
+     "rhyme": 0,
+     "score": 0.498
+    },
+    {
+     "word": "song",
+     "p": 0.0208,
+     "rhyme": 0,
+     "score": 0.49
+    },
+    {
+     "word": "way",
+     "p": 0.0143,
+     "rhyme": 0,
+     "score": 0.485
+    },
+    {
+     "word": "edge",
+     "p": 0.025,
+     "rhyme": 0,
+     "score": 0.483
+    },
+    {
+     "word": "deep",
+     "p": 0.0195,
+     "rhyme": 0,
+     "score": 0.439
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "And with an air of sweet, old delight,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "love",
+   "meant": "love",
+   "chosen": "delight",
+   "candidates": [
+    {
+     "word": "delight",
+     "p": 0.0527,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "romance",
+     "p": 0.0284,
+     "rhyme": 0,
+     "score": 0.54
+    },
+    {
+     "word": "wonder",
+     "p": 0.0135,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "enchant",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.144
+    },
+    {
+     "word": "desire",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.128
+    },
+    {
+     "word": "innocence",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.099
+    },
+    {
+     "word": "command",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.095
+    },
+    {
+     "word": "woman",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.095
+    },
+    {
+     "word": "magic",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.078
+    },
+    {
+     "word": "english",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.068
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "A few long-sought outswings she",
+   "syllables": 7,
+   "target": 8,
+   "partner": "glow",
+   "qwen_top": "she",
+   "meant": "she",
+   "chosen": "she",
+   "candidates": [
+    {
+     "word": "she",
+     "p": 0.376,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "of",
+     "p": 0.0309,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "her",
+     "p": 0.0272,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "and",
+     "p": 0.0272,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "are",
+     "p": 0.0272,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "in",
+     "p": 0.0146,
+     "rhyme": 0,
+     "score": 0.039
+    },
+    {
+     "word": "the",
+     "p": 0.0129,
+     "rhyme": 0,
+     "score": 0.034
+    },
+    {
+     "word": "we",
+     "p": 0.0129,
+     "rhyme": 0,
+     "score": 0.034
+    },
+    {
+     "word": "i",
+     "p": 0.0114,
+     "rhyme": 0,
+     "score": 0.03
+    },
+    {
+     "word": "to",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.024
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Wandered and flung them over",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "on",
+   "meant": "on",
+   "chosen": "over",
+   "candidates": [
+    {
+     "word": "over",
+     "p": 0.0259,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "about",
+     "p": 0.0178,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "into",
+     "p": 0.0108,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "away",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "aside",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "across",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "gently",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "upon",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "along",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "lightly",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.153
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "As far as you can see. - And away",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "then",
+   "meant": "then",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 1.275
+    },
+    {
+     "word": "again",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 1.068
+    },
+    {
+     "word": "behold",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.954
+    },
+    {
+     "word": "over",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.825
+    },
+    {
+     "word": "after",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.607
+    },
+    {
+     "word": "never",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.579
+    },
+    {
+     "word": "many",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.566
+    },
+    {
+     "word": "indeed",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.533
+    },
+    {
+     "word": "upon",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.533
+    },
+    {
+     "word": "along",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.502
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "I flew to make myself a",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "a",
+   "chosen": "a",
+   "candidates": [
+    {
+     "word": "a",
+     "p": 0.3093,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "the",
+     "p": 0.0419,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "at",
+     "p": 0.0419,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "more",
+     "p": 0.0419,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "welcome",
+     "p": 0.0224,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "her",
+     "p": 0.0198,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "as",
+     "p": 0.0198,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "an",
+     "p": 0.0198,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "happy",
+     "p": 0.0136,
+     "rhyme": 0,
+     "score": 0.044
+    },
+    {
+     "word": "known",
+     "p": 0.0136,
+     "rhyme": 0,
+     "score": 0.044
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Gay hallelujah for",
+   "syllables": 6,
+   "target": 7,
+   "partner": "away",
+   "qwen_top": "for",
+   "meant": "for",
+   "chosen": "for",
+   "candidates": [
+    {
+     "word": "for",
+     "p": 0.2373,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "to",
+     "p": 0.1121,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "in",
+     "p": 0.0364,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "on",
+     "p": 0.0221,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "of",
+     "p": 0.0221,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "and",
+     "p": 0.0195,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "song",
+     "p": 0.0134,
+     "rhyme": 0,
+     "score": 0.057
+    },
+    {
+     "word": "with",
+     "p": 0.0134,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "that",
+     "p": 0.0104,
+     "rhyme": 0,
+     "score": 0.044
+    },
+    {
+     "word": "as",
+     "p": 0.0104,
+     "rhyme": 0,
+     "score": 0.044
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Fishing upon this shady river.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "day",
+   "meant": "day",
+   "chosen": "river",
+   "candidates": [
+    {
+     "word": "river",
+     "p": 0.0124,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "water",
+     "p": 0.0116,
+     "rhyme": 0,
+     "score": 0.937
+    },
+    {
+     "word": "mountain",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "morning",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.196
+    },
+    {
+     "word": "little",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.126
+    },
+    {
+     "word": "island",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.113
+    },
+    {
+     "word": "hour",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.093
+    },
+    {
+     "word": "summer",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.083
+    },
+    {
+     "word": "flower",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.073
+    },
+    {
+     "word": "tower",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.068
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "To-day I came back again to",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "to",
+   "candidates": [
+    {
+     "word": "to",
+     "p": 0.0603,
+     "rhyme": 0,
+     "score": 1.27
+    },
+    {
+     "word": "and",
+     "p": 0.0222,
+     "rhyme": 0,
+     "score": 0.557
+    },
+    {
+     "word": "with",
+     "p": 0.0196,
+     "rhyme": 0,
+     "score": 0.453
+    },
+    {
+     "word": "from",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.293
+    },
+    {
+     "word": "for",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.293
+    },
+    {
+     "word": "a",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "she",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "in",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "This strange lake, with one little",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "little",
+   "candidates": [
+    {
+     "word": "little",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "desire",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "other",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.473
+    },
+    {
+     "word": "only",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.443
+    },
+    {
+     "word": "happy",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.369
+    },
+    {
+     "word": "longing",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.304
+    },
+    {
+     "word": "sorrow",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.252
+    },
+    {
+     "word": "memory",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "single",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "sudden",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.237
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Small boat that floats upon",
+   "syllables": 6,
+   "target": 7,
+   "partner": "to",
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "upon",
+   "candidates": [
+    {
+     "word": "upon",
+     "p": 0.0984,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "along",
+     "p": 0.0597,
+     "rhyme": 0,
+     "score": 0.606
+    },
+    {
+     "word": "beside",
+     "p": 0.0249,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "above",
+     "p": 0.0171,
+     "rhyme": 0.6,
+     "score": 0.174
+    },
+    {
+     "word": "among",
+     "p": 0.0151,
+     "rhyme": 0.6,
+     "score": 0.153
+    },
+    {
+     "word": "over",
+     "p": 0.0118,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "beneath",
+     "p": 0.0104,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "within",
+     "p": 0.0092,
+     "rhyme": 0.6,
+     "score": 0.093
+    },
+    {
+     "word": "across",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "about",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.064
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 0.25,
+ "scheme": "AABB",
+ "seed": 11,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "West Wind, bring to us a delicate wind\nFrom the boundless deeps of the ages behind,\nAnd breathe it upon the arid desert\nWhere the dust and the naked dirt\nAre like mountains sleeping upon\nThe never-waning summer night; our\nSedentary hearts shall forget\nTheir own solitude: wherever\nWe walk in many, with those who follow\nBut who know not yet whom we wander\nUpon the deserted highway\nOf hope, and what will remain",
+ "lines": [
+  {
+   "line": 1,
+   "text": "West Wind, bring to us a delicate wind",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "breath",
+   "meant": "breath",
+   "chosen": "wind",
+   "candidates": [
+    {
+     "word": "wind",
+     "p": 0.0368,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "song",
+     "p": 0.0369,
+     "rhyme": 0,
+     "score": 0.406
+    },
+    {
+     "word": "breeze",
+     "p": 0.0236,
+     "rhyme": 0,
+     "score": 0.393
+    },
+    {
+     "word": "breath",
+     "p": 0.0415,
+     "rhyme": 0,
+     "score": 0.347
+    },
+    {
+     "word": "day",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "rain",
+     "p": 0.0119,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "air",
+     "p": 0.0144,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "and",
+     "p": 0.0222,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "sound",
+     "p": 0.0223,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "sea",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.303
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "From the boundless deeps of the ages behind,",
+   "syllables": 11,
+   "target": 11,
+   "partner": "wind",
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "behind",
+   "candidates": [
+    {
+     "word": "behind",
+     "p": 0.0015,
+     "rhyme": 1.0,
+     "score": 0.753
+    },
+    {
+     "word": "blind",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 0.75
+    },
+    {
+     "word": "mind",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 0.75
+    },
+    {
+     "word": "to",
+     "p": 0.0811,
+     "rhyme": 0.6,
+     "score": 0.622
+    },
+    {
+     "word": "which",
+     "p": 0.0067,
+     "rhyme": 0.6,
+     "score": 0.464
+    },
+    {
+     "word": "wide",
+     "p": 0.0052,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "in",
+     "p": 0.0046,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "since",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "by",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "still",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.455
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "And breathe it upon the arid desert",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "earth",
+   "meant": "earth",
+   "chosen": "desert",
+   "candidates": [
+    {
+     "word": "desert",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.431
+    },
+    {
+     "word": "faces",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.245
+    },
+    {
+     "word": "places",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.236
+    },
+    {
+     "word": "valley",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.196
+    },
+    {
+     "word": "fires",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.195
+    },
+    {
+     "word": "city",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.188
+    },
+    {
+     "word": "flower",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.183
+    },
+    {
+     "word": "barren",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.181
+    },
+    {
+     "word": "summer",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.172
+    },
+    {
+     "word": "hollow",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.17
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Where the dust and the naked dirt",
+   "syllables": 8,
+   "target": 9,
+   "partner": "desert",
+   "qwen_top": "earth",
+   "meant": "earth",
+   "chosen": "dirt",
+   "candidates": [
+    {
+     "word": "dirt",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 0.751
+    },
+    {
+     "word": "earth",
+     "p": 0.145,
+     "rhyme": 0.6,
+     "score": 0.7
+    },
+    {
+     "word": "air",
+     "p": 0.0072,
+     "rhyme": 0.6,
+     "score": 0.462
+    },
+    {
+     "word": "flesh",
+     "p": 0.0043,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "des",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "world",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "bare",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "dead",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "turf",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "hair",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.452
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Are like mountains sleeping upon",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "upon",
+   "candidates": [
+    {
+     "word": "upon",
+     "p": 0.0171,
+     "rhyme": 0,
+     "score": 0.454
+    },
+    {
+     "word": "under",
+     "p": 0.0194,
+     "rhyme": 0,
+     "score": 0.347
+    },
+    {
+     "word": "beneath",
+     "p": 0.0171,
+     "rhyme": 0,
+     "score": 0.345
+    },
+    {
+     "word": "between",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "away",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "into",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "within",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "below",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "unseen",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.261
+    },
+    {
+     "word": "again",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.256
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "The never-waning summer night; our",
+   "syllables": 10,
+   "target": 11,
+   "partner": "upon",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.7
+    },
+    {
+     "word": "because",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.502
+    },
+    {
+     "word": "beyond",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.48
+    },
+    {
+     "word": "depart",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.476
+    },
+    {
+     "word": "afar",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.469
+    },
+    {
+     "word": "wherein",
+     "p": 0.0006,
+     "rhyme": 0.3,
+     "score": 0.335
+    },
+    {
+     "word": "within",
+     "p": 0.0002,
+     "rhyme": 0.3,
+     "score": 0.271
+    },
+    {
+     "word": "between",
+     "p": 0.0002,
+     "rhyme": 0.3,
+     "score": 0.253
+    },
+    {
+     "word": "divine",
+     "p": 0.0001,
+     "rhyme": 0.3,
+     "score": 0.246
+    },
+    {
+     "word": "again",
+     "p": 0.0001,
+     "rhyme": 0.3,
+     "score": 0.246
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Sedentary hearts shall forget",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "be",
+   "meant": "be",
+   "chosen": "forget",
+   "candidates": [
+    {
+     "word": "forget",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.341
+    },
+    {
+     "word": "listen",
+     "p": 0.0146,
+     "rhyme": 0,
+     "score": 0.34
+    },
+    {
+     "word": "awake",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "renew",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "rebel",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "rejoice",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 0.246
+    },
+    {
+     "word": "arise",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.245
+    },
+    {
+     "word": "never",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.24
+    },
+    {
+     "word": "abide",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.23
+    },
+    {
+     "word": "begin",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.223
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Their own solitude: wherever",
+   "syllables": 8,
+   "target": 8,
+   "partner": "forget",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "wherever",
+   "candidates": [
+    {
+     "word": "wherever",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "remember",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "every",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "never",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "ever",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "welcome",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "heaven",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "many",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "however",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "whether",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.451
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "We walk in many, with those who follow",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "walk",
+   "meant": "walk",
+   "chosen": "follow",
+   "candidates": [
+    {
+     "word": "follow",
+     "p": 0.0642,
+     "rhyme": 0,
+     "score": 0.382
+    },
+    {
+     "word": "borrow",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "remain",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "forget",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.239
+    },
+    {
+     "word": "before",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.23
+    },
+    {
+     "word": "abide",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.227
+    },
+    {
+     "word": "alone",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.221
+    },
+    {
+     "word": "carry",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.218
+    },
+    {
+     "word": "always",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.21
+    },
+    {
+     "word": "cannot",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.204
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "But who know not yet whom we wander",
+   "syllables": 9,
+   "target": 10,
+   "partner": "follow",
+   "qwen_top": "know",
+   "meant": "know",
+   "chosen": "wander",
+   "candidates": [
+    {
+     "word": "wander",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.602
+    },
+    {
+     "word": "followed",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.554
+    },
+    {
+     "word": "honour",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.531
+    },
+    {
+     "word": "cannot",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.517
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.484
+    },
+    {
+     "word": "honor",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.467
+    },
+    {
+     "word": "copy",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.462
+    },
+    {
+     "word": "acknowledge",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.462
+    },
+    {
+     "word": "travel",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "worship",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.235
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Upon the deserted highway",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "paths",
+   "meant": "paths",
+   "chosen": "highway",
+   "candidates": [
+    {
+     "word": "highway",
+     "p": 0.0136,
+     "rhyme": 0,
+     "score": 0.438
+    },
+    {
+     "word": "desert",
+     "p": 0.0186,
+     "rhyme": 0,
+     "score": 0.431
+    },
+    {
+     "word": "highways",
+     "p": 0.0113,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "pathway",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "roadway",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "roadside",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "mountain",
+     "p": 0.0154,
+     "rhyme": 0,
+     "score": 0.242
+    },
+    {
+     "word": "avenue",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.239
+    },
+    {
+     "word": "pathways",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.235
+    },
+    {
+     "word": "frontier",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.234
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Of hope, and what will remain",
+   "syllables": 7,
+   "target": 8,
+   "partner": "highway",
+   "qwen_top": "be",
+   "meant": "be",
+   "chosen": "remain",
+   "candidates": [
+    {
+     "word": "remain",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "await",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "again",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "awake",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "escape",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "always",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "prevail",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "replace",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "awaken",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "avail",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.451
+    }
+   ]
+  }
+ ]
+}

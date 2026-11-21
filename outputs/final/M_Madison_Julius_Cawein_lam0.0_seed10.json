@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "M",
+ "lam": 0.0,
+ "scheme": "ABCB",
+ "seed": 10,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "The wind is born again.\nA carpet of white snows, like debris\nFrom heaven, lies down upon heaven.\nIt was the last Sunday\nOf every year again,\nWhen nothing but sunbeams shone away\nFor all that time. The tangle over\nOf tall, yellow bristling gray,\nLike leaves on a summer tree,\nBroke in the moonlight's see,\nAnd down it fell with uncounted feet.\nIts slender masts were sails; debris",
+ "lines": [
+  {
+   "line": 1,
+   "text": "The wind is born again.",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.3062,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "alone",
+     "p": 0.0217,
+     "rhyme": 0,
+     "score": 0.071
+    },
+    {
+     "word": "together",
+     "p": 0.0154,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "somewhere",
+     "p": 0.013,
+     "rhyme": 0,
+     "score": 0.042
+    },
+    {
+     "word": "until",
+     "p": 0.0089,
+     "rhyme": 0,
+     "score": 0.029
+    },
+    {
+     "word": "anew",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 0.027
+    },
+    {
+     "word": "awake",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.022
+    },
+    {
+     "word": "around",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.02
+    },
+    {
+     "word": "finally",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.019
+    },
+    {
+     "word": "before",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.014
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "A carpet of white snows, like debris",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "snow",
+   "chosen": "debris",
+   "candidates": [
+    {
+     "word": "debris",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "shadow",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "symbolize",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.245
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.231
+    },
+    {
+     "word": "statue",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.226
+    },
+    {
+     "word": "sunlight",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "midnight",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "mary",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "shadows",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.2
+    },
+    {
+     "word": "fire",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.197
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "From heaven, lies down upon heaven.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "earth",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0158,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "along",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.206
+    },
+    {
+     "word": "heavens",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.196
+    },
+    {
+     "word": "above",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.191
+    },
+    {
+     "word": "everything",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.165
+    },
+    {
+     "word": "again",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.148
+    },
+    {
+     "word": "enemy",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.132
+    },
+    {
+     "word": "beautiful",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.128
+    },
+    {
+     "word": "nothing",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.119
+    },
+    {
+     "word": "going",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.113
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "It was the last Sunday",
+   "syllables": 6,
+   "target": 7,
+   "partner": "debris",
+   "qwen_top": "of",
+   "meant": "snow",
+   "chosen": "sunday",
+   "candidates": [
+    {
+     "word": "sunday",
+     "p": 0.0021,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "heavy",
+     "p": 0.0018,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "every",
+     "p": 0.0015,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "friday",
+     "p": 0.0015,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "saturday",
+     "p": 0.0014,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "monday",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "chilly",
+     "p": 0.0012,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "shortly",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "thursday",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "ceremony",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Of every year again,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.1212,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "before",
+     "p": 0.0729,
+     "rhyme": 0,
+     "score": 0.601
+    },
+    {
+     "word": "until",
+     "p": 0.0219,
+     "rhyme": 0,
+     "score": 0.18
+    },
+    {
+     "word": "ago",
+     "p": 0.0159,
+     "rhyme": 0,
+     "score": 0.131
+    },
+    {
+     "word": "began",
+     "p": 0.0127,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "finally",
+     "p": 0.0124,
+     "rhyme": 0,
+     "score": 0.102
+    },
+    {
+     "word": "after",
+     "p": 0.0103,
+     "rhyme": 0,
+     "score": 0.085
+    },
+    {
+     "word": "returned",
+     "p": 0.0091,
+     "rhyme": 0,
+     "score": 0.075
+    },
+    {
+     "word": "briefly",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.058
+    },
+    {
+     "word": "revived",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.05
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "When nothing but sunbeams shone away",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "again",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "today",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "anew",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0687,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "remain",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "july",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "between",
+     "p": 0.0109,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "january",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "february",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.244
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "For all that time. The tangle over",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "flies",
+   "chosen": "over",
+   "candidates": [
+    {
+     "word": "over",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "scattered",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.649
+    },
+    {
+     "word": "swirling",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.532
+    },
+    {
+     "word": "amid",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.516
+    },
+    {
+     "word": "around",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.475
+    },
+    {
+     "word": "hanging",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.412
+    },
+    {
+     "word": "overhead",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.345
+    },
+    {
+     "word": "tangled",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.343
+    },
+    {
+     "word": "covered",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "between",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.252
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Of tall, yellow bristling gray,",
+   "syllables": 8,
+   "target": 9,
+   "partner": "away",
+   "qwen_top": "snow",
+   "meant": "branches",
+   "chosen": "gray",
+   "candidates": [
+    {
+     "word": "gray",
+     "p": 0.0019,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "grey",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "hay",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "tails",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "blades",
+     "p": 0.0035,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "snowflakes",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "sails",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "maple",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "grains",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "rain",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Like leaves on a summer tree,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "tree",
+   "meant": "tree",
+   "chosen": "tree",
+   "candidates": [
+    {
+     "word": "tree",
+     "p": 0.0713,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "day",
+     "p": 0.0411,
+     "rhyme": 0,
+     "score": 0.577
+    },
+    {
+     "word": "hill",
+     "p": 0.0197,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "grove",
+     "p": 0.0156,
+     "rhyme": 0,
+     "score": 0.219
+    },
+    {
+     "word": "pine",
+     "p": 0.0139,
+     "rhyme": 0,
+     "score": 0.196
+    },
+    {
+     "word": "sky",
+     "p": 0.0131,
+     "rhyme": 0,
+     "score": 0.183
+    },
+    {
+     "word": "sun",
+     "p": 0.0094,
+     "rhyme": 0,
+     "score": 0.132
+    },
+    {
+     "word": "trees",
+     "p": 0.0094,
+     "rhyme": 0,
+     "score": 0.132
+    },
+    {
+     "word": "morning",
+     "p": 0.0089,
+     "rhyme": 0,
+     "score": 0.125
+    },
+    {
+     "word": "afternoon",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.112
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Broke in the moonlight's see,",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "light",
+   "meant": "light",
+   "chosen": "see",
+   "candidates": [
+    {
+     "word": "see",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "debris",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "way",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "gray",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "spray",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "grey",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "day",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "may",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "play",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "And down it fell with uncounted feet.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "weight",
+   "meant": "feet",
+   "chosen": "feet",
+   "candidates": [
+    {
+     "word": "feet",
+     "p": 0.0138,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "scattered",
+     "p": 0.0119,
+     "rhyme": 0,
+     "score": 0.864
+    },
+    {
+     "word": "dust",
+     "p": 0.0116,
+     "rhyme": 0,
+     "score": 0.838
+    },
+    {
+     "word": "inches",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.524
+    },
+    {
+     "word": "debris",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.505
+    },
+    {
+     "word": "clouds",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.498
+    },
+    {
+     "word": "weight",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.49
+    },
+    {
+     "word": "rain",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.451
+    },
+    {
+     "word": "heavy",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.419
+    },
+    {
+     "word": "snow",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.357
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Its slender masts were sails; debris",
+   "syllables": 8,
+   "target": 9,
+   "partner": "see",
+   "qwen_top": "its",
+   "meant": "then",
+   "chosen": "debris",
+   "candidates": [
+    {
+     "word": "debris",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "quickly",
+     "p": 0.0037,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "finally",
+     "p": 0.0032,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "slowly",
+     "p": 0.0016,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "already",
+     "p": 0.0016,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "many",
+     "p": 0.0014,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "only",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "suddenly",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "very",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "rapidly",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  }
+ ]
+}

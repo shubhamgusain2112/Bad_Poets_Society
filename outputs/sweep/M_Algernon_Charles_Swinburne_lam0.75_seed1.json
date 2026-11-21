@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 0.75,
+ "scheme": "AABB",
+ "seed": 1,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "And May is all sweet the flower\nThat makes the dawn so very\nDelightful, and night so dark indeed.\nO summer of old ago!\nI rode thee home. The summer's friend alone\nA world of merry things has he never,\nNor had I heard how long since that hour\nHe set us in these days to do better.\nFair maidens shall we meet again?\nWill love draw nigh? will sorrow?\nShall any born face there be like ours?\nAll we meet will be forever.",
+ "lines": [
+  {
+   "line": 1,
+   "text": "And May is all sweet the flower",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "more",
+   "meant": "day",
+   "chosen": "flower",
+   "candidates": [
+    {
+     "word": "flower",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.913
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.758
+    },
+    {
+     "word": "autumn",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.648
+    },
+    {
+     "word": "second",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.596
+    },
+    {
+     "word": "morning",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.574
+    },
+    {
+     "word": "beauty",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.557
+    },
+    {
+     "word": "july",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.465
+    },
+    {
+     "word": "roses",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.46
+    },
+    {
+     "word": "afternoon",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.437
+    },
+    {
+     "word": "lily",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.401
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "That makes the dawn so very",
+   "syllables": 7,
+   "target": 8,
+   "partner": "flower",
+   "qwen_top": "fair",
+   "meant": "fair",
+   "chosen": "very",
+   "candidates": [
+    {
+     "word": "very",
+     "p": 0.0093,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "lovely",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.484
+    },
+    {
+     "word": "beautiful",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.479
+    },
+    {
+     "word": "pretty",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.236
+    },
+    {
+     "word": "flowers",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.221
+    },
+    {
+     "word": "honest",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.218
+    },
+    {
+     "word": "fragrant",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.217
+    },
+    {
+     "word": "sounded",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.208
+    },
+    {
+     "word": "violet",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.204
+    },
+    {
+     "word": "orange",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.158
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Delightful, and night so dark indeed.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "sweet",
+   "chosen": "indeed",
+   "candidates": [
+    {
+     "word": "indeed",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.894
+    },
+    {
+     "word": "very",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.784
+    },
+    {
+     "word": "beautiful",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "despair",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.692
+    },
+    {
+     "word": "darkness",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.588
+    },
+    {
+     "word": "perfect",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.548
+    },
+    {
+     "word": "desperation",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.543
+    },
+    {
+     "word": "about",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.523
+    },
+    {
+     "word": "eternal",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.511
+    },
+    {
+     "word": "heaven",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.488
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "O summer of old ago!",
+   "syllables": 7,
+   "target": 8,
+   "partner": "indeed",
+   "qwen_top": "days",
+   "meant": "years",
+   "chosen": "ago",
+   "candidates": [
+    {
+     "word": "ago",
+     "p": 0.0204,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "summer",
+     "p": 0.0126,
+     "rhyme": 0,
+     "score": 0.462
+    },
+    {
+     "word": "buried",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.266
+    },
+    {
+     "word": "thirty",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.257
+    },
+    {
+     "word": "glory",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.247
+    },
+    {
+     "word": "memories",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.24
+    },
+    {
+     "word": "fifteen",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.227
+    },
+    {
+     "word": "hours",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.226
+    },
+    {
+     "word": "seasons",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.213
+    },
+    {
+     "word": "dreaming",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.207
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "I rode thee home. The summer's friend alone",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "is",
+   "meant": "came",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0231,
+     "rhyme": 0,
+     "score": 0.968
+    },
+    {
+     "word": "again",
+     "p": 0.0138,
+     "rhyme": 0,
+     "score": 0.702
+    },
+    {
+     "word": "second",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "july",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.311
+    },
+    {
+     "word": "february",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "before",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "ago",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "nobody",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "probably",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "replied",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.284
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "A world of merry things has he never,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "alone",
+   "qwen_top": "for",
+   "meant": "been",
+   "chosen": "never",
+   "candidates": [
+    {
+     "word": "never",
+     "p": 0.0235,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "already",
+     "p": 0.0166,
+     "rhyme": 0,
+     "score": 0.53
+    },
+    {
+     "word": "being",
+     "p": 0.015,
+     "rhyme": 0,
+     "score": 0.478
+    },
+    {
+     "word": "ever",
+     "p": 0.0108,
+     "rhyme": 0,
+     "score": 0.345
+    },
+    {
+     "word": "only",
+     "p": 0.004,
+     "rhyme": 0.6,
+     "score": 0.279
+    },
+    {
+     "word": "ago",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.274
+    },
+    {
+     "word": "having",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "although",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.193
+    },
+    {
+     "word": "disclosed",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.166
+    },
+    {
+     "word": "almost",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.163
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Nor had I heard how long since that hour",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "day",
+   "meant": "day",
+   "chosen": "hour",
+   "candidates": [
+    {
+     "word": "hour",
+     "p": 0.0176,
+     "rhyme": 0,
+     "score": 0.911
+    },
+    {
+     "word": "morning",
+     "p": 0.0172,
+     "rhyme": 0,
+     "score": 0.823
+    },
+    {
+     "word": "hours",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.457
+    },
+    {
+     "word": "before",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "afternoon",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.413
+    },
+    {
+     "word": "celebration",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.342
+    },
+    {
+     "word": "every",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.332
+    },
+    {
+     "word": "midnight",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "ago",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "sunday",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.312
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "He set us in these days to do better.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "hour",
+   "qwen_top": "and",
+   "meant": "good",
+   "chosen": "better",
+   "candidates": [
+    {
+     "word": "better",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "doing",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.557
+    },
+    {
+     "word": "excellent",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.398
+    },
+    {
+     "word": "together",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "terrific",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "performance",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "without",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.21
+    },
+    {
+     "word": "our",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.195
+    },
+    {
+     "word": "even",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.176
+    },
+    {
+     "word": "really",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.166
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Fair maidens shall we meet again?",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "no",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.6469,
+     "rhyme": 0,
+     "score": 1.003
+    },
+    {
+     "word": "today",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "anew",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "nobody",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "probably",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "although",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "anyway",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "realized",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "july",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.249
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Will love draw nigh? will sorrow?",
+   "syllables": 7,
+   "target": 8,
+   "partner": "again",
+   "qwen_top": "love",
+   "meant": "love",
+   "chosen": "sorrow",
+   "candidates": [
+    {
+     "word": "sorrow",
+     "p": 0.0131,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "passion",
+     "p": 0.0117,
+     "rhyme": 0,
+     "score": 0.667
+    },
+    {
+     "word": "happiness",
+     "p": 0.011,
+     "rhyme": 0,
+     "score": 0.629
+    },
+    {
+     "word": "sadness",
+     "p": 0.0097,
+     "rhyme": 0,
+     "score": 0.554
+    },
+    {
+     "word": "longing",
+     "p": 0.0093,
+     "rhyme": 0,
+     "score": 0.529
+    },
+    {
+     "word": "despair",
+     "p": 0.0047,
+     "rhyme": 0.6,
+     "score": 0.418
+    },
+    {
+     "word": "eternal",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.369
+    },
+    {
+     "word": "compassion",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.333
+    },
+    {
+     "word": "affection",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.323
+    },
+    {
+     "word": "memories",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.293
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Shall any born face there be like ours?",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "mine",
+   "meant": "mine",
+   "chosen": "ours",
+   "candidates": [
+    {
+     "word": "ours",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.907
+    },
+    {
+     "word": "our",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.82
+    },
+    {
+     "word": "never",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.47
+    },
+    {
+     "word": "again",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.45
+    },
+    {
+     "word": "somebody",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.409
+    },
+    {
+     "word": "going",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.396
+    },
+    {
+     "word": "upon",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.394
+    },
+    {
+     "word": "because",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.386
+    },
+    {
+     "word": "always",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.377
+    },
+    {
+     "word": "probably",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.353
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "All we meet will be forever.",
+   "syllables": 8,
+   "target": 8,
+   "partner": "ours",
+   "qwen_top": "fair",
+   "meant": "forever",
+   "chosen": "forever",
+   "candidates": [
+    {
+     "word": "forever",
+     "p": 0.0137,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "beautiful",
+     "p": 0.0113,
+     "rhyme": 0,
+     "score": 0.62
+    },
+    {
+     "word": "lovely",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.393
+    },
+    {
+     "word": "forgotten",
+     "p": 0.0032,
+     "rhyme": 0.6,
+     "score": 0.326
+    },
+    {
+     "word": "happy",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "alone",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "flowers",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 0.285
+    },
+    {
+     "word": "lovers",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "lucky",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.228
+    },
+    {
+     "word": "charming",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.222
+    }
+   ]
+  }
+ ]
+}

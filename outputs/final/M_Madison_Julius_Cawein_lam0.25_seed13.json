@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "M",
+ "lam": 0.25,
+ "scheme": "ABCB",
+ "seed": 13,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "I thought I had seen the darkness\nThrough some small window of celebration,\nWhen once it fell upon me\nTo see that great calmness begun.\nAnd to think, as my vision\nShook from its splendor away,\nThat my soul now seemed alone,\nIn this lonely night.  Today\nThere were no lights somewhere,\nBut only these shadows, too,\nLike something old and fallen, too,\nWhere in the summer dew",
+ "lines": [
+  {
+   "line": 1,
+   "text": "I thought I had seen the darkness",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "sun",
+   "meant": "sun",
+   "chosen": "darkness",
+   "candidates": [
+    {
+     "word": "darkness",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.924
+    },
+    {
+     "word": "beautiful",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.787
+    },
+    {
+     "word": "morning",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.727
+    },
+    {
+     "word": "golden",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.631
+    },
+    {
+     "word": "sunset",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.547
+    },
+    {
+     "word": "mountain",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.514
+    },
+    {
+     "word": "autumn",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.459
+    },
+    {
+     "word": "water",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.456
+    },
+    {
+     "word": "moonlight",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.4
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Through some small window of celebration,",
+   "syllables": 10,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "night",
+   "chosen": "celebration",
+   "candidates": [
+    {
+     "word": "celebration",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "darkness",
+     "p": 0.0485,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "shadow",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "sunday",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "reality",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "saturday",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.26
+    },
+    {
+     "word": "monday",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.259
+    },
+    {
+     "word": "friday",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.259
+    },
+    {
+     "word": "thursday",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.258
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "When once it fell upon me",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "me",
+   "meant": "me",
+   "chosen": "me",
+   "candidates": [
+    {
+     "word": "me",
+     "p": 0.8261,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "him",
+     "p": 0.0173,
+     "rhyme": 0,
+     "score": 0.021
+    },
+    {
+     "word": "us",
+     "p": 0.013,
+     "rhyme": 0,
+     "score": 0.016
+    },
+    {
+     "word": "you",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.008
+    },
+    {
+     "word": "them",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.005
+    },
+    {
+     "word": "my",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.004
+    },
+    {
+     "word": "i",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.004
+    },
+    {
+     "word": "love",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.003
+    },
+    {
+     "word": "myself",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.002
+    },
+    {
+     "word": "see",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.002
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "To see that great calmness begun.",
+   "syllables": 8,
+   "target": 8,
+   "partner": "celebration",
+   "qwen_top": "of",
+   "meant": "disappear",
+   "chosen": "begun",
+   "candidates": [
+    {
+     "word": "begun",
+     "p": 0.0019,
+     "rhyme": 0.9,
+     "score": 0.682
+    },
+    {
+     "word": "none",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.677
+    },
+    {
+     "word": "again",
+     "p": 0.0478,
+     "rhyme": 0.6,
+     "score": 0.634
+    },
+    {
+     "word": "fade",
+     "p": 0.0274,
+     "rhyme": 0.6,
+     "score": 0.556
+    },
+    {
+     "word": "they",
+     "p": 0.0032,
+     "rhyme": 0.6,
+     "score": 0.462
+    },
+    {
+     "word": "may",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "faded",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "later",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "fading",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "resume",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.456
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "And to think, as my vision",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "soul",
+   "meant": "heart",
+   "chosen": "vision",
+   "candidates": [
+    {
+     "word": "vision",
+     "p": 0.0184,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "consciousness",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.569
+    },
+    {
+     "word": "memory",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "listening",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "senses",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "childhood",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "passion",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.239
+    },
+    {
+     "word": "agony",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.214
+    },
+    {
+     "word": "longing",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.201
+    },
+    {
+     "word": "journey",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.197
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Shook from its splendor away,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "disappearing",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0133,
+     "rhyme": 0,
+     "score": 0.505
+    },
+    {
+     "word": "disappearing",
+     "p": 0.0145,
+     "rhyme": 0,
+     "score": 0.415
+    },
+    {
+     "word": "again",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.382
+    },
+    {
+     "word": "desolate",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.304
+    },
+    {
+     "word": "astray",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "everywhere",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "anyway",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "aglow",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "slowly",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.264
+    },
+    {
+     "word": "unseen",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.264
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "That my soul now seemed alone,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.043,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "restless",
+     "p": 0.0132,
+     "rhyme": 0,
+     "score": 0.306
+    },
+    {
+     "word": "completely",
+     "p": 0.0104,
+     "rhyme": 0,
+     "score": 0.241
+    },
+    {
+     "word": "leaving",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.19
+    },
+    {
+     "word": "bereft",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.176
+    },
+    {
+     "word": "suddenly",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.157
+    },
+    {
+     "word": "asleep",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.143
+    },
+    {
+     "word": "tired",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.138
+    },
+    {
+     "word": "entirely",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.128
+    },
+    {
+     "word": "strangely",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.125
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "In this lonely night.  Today",
+   "syllables": 7,
+   "target": 8,
+   "partner": "away",
+   "qwen_top": "and",
+   "meant": "interview",
+   "chosen": "today",
+   "candidates": [
+    {
+     "word": "today",
+     "p": 0.0019,
+     "rhyme": 1.0,
+     "score": 0.82
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0025,
+     "rhyme": 0.9,
+     "score": 0.77
+    },
+    {
+     "word": "cafe",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 0.77
+    },
+    {
+     "word": "highway",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.725
+    },
+    {
+     "word": "wednesday",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.706
+    },
+    {
+     "word": "monday",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.705
+    },
+    {
+     "word": "tuesday",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.699
+    },
+    {
+     "word": "sunday",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.699
+    },
+    {
+     "word": "saturday",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.698
+    },
+    {
+     "word": "thursday",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.696
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "There were no lights somewhere,",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "somewhere",
+   "chosen": "somewhere",
+   "candidates": [
+    {
+     "word": "somewhere",
+     "p": 0.0244,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "around",
+     "p": 0.0185,
+     "rhyme": 0,
+     "score": 0.76
+    },
+    {
+     "word": "within",
+     "p": 0.0158,
+     "rhyme": 0,
+     "score": 0.646
+    },
+    {
+     "word": "together",
+     "p": 0.0154,
+     "rhyme": 0,
+     "score": 0.631
+    },
+    {
+     "word": "lurking",
+     "p": 0.0125,
+     "rhyme": 0,
+     "score": 0.512
+    },
+    {
+     "word": "arrayed",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 0.344
+    },
+    {
+     "word": "alone",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "outside",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.267
+    },
+    {
+     "word": "everywhere",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.228
+    },
+    {
+     "word": "present",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.219
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "But only these shadows, too,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "those",
+   "chosen": "too",
+   "candidates": [
+    {
+     "word": "too",
+     "p": 0.0191,
+     "rhyme": 0,
+     "score": 0.495
+    },
+    {
+     "word": "so",
+     "p": 0.0184,
+     "rhyme": 0,
+     "score": 0.477
+    },
+    {
+     "word": "those",
+     "p": 0.0213,
+     "rhyme": 0,
+     "score": 0.47
+    },
+    {
+     "word": "all",
+     "p": 0.0208,
+     "rhyme": 0,
+     "score": 0.441
+    },
+    {
+     "word": "are",
+     "p": 0.0177,
+     "rhyme": 0,
+     "score": 0.438
+    },
+    {
+     "word": "few",
+     "p": 0.014,
+     "rhyme": 0,
+     "score": 0.434
+    },
+    {
+     "word": "these",
+     "p": 0.0152,
+     "rhyme": 0,
+     "score": 0.43
+    },
+    {
+     "word": "there",
+     "p": 0.0147,
+     "rhyme": 0,
+     "score": 0.409
+    },
+    {
+     "word": "dark",
+     "p": 0.0203,
+     "rhyme": 0,
+     "score": 0.4
+    },
+    {
+     "word": "eyes",
+     "p": 0.014,
+     "rhyme": 0,
+     "score": 0.383
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Like something old and fallen, too,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "that",
+   "meant": "too",
+   "chosen": "too",
+   "candidates": [
+    {
+     "word": "too",
+     "p": 0.0251,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "lay",
+     "p": 0.0238,
+     "rhyme": 0,
+     "score": 0.951
+    },
+    {
+     "word": "fallen",
+     "p": 0.0204,
+     "rhyme": 0,
+     "score": 0.812
+    },
+    {
+     "word": "down",
+     "p": 0.0184,
+     "rhyme": 0,
+     "score": 0.733
+    },
+    {
+     "word": "gone",
+     "p": 0.0142,
+     "rhyme": 0,
+     "score": 0.567
+    },
+    {
+     "word": "falling",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 0.48
+    },
+    {
+     "word": "so",
+     "p": 0.0109,
+     "rhyme": 0,
+     "score": 0.435
+    },
+    {
+     "word": "fell",
+     "p": 0.0109,
+     "rhyme": 0,
+     "score": 0.434
+    },
+    {
+     "word": "laid",
+     "p": 0.0108,
+     "rhyme": 0,
+     "score": 0.431
+    },
+    {
+     "word": "but",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.346
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Where in the summer dew",
+   "syllables": 6,
+   "target": 7,
+   "partner": "too",
+   "qwen_top": "sun",
+   "meant": "night",
+   "chosen": "dew",
+   "candidates": [
+    {
+     "word": "dew",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 0.754
+    },
+    {
+     "word": "few",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 0.753
+    },
+    {
+     "word": "through",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 0.753
+    },
+    {
+     "word": "you",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 0.753
+    },
+    {
+     "word": "afternoon",
+     "p": 0.0132,
+     "rhyme": 0.6,
+     "score": 0.504
+    },
+    {
+     "word": "moon",
+     "p": 0.0052,
+     "rhyme": 0.6,
+     "score": 0.471
+    },
+    {
+     "word": "noon",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "bloom",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "cool",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "afternoons",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.455
+    }
+   ]
+  }
+ ]
+}

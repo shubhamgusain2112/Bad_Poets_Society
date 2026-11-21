@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "ABCB",
+ "seed": 11,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "The sky is on her; she glides along,\nShe leads a swan in the water's me;\nAnd heaves and hurls, and purrethes and\nWarbles as she glides slowly,\nIn steps of little silver.\nHer back gleams like a wall of shadow\nAs she moves; across our\nWindow-panes one yellow\nGlances o'er the sea. Then comes another,\nAnd yet another, hour de\nThis time I can feel our\nOn the other balcony;",
+ "lines": [
+  {
+   "line": 1,
+   "text": "The sky is on her; she glides along,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "on",
+   "meant": "on",
+   "chosen": "along",
+   "candidates": [
+    {
+     "word": "along",
+     "p": 0.0319,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "across",
+     "p": 0.0171,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "away",
+     "p": 0.0171,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "upon",
+     "p": 0.0151,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "above",
+     "p": 0.0133,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "over",
+     "p": 0.0103,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "among",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "beneath",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "below",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "between",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.153
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "She leads a swan in the water's me;",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "glow",
+   "meant": "glow",
+   "chosen": "me",
+   "candidates": [
+    {
+     "word": "me",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "free",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "bree",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "lee",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "sea",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "e",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "way",
+     "p": 0.0143,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "spray",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "play",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "gray",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "And heaves and hurls, and purrethes and",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "and",
+   "candidates": [
+    {
+     "word": "and",
+     "p": 0.3232,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "with",
+     "p": 0.0182,
+     "rhyme": 0,
+     "score": 0.056
+    },
+    {
+     "word": "in",
+     "p": 0.0161,
+     "rhyme": 0,
+     "score": 0.05
+    },
+    {
+     "word": "like",
+     "p": 0.0125,
+     "rhyme": 0,
+     "score": 0.039
+    },
+    {
+     "word": "her",
+     "p": 0.0125,
+     "rhyme": 0,
+     "score": 0.039
+    },
+    {
+     "word": "the",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.03
+    },
+    {
+     "word": "loud",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.03
+    },
+    {
+     "word": "a",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.027
+    },
+    {
+     "word": "all",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.027
+    },
+    {
+     "word": "on",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.024
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Warbles as she glides slowly,",
+   "syllables": 7,
+   "target": 8,
+   "partner": "me",
+   "qwen_top": "along",
+   "meant": "along",
+   "chosen": "slowly",
+   "candidates": [
+    {
+     "word": "slowly",
+     "p": 0.0015,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "softly",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "gently",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "lightly",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "swiftly",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "silently",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "freely",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "gracefully",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "quietly",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "rapidly",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "In steps of little silver.",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "feet",
+   "meant": "feet",
+   "chosen": "silver",
+   "candidates": [
+    {
+     "word": "silver",
+     "p": 0.0095,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "water",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 0.884
+    },
+    {
+     "word": "music",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.78
+    },
+    {
+     "word": "little",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.69
+    },
+    {
+     "word": "children",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.689
+    },
+    {
+     "word": "wonder",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.573
+    },
+    {
+     "word": "golden",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.505
+    },
+    {
+     "word": "beauty",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.504
+    },
+    {
+     "word": "flowers",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "shadows",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.345
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Her back gleams like a wall of shadow",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "gold",
+   "meant": "gold",
+   "chosen": "shadow",
+   "candidates": [
+    {
+     "word": "shadow",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "rainbow",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.231
+    },
+    {
+     "word": "sunlight",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "midnight",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "twilight",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "daylight",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "shadows",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.2
+    },
+    {
+     "word": "fire",
+     "p": 0.0328,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "glory",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.183
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "As she moves; across our",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "heaven",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.734
+    },
+    {
+     "word": "every",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "silver",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.392
+    },
+    {
+     "word": "between",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "river",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.155
+    },
+    {
+     "word": "shadows",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.144
+    },
+    {
+     "word": "water",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.136
+    },
+    {
+     "word": "over",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.113
+    },
+    {
+     "word": "beneath",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.099
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Window-panes one yellow",
+   "syllables": 6,
+   "target": 7,
+   "partner": "shadow",
+   "qwen_top": "can",
+   "meant": "can",
+   "chosen": "yellow",
+   "candidates": [
+    {
+     "word": "yellow",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "window",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "narrow",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "arrow",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "golden",
+     "p": 0.0092,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "moment",
+     "p": 0.0043,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "shadows",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "only",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "slowly",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "silver",
+     "p": 0.0183,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Glances o'er the sea. Then comes another,",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "a",
+   "chosen": "another",
+   "candidates": [
+    {
+     "word": "another",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "again",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.78
+    },
+    {
+     "word": "behind",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "silence",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.226
+    },
+    {
+     "word": "across",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "upon",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "away",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.175
+    },
+    {
+     "word": "along",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "over",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.136
+    },
+    {
+     "word": "our",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.136
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "And yet another, hour de",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "after",
+   "meant": "after",
+   "chosen": "de",
+   "candidates": [
+    {
+     "word": "de",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ne",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "bee",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ye",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ve",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "This time I can feel our",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "her",
+   "meant": "her",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "herself",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.472
+    },
+    {
+     "word": "again",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "something",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "myself",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "nothing",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "within",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "upon",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "only",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "behind",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.153
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "On the other balcony;",
+   "syllables": 7,
+   "target": 7,
+   "partner": "de",
+   "qwen_top": "side",
+   "meant": "side",
+   "chosen": "balcony",
+   "candidates": [
+    {
+     "word": "balcony",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "lady",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "story",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "party",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "gallery",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "country",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "faces",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "people",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "reaches",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "pages",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  }
+ ]
+}

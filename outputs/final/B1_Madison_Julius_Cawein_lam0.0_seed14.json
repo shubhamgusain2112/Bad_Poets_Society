@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "ABCB",
+ "seed": 14,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Howe'er the love between\nThe lips of olden generations,\nOh, while young eyes see not again\nThe joy they thrilled with their maiden,\nAnd every star that ever\nBurned up a gleaming tree,\nTheir spark can bring as well as ever,\nThat light beneath her May glory\nIn blossom and clear spring-tide heaven\nIs withered to ashes here. Away!\nAs from its gaudy ruin fallen\nMust Yon Stouffer's faded",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Howe'er the love between",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "that",
+   "meant": "that",
+   "chosen": "between",
+   "candidates": [
+    {
+     "word": "between",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "within",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.346
+    },
+    {
+     "word": "itself",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "divine",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.225
+    },
+    {
+     "word": "begins",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.185
+    },
+    {
+     "word": "our",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.145
+    },
+    {
+     "word": "upon",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.145
+    },
+    {
+     "word": "arises",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.127
+    },
+    {
+     "word": "forgot",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.12
+    },
+    {
+     "word": "began",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.112
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The lips of olden generations,",
+   "syllables": 9,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "days",
+   "meant": "days",
+   "chosen": "generations",
+   "candidates": [
+    {
+     "word": "generations",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "july",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "mary",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "sire",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "fire",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "glory",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.183
+    },
+    {
+     "word": "flower",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "hour",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.161
+    },
+    {
+     "word": "romance",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.145
+    },
+    {
+     "word": "faces",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.142
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Oh, while young eyes see not again",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "our",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.536
+    },
+    {
+     "word": "therein",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "above",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "into",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.174
+    },
+    {
+     "word": "heaven",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.143
+    },
+    {
+     "word": "behind",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.12
+    },
+    {
+     "word": "even",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.12
+    },
+    {
+     "word": "better",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.105
+    },
+    {
+     "word": "ours",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.093
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "The joy they thrilled with their maiden,",
+   "syllables": 8,
+   "target": 9,
+   "partner": "generations",
+   "qwen_top": "first",
+   "meant": "first",
+   "chosen": "maiden",
+   "candidates": [
+    {
+     "word": "maiden",
+     "p": 0.0175,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "embrace",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "ages",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "creation",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "waking",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "ancient",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "baby",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "faces",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "embraces",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "native",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "And every star that ever",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "shines",
+   "meant": "shines",
+   "chosen": "ever",
+   "candidates": [
+    {
+     "word": "ever",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "glitter",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.645
+    },
+    {
+     "word": "rises",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.391
+    },
+    {
+     "word": "heaven",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "never",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "floated",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.21
+    },
+    {
+     "word": "flashes",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.21
+    },
+    {
+     "word": "summer",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.166
+    },
+    {
+     "word": "fires",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.163
+    },
+    {
+     "word": "hovered",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.153
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Burned up a gleaming tree,",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "flame",
+   "meant": "flame",
+   "chosen": "tree",
+   "candidates": [
+    {
+     "word": "tree",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "di",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "sea",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "e",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "day",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "bay",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "way",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "may",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Their spark can bring as well as ever,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "they",
+   "meant": "they",
+   "chosen": "ever",
+   "candidates": [
+    {
+     "word": "ever",
+     "p": 0.0131,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "any",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.605
+    },
+    {
+     "word": "heaven",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.513
+    },
+    {
+     "word": "fire",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.351
+    },
+    {
+     "word": "ours",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.144
+    },
+    {
+     "word": "never",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.12
+    },
+    {
+     "word": "nature",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.074
+    },
+    {
+     "word": "our",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.057
+    },
+    {
+     "word": "power",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.047
+    },
+    {
+     "word": "gather",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.039
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "That light beneath her May glory",
+   "syllables": 8,
+   "target": 9,
+   "partner": "tree",
+   "qwen_top": "day",
+   "meant": "day",
+   "chosen": "glory",
+   "candidates": [
+    {
+     "word": "glory",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "lady",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "fairy",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "beauty",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "lily",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "canopy",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "evening",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "season",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "evenings",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "beneath",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "In blossom and clear spring-tide heaven",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "skies",
+   "meant": "skies",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "shining",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.669
+    },
+    {
+     "word": "water",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.461
+    },
+    {
+     "word": "flower",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.461
+    },
+    {
+     "word": "beauty",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.359
+    },
+    {
+     "word": "waters",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.358
+    },
+    {
+     "word": "glory",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.318
+    },
+    {
+     "word": "flowers",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "shower",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.246
+    },
+    {
+     "word": "spirit",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.193
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Is withered to ashes here. Away!",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "o",
+   "meant": "o",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "today",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "below",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "again",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "forget",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "upon",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "our",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "before",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.229
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "As from its gaudy ruin fallen",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "fled",
+   "meant": "fled",
+   "chosen": "fallen",
+   "candidates": [
+    {
+     "word": "fallen",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "faded",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.778
+    },
+    {
+     "word": "afar",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "decay",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.473
+    },
+    {
+     "word": "away",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "towers",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "driven",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "risen",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "taken",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.185
+    },
+    {
+     "word": "broken",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.174
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Must Yon Stouffer's faded",
+   "syllables": 6,
+   "target": 7,
+   "partner": "away",
+   "qwen_top": "old",
+   "meant": "old",
+   "chosen": "faded",
+   "candidates": [
+    {
+     "word": "faded",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "maiden",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "lady",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "fading",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "graceful",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "estate",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "ancient",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "angel",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "castle",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "glory",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  }
+ ]
+}

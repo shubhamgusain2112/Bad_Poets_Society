@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "ABAB",
+ "seed": 12,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "There are, but on the top of a station,\n'Twere only worth while one's own aid betray\nTo watch their exits and come to salvation.\nFor whom? - The quiet middle-crested gay\nThat in the fields of London sit away,\nAnd without their changing stations see\nHuge plumes and pinnacles of service sway,\nAnd glassy avenues where the busy\nAnd proud wenders grow slow as with resignation.\nBut whose cloying speech would such pride elevate,\nOr his low virile air degrade an\nExcuseless man? For I contemplate",
+ "lines": [
+  {
+   "line": 1,
+   "text": "There are, but on the top of a station,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "hill",
+   "meant": "hill",
+   "chosen": "station",
+   "candidates": [
+    {
+     "word": "station",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "plateau",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "solitary",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "statue",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.226
+    },
+    {
+     "word": "very",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "fairy",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "higher",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "subject",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "story",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.183
+    },
+    {
+     "word": "desert",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.181
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "'Twere only worth while one's own aid betray",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "betray",
+   "candidates": [
+    {
+     "word": "betray",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "convey",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "away",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "display",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "pursue",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "renew",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "obtain",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "maintain",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "retain",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.254
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "To watch their exits and come to salvation.",
+   "syllables": 11,
+   "target": 11,
+   "partner": "station",
+   "qwen_top": "their",
+   "meant": "their",
+   "chosen": "salvation",
+   "candidates": [
+    {
+     "word": "salvation",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "betray",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "safety",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "places",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "danger",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "escape",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "debate",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "repay",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "acquaint",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "For whom? - The quiet middle-crested gay",
+   "syllables": 10,
+   "target": 10,
+   "partner": "betray",
+   "qwen_top": "man",
+   "meant": "man",
+   "chosen": "gay",
+   "candidates": [
+    {
+     "word": "gay",
+     "p": 0.0017,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "se",
+     "p": 0.0013,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "lay",
+     "p": 0.0011,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "grey",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "ne",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "de",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "day",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "a",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "maid",
+     "p": 0.0099,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "saint",
+     "p": 0.009,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "That in the fields of London sit away,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "array",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "dismay",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "survey",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "anew",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "contemplating",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.259
+    },
+    {
+     "word": "disdain",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "again",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "unseen",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.248
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "And without their changing stations see",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "see",
+   "candidates": [
+    {
+     "word": "see",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "re",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "play",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "stay",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "pay",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "pray",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "may",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Huge plumes and pinnacles of service sway,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "away",
+   "qwen_top": "fly",
+   "meant": "fly",
+   "chosen": "sway",
+   "candidates": [
+    {
+     "word": "sway",
+     "p": 0.0092,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "pay",
+     "p": 0.0056,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "lay",
+     "p": 0.005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "day",
+     "p": 0.0044,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "gay",
+     "p": 0.0039,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "grey",
+     "p": 0.0023,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "gray",
+     "p": 0.0014,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "ray",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "bay",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "array",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 1.0
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "And glassy avenues where the busy",
+   "syllables": 10,
+   "target": 11,
+   "partner": "see",
+   "qwen_top": "great",
+   "meant": "great",
+   "chosen": "busy",
+   "candidates": [
+    {
+     "word": "busy",
+     "p": 0.0059,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "city",
+     "p": 0.0056,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "weary",
+     "p": 0.0018,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "clergy",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "very",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "heavy",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "mighty",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "wealthy",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "lady",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "country",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "And proud wenders grow slow as with resignation.",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "a",
+   "chosen": "resignation",
+   "candidates": [
+    {
+     "word": "resignation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "expectation",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "admiration",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "relaxation",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "hesitation",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "animation",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "dismay",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "delay",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "decay",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "shadow",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.271
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "But whose cloying speech would such pride elevate,",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "inspire",
+   "meant": "inspire",
+   "chosen": "elevate",
+   "candidates": [
+    {
+     "word": "elevate",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "contemplate",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "appreciate",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "penetrate",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "betray",
+     "p": 0.0457,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "display",
+     "p": 0.0168,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "convey",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "decay",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "repay",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "overthrow",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.271
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Or his low virile air degrade an",
+   "syllables": 9,
+   "target": 10,
+   "partner": "resignation",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "an",
+   "candidates": [
+    {
+     "word": "an",
+     "p": 0.0042,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "un",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "one",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "than",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "a",
+     "p": 0.0516,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "away",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "nature",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "grace",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "disdain",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Excuseless man? For I contemplate",
+   "syllables": 10,
+   "target": 10,
+   "partner": "elevate",
+   "qwen_top": "am",
+   "meant": "am",
+   "chosen": "contemplate",
+   "candidates": [
+    {
+     "word": "contemplate",
+     "p": 0.0012,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "appreciate",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "relate",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "maintain",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "disdain",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "always",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remain",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "proclaim",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "cannot",
+     "p": 0.0072,
+     "rhyme": 0.3,
+     "score": 0.3
+    },
+    {
+     "word": "admit",
+     "p": 0.0012,
+     "rhyme": 0.3,
+     "score": 0.3
+    }
+   ]
+  }
+ ]
+}

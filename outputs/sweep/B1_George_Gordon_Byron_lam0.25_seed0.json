@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 0.25,
+ "scheme": "ABAB",
+ "seed": 0,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Farewell, my dear boy! When haply our\nDays of our youth will end forever; when\nI'm no more, but found alone afar\nIn the dark desert; I have left again\nThe warm and green resting-place for ever\nWhere once the old days were a delight.  Where\nMy heart is gathering round me never\nTo trod his own path where the deeper air\nHas not its crosstrees for my lingering feet,\nThen wander'd down in those quiet days,\nBy the little stream which by evening\nGoes silently thro' the winding shady",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Farewell, my dear boy! When haply our",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "i",
+   "meant": "i",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.479
+    },
+    {
+     "word": "again",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.405
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "into",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "away",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "upon",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "anew",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "farewell",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.267
+    },
+    {
+     "word": "below",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "before",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.263
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Days of our youth will end forever; when",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "when",
+   "meant": "when",
+   "chosen": "when",
+   "candidates": [
+    {
+     "word": "when",
+     "p": 0.0204,
+     "rhyme": 0,
+     "score": 0.467
+    },
+    {
+     "word": "and",
+     "p": 0.0204,
+     "rhyme": 0,
+     "score": 0.439
+    },
+    {
+     "word": "but",
+     "p": 0.018,
+     "rhyme": 0,
+     "score": 0.383
+    },
+    {
+     "word": "yet",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "i",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "fare",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.313
+    },
+    {
+     "word": "for",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "ye",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.299
+    },
+    {
+     "word": "we",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "see",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.292
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "I'm no more, but found alone afar",
+   "syllables": 9,
+   "target": 10,
+   "partner": "our",
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "afar",
+   "candidates": [
+    {
+     "word": "afar",
+     "p": 0.0017,
+     "rhyme": 1.0,
+     "score": 0.766
+    },
+    {
+     "word": "upon",
+     "p": 0.0209,
+     "rhyme": 0.6,
+     "score": 0.644
+    },
+    {
+     "word": "without",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.462
+    },
+    {
+     "word": "apart",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.462
+    },
+    {
+     "word": "beyond",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "around",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "forgotten",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "about",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "because",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "content",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.451
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "In the dark desert; I have left again",
+   "syllables": 10,
+   "target": 11,
+   "partner": "when",
+   "qwen_top": "thee",
+   "meant": "thee",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0012,
+     "rhyme": 1.0,
+     "score": 0.754
+    },
+    {
+     "word": "within",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 0.751
+    },
+    {
+     "word": "even",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.675
+    },
+    {
+     "word": "myself",
+     "p": 0.0077,
+     "rhyme": 0.6,
+     "score": 0.476
+    },
+    {
+     "word": "many",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "every",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "everything",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "heaven",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "forever",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "content",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.45
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "The warm and green resting-place for ever",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "thee",
+   "meant": "thee",
+   "chosen": "ever",
+   "candidates": [
+    {
+     "word": "ever",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.382
+    },
+    {
+     "word": "many",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.362
+    },
+    {
+     "word": "our",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.346
+    },
+    {
+     "word": "ages",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "myself",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.234
+    },
+    {
+     "word": "mankind",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.234
+    },
+    {
+     "word": "afar",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.232
+    },
+    {
+     "word": "fire",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.201
+    },
+    {
+     "word": "awhile",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.2
+    },
+    {
+     "word": "hire",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.2
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Where once the old days were a delight.  Where",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "where",
+   "candidates": [
+    {
+     "word": "where",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.456
+    },
+    {
+     "word": "and",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.439
+    },
+    {
+     "word": "he",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.338
+    },
+    {
+     "word": "vi",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "translation",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "station",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "e",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.313
+    },
+    {
+     "word": "i",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "u",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "they",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.292
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "My heart is gathering round me never",
+   "syllables": 10,
+   "target": 11,
+   "partner": "ever",
+   "qwen_top": "now",
+   "meant": "now",
+   "chosen": "never",
+   "candidates": [
+    {
+     "word": "never",
+     "p": 0.0019,
+     "rhyme": 1.0,
+     "score": 0.786
+    },
+    {
+     "word": "wherever",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 0.753
+    },
+    {
+     "word": "again",
+     "p": 0.013,
+     "rhyme": 0.6,
+     "score": 0.7
+    },
+    {
+     "word": "many",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.486
+    },
+    {
+     "word": "every",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.469
+    },
+    {
+     "word": "gently",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "tender",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "together",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "any",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "everywhere",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.454
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "To trod his own path where the deeper air",
+   "syllables": 10,
+   "target": 11,
+   "partner": "where",
+   "qwen_top": "stream",
+   "meant": "stream",
+   "chosen": "air",
+   "candidates": [
+    {
+     "word": "air",
+     "p": 0.0147,
+     "rhyme": 1.0,
+     "score": 0.921
+    },
+    {
+     "word": "care",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 0.757
+    },
+    {
+     "word": "wells",
+     "p": 0.0054,
+     "rhyme": 0.6,
+     "score": 0.513
+    },
+    {
+     "word": "rest",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.488
+    },
+    {
+     "word": "sense",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.482
+    },
+    {
+     "word": "well",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.48
+    },
+    {
+     "word": "steps",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.475
+    },
+    {
+     "word": "breath",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.475
+    },
+    {
+     "word": "dead",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.469
+    },
+    {
+     "word": "depths",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.468
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Has not its crosstrees for my lingering feet,",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "feet",
+   "meant": "feet",
+   "chosen": "feet",
+   "candidates": [
+    {
+     "word": "feet",
+     "p": 0.1736,
+     "rhyme": 0,
+     "score": 0.459
+    },
+    {
+     "word": "eye",
+     "p": 0.0498,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "stay",
+     "p": 0.0235,
+     "rhyme": 0,
+     "score": 0.309
+    },
+    {
+     "word": "way",
+     "p": 0.0126,
+     "rhyme": 0,
+     "score": 0.293
+    },
+    {
+     "word": "knee",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "view",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "bree",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "tree",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "e",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Then wander'd down in those quiet days,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "days",
+   "meant": "days",
+   "chosen": "days",
+   "candidates": [
+    {
+     "word": "days",
+     "p": 0.3701,
+     "rhyme": 0,
+     "score": 0.481
+    },
+    {
+     "word": "me",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "bree",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "re",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "cree",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "bay",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "gay",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.276
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "By the little stream which by evening",
+   "syllables": 9,
+   "target": 10,
+   "partner": "feet",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "evening",
+   "candidates": [
+    {
+     "word": "evening",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "frequent",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "eden",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "reason",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "secret",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "our",
+     "p": 0.0288,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "sunset",
+     "p": 0.0009,
+     "rhyme": 0.3,
+     "score": 0.233
+    },
+    {
+     "word": "midnight",
+     "p": 0.0002,
+     "rhyme": 0.3,
+     "score": 0.227
+    },
+    {
+     "word": "twilight",
+     "p": 0.0002,
+     "rhyme": 0.3,
+     "score": 0.227
+    },
+    {
+     "word": "many",
+     "p": 0.0126,
+     "rhyme": 0,
+     "score": 0.11
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Goes silently thro' the winding shady",
+   "syllables": 10,
+   "target": 11,
+   "partner": "days",
+   "qwen_top": "wood",
+   "meant": "wood",
+   "chosen": "shady",
+   "candidates": [
+    {
+     "word": "shady",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.488
+    },
+    {
+     "word": "spaces",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "roadway",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "places",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "pathway",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.456
+    },
+    {
+     "word": "valley",
+     "p": 0.0122,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "shadows",
+     "p": 0.001,
+     "rhyme": 0.3,
+     "score": 0.245
+    },
+    {
+     "word": "avenues",
+     "p": 0.0006,
+     "rhyme": 0.3,
+     "score": 0.237
+    },
+    {
+     "word": "garden",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.104
+    },
+    {
+     "word": "gardens",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.092
+    }
+   ]
+  }
+ ]
+}

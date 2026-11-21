@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 0.0,
+ "scheme": "ABAB",
+ "seed": 12,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "There are, but on the top of a elevation,\nOr on another pinnacle elevation.\nIt was not till late twenty years begun,\nWhen that great cataclysm situation,\nWhich over all earths up to one observation,\nWas in certain degrees at situation,\nThat it was made clear by some one explanation,\nWhy each other planet moved so location,\nAnd how they were still further situated be\nBy means of their orbits. In its duration,\nTo whom we cannot relate properly,\nWith respect I most respectfully pay",
+ "lines": [
+  {
+   "line": 1,
+   "text": "There are, but on the top of a elevation,",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "hill",
+   "meant": "hill",
+   "chosen": "elevation",
+   "candidates": [
+    {
+     "word": "elevation",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "shadow",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "below",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "plateau",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "cemetery",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "hillside",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.243
+    },
+    {
+     "word": "statue",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.226
+    },
+    {
+     "word": "beside",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.222
+    },
+    {
+     "word": "upright",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "evergreen",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.22
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Or on another pinnacle elevation.",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "above",
+   "chosen": "elevation",
+   "candidates": [
+    {
+     "word": "elevation",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "observation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "indicate",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "below",
+     "p": 0.0629,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "although",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "plateau",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "remain",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "again",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "degrees",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "nearby",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.25
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "It was not till late twenty years begun,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "elevation",
+   "qwen_top": "ago",
+   "meant": "ago",
+   "chosen": "begun",
+   "candidates": [
+    {
+     "word": "begun",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "decade",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "later",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "monday",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "tuesday",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "wednesday",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "thursday",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "today",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "When that great cataclysm situation,",
+   "syllables": 11,
+   "target": 10,
+   "partner": "elevation",
+   "qwen_top": "of",
+   "meant": "shortly",
+   "chosen": "situation",
+   "candidates": [
+    {
+     "word": "situation",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "begun",
+     "p": 0.0077,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "later",
+     "p": 0.0051,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "sunday",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "became",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "thursday",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "prevailed",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "friday",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "monday",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Which over all earths up to one observation,",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "hundred",
+   "meant": "height",
+   "chosen": "observation",
+   "candidates": [
+    {
+     "word": "observation",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "elevation",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "inclination",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "constellation",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "operation",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "duration",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "station",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.319
+    },
+    {
+     "word": "nation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.315
+    },
+    {
+     "word": "thirty",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "below",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.262
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Was in certain degrees at situation,",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "last",
+   "chosen": "situation",
+   "candidates": [
+    {
+     "word": "situation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "duration",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "nation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.315
+    },
+    {
+     "word": "sunday",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "ago",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "although",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "saturday",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "again",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "july",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "between",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.248
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "That it was made clear by some one explanation,",
+   "syllables": 12,
+   "target": 11,
+   "partner": "observation",
+   "qwen_top": "or",
+   "meant": "person",
+   "chosen": "explanation",
+   "candidates": [
+    {
+     "word": "explanation",
+     "p": 0.0016,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "translation",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "someone",
+     "p": 0.0043,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "anyone",
+     "p": 0.0032,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "capable",
+     "p": 0.004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "explain",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "translator",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "explained",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "able",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "explaining",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Why each other planet moved so location,",
+   "syllables": 11,
+   "target": 11,
+   "partner": "situation",
+   "qwen_top": "much",
+   "meant": "near",
+   "chosen": "location",
+   "candidates": [
+    {
+     "word": "location",
+     "p": 0.0011,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "station",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "begun",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "equator",
+     "p": 0.0053,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "cambridge",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "railway",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "commonplace",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "indicate",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "today",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "highway",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "And how they were still further situated be",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "there",
+   "chosen": "be",
+   "candidates": [
+    {
+     "word": "be",
+     "p": 0.0232,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "see",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "sea",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "may",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "they",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "way",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "By means of their orbits. In its duration,",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "own",
+   "meant": "duration",
+   "chosen": "duration",
+   "candidates": [
+    {
+     "word": "duration",
+     "p": 0.0176,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "propagation",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "transformation",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "observation",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "variation",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "relation",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "revelation",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "destination",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "inclination",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "separation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.32
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "To whom we cannot relate properly,",
+   "syllables": 10,
+   "target": 10,
+   "partner": "be",
+   "qwen_top": "the",
+   "meant": "it",
+   "chosen": "properly",
+   "candidates": [
+    {
+     "word": "properly",
+     "p": 0.0028,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "quickly",
+     "p": 0.0025,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "rapidly",
+     "p": 0.0024,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "only",
+     "p": 0.0024,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "finally",
+     "p": 0.0023,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "already",
+     "p": 0.0023,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "fully",
+     "p": 0.0018,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "quietly",
+     "p": 0.0017,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "happily",
+     "p": 0.0017,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "probably",
+     "p": 0.0016,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "With respect I most respectfully pay",
+   "syllables": 10,
+   "target": 10,
+   "partner": "duration",
+   "qwen_top": "refer",
+   "meant": "please",
+   "chosen": "pay",
+   "candidates": [
+    {
+     "word": "pay",
+     "p": 0.0041,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "pray",
+     "p": 0.0041,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "say",
+     "p": 0.0035,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "may",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "saying",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "raise",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "fail",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "prayers",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "paid",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "hasten",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  }
+ ]
+}

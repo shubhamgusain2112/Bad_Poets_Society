@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 0.0,
+ "scheme": "ABAB",
+ "seed": 11,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Ear and Ease, as if the couch were again\nIn Nature's free embrace, all feeling he\nTend to the old reason of a solitary,\nWarm and reverent passion. Finally,\nAs one who has been in solitude be\nContent with what is within him consecrated,\nAnd not for praise or humiliation free\nTo abuse him, nor to betray again\nHis own soul so treacherously; appropriate\nSo far from such trivial actions he\nCould lead this lover into contemplation;\nAccustomed to relish an guarantee",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Ear and Ease, as if the couch were again",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "no",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "inside",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.242
+    },
+    {
+     "word": "outside",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.222
+    },
+    {
+     "word": "very",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "despite",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.212
+    },
+    {
+     "word": "always",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.209
+    },
+    {
+     "word": "fire",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "perfect",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "contained",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.184
+    },
+    {
+     "word": "narrow",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.178
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "In Nature's free embrace, all feeling he",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "free",
+   "meant": "went",
+   "chosen": "he",
+   "candidates": [
+    {
+     "word": "he",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "free",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "lee",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "way",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "away",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "may",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "day",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "stay",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Tend to the old reason of a solitary,",
+   "syllables": 12,
+   "target": 11,
+   "partner": "again",
+   "qwen_top": "man",
+   "meant": "eternal",
+   "chosen": "solitary",
+   "candidates": [
+    {
+     "word": "solitary",
+     "p": 0.005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "himself",
+     "p": 0.0042,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "gentle",
+     "p": 0.004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "perpetual",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "serenity",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "respite",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "pleasure",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "gentleman",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "contemplation",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "meditation",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Warm and reverent passion. Finally,",
+   "syllables": 10,
+   "target": 10,
+   "partner": "he",
+   "qwen_top": "he",
+   "meant": "again",
+   "chosen": "finally",
+   "candidates": [
+    {
+     "word": "finally",
+     "p": 0.0031,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "sadly",
+     "p": 0.0024,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "strangely",
+     "p": 0.0015,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "suddenly",
+     "p": 0.0014,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "melancholy",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "humanity",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "quietly",
+     "p": 0.0009,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "irony",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "triumphantly",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "only",
+     "p": 0.0007,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "As one who has been in solitude be",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "long",
+   "meant": "long",
+   "chosen": "be",
+   "candidates": [
+    {
+     "word": "be",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "three",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "free",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "they",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "way",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "stay",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "today",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Content with what is within him consecrated,",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "alone",
+   "chosen": "consecrated",
+   "candidates": [
+    {
+     "word": "consecrated",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "recreated",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "today",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "nobody",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "although",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "ago",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "anyway",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "insane",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "again",
+     "p": 0.0155,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "remain",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.253
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "And not for praise or humiliation free",
+   "syllables": 11,
+   "target": 10,
+   "partner": "be",
+   "qwen_top": "seek",
+   "meant": "seek",
+   "chosen": "free",
+   "candidates": [
+    {
+     "word": "free",
+     "p": 0.0021,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "re",
+     "p": 0.0011,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "seek",
+     "p": 0.0179,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "need",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "plead",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "leave",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "feel",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "needs",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "speak",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "please",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "To abuse him, nor to betray again",
+   "syllables": 10,
+   "target": 10,
+   "partner": "consecrated",
+   "qwen_top": "his",
+   "meant": "him",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "disgrace",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "shame",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "betrayed",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "later",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "hatred",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "sake",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "way",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "praise",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "able",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "His own soul so treacherously; appropriate",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "so",
+   "meant": "he",
+   "chosen": "appropriate",
+   "candidates": [
+    {
+     "word": "appropriate",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "communicate",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "pursue",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "nobody",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "although",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "anyway",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "again",
+     "p": 0.018,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "remain",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "realized",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "realised",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.251
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "So far from such trivial actions he",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "as",
+   "meant": "alone",
+   "chosen": "he",
+   "candidates": [
+    {
+     "word": "he",
+     "p": 0.0089,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0063,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "she",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "free",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "degree",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "three",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "may",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "way",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "they",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "pray",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Could lead this lover into contemplation;",
+   "syllables": 11,
+   "target": 10,
+   "partner": "appropriate",
+   "qwen_top": "the",
+   "meant": "happiness",
+   "chosen": "contemplation",
+   "candidates": [
+    {
+     "word": "contemplation",
+     "p": 0.0075,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "betrayal",
+     "p": 0.0068,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "disgrace",
+     "p": 0.0057,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "hatred",
+     "p": 0.0047,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "loneliness",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "chaos",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "heartbreak",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "moderation",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "alone",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "salvation",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Accustomed to relish an guarantee",
+   "syllables": 10,
+   "target": 10,
+   "partner": "he",
+   "qwen_top": "idle",
+   "meant": "an",
+   "chosen": "guarantee",
+   "candidates": [
+    {
+     "word": "guarantee",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "wholly",
+     "p": 0.0041,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "purely",
+     "p": 0.0041,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "serenity",
+     "p": 0.0033,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "apogee",
+     "p": 0.0033,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "tranquility",
+     "p": 0.003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "intimacy",
+     "p": 0.0023,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "utterly",
+     "p": 0.0021,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "dignity",
+     "p": 0.0016,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "eerie",
+     "p": 0.0016,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  }
+ ]
+}

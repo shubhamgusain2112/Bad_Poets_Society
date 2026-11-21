@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 0.25,
+ "scheme": "AABB",
+ "seed": 3,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "But I am our Lord, alone,\nThe marvellous heart of only.\nI have love in me, knoweth never,\nYea, the soul that had breath to feel however,\nAnd yet hath love for myself.\nLove is within us everywhere,\nA spirit passing into being there;\nYet my love's still not ours anywhere.\nMy love, too, in nature remains,\nFinds no flower or leaf again,\nNor on his surface's lustre resides,\nOr one a-dreaming of himself decides.",
+ "lines": [
+  {
+   "line": 1,
+   "text": "But I am our Lord, alone,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0323,
+     "rhyme": 0,
+     "score": 0.468
+    },
+    {
+     "word": "salvation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "temptation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "consecrated",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "crucified",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "nobody",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "again",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.266
+    },
+    {
+     "word": "hussein",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.261
+    },
+    {
+     "word": "likewise",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.257
+    },
+    {
+     "word": "baptized",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.257
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The marvellous heart of only.",
+   "syllables": 8,
+   "target": 9,
+   "partner": "alone",
+   "qwen_top": "god",
+   "meant": "god",
+   "chosen": "only",
+   "candidates": [
+    {
+     "word": "only",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.466
+    },
+    {
+     "word": "holy",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.462
+    },
+    {
+     "word": "soldier",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "divine",
+     "p": 0.0033,
+     "rhyme": 0.3,
+     "score": 0.263
+    },
+    {
+     "word": "heaven",
+     "p": 0.0217,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "everyone",
+     "p": 0.001,
+     "rhyme": 0.3,
+     "score": 0.236
+    },
+    {
+     "word": "someone",
+     "p": 0.0005,
+     "rhyme": 0.3,
+     "score": 0.231
+    },
+    {
+     "word": "upon",
+     "p": 0.0005,
+     "rhyme": 0.3,
+     "score": 0.231
+    },
+    {
+     "word": "anyone",
+     "p": 0.0004,
+     "rhyme": 0.3,
+     "score": 0.229
+    },
+    {
+     "word": "again",
+     "p": 0.0004,
+     "rhyme": 0.3,
+     "score": 0.229
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "I have love in me, knoweth never,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "not",
+   "meant": "me",
+   "chosen": "never",
+   "candidates": [
+    {
+     "word": "never",
+     "p": 0.0141,
+     "rhyme": 0,
+     "score": 0.392
+    },
+    {
+     "word": "nobody",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "always",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "again",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "although",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "somebody",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "alone",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.255
+    },
+    {
+     "word": "upon",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.239
+    },
+    {
+     "word": "before",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.235
+    },
+    {
+     "word": "our",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.235
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Yea, the soul that had breath to feel however,",
+   "syllables": 11,
+   "target": 11,
+   "partner": "never",
+   "qwen_top": "it",
+   "meant": "it",
+   "chosen": "however",
+   "candidates": [
+    {
+     "word": "however",
+     "p": 0.0012,
+     "rhyme": 1.0,
+     "score": 0.785
+    },
+    {
+     "word": "ever",
+     "p": 0.0011,
+     "rhyme": 1.0,
+     "score": 0.784
+    },
+    {
+     "word": "again",
+     "p": 0.0074,
+     "rhyme": 0.6,
+     "score": 0.671
+    },
+    {
+     "word": "anyone",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.504
+    },
+    {
+     "word": "better",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.501
+    },
+    {
+     "word": "herself",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.489
+    },
+    {
+     "word": "any",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.486
+    },
+    {
+     "word": "success",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.479
+    },
+    {
+     "word": "itself",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.477
+    },
+    {
+     "word": "very",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.472
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "And yet hath love for myself.",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "me",
+   "meant": "thee",
+   "chosen": "myself",
+   "candidates": [
+    {
+     "word": "myself",
+     "p": 0.0107,
+     "rhyme": 0,
+     "score": 0.374
+    },
+    {
+     "word": "allah",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.349
+    },
+    {
+     "word": "temptation",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.34
+    },
+    {
+     "word": "nobody",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.338
+    },
+    {
+     "word": "somebody",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "ever",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "heaven",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "always",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.268
+    },
+    {
+     "word": "again",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.264
+    },
+    {
+     "word": "machine",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.258
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Love is within us everywhere,",
+   "syllables": 8,
+   "target": 8,
+   "partner": "myself",
+   "qwen_top": "all",
+   "meant": "all",
+   "chosen": "everywhere",
+   "candidates": [
+    {
+     "word": "everywhere",
+     "p": 0.0109,
+     "rhyme": 0.6,
+     "score": 0.7
+    },
+    {
+     "word": "never",
+     "p": 0.0092,
+     "rhyme": 0.6,
+     "score": 0.661
+    },
+    {
+     "word": "ever",
+     "p": 0.0053,
+     "rhyme": 0.6,
+     "score": 0.571
+    },
+    {
+     "word": "together",
+     "p": 0.0051,
+     "rhyme": 0.6,
+     "score": 0.566
+    },
+    {
+     "word": "forever",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.512
+    },
+    {
+     "word": "nowhere",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.5
+    },
+    {
+     "word": "again",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.493
+    },
+    {
+     "word": "already",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.491
+    },
+    {
+     "word": "except",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.485
+    },
+    {
+     "word": "intents",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.476
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "A spirit passing into being there;",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "here",
+   "meant": "there",
+   "chosen": "there",
+   "candidates": [
+    {
+     "word": "there",
+     "p": 0.11,
+     "rhyme": 0,
+     "score": 0.487
+    },
+    {
+     "word": "we",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.299
+    },
+    {
+     "word": "be",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "free",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.293
+    },
+    {
+     "word": "no",
+     "p": 0.0109,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "see",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "me",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "he",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "so",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "they",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.284
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Yet my love's still not ours anywhere.",
+   "syllables": 10,
+   "target": 10,
+   "partner": "there",
+   "qwen_top": "to",
+   "meant": "alone",
+   "chosen": "anywhere",
+   "candidates": [
+    {
+     "word": "anywhere",
+     "p": 0.0075,
+     "rhyme": 0.9,
+     "score": 0.688
+    },
+    {
+     "word": "somewhere",
+     "p": 0.0065,
+     "rhyme": 0.9,
+     "score": 0.686
+    },
+    {
+     "word": "nowhere",
+     "p": 0.0027,
+     "rhyme": 0.9,
+     "score": 0.68
+    },
+    {
+     "word": "everywhere",
+     "p": 0.0025,
+     "rhyme": 0.9,
+     "score": 0.679
+    },
+    {
+     "word": "elsewhere",
+     "p": 0.0013,
+     "rhyme": 0.9,
+     "score": 0.677
+    },
+    {
+     "word": "together",
+     "p": 0.05,
+     "rhyme": 0.6,
+     "score": 0.536
+    },
+    {
+     "word": "again",
+     "p": 0.0225,
+     "rhyme": 0.6,
+     "score": 0.489
+    },
+    {
+     "word": "present",
+     "p": 0.0041,
+     "rhyme": 0.6,
+     "score": 0.457
+    },
+    {
+     "word": "ourselves",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.455
+    },
+    {
+     "word": "ever",
+     "p": 0.0029,
+     "rhyme": 0.6,
+     "score": 0.455
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "My love, too, in nature remains,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "is",
+   "meant": "is",
+   "chosen": "remains",
+   "candidates": [
+    {
+     "word": "remains",
+     "p": 0.0166,
+     "rhyme": 0,
+     "score": 0.458
+    },
+    {
+     "word": "nowhere",
+     "p": 0.0163,
+     "rhyme": 0,
+     "score": 0.441
+    },
+    {
+     "word": "somewhere",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.335
+    },
+    {
+     "word": "today",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "nobody",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "celebrated",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "outside",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "although",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "remain",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.264
+    },
+    {
+     "word": "alone",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.256
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Finds no flower or leaf again,",
+   "syllables": 8,
+   "target": 9,
+   "partner": "remains",
+   "qwen_top": "to",
+   "meant": "somewhere",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0068,
+     "rhyme": 0.6,
+     "score": 0.519
+    },
+    {
+     "word": "staying",
+     "p": 0.0041,
+     "rhyme": 0.6,
+     "score": 0.492
+    },
+    {
+     "word": "location",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.478
+    },
+    {
+     "word": "danger",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.478
+    },
+    {
+     "word": "remain",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.466
+    },
+    {
+     "word": "places",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.464
+    },
+    {
+     "word": "praying",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.464
+    },
+    {
+     "word": "consecrated",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "displayed",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "stranger",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.458
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Nor on his surface's lustre resides,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "shines",
+   "meant": "shines",
+   "chosen": "resides",
+   "candidates": [
+    {
+     "word": "resides",
+     "p": 0.0125,
+     "rhyme": 0,
+     "score": 0.415
+    },
+    {
+     "word": "sunlight",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.307
+    },
+    {
+     "word": "shadow",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "disappears",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.266
+    },
+    {
+     "word": "survives",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "conveys",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.241
+    },
+    {
+     "word": "shadows",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "retains",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.235
+    },
+    {
+     "word": "beside",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.231
+    },
+    {
+     "word": "sustains",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.227
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Or one a-dreaming of himself decides.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "resides",
+   "qwen_top": "is",
+   "meant": "is",
+   "chosen": "decides",
+   "candidates": [
+    {
+     "word": "decides",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 0.754
+    },
+    {
+     "word": "survives",
+     "p": 0.0054,
+     "rhyme": 0.6,
+     "score": 0.504
+    },
+    {
+     "word": "alive",
+     "p": 0.0033,
+     "rhyme": 0.6,
+     "score": 0.483
+    },
+    {
+     "word": "rises",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.471
+    },
+    {
+     "word": "beside",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "behind",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.461
+    },
+    {
+     "word": "arrives",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.46
+    },
+    {
+     "word": "hiding",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "outside",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.458
+    },
+    {
+     "word": "resided",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.457
+    }
+   ]
+  }
+ ]
+}

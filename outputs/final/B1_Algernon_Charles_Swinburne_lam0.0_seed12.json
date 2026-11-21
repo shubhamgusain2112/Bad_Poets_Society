@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "AABB",
+ "seed": 12,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "It may be that purer minds now contemplate\nThe eternal mystery again.\nIV. The Music of a Firestorm Re\nA fire-spring is the very\nLight of the night; the stars are still away;\nAnd yet the light comes again.\nFor he who hath not seen, and ce\nBehold! and if ye see not, then surely\nYe will in vain have thought to delay.\nThe world is silent as the sun away;\nFor no one sings a song appropriate;\nBut only the firestorm that",
+ "lines": [
+  {
+   "line": 1,
+   "text": "It may be that purer minds now contemplate",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "than",
+   "meant": "than",
+   "chosen": "contemplate",
+   "candidates": [
+    {
+     "word": "contemplate",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "appreciate",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "survey",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "pursue",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "attain",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "disdain",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "remain",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "recognize",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.245
+    },
+    {
+     "word": "recognise",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.245
+    },
+    {
+     "word": "realise",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.245
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The eternal mystery again.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "contemplate",
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "greater",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "unveiled",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "against",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "contained",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awake",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "begun",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "sacred",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "plainly",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "created",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "IV. The Music of a Firestorm Re",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "re",
+   "candidates": [
+    {
+     "word": "re",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "three",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "tree",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "sea",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "e",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "may",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.275
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "A fire-spring is the very",
+   "syllables": 8,
+   "target": 9,
+   "partner": "re",
+   "qwen_top": "fire",
+   "meant": "fire",
+   "chosen": "very",
+   "candidates": [
+    {
+     "word": "very",
+     "p": 0.0046,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "only",
+     "p": 0.0038,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "glory",
+     "p": 0.0023,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "mystery",
+     "p": 0.0018,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "fiery",
+     "p": 0.0016,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "holy",
+     "p": 0.0016,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "mighty",
+     "p": 0.0014,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "beauty",
+     "p": 0.0012,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "memory",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "city",
+     "p": 0.0011,
+     "rhyme": 0.9,
+     "score": 0.9
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Light of the night; the stars are still away;",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "below",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "again",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "unseen",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "between",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "inside",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.242
+    },
+    {
+     "word": "upon",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "before",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "afar",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "our",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.229
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "And yet the light comes again.",
+   "syllables": 7,
+   "target": 8,
+   "partner": "away",
+   "qwen_top": "on",
+   "meant": "on",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0072,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awake",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "breaking",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "always",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "shaking",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "raining",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "daily",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "against",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "flaming",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "waking",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "For he who hath not seen, and ce",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "hath",
+   "meant": "hath",
+   "chosen": "ce",
+   "candidates": [
+    {
+     "word": "ce",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "unseen",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "our",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "afar",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "denied",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.222
+    },
+    {
+     "word": "alone",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.218
+    },
+    {
+     "word": "indeed",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.214
+    },
+    {
+     "word": "therefore",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.201
+    },
+    {
+     "word": "cannot",
+     "p": 0.0128,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "begun",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.194
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Behold! and if ye see not, then surely",
+   "syllables": 10,
+   "target": 11,
+   "partner": "ce",
+   "qwen_top": "see",
+   "meant": "see",
+   "chosen": "surely",
+   "candidates": [
+    {
+     "word": "surely",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "only",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "believe",
+     "p": 0.0112,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "perceive",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "neither",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "indeed",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "even",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "unseen",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "conceive",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "behold",
+     "p": 0.0365,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Ye will in vain have thought to delay.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "see",
+   "meant": "see",
+   "chosen": "delay",
+   "candidates": [
+    {
+     "word": "delay",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "complain",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "remain",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "deny",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "defy",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "forget",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "despair",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "declare",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "compare",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "beware",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.237
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "The world is silent as the sun away;",
+   "syllables": 10,
+   "target": 11,
+   "partner": "delay",
+   "qwen_top": "is",
+   "meant": "is",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "today",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "again",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "awake",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "against",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "faces",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "before",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "rises",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "below",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "after",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "For no one sings a song appropriate;",
+   "syllables": 10,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "appropriate",
+   "candidates": [
+    {
+     "word": "appropriate",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "away",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "today",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "anew",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "into",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "ago",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "again",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "farewell",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.251
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "But only the firestorm that",
+   "syllables": 7,
+   "target": 8,
+   "partner": "appropriate",
+   "qwen_top": "sings",
+   "meant": "sings",
+   "chosen": "that",
+   "candidates": [
+    {
+     "word": "that",
+     "p": 0.008,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "makes",
+     "p": 0.0217,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "re",
+     "p": 0.0149,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "goes",
+     "p": 0.0109,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "breaks",
+     "p": 0.0102,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "plays",
+     "p": 0.009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "ro",
+     "p": 0.009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "shakes",
+     "p": 0.0055,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "mo",
+     "p": 0.004,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "blows",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 1.0,
+ "scheme": "AABB",
+ "seed": 10,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "And, as a king mine hour,\nI will speak to thee alone in heaven,\nMy joy and grief, my love and shame alone.\nAnd thus shall life be ended,\nDay after day shall we abide,\nUnclouded of sorrow or light alone.\nIV. THE LIVING ARISE FROM DAWN Again.\nAs a leaf from a rising flower\nThat is set down on the flower\nAs upon the leaf above,\nIt would not seem old nor dead and dying,\nIf only it were left so alone,",
+ "lines": [
+  {
+   "line": 1,
+   "text": "And, as a king mine hour,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "own",
+   "meant": "own",
+   "chosen": "hour",
+   "candidates": [
+    {
+     "word": "hour",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 1.161
+    },
+    {
+     "word": "honour",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.722
+    },
+    {
+     "word": "image",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.697
+    },
+    {
+     "word": "enemy",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.541
+    },
+    {
+     "word": "father",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.377
+    },
+    {
+     "word": "over",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.357
+    },
+    {
+     "word": "ally",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "exile",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.306
+    },
+    {
+     "word": "altar",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "array",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.299
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "I will speak to thee alone in heaven,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "hour",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0519,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "silence",
+     "p": 0.0117,
+     "rhyme": 0,
+     "score": 0.225
+    },
+    {
+     "word": "secret",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.128
+    },
+    {
+     "word": "spirit",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.065
+    },
+    {
+     "word": "glory",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.061
+    },
+    {
+     "word": "holy",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.052
+    },
+    {
+     "word": "our",
+     "p": 0.0025,
+     "rhyme": 0.6,
+     "score": 0.048
+    },
+    {
+     "word": "darkness",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.039
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.037
+    },
+    {
+     "word": "every",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.035
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "My joy and grief, my love and shame alone.",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 1.218
+    },
+    {
+     "word": "unknown",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.545
+    },
+    {
+     "word": "divine",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.541
+    },
+    {
+     "word": "undone",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.481
+    },
+    {
+     "word": "again",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.373
+    },
+    {
+     "word": "before",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.348
+    },
+    {
+     "word": "away",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.339
+    },
+    {
+     "word": "unseen",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "anew",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "below",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.318
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "And thus shall life be ended,",
+   "syllables": 7,
+   "target": 8,
+   "partner": "alone",
+   "qwen_top": "done",
+   "meant": "done",
+   "chosen": "ended",
+   "candidates": [
+    {
+     "word": "ended",
+     "p": 0.0408,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "given",
+     "p": 0.028,
+     "rhyme": 0,
+     "score": 0.686
+    },
+    {
+     "word": "happy",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "over",
+     "p": 0.0067,
+     "rhyme": 0.6,
+     "score": 0.163
+    },
+    {
+     "word": "written",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "complete",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.087
+    },
+    {
+     "word": "measured",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.082
+    },
+    {
+     "word": "fulfilled",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "finished",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.068
+    },
+    {
+     "word": "broken",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.056
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Day after day shall we abide,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "be",
+   "meant": "be",
+   "chosen": "abide",
+   "candidates": [
+    {
+     "word": "abide",
+     "p": 0.0457,
+     "rhyme": 0,
+     "score": 1.222
+    },
+    {
+     "word": "depart",
+     "p": 0.0131,
+     "rhyme": 0,
+     "score": 0.436
+    },
+    {
+     "word": "endure",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.314
+    },
+    {
+     "word": "remain",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "behold",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.309
+    },
+    {
+     "word": "forget",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "separate",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "agree",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "decay",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "renew",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.283
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Unclouded of sorrow or light alone.",
+   "syllables": 10,
+   "target": 11,
+   "partner": "abide",
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "above",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.883
+    },
+    {
+     "word": "content",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.689
+    },
+    {
+     "word": "divine",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.54
+    },
+    {
+     "word": "beyond",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.536
+    },
+    {
+     "word": "without",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "upon",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "relief",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "enough",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "unto",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.135
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "IV. THE LIVING ARISE FROM DAWN Again.",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 1.253
+    },
+    {
+     "word": "into",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.493
+    },
+    {
+     "word": "before",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.426
+    },
+    {
+     "word": "after",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.405
+    },
+    {
+     "word": "below",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.355
+    },
+    {
+     "word": "above",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "today",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "between",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.264
+    },
+    {
+     "word": "upon",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.234
+    },
+    {
+     "word": "our",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.231
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "As a leaf from a rising flower",
+   "syllables": 9,
+   "target": 10,
+   "partner": "again",
+   "qwen_top": "tree",
+   "meant": "tree",
+   "chosen": "flower",
+   "candidates": [
+    {
+     "word": "flower",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "mountain",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.779
+    },
+    {
+     "word": "morning",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.646
+    },
+    {
+     "word": "blossom",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.569
+    },
+    {
+     "word": "forest",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "river",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "summer",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.348
+    },
+    {
+     "word": "heaven",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.292
+    },
+    {
+     "word": "tower",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "fire",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.27
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "That is set down on the flower",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "ground",
+   "meant": "ground",
+   "chosen": "flower",
+   "candidates": [
+    {
+     "word": "flower",
+     "p": 0.0109,
+     "rhyme": 0,
+     "score": 1.163
+    },
+    {
+     "word": "mountain",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.451
+    },
+    {
+     "word": "river",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "fire",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "ocean",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.252
+    },
+    {
+     "word": "level",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.24
+    },
+    {
+     "word": "sunny",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.239
+    },
+    {
+     "word": "table",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "very",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "garden",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.234
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "As upon the leaf above,",
+   "syllables": 7,
+   "target": 8,
+   "partner": "flower",
+   "qwen_top": "that",
+   "meant": "that",
+   "chosen": "above",
+   "candidates": [
+    {
+     "word": "above",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "thereof",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.998
+    },
+    {
+     "word": "upon",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.783
+    },
+    {
+     "word": "beneath",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.777
+    },
+    {
+     "word": "again",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.687
+    },
+    {
+     "word": "before",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.536
+    },
+    {
+     "word": "alone",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "below",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "itself",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.471
+    },
+    {
+     "word": "unto",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.416
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "It would not seem old nor dead and dying,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "green",
+   "meant": "green",
+   "chosen": "dying",
+   "candidates": [
+    {
+     "word": "dying",
+     "p": 0.0119,
+     "rhyme": 0,
+     "score": 1.17
+    },
+    {
+     "word": "alive",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.339
+    },
+    {
+     "word": "away",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.307
+    },
+    {
+     "word": "decay",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "alone",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "weary",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "very",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.264
+    },
+    {
+     "word": "yellow",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.26
+    },
+    {
+     "word": "unknown",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.252
+    },
+    {
+     "word": "barren",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.237
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "If only it were left so alone,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "dying",
+   "qwen_top": "long",
+   "meant": "long",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0139,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "lying",
+     "p": 0.0123,
+     "rhyme": 1.0,
+     "score": 0.882
+    },
+    {
+     "word": "standing",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.417
+    },
+    {
+     "word": "living",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "sleeping",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "ever",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.153
+    },
+    {
+     "word": "flying",
+     "p": 0.0021,
+     "rhyme": 1.0,
+     "score": 0.153
+    },
+    {
+     "word": "above",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "very",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.135
+    },
+    {
+     "word": "floating",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.135
+    }
+   ]
+  }
+ ]
+}

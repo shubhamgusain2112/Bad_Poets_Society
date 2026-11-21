@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 1.0,
+ "scheme": "ABAB",
+ "seed": 0,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Farewell, my dear boy! When haply again\nWe meet thee on that fatiguing journey,\nWhen first I saw thy face and listened\nTo thy lute's tones, the earth shall disappear,\nThe sunbeam relent; for no unrelenting wind\nOf revenge should be with thee to unite,\nNor should thy shuddering heart contrive again\nThou to endure the broken lips again,\nOr sicken when thou dost feel them again.\nThis garb of solitude is ours,\nThy world was but a dream: now alone\nSo oft have we laughed in friendship; alone",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Farewell, my dear boy! When haply again",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "i",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.3553,
+     "rhyme": 0,
+     "score": 1.253
+    },
+    {
+     "word": "today",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "probably",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "anew",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "ago",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.266
+    },
+    {
+     "word": "although",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.263
+    },
+    {
+     "word": "anyway",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.259
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.257
+    },
+    {
+     "word": "remain",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.254
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "We meet thee on that fatiguing journey,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "day",
+   "meant": "day",
+   "chosen": "journey",
+   "candidates": [
+    {
+     "word": "journey",
+     "p": 0.0286,
+     "rhyme": 0,
+     "score": 1.128
+    },
+    {
+     "word": "along",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.418
+    },
+    {
+     "word": "vacation",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.345
+    },
+    {
+     "word": "station",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.344
+    },
+    {
+     "word": "destination",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.338
+    },
+    {
+     "word": "away",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.317
+    },
+    {
+     "word": "desolate",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.307
+    },
+    {
+     "word": "sunday",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "landing",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "ascent",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.296
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "When first I saw thy face and listened",
+   "syllables": 9,
+   "target": 10,
+   "partner": "again",
+   "qwen_top": "heard",
+   "meant": "heard",
+   "chosen": "listened",
+   "candidates": [
+    {
+     "word": "listened",
+     "p": 0.0093,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "echoes",
+     "p": 0.0078,
+     "rhyme": 0.6,
+     "score": 0.841
+    },
+    {
+     "word": "never",
+     "p": 0.007,
+     "rhyme": 0.6,
+     "score": 0.752
+    },
+    {
+     "word": "ever",
+     "p": 0.0051,
+     "rhyme": 0.6,
+     "score": 0.553
+    },
+    {
+     "word": "understood",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.551
+    },
+    {
+     "word": "remember",
+     "p": 0.0044,
+     "rhyme": 0.6,
+     "score": 0.476
+    },
+    {
+     "word": "realized",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.425
+    },
+    {
+     "word": "always",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.418
+    },
+    {
+     "word": "noticed",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.41
+    },
+    {
+     "word": "wonder",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.381
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "To thy lute's tones, the earth shall disappear,",
+   "syllables": 11,
+   "target": 11,
+   "partner": "journey",
+   "qwen_top": "be",
+   "meant": "disappear",
+   "chosen": "disappear",
+   "candidates": [
+    {
+     "word": "disappear",
+     "p": 0.0406,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "forget",
+     "p": 0.0321,
+     "rhyme": 0,
+     "score": 0.791
+    },
+    {
+     "word": "forever",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.242
+    },
+    {
+     "word": "appear",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.227
+    },
+    {
+     "word": "forgotten",
+     "p": 0.0089,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "vanish",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 0.207
+    },
+    {
+     "word": "cannot",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.188
+    },
+    {
+     "word": "surely",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.173
+    },
+    {
+     "word": "forgive",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.129
+    },
+    {
+     "word": "betray",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.098
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "The sunbeam relent; for no unrelenting wind",
+   "syllables": 12,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "force",
+   "meant": "wind",
+   "chosen": "wind",
+   "candidates": [
+    {
+     "word": "wind",
+     "p": 0.0889,
+     "rhyme": 0,
+     "score": 1.196
+    },
+    {
+     "word": "sun",
+     "p": 0.0343,
+     "rhyme": 0,
+     "score": 0.581
+    },
+    {
+     "word": "light",
+     "p": 0.0319,
+     "rhyme": 0,
+     "score": 0.57
+    },
+    {
+     "word": "rain",
+     "p": 0.02,
+     "rhyme": 0,
+     "score": 0.479
+    },
+    {
+     "word": "storm",
+     "p": 0.0274,
+     "rhyme": 0,
+     "score": 0.436
+    },
+    {
+     "word": "winds",
+     "p": 0.0198,
+     "rhyme": 0,
+     "score": 0.347
+    },
+    {
+     "word": "sea",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.34
+    },
+    {
+     "word": "day",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "ray",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.321
+    },
+    {
+     "word": "me",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.291
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Of revenge should be with thee to unite,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "assail",
+   "meant": "bring",
+   "chosen": "unite",
+   "candidates": [
+    {
+     "word": "unite",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 1.22
+    },
+    {
+     "word": "expected",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 1.136
+    },
+    {
+     "word": "threaten",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 1.032
+    },
+    {
+     "word": "conquer",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.919
+    },
+    {
+     "word": "endure",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.885
+    },
+    {
+     "word": "return",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.815
+    },
+    {
+     "word": "prevail",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.777
+    },
+    {
+     "word": "prepares",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.77
+    },
+    {
+     "word": "prepare",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.764
+    },
+    {
+     "word": "destroy",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.68
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Nor should thy shuddering heart contrive again",
+   "syllables": 11,
+   "target": 11,
+   "partner": "wind",
+   "qwen_top": "to",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.1341,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "for",
+     "p": 0.0144,
+     "rhyme": 0,
+     "score": 0.108
+    },
+    {
+     "word": "it",
+     "p": 0.01,
+     "rhyme": 0.6,
+     "score": 0.075
+    },
+    {
+     "word": "alone",
+     "p": 0.0091,
+     "rhyme": 0,
+     "score": 0.068
+    },
+    {
+     "word": "in",
+     "p": 0.0087,
+     "rhyme": 0.6,
+     "score": 0.065
+    },
+    {
+     "word": "could",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.055
+    },
+    {
+     "word": "to",
+     "p": 0.0064,
+     "rhyme": 0.6,
+     "score": 0.048
+    },
+    {
+     "word": "this",
+     "p": 0.0063,
+     "rhyme": 0.6,
+     "score": 0.047
+    },
+    {
+     "word": "time",
+     "p": 0.0058,
+     "rhyme": 0.6,
+     "score": 0.044
+    },
+    {
+     "word": "together",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.033
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Thou to endure the broken lips again,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "unite",
+   "qwen_top": "of",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.1478,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "alone",
+     "p": 0.0659,
+     "rhyme": 0,
+     "score": 0.446
+    },
+    {
+     "word": "together",
+     "p": 0.0248,
+     "rhyme": 0,
+     "score": 0.168
+    },
+    {
+     "word": "somewhere",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.042
+    },
+    {
+     "word": "anew",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.04
+    },
+    {
+     "word": "sometime",
+     "p": 0.0058,
+     "rhyme": 0.6,
+     "score": 0.039
+    },
+    {
+     "word": "apart",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.036
+    },
+    {
+     "word": "briefly",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.034
+    },
+    {
+     "word": "finally",
+     "p": 0.0041,
+     "rhyme": 0.6,
+     "score": 0.028
+    },
+    {
+     "word": "within",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.027
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Or sicken when thou dost feel them again.",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "again",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 1.253
+    },
+    {
+     "word": "brittle",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.535
+    },
+    {
+     "word": "broken",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.51
+    },
+    {
+     "word": "fingers",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.466
+    },
+    {
+     "word": "sour",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.415
+    },
+    {
+     "word": "pronounced",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.4
+    },
+    {
+     "word": "hesitate",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.363
+    },
+    {
+     "word": "breaking",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.357
+    },
+    {
+     "word": "divide",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.318
+    },
+    {
+     "word": "goodbye",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.308
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "This garb of solitude is ours,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "thy",
+   "meant": "thine",
+   "chosen": "ours",
+   "candidates": [
+    {
+     "word": "ours",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 1.031
+    },
+    {
+     "word": "unto",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "given",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.598
+    },
+    {
+     "word": "undone",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.579
+    },
+    {
+     "word": "pitiful",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.578
+    },
+    {
+     "word": "inadequate",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.57
+    },
+    {
+     "word": "compelled",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.499
+    },
+    {
+     "word": "alas",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.487
+    },
+    {
+     "word": "glorious",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.456
+    },
+    {
+     "word": "because",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.451
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Thy world was but a dream: now alone",
+   "syllables": 9,
+   "target": 10,
+   "partner": "again",
+   "qwen_top": "it",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.044,
+     "rhyme": 0.3,
+     "score": 1.0
+    },
+    {
+     "word": "forever",
+     "p": 0.0242,
+     "rhyme": 0.6,
+     "score": 0.549
+    },
+    {
+     "word": "returned",
+     "p": 0.0111,
+     "rhyme": 0,
+     "score": 0.252
+    },
+    {
+     "word": "finally",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.239
+    },
+    {
+     "word": "together",
+     "p": 0.0098,
+     "rhyme": 0.6,
+     "score": 0.222
+    },
+    {
+     "word": "depart",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "forgotten",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.168
+    },
+    {
+     "word": "leaving",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.141
+    },
+    {
+     "word": "return",
+     "p": 0.0057,
+     "rhyme": 0.3,
+     "score": 0.129
+    },
+    {
+     "word": "apart",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.112
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "So oft have we laughed in friendship; alone",
+   "syllables": 10,
+   "target": 11,
+   "partner": "ours",
+   "qwen_top": "now",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0708,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "together",
+     "p": 0.0237,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "again",
+     "p": 0.0196,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "never",
+     "p": 0.0104,
+     "rhyme": 0,
+     "score": 0.146
+    },
+    {
+     "word": "finally",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.072
+    },
+    {
+     "word": "happily",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.064
+    },
+    {
+     "word": "even",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.061
+    },
+    {
+     "word": "always",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.06
+    },
+    {
+     "word": "ever",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.04
+    },
+    {
+     "word": "already",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.038
+    }
+   ]
+  }
+ ]
+}

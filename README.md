@@ -21,6 +21,39 @@
 - [Gutenberg catalogue](https://www.gutenberg.org/cache/epub/feeds/pg_catalog.csv) - to find out who wrote each of those books
 - [GloVe word vectors](https://github.com/RaRe-Technologies/gensim-data/releases/tag/glove-wiki-gigaword-300) - the "meaning" space we pick the last word of each line from
 
+### What's in the repo
+**`scripts/`** - all the code, as notebooks (what each one does and the order to run them is under "How to run")
+- `clean_pdp.ipynb`, `clean_gutenberg.ipynb`, `data_prep.ipynb`, `author_counts.ipynb` - data cleaning and the training data (step 4)
+- `train.ipynb` - LoRA fine-tuning (step 5)
+- `rhyme.ipynb`, `author_profiles.ipynb`, `inspiring_set.ipynb`, `meaning_head.ipynb`, `generate.ipynb`, `evaluate.ipynb` - the poem generator and its evaluation (step 8)
+
+**`lora_weights/`** - our fine-tuned model (the LoRA part, goes on top of Qwen3-0.6B-Base)
+- `adapter_config.json`, `adapter_model.safetensors` - the LoRA weights
+- `train_log.txt` - the log of the training run on vibranium: loss every 10 steps, val loss and the header check every 250 steps
+- `meaning_head.pt` - the trained meaning head from `meaning_head.ipynb` (system M needs it), so you don't have to train it yourself
+- `vocab.npz` - the line-end vocabulary from `meaning_head.ipynb`: 52,544 words with their GloVe vectors and rhyme richness (the generator needs it, so you don't need to download GloVe)
+
+**`chatbot/`** - 2 small scripts to try the untuned model (see "Chatbot scripts" at the bottom)
+
+**`outputs/`** - everything the generator made (from `generate.ipynb` and `evaluate.ipynb`)
+- `final_poems.txt` - the easiest one to read: 160 poems, 5 per showcase poet for both systems (B1 and M) at every λ (Longfellow only λ 1). Above every poem: poet, system, λ, seed and how many of its rhyme pairs actually rhyme. The poems we present are picked from here
+- `final_poems.json` - the same 160 poems with their traces, in one file
+- `final/` - the same 160 poems again, one file each
+- `sweep/` - the 120 poems for the evaluation: B1 and M, λ 0/0.25/0.5/0.75/1, the 3 rhymed showcase poets, seeds 0-3
+- `traces/` - the 20 example poems at the bottom of `generate.ipynb` (seed 0)
+- `sweep_scores.csv` - one row per sweep poem: system, poet, λ, seed, rhyme pairs, how many rhymed, perplexity under Qwen3-1.7B (`ppl`) and share of lines with 5 words in a row from the training data (`copied`)
+- `lambda_curve.png` - rhyme rate vs perplexity for B1 and M as λ changes, the main result plot
+
+The poem files are named `<system>_<poet>_lam<λ>_seed<seed>.json`. Each one has the poem and its settings (poet, system, λ, scheme, seed, `stop` = why it stopped), plus a trace for every line in `lines`:
+- `text`, `syllables`, `target` - the line, its syllables and how many syllables we aimed for
+- `partner` - the word this line had to rhyme with (empty if it didn't have to)
+- `qwen_top` - the word Qwen itself wanted to end the line with
+- `meant` - the system's best word before rhyme counts (for M: the meaning head's guess)
+- `chosen` - the word that got picked
+- `candidates` - the top 10 words with their probability `p`, rhyme score `rhyme` and final `score`
+
+**Not in the repo** (too big, see "How to run" for how to get or make them): `model/` (Qwen, the 1.7B judge model, training checkpoints) and `data/` (the datasets, CMUdict, GloVe and everything the notebooks make from them)
+
 ### How to run
 We used Windows + Python 3.12, should work on other setups too.
 
@@ -51,7 +84,7 @@ data/gutenberg-catalog/pg_catalog.csv
 
 (Gutenberg updates the catalogue every day, so if you download it yourself a few author names might come out slightly different.)
 
-The later steps (rhymes and the meaning head) also need these two, not needed for the notebooks below yet:
+The poem-making notebooks (step 8) also need these two (GloVe only if you retrain the meaning head):
 - `data/cmudict/cmudict-0.7b` [[LINK]](https://raw.githubusercontent.com/Alexir/CMUdict/HEAD/cmudict-0.7b)
 - `data/glove/glove-wiki-gigaword-300.gz` (~400MB) from [[LINK]](https://github.com/RaRe-Technologies/gensim-data/releases/download/glove-wiki-gigaword-300/glove-wiki-gigaword-300.gz)
 
@@ -143,6 +176,34 @@ out = model.generate(**inputs, max_new_tokens=120, do_sample=True, temperature=0
 print(tok.decode(out[0], skip_special_tokens=True))
 ```
 Swap in any poet from `data/train_test/named_poets.csv`, or `Author: Unknown`. It stops by itself when the model ends the poem, or after `max_new_tokens`. Works without a GPU too, just slower.
+
+**8. Make poems**
+
+This is the actual generator. The model above just writes, these notebooks give the poem the poet's line length and rhyme scheme and pick the last word of every line. Needs steps 1-4 and `lora_weights/` (already on GitHub, the training is done). A GPU is needed from 4 on. Run from inside `scripts/`, in this order:
+
+1. `rhyme.ipynb` - pronunciations from CMUdict (plus ~30 old words like o'er that we added by hand), syllable counts, a rhyme score and "rhyme richness" (how many words rhyme with a word). The other notebooks load this one themselves with `%run`, so you don't have to run it on its own
+2. `author_profiles.ipynb` - works out every named poet's line length and rhyme scheme (AABB, ABAB, ABCB or none) from their poems, and picks the 4 showcase poets (the one with the most lines in each scheme). Makes `data/author_profiles.csv`, takes a few mins
+   - Why: the generator follows the profile while it writes. It sets how long each line is, which lines have to rhyme with which, and when the poem stops. The fine-tuned model can't do this by itself: the header check in `lora_weights/train_log.txt` shows it barely learned anything from the poet's name, and on its own it rhymes ~2% of the time
+   - How: line length is the middle half (25th-75th percentile) of the poet's syllables per line. For the scheme, the line ends are cut into blocks of 4 and each block gets a label, trying all 4 starting points since the data has no stanza breaks. A poet rhymes if at least 30% of their blocks do, and then their scheme is the label they use most
+3. `inspiring_set.ipynb` - 8 real poems per showcase poet, picked by rule and printed in the notebook. The bottom part compares them with generated poems, that needs 6 first
+   - Why: the generator doesn't use these at all, they're only there to judge the output (Ritchie's criteria). Typical: do the generated poems have the poet's line length and rhyme scheme as often as the poet's real poems do? New: do they copy lines from them (5 words in a row)?
+   - How: a poem gets in if it's 12-400 lines, has the poet's line length and fits the poet's scheme in at least half its blocks (80% unrhymed lines for Longfellow), then the best 8 per poet. Picked by rule so we can't cherry-pick
+   - Result so far: line length matches, the scheme only gets close at λ 0, and 0% of lines are copied
+4. `meaning_head.ipynb` - the GloVe word list and the "meaning head", a small network that guesses what word Qwen means at the end of a line. ~20 mins the first time. Makes `lora_weights/vocab.npz`, `data/line_end_states.pt` (~650MB, so it's quicker the next time) and `lora_weights/meaning_head.pt`. Both files in `lora_weights/` are already on GitHub, so you only need this notebook to retrain the head (it needs GloVe, see step 3)
+5. `generate.ipynb` - writes the poems. For your own poem: `generate_poem("George Gordon Byron", lam=0.5, system="M")`. Any poet from `data/author_profiles.csv` works. `system="B1"` picks the line ends from Qwen's own words instead of the meaning head's, `lam` goes from 0 (only rhyme counts) to 1 (no rhyming at all). The examples at the bottom take ~7 mins, every poem's trace goes in `outputs/traces/`
+6. `evaluate.ipynb` - B1 vs M at 5 values of `lam` (120 poems, ~30 mins), scores them on rhyme, fluency and copying and makes the plot. The fluency score needs a bigger model too (~3.4GB):
+```
+python -c "from huggingface_hub import snapshot_download; snapshot_download('Qwen/Qwen3-1.7B-Base', local_dir='model/Qwen3-1.7B-Base')"
+```
+Everything ends up in `outputs/` (what each file is: see "What's in the repo" at the top). It also makes the 160 poems in `outputs/final/` we pick from (~30 mins more). If it crashes just run it again, poems that are already there get skipped.
+
+### Which poems to use in the report
+- **The poems to present:** pick them from `outputs/final_poems.txt` (160 poems, all made after the method was fixed, none of them looked at while building it). Every poem has a header with poet, system, λ, seed and how many rhyme pairs rhyme, so search for e.g. `| B1 | λ 0.0` to jump to a group. Write down how many we read to pick them (e.g. "3 out of 160"), the report has to say that
+- **Where the good ones are:** λ 0 and 0.25 are the ones that actually rhyme. B1 reads better, M rhymes a bit more but has more grammar slips. λ 0.75 and 1 barely rhyme, so they're only good as a "without rhyme pressure" example. Skip poems that turned into Gutenberg footnotes or glossaries (numbers, "vol. i.", lists of names)
+- **Why a word got picked:** open the same poem in `outputs/final/` (same name as in the header, e.g. `B1_George_Gordon_Byron_lam0.0_seed12.json`). The trace shows for every line what Qwen wanted, what the meaning head meant and what got picked, good for a "behind the rhyme" example
+- **Numbers and the plot:** `evaluate.ipynb` (Results section) for the table, `outputs/lambda_curve.png` for the plot, `outputs/sweep_scores.csv` if you want the scores of one poem
+- **Best and worst by the numbers:** sort `outputs/sweep_scores.csv` by rhyme (`rhymed / pairs`) and `ppl`. These are the sweep poems (seeds 0-3), so they're for showing what goes right and wrong, not for presenting as our best work
+- **Real poems next to generated ones:** the bottom of `inspiring_set.ipynb`
 
 ### Chatbot scripts
 Just for playing around with the untuned model (needs step 1 and 2).

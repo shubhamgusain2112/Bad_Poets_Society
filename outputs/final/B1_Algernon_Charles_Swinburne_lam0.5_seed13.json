@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "B1",
+ "lam": 0.5,
+ "scheme": "AABB",
+ "seed": 13,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "The Spirit, who kept not them under,\nSaw the flame of Death's soul come into\nHimself and set them on fire,\nAnd made his own a son, himself,\nFor life is burned but for fire.\nHark! they hear it now, singing high\nTheir voices through the city streets,\nWith the darkness behind upon\nIts face all confused again.\nOh let us know its spirit then\nThat we knew none in earth before. O\nWhat so sweet a sight below",
+ "lines": [
+  {
+   "line": 1,
+   "text": "The Spirit, who kept not them under,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "from",
+   "meant": "from",
+   "chosen": "under",
+   "candidates": [
+    {
+     "word": "under",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.597
+    },
+    {
+     "word": "captive",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.534
+    },
+    {
+     "word": "silent",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "alive",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.485
+    },
+    {
+     "word": "alone",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.427
+    },
+    {
+     "word": "within",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.425
+    },
+    {
+     "word": "away",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.418
+    },
+    {
+     "word": "awake",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.412
+    },
+    {
+     "word": "secure",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.369
+    },
+    {
+     "word": "ever",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.34
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Saw the flame of Death's soul come into",
+   "syllables": 9,
+   "target": 10,
+   "partner": "under",
+   "qwen_top": "up",
+   "meant": "up",
+   "chosen": "into",
+   "candidates": [
+    {
+     "word": "into",
+     "p": 0.0061,
+     "rhyme": 0.6,
+     "score": 0.689
+    },
+    {
+     "word": "burning",
+     "p": 0.0078,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "unto",
+     "p": 0.0021,
+     "rhyme": 0.6,
+     "score": 0.435
+    },
+    {
+     "word": "upward",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.405
+    },
+    {
+     "word": "rushing",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.319
+    },
+    {
+     "word": "above",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.316
+    },
+    {
+     "word": "running",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.31
+    },
+    {
+     "word": "among",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.31
+    },
+    {
+     "word": "undone",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.306
+    },
+    {
+     "word": "suddenly",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.305
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Himself and set them on fire,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "fire",
+   "candidates": [
+    {
+     "word": "fire",
+     "p": 0.1754,
+     "rhyme": 0,
+     "score": 0.697
+    },
+    {
+     "word": "display",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "into",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "liberty",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "again",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "between",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "upon",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.234
+    },
+    {
+     "word": "our",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.232
+    },
+    {
+     "word": "before",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.231
+    },
+    {
+     "word": "afar",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.229
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "And made his own a son, himself,",
+   "syllables": 8,
+   "target": 9,
+   "partner": "fire",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "himself",
+   "candidates": [
+    {
+     "word": "himself",
+     "p": 0.0034,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "dying",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.494
+    },
+    {
+     "word": "rising",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.372
+    },
+    {
+     "word": "neither",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.33
+    },
+    {
+     "word": "crying",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.328
+    },
+    {
+     "word": "mighty",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.327
+    },
+    {
+     "word": "divine",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.325
+    },
+    {
+     "word": "alive",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.325
+    },
+    {
+     "word": "fiery",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.32
+    },
+    {
+     "word": "our",
+     "p": 0.0005,
+     "rhyme": 0.3,
+     "score": 0.219
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "For life is burned but for fire.",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "death",
+   "meant": "death",
+   "chosen": "fire",
+   "candidates": [
+    {
+     "word": "fire",
+     "p": 0.0405,
+     "rhyme": 0,
+     "score": 0.697
+    },
+    {
+     "word": "salvation",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.325
+    },
+    {
+     "word": "recreation",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.323
+    },
+    {
+     "word": "creation",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "our",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "decay",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.283
+    },
+    {
+     "word": "shadow",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "liberty",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "forget",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.242
+    },
+    {
+     "word": "desire",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.226
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Hark! they hear it now, singing high",
+   "syllables": 8,
+   "target": 9,
+   "partner": "fire",
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "high",
+   "candidates": [
+    {
+     "word": "high",
+     "p": 0.0347,
+     "rhyme": 0.6,
+     "score": 0.745
+    },
+    {
+     "word": "higher",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 0.508
+    },
+    {
+     "word": "for",
+     "p": 0.0044,
+     "rhyme": 0.9,
+     "score": 0.506
+    },
+    {
+     "word": "and",
+     "p": 0.039,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "loud",
+     "p": 0.039,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "or",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.46
+    },
+    {
+     "word": "her",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.457
+    },
+    {
+     "word": "are",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.452
+    },
+    {
+     "word": "now",
+     "p": 0.0345,
+     "rhyme": 0,
+     "score": 0.442
+    },
+    {
+     "word": "there",
+     "p": 0.0185,
+     "rhyme": 0.3,
+     "score": 0.387
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Their voices through the city streets,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "streets",
+   "meant": "streets",
+   "chosen": "streets",
+   "candidates": [
+    {
+     "word": "streets",
+     "p": 0.068,
+     "rhyme": 0,
+     "score": 0.673
+    },
+    {
+     "word": "wide",
+     "p": 0.0467,
+     "rhyme": 0,
+     "score": 0.566
+    },
+    {
+     "word": "of",
+     "p": 0.0364,
+     "rhyme": 0,
+     "score": 0.377
+    },
+    {
+     "word": "and",
+     "p": 0.025,
+     "rhyme": 0,
+     "score": 0.373
+    },
+    {
+     "word": "sky",
+     "p": 0.0104,
+     "rhyme": 0,
+     "score": 0.326
+    },
+    {
+     "word": "to",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.29
+    },
+    {
+     "word": "free",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "gay",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "way",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "too",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.283
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "With the darkness behind upon",
+   "syllables": 8,
+   "target": 9,
+   "partner": "streets",
+   "qwen_top": "them",
+   "meant": "them",
+   "chosen": "upon",
+   "candidates": [
+    {
+     "word": "upon",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "our",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.443
+    },
+    {
+     "word": "beneath",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.323
+    },
+    {
+     "word": "hearing",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.321
+    },
+    {
+     "word": "between",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.319
+    },
+    {
+     "word": "unseen",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.315
+    },
+    {
+     "word": "seeing",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.306
+    },
+    {
+     "word": "keeping",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.306
+    },
+    {
+     "word": "leaning",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.306
+    },
+    {
+     "word": "being",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.306
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "Its face all confused again.",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "and",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.753
+    },
+    {
+     "word": "faces",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.485
+    },
+    {
+     "word": "shadows",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.437
+    },
+    {
+     "word": "away",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.437
+    },
+    {
+     "word": "into",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.414
+    },
+    {
+     "word": "about",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.399
+    },
+    {
+     "word": "before",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.372
+    },
+    {
+     "word": "against",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.357
+    },
+    {
+     "word": "between",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "shadow",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.318
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Oh let us know its spirit then",
+   "syllables": 8,
+   "target": 9,
+   "partner": "again",
+   "qwen_top": "now",
+   "meant": "now",
+   "chosen": "then",
+   "candidates": [
+    {
+     "word": "then",
+     "p": 0.0273,
+     "rhyme": 1.0,
+     "score": 0.662
+    },
+    {
+     "word": "slain",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 0.506
+    },
+    {
+     "word": "when",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 0.503
+    },
+    {
+     "word": "men",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 0.502
+    },
+    {
+     "word": "plain",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 0.501
+    },
+    {
+     "word": "now",
+     "p": 0.084,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "there",
+     "p": 0.0241,
+     "rhyme": 0.6,
+     "score": 0.443
+    },
+    {
+     "word": "well",
+     "p": 0.0241,
+     "rhyme": 0.6,
+     "score": 0.443
+    },
+    {
+     "word": "dead",
+     "p": 0.0054,
+     "rhyme": 0.6,
+     "score": 0.332
+    },
+    {
+     "word": "name",
+     "p": 0.0051,
+     "rhyme": 0.6,
+     "score": 0.33
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "That we knew none in earth before. O",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "o",
+   "meant": "o",
+   "chosen": "o",
+   "candidates": [
+    {
+     "word": "o",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.76
+    },
+    {
+     "word": "then",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.415
+    },
+    {
+     "word": "nay",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.386
+    },
+    {
+     "word": "oh",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.379
+    },
+    {
+     "word": "for",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.373
+    },
+    {
+     "word": "he",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.365
+    },
+    {
+     "word": "see",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.362
+    },
+    {
+     "word": "a",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.359
+    },
+    {
+     "word": "i",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.357
+    },
+    {
+     "word": "no",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.338
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "What so sweet a sight below",
+   "syllables": 7,
+   "target": 8,
+   "partner": "o",
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "below",
+   "candidates": [
+    {
+     "word": "below",
+     "p": 0.0003,
+     "rhyme": 1.0,
+     "score": 0.541
+    },
+    {
+     "word": "before",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "unto",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.441
+    },
+    {
+     "word": "behold",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.368
+    },
+    {
+     "word": "upon",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.344
+    },
+    {
+     "word": "alone",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.332
+    },
+    {
+     "word": "over",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.327
+    },
+    {
+     "word": "unfold",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.31
+    },
+    {
+     "word": "unfolds",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.31
+    },
+    {
+     "word": "among",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.208
+    }
+   ]
+  }
+ ]
+}

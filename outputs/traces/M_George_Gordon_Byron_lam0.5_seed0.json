@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 0.5,
+ "scheme": "ABAB",
+ "seed": 0,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Farewell, my dear boy! When haply again\nWe meet thee on that fatiguing journey,\nWhen first I saw thy face and echoes\nOf thy kindly voice from those green valleys,\nMay thou forget my love. And when again,\nWho sees the outline of my vanquished heart,\nAnd finds a new friend in one who believes\nIn pity - whom shall not thus repent? Love,\nI have no wish to forgive; but alone\nMy soul does think of thee. Farewell, dear.\nBEAUDE LA TRANCHE (1806), La Vie de M. rousseau.\nBeside the dark river, high above year",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Farewell, my dear boy! When haply again",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "i",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.3553,
+     "rhyme": 0,
+     "score": 0.753
+    },
+    {
+     "word": "today",
+     "p": 0.0035,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "anew",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "probably",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "ago",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.264
+    },
+    {
+     "word": "although",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "anyway",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.257
+    },
+    {
+     "word": "yesterday",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "remain",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.254
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "We meet thee on that fatiguing journey,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "day",
+   "meant": "day",
+   "chosen": "journey",
+   "candidates": [
+    {
+     "word": "journey",
+     "p": 0.0286,
+     "rhyme": 0,
+     "score": 0.628
+    },
+    {
+     "word": "station",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.332
+    },
+    {
+     "word": "vacation",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.332
+    },
+    {
+     "word": "destination",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "along",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "away",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "desolate",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "sunday",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "canoe",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "into",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.28
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "When first I saw thy face and echoes",
+   "syllables": 9,
+   "target": 10,
+   "partner": "again",
+   "qwen_top": "heard",
+   "meant": "heard",
+   "chosen": "echoes",
+   "candidates": [
+    {
+     "word": "echoes",
+     "p": 0.0078,
+     "rhyme": 0.6,
+     "score": 0.721
+    },
+    {
+     "word": "never",
+     "p": 0.007,
+     "rhyme": 0.6,
+     "score": 0.676
+    },
+    {
+     "word": "ever",
+     "p": 0.0051,
+     "rhyme": 0.6,
+     "score": 0.576
+    },
+    {
+     "word": "explain",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 0.548
+    },
+    {
+     "word": "remember",
+     "p": 0.0044,
+     "rhyme": 0.6,
+     "score": 0.538
+    },
+    {
+     "word": "always",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.509
+    },
+    {
+     "word": "listened",
+     "p": 0.0093,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "explained",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.468
+    },
+    {
+     "word": "echoed",
+     "p": 0.0028,
+     "rhyme": 0.6,
+     "score": 0.453
+    },
+    {
+     "word": "remembered",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.438
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Of thy kindly voice from those green valleys,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "journey",
+   "qwen_top": "hills",
+   "meant": "hills",
+   "chosen": "valleys",
+   "candidates": [
+    {
+     "word": "valleys",
+     "p": 0.0325,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "thirty",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.456
+    },
+    {
+     "word": "interspersed",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.326
+    },
+    {
+     "word": "deserts",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.32
+    },
+    {
+     "word": "desert",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.307
+    },
+    {
+     "word": "refer",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.307
+    },
+    {
+     "word": "surrey",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.306
+    },
+    {
+     "word": "meadows",
+     "p": 0.0118,
+     "rhyme": 0,
+     "score": 0.182
+    },
+    {
+     "word": "sunny",
+     "p": 0.0005,
+     "rhyme": 0.3,
+     "score": 0.158
+    },
+    {
+     "word": "uplands",
+     "p": 0.0096,
+     "rhyme": 0,
+     "score": 0.147
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "May thou forget my love. And when again,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "i",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.5167,
+     "rhyme": 0,
+     "score": 0.753
+    },
+    {
+     "word": "today",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "anew",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "probably",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "nobody",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "ago",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "although",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "anyway",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.257
+    },
+    {
+     "word": "remain",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.254
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Who sees the outline of my vanquished heart,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "pride",
+   "meant": "heart",
+   "chosen": "heart",
+   "candidates": [
+    {
+     "word": "heart",
+     "p": 0.0586,
+     "rhyme": 0,
+     "score": 0.652
+    },
+    {
+     "word": "face",
+     "p": 0.0306,
+     "rhyme": 0,
+     "score": 0.429
+    },
+    {
+     "word": "soul",
+     "p": 0.0208,
+     "rhyme": 0,
+     "score": 0.376
+    },
+    {
+     "word": "mind",
+     "p": 0.0169,
+     "rhyme": 0,
+     "score": 0.339
+    },
+    {
+     "word": "eyes",
+     "p": 0.0131,
+     "rhyme": 0,
+     "score": 0.331
+    },
+    {
+     "word": "nation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.322
+    },
+    {
+     "word": "man",
+     "p": 0.0091,
+     "rhyme": 0,
+     "score": 0.306
+    },
+    {
+     "word": "head",
+     "p": 0.0129,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "whose",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "my",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.297
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "And finds a new friend in one who believes",
+   "syllables": 10,
+   "target": 11,
+   "partner": "again",
+   "qwen_top": "loves",
+   "meant": "loves",
+   "chosen": "believes",
+   "candidates": [
+    {
+     "word": "believes",
+     "p": 0.0292,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "declares",
+     "p": 0.0068,
+     "rhyme": 0.6,
+     "score": 0.417
+    },
+    {
+     "word": "whoever",
+     "p": 0.0054,
+     "rhyme": 0.6,
+     "score": 0.393
+    },
+    {
+     "word": "proclaims",
+     "p": 0.0045,
+     "rhyme": 0.6,
+     "score": 0.377
+    },
+    {
+     "word": "hesitates",
+     "p": 0.0034,
+     "rhyme": 0.6,
+     "score": 0.359
+    },
+    {
+     "word": "confesses",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.352
+    },
+    {
+     "word": "understands",
+     "p": 0.0205,
+     "rhyme": 0,
+     "score": 0.35
+    },
+    {
+     "word": "complains",
+     "p": 0.0026,
+     "rhyme": 0.6,
+     "score": 0.344
+    },
+    {
+     "word": "embraces",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.337
+    },
+    {
+     "word": "remains",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.333
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "In pity - whom shall not thus repent? Love,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "heart",
+   "qwen_top": "fare",
+   "meant": "love",
+   "chosen": "love",
+   "candidates": [
+    {
+     "word": "love",
+     "p": 0.0179,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "no",
+     "p": 0.0174,
+     "rhyme": 0,
+     "score": 0.486
+    },
+    {
+     "word": "ca",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.374
+    },
+    {
+     "word": "dear",
+     "p": 0.013,
+     "rhyme": 0,
+     "score": 0.362
+    },
+    {
+     "word": "not",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.357
+    },
+    {
+     "word": "god",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.35
+    },
+    {
+     "word": "want",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.348
+    },
+    {
+     "word": "so",
+     "p": 0.0124,
+     "rhyme": 0,
+     "score": 0.345
+    },
+    {
+     "word": "are",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.34
+    },
+    {
+     "word": "because",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.34
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "I have no wish to forgive; but alone",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "i",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.019,
+     "rhyme": 0,
+     "score": 0.718
+    },
+    {
+     "word": "again",
+     "p": 0.013,
+     "rhyme": 0,
+     "score": 0.594
+    },
+    {
+     "word": "forget",
+     "p": 0.0105,
+     "rhyme": 0,
+     "score": 0.513
+    },
+    {
+     "word": "indeed",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.437
+    },
+    {
+     "word": "anyway",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.393
+    },
+    {
+     "word": "forever",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.383
+    },
+    {
+     "word": "cannot",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.368
+    },
+    {
+     "word": "temptation",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.353
+    },
+    {
+     "word": "never",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.35
+    },
+    {
+     "word": "goodbye",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.305
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "My soul does think of thee. Farewell, dear.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "my",
+   "meant": "dear",
+   "chosen": "dear",
+   "candidates": [
+    {
+     "word": "dear",
+     "p": 0.3482,
+     "rhyme": 0,
+     "score": 0.729
+    },
+    {
+     "word": "thee",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "de",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "me",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "te",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "hey",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "da",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "goodbye",
+     "p": 0.0146,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "anthony",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "adieu",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.271
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "BEAUDE LA TRANCHE (1806), La Vie de M. rousseau.",
+   "syllables": 9,
+   "target": 10,
+   "partner": "alone",
+   "qwen_top": "le",
+   "meant": "pierre",
+   "chosen": "rousseau",
+   "candidates": [
+    {
+     "word": "rousseau",
+     "p": 0.0065,
+     "rhyme": 0.6,
+     "score": 0.54
+    },
+    {
+     "word": "pierre",
+     "p": 0.0136,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "eugene",
+     "p": 0.0086,
+     "rhyme": 0.3,
+     "score": 0.464
+    },
+    {
+     "word": "francis",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "joseph",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.327
+    },
+    {
+     "word": "boileau",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.321
+    },
+    {
+     "word": "chloe",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.32
+    },
+    {
+     "word": "nobleman",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.32
+    },
+    {
+     "word": "colonna",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.319
+    },
+    {
+     "word": "germain",
+     "p": 0.0035,
+     "rhyme": 0.3,
+     "score": 0.279
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Beside the dark river, high above year",
+   "syllables": 10,
+   "target": 11,
+   "partner": "dear",
+   "qwen_top": "the",
+   "meant": "us",
+   "chosen": "year",
+   "candidates": [
+    {
+     "word": "year",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 0.503
+    },
+    {
+     "word": "near",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 0.502
+    },
+    {
+     "word": "clear",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 0.502
+    },
+    {
+     "word": "us",
+     "p": 0.1343,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "him",
+     "p": 0.0214,
+     "rhyme": 0.6,
+     "score": 0.38
+    },
+    {
+     "word": "this",
+     "p": 0.0195,
+     "rhyme": 0.6,
+     "score": 0.373
+    },
+    {
+     "word": "it",
+     "p": 0.0122,
+     "rhyme": 0.6,
+     "score": 0.345
+    },
+    {
+     "word": "which",
+     "p": 0.0085,
+     "rhyme": 0.6,
+     "score": 0.332
+    },
+    {
+     "word": "to",
+     "p": 0.0066,
+     "rhyme": 0.6,
+     "score": 0.325
+    },
+    {
+     "word": "is",
+     "p": 0.0048,
+     "rhyme": 0.6,
+     "score": 0.318
+    }
+   ]
+  }
+ ]
+}

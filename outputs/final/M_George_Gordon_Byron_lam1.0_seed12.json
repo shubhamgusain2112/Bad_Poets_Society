@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "M",
+ "lam": 1.0,
+ "scheme": "ABAB",
+ "seed": 12,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "There are, but on the top of a mountain,\nNot more than the size which we can able\nPoke with our hands; the rest is disappeared\nThe moment it comes down: there appear\nNot many who have been below again\nTill they come up in the morning again.\nThey must themselves climb; or if not, able\nTo climb (well known how far above above\nThey stand), their proper places to able\nIn those regions should be found already there.\nTo what sense doth such palpable sense\nTake all this? We see that some beings",
+ "lines": [
+  {
+   "line": 1,
+   "text": "There are, but on the top of a mountain,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "hill",
+   "meant": "hill",
+   "chosen": "mountain",
+   "candidates": [
+    {
+     "word": "mountain",
+     "p": 0.0239,
+     "rhyme": 0,
+     "score": 1.035
+    },
+    {
+     "word": "atop",
+     "p": 0.0142,
+     "rhyme": 0,
+     "score": 0.753
+    },
+    {
+     "word": "tower",
+     "p": 0.0138,
+     "rhyme": 0,
+     "score": 0.74
+    },
+    {
+     "word": "elevation",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.497
+    },
+    {
+     "word": "hollow",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.406
+    },
+    {
+     "word": "above",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.394
+    },
+    {
+     "word": "shadow",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.355
+    },
+    {
+     "word": "below",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "plateau",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.293
+    },
+    {
+     "word": "rocky",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.282
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Not more than the size which we can able",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "see",
+   "meant": "see",
+   "chosen": "able",
+   "candidates": [
+    {
+     "word": "able",
+     "p": 0.0157,
+     "rhyme": 0,
+     "score": 1.139
+    },
+    {
+     "word": "behold",
+     "p": 0.0119,
+     "rhyme": 0,
+     "score": 0.947
+    },
+    {
+     "word": "compare",
+     "p": 0.0096,
+     "rhyme": 0,
+     "score": 0.848
+    },
+    {
+     "word": "enjoy",
+     "p": 0.0089,
+     "rhyme": 0,
+     "score": 0.752
+    },
+    {
+     "word": "attain",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.6
+    },
+    {
+     "word": "possess",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.583
+    },
+    {
+     "word": "unique",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.519
+    },
+    {
+     "word": "maintain",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.484
+    },
+    {
+     "word": "sustain",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.451
+    },
+    {
+     "word": "expect",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.435
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "Poke with our hands; the rest is disappeared",
+   "syllables": 11,
+   "target": 11,
+   "partner": "mountain",
+   "qwen_top": "in",
+   "meant": "found",
+   "chosen": "disappeared",
+   "candidates": [
+    {
+     "word": "disappeared",
+     "p": 0.0116,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "scattered",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 0.713
+    },
+    {
+     "word": "covered",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.7
+    },
+    {
+     "word": "beneath",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.492
+    },
+    {
+     "word": "buried",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.481
+    },
+    {
+     "word": "nowhere",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.474
+    },
+    {
+     "word": "unknown",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.41
+    },
+    {
+     "word": "exist",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.359
+    },
+    {
+     "word": "unmarked",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.342
+    },
+    {
+     "word": "abundance",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.318
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "The moment it comes down: there appear",
+   "syllables": 9,
+   "target": 10,
+   "partner": "able",
+   "qwen_top": "is",
+   "meant": "are",
+   "chosen": "appear",
+   "candidates": [
+    {
+     "word": "appear",
+     "p": 0.0288,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "exist",
+     "p": 0.0147,
+     "rhyme": 0,
+     "score": 0.51
+    },
+    {
+     "word": "remain",
+     "p": 0.0129,
+     "rhyme": 0.6,
+     "score": 0.449
+    },
+    {
+     "word": "nowhere",
+     "p": 0.0122,
+     "rhyme": 0,
+     "score": 0.423
+    },
+    {
+     "word": "somewhere",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.339
+    },
+    {
+     "word": "appears",
+     "p": 0.0096,
+     "rhyme": 0,
+     "score": 0.335
+    },
+    {
+     "word": "presently",
+     "p": 0.0074,
+     "rhyme": 0,
+     "score": 0.258
+    },
+    {
+     "word": "forever",
+     "p": 0.0067,
+     "rhyme": 0,
+     "score": 0.232
+    },
+    {
+     "word": "cannot",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "alone",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.191
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Not many who have been below again",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.1839,
+     "rhyme": 0,
+     "score": 1.253
+    },
+    {
+     "word": "before",
+     "p": 0.0263,
+     "rhyme": 0,
+     "score": 0.372
+    },
+    {
+     "word": "alone",
+     "p": 0.0161,
+     "rhyme": 0,
+     "score": 0.306
+    },
+    {
+     "word": "below",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.287
+    },
+    {
+     "word": "today",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "away",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "probably",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "into",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "anew",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "ability",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.272
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "Till they come up in the morning again.",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "again",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.1241,
+     "rhyme": 0,
+     "score": 1.253
+    },
+    {
+     "word": "light",
+     "p": 0.0454,
+     "rhyme": 0,
+     "score": 0.577
+    },
+    {
+     "word": "rain",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.333
+    },
+    {
+     "word": "shine",
+     "p": 0.0127,
+     "rhyme": 0,
+     "score": 0.316
+    },
+    {
+     "word": "gray",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.298
+    },
+    {
+     "word": "grey",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "day",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "see",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.291
+    },
+    {
+     "word": "blue",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.286
+    },
+    {
+     "word": "sea",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.285
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "They must themselves climb; or if not, able",
+   "syllables": 10,
+   "target": 11,
+   "partner": "again",
+   "qwen_top": "they",
+   "meant": "must",
+   "chosen": "able",
+   "candidates": [
+    {
+     "word": "able",
+     "p": 0.0206,
+     "rhyme": 0.6,
+     "score": 1.0
+    },
+    {
+     "word": "themselves",
+     "p": 0.0149,
+     "rhyme": 0.6,
+     "score": 0.725
+    },
+    {
+     "word": "alone",
+     "p": 0.0096,
+     "rhyme": 0.3,
+     "score": 0.467
+    },
+    {
+     "word": "cannot",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 0.401
+    },
+    {
+     "word": "descend",
+     "p": 0.0067,
+     "rhyme": 0.6,
+     "score": 0.328
+    },
+    {
+     "word": "therefore",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.257
+    },
+    {
+     "word": "proceed",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "directly",
+     "p": 0.0051,
+     "rhyme": 0.6,
+     "score": 0.249
+    },
+    {
+     "word": "ascend",
+     "p": 0.0037,
+     "rhyme": 0.6,
+     "score": 0.179
+    },
+    {
+     "word": "ourselves",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.174
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "To climb (well known how far above above",
+   "syllables": 10,
+   "target": 11,
+   "partner": "again",
+   "qwen_top": "the",
+   "meant": "above",
+   "chosen": "above",
+   "candidates": [
+    {
+     "word": "above",
+     "p": 0.0781,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "below",
+     "p": 0.0374,
+     "rhyme": 0,
+     "score": 0.48
+    },
+    {
+     "word": "somewhere",
+     "p": 0.0097,
+     "rhyme": 0.6,
+     "score": 0.125
+    },
+    {
+     "word": "alone",
+     "p": 0.0084,
+     "rhyme": 0.3,
+     "score": 0.108
+    },
+    {
+     "word": "highest",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.078
+    },
+    {
+     "word": "level",
+     "p": 0.006,
+     "rhyme": 0.6,
+     "score": 0.077
+    },
+    {
+     "word": "heaven",
+     "p": 0.0057,
+     "rhyme": 0.6,
+     "score": 0.073
+    },
+    {
+     "word": "beneath",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.068
+    },
+    {
+     "word": "reaching",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.065
+    },
+    {
+     "word": "descending",
+     "p": 0.0046,
+     "rhyme": 0.6,
+     "score": 0.058
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "They stand), their proper places to able",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "find",
+   "meant": "able",
+   "chosen": "able",
+   "candidates": [
+    {
+     "word": "able",
+     "p": 0.0301,
+     "rhyme": 0,
+     "score": 1.139
+    },
+    {
+     "word": "obtain",
+     "p": 0.0207,
+     "rhyme": 0,
+     "score": 0.942
+    },
+    {
+     "word": "retain",
+     "p": 0.0136,
+     "rhyme": 0,
+     "score": 0.706
+    },
+    {
+     "word": "undertake",
+     "p": 0.0148,
+     "rhyme": 0,
+     "score": 0.645
+    },
+    {
+     "word": "maintain",
+     "p": 0.011,
+     "rhyme": 0,
+     "score": 0.618
+    },
+    {
+     "word": "provide",
+     "p": 0.01,
+     "rhyme": 0,
+     "score": 0.554
+    },
+    {
+     "word": "possess",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.515
+    },
+    {
+     "word": "attain",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.502
+    },
+    {
+     "word": "explore",
+     "p": 0.0058,
+     "rhyme": 0,
+     "score": 0.421
+    },
+    {
+     "word": "occupy",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.398
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "In those regions should be found already there.",
+   "syllables": 11,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "there",
+   "meant": "there",
+   "chosen": "there",
+   "candidates": [
+    {
+     "word": "there",
+     "p": 0.1729,
+     "rhyme": 0,
+     "score": 1.237
+    },
+    {
+     "word": "here",
+     "p": 0.1508,
+     "rhyme": 0,
+     "score": 1.024
+    },
+    {
+     "word": "where",
+     "p": 0.0352,
+     "rhyme": 0,
+     "score": 0.441
+    },
+    {
+     "word": "be",
+     "p": 0.0146,
+     "rhyme": 0,
+     "score": 0.366
+    },
+    {
+     "word": "they",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.335
+    },
+    {
+     "word": "he",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "we",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "in",
+     "p": 0.0143,
+     "rhyme": 0,
+     "score": 0.3
+    },
+    {
+     "word": "no",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "now",
+     "p": 0.014,
+     "rhyme": 0,
+     "score": 0.292
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "To what sense doth such palpable sense",
+   "syllables": 9,
+   "target": 10,
+   "partner": "able",
+   "qwen_top": "difference",
+   "meant": "sense",
+   "chosen": "sense",
+   "candidates": [
+    {
+     "word": "sense",
+     "p": 0.0182,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "sight",
+     "p": 0.0165,
+     "rhyme": 0,
+     "score": 0.908
+    },
+    {
+     "word": "scope",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.541
+    },
+    {
+     "word": "absolute",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.504
+    },
+    {
+     "word": "lack",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.332
+    },
+    {
+     "word": "greater",
+     "p": 0.0056,
+     "rhyme": 0.6,
+     "score": 0.305
+    },
+    {
+     "word": "reason",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "comfort",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.252
+    },
+    {
+     "word": "beyond",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.235
+    },
+    {
+     "word": "sheer",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.234
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Take all this? We see that some beings",
+   "syllables": 9,
+   "target": 10,
+   "partner": "there",
+   "qwen_top": "are",
+   "meant": "beings",
+   "chosen": "beings",
+   "candidates": [
+    {
+     "word": "beings",
+     "p": 0.0186,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "phenomena",
+     "p": 0.0138,
+     "rhyme": 0,
+     "score": 0.744
+    },
+    {
+     "word": "possess",
+     "p": 0.0099,
+     "rhyme": 0.6,
+     "score": 0.53
+    },
+    {
+     "word": "appear",
+     "p": 0.0083,
+     "rhyme": 0.3,
+     "score": 0.447
+    },
+    {
+     "word": "arise",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.441
+    },
+    {
+     "word": "exist",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.437
+    },
+    {
+     "word": "occur",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.364
+    },
+    {
+     "word": "lurking",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.243
+    },
+    {
+     "word": "creatures",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.2
+    },
+    {
+     "word": "belong",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.2
+    }
+   ]
+  }
+ ]
+}

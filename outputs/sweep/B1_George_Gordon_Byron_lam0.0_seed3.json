@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 0.0,
+ "scheme": "ABAB",
+ "seed": 3,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "XIII. OMNES DE ILLUMINUS de\nIambis, in vestidum et mit.\n157. 'O my own poor Soul!' a Spanish lady\nSaid her, 'How couldst thou ever have pity\nOn the unhappy things that upon\nThe ground so freely fell? Thy despair\nIs as just as I've felt it must follow\nThat thy soul should sink into decay.' There\nShe drew near the grave and reached away\nA little with the hand of consolation;\nThen softly stroked to herself her faded\nAnd tender features; and, lo! - she remained",
+ "lines": [
+  {
+   "line": 1,
+   "text": "XIII. OMNES DE ILLUMINUS de",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "de",
+   "candidates": [
+    {
+     "word": "de",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "re",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "vi",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "ne",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "be",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "me",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "di",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "cit",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "te",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "he",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.281
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Iambis, in vestidum et mit.",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "in",
+   "meant": "in",
+   "chosen": "mit",
+   "candidates": [
+    {
+     "word": "mit",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "cit",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "inter",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.201
+    },
+    {
+     "word": "infer",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.201
+    },
+    {
+     "word": "erect",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "forte",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.182
+    },
+    {
+     "word": "suspend",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.179
+    },
+    {
+     "word": "vero",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.176
+    },
+    {
+     "word": "robust",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.152
+    },
+    {
+     "word": "bene",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.142
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "157. 'O my own poor Soul!' a Spanish lady",
+   "syllables": 10,
+   "target": 11,
+   "partner": "de",
+   "qwen_top": "maid",
+   "meant": "maid",
+   "chosen": "lady",
+   "candidates": [
+    {
+     "word": "lady",
+     "p": 0.0241,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "clergy",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "baby",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "fairy",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "sailor",
+     "p": 0.0148,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "maiden",
+     "p": 0.0077,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "lover",
+     "p": 0.0056,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "angel",
+     "p": 0.0052,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "hero",
+     "p": 0.0024,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "mother",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Said her, 'How couldst thou ever have pity",
+   "syllables": 10,
+   "target": 11,
+   "partner": "mit",
+   "qwen_top": "known",
+   "meant": "known",
+   "chosen": "pity",
+   "candidates": [
+    {
+     "word": "pity",
+     "p": 0.0019,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "glory",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "any",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "credit",
+     "p": 0.0003,
+     "rhyme": 0.9,
+     "score": 0.9
+    },
+    {
+     "word": "believed",
+     "p": 0.0312,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "given",
+     "p": 0.002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "reason",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "risen",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "achieved",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "conceived",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "On the unhappy things that upon",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "thou",
+   "meant": "thou",
+   "chosen": "upon",
+   "candidates": [
+    {
+     "word": "upon",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "our",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.229
+    },
+    {
+     "word": "distress",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "oppress",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.223
+    },
+    {
+     "word": "multiply",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "oppressed",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.218
+    },
+    {
+     "word": "arise",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.218
+    },
+    {
+     "word": "await",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.214
+    },
+    {
+     "word": "always",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.209
+    },
+    {
+     "word": "torment",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.203
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "The ground so freely fell? Thy despair",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "own",
+   "meant": "own",
+   "chosen": "despair",
+   "candidates": [
+    {
+     "word": "despair",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "very",
+     "p": 0.0076,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "torment",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.203
+    },
+    {
+     "word": "present",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.201
+    },
+    {
+     "word": "desire",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.197
+    },
+    {
+     "word": "glory",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.183
+    },
+    {
+     "word": "folly",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.182
+    },
+    {
+     "word": "gentle",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.176
+    },
+    {
+     "word": "cruel",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.167
+    },
+    {
+     "word": "fellow",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.167
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Is as just as I've felt it must follow",
+   "syllables": 10,
+   "target": 11,
+   "partner": "upon",
+   "qwen_top": "be",
+   "meant": "be",
+   "chosen": "follow",
+   "candidates": [
+    {
+     "word": "follow",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "depart",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "impart",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "remain",
+     "p": 0.0004,
+     "rhyme": 0.3,
+     "score": 0.3
+    },
+    {
+     "word": "begin",
+     "p": 0.0001,
+     "rhyme": 0.3,
+     "score": 0.3
+    },
+    {
+     "word": "again",
+     "p": 0.0,
+     "rhyme": 0.3,
+     "score": 0.3
+    },
+    {
+     "word": "contain",
+     "p": 0.0,
+     "rhyme": 0.3,
+     "score": 0.3
+    },
+    {
+     "word": "alone",
+     "p": 0.0,
+     "rhyme": 0.3,
+     "score": 0.3
+    },
+    {
+     "word": "sustain",
+     "p": 0.0,
+     "rhyme": 0.3,
+     "score": 0.3
+    },
+    {
+     "word": "appear",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "That thy soul should sink into decay.' There",
+   "syllables": 10,
+   "target": 11,
+   "partner": "despair",
+   "qwen_top": "she",
+   "meant": "she",
+   "chosen": "there",
+   "candidates": [
+    {
+     "word": "there",
+     "p": 0.0002,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "where",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "fair",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "their",
+     "p": 0.0001,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "fare",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "ere",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "air",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "rare",
+     "p": 0.0,
+     "rhyme": 1.0,
+     "score": 1.0
+    },
+    {
+     "word": "then",
+     "p": 0.0064,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "yet",
+     "p": 0.0023,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "She drew near the grave and reached away",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "away",
+   "candidates": [
+    {
+     "word": "away",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "into",
+     "p": 0.007,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "anew",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "below",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.262
+    },
+    {
+     "word": "disdain",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "again",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "farewell",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "thereby",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.249
+    },
+    {
+     "word": "between",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.248
+    },
+    {
+     "word": "unseen",
+     "p": 0.0001,
+     "rhyme": 0,
+     "score": 0.248
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "A little with the hand of consolation;",
+   "syllables": 11,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "pity",
+   "meant": "pity",
+   "chosen": "consolation",
+   "candidates": [
+    {
+     "word": "consolation",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "desperation",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "resignation",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "admiration",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "expectation",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "dismay",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "disdain",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "farewell",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.251
+    },
+    {
+     "word": "despair",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "regret",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.237
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Then softly stroked to herself her faded",
+   "syllables": 10,
+   "target": 11,
+   "partner": "away",
+   "qwen_top": "own",
+   "meant": "own",
+   "chosen": "faded",
+   "candidates": [
+    {
+     "word": "faded",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "fading",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "lady",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "painful",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "baby",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "native",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "fatal",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "naked",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "ancient",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "shaking",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.6
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "And tender features; and, lo! - she remained",
+   "syllables": 10,
+   "target": 11,
+   "partner": "consolation",
+   "qwen_top": "saw",
+   "meant": "saw",
+   "chosen": "remained",
+   "candidates": [
+    {
+     "word": "remained",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "waited",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "became",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "again",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "exclaimed",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "faded",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.6
+    },
+    {
+     "word": "began",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "lifted",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "vanished",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.0
+    },
+    {
+     "word": "perceived",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.0
+    }
+   ]
+  }
+ ]
+}

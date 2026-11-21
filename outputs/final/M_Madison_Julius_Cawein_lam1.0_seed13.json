@@ -1,0 +1,876 @@
+{
+ "poet": "Madison Julius Cawein",
+ "system": "M",
+ "lam": 1.0,
+ "scheme": "ABCB",
+ "seed": 13,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "I thought I had seen the darkness\nThrough some small window of darkness,\nBut was startled by darkness\nI could not see--or believe.\nI saw, but did not understand,\nIt was a great sea beneath;\nAnd none knew where it shortly\nHad come from; nor why again;\nAnd which it were nowhere;\nFor never a thought arose\nTo be sure of my life again.\nO that they might understand",
+ "lines": [
+  {
+   "line": 1,
+   "text": "I thought I had seen the darkness",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "sun",
+   "meant": "sun",
+   "chosen": "darkness",
+   "candidates": [
+    {
+     "word": "darkness",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.924
+    },
+    {
+     "word": "beautiful",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.787
+    },
+    {
+     "word": "morning",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.727
+    },
+    {
+     "word": "golden",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.631
+    },
+    {
+     "word": "sunset",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.547
+    },
+    {
+     "word": "mountain",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.514
+    },
+    {
+     "word": "autumn",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.459
+    },
+    {
+     "word": "water",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.456
+    },
+    {
+     "word": "moonlight",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.4
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "Through some small window of darkness,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "night",
+   "chosen": "darkness",
+   "candidates": [
+    {
+     "word": "darkness",
+     "p": 0.0485,
+     "rhyme": 0,
+     "score": 1.035
+    },
+    {
+     "word": "celebration",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "midnight",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.311
+    },
+    {
+     "word": "shadows",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.306
+    },
+    {
+     "word": "shadow",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "sunlight",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.294
+    },
+    {
+     "word": "sunday",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.289
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "sunshine",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "reality",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.277
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "But was startled by darkness",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "sight",
+   "chosen": "darkness",
+   "candidates": [
+    {
+     "word": "darkness",
+     "p": 0.012,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "nothing",
+     "p": 0.009,
+     "rhyme": 0,
+     "score": 0.755
+    },
+    {
+     "word": "only",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 0.692
+    },
+    {
+     "word": "coming",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.672
+    },
+    {
+     "word": "seeing",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.446
+    },
+    {
+     "word": "again",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "echoes",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.33
+    },
+    {
+     "word": "notice",
+     "p": 0.0037,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "something",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.302
+    },
+    {
+     "word": "any",
+     "p": 0.0036,
+     "rhyme": 0,
+     "score": 0.297
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "I could not see--or believe.",
+   "syllables": 7,
+   "target": 8,
+   "partner": "darkness",
+   "qwen_top": "see",
+   "meant": "know",
+   "chosen": "believe",
+   "candidates": [
+    {
+     "word": "believe",
+     "p": 0.0162,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "never",
+     "p": 0.0142,
+     "rhyme": 0,
+     "score": 0.877
+    },
+    {
+     "word": "hardly",
+     "p": 0.0141,
+     "rhyme": 0.6,
+     "score": 0.867
+    },
+    {
+     "word": "anything",
+     "p": 0.0136,
+     "rhyme": 0,
+     "score": 0.84
+    },
+    {
+     "word": "indeed",
+     "p": 0.0119,
+     "rhyme": 0,
+     "score": 0.732
+    },
+    {
+     "word": "imagine",
+     "p": 0.0109,
+     "rhyme": 0,
+     "score": 0.669
+    },
+    {
+     "word": "anyone",
+     "p": 0.0101,
+     "rhyme": 0,
+     "score": 0.625
+    },
+    {
+     "word": "something",
+     "p": 0.0095,
+     "rhyme": 0,
+     "score": 0.588
+    },
+    {
+     "word": "understand",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.528
+    },
+    {
+     "word": "happen",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.496
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "I saw, but did not understand,",
+   "syllables": 8,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "see",
+   "meant": "understand",
+   "chosen": "understand",
+   "candidates": [
+    {
+     "word": "understand",
+     "p": 0.1497,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "imagine",
+     "p": 0.0168,
+     "rhyme": 0,
+     "score": 0.113
+    },
+    {
+     "word": "remember",
+     "p": 0.0152,
+     "rhyme": 0,
+     "score": 0.102
+    },
+    {
+     "word": "comprehend",
+     "p": 0.0143,
+     "rhyme": 0,
+     "score": 0.096
+    },
+    {
+     "word": "wonder",
+     "p": 0.0109,
+     "rhyme": 0,
+     "score": 0.073
+    },
+    {
+     "word": "believe",
+     "p": 0.0093,
+     "rhyme": 0,
+     "score": 0.062
+    },
+    {
+     "word": "perceive",
+     "p": 0.0092,
+     "rhyme": 0,
+     "score": 0.061
+    },
+    {
+     "word": "realize",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.052
+    },
+    {
+     "word": "explain",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.051
+    },
+    {
+     "word": "exactly",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.044
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "It was a great sea beneath;",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "sea",
+   "chosen": "beneath",
+   "candidates": [
+    {
+     "word": "beneath",
+     "p": 0.0156,
+     "rhyme": 0,
+     "score": 1.124
+    },
+    {
+     "word": "water",
+     "p": 0.0116,
+     "rhyme": 0,
+     "score": 0.798
+    },
+    {
+     "word": "spotted",
+     "p": 0.0073,
+     "rhyme": 0,
+     "score": 0.59
+    },
+    {
+     "word": "floating",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.567
+    },
+    {
+     "word": "lying",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.543
+    },
+    {
+     "word": "fire",
+     "p": 0.0051,
+     "rhyme": 0,
+     "score": 0.522
+    },
+    {
+     "word": "lagoon",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.47
+    },
+    {
+     "word": "ocean",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.444
+    },
+    {
+     "word": "shadow",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.424
+    },
+    {
+     "word": "yellow",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.361
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "And none knew where it shortly",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "was",
+   "meant": "came",
+   "chosen": "shortly",
+   "candidates": [
+    {
+     "word": "shortly",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "ended",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.94
+    },
+    {
+     "word": "ago",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.845
+    },
+    {
+     "word": "settled",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.825
+    },
+    {
+     "word": "remained",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.787
+    },
+    {
+     "word": "largely",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.773
+    },
+    {
+     "word": "nearly",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.761
+    },
+    {
+     "word": "followed",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.663
+    },
+    {
+     "word": "under",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.564
+    },
+    {
+     "word": "arrived",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.562
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Had come from; nor why again;",
+   "syllables": 7,
+   "target": 8,
+   "partner": "beneath",
+   "qwen_top": "it",
+   "meant": "it",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0373,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "finally",
+     "p": 0.021,
+     "rhyme": 0,
+     "score": 0.563
+    },
+    {
+     "word": "never",
+     "p": 0.0193,
+     "rhyme": 0,
+     "score": 0.517
+    },
+    {
+     "word": "before",
+     "p": 0.0178,
+     "rhyme": 0,
+     "score": 0.477
+    },
+    {
+     "word": "until",
+     "p": 0.0165,
+     "rhyme": 0,
+     "score": 0.442
+    },
+    {
+     "word": "whether",
+     "p": 0.0084,
+     "rhyme": 0,
+     "score": 0.226
+    },
+    {
+     "word": "happened",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "later",
+     "p": 0.0054,
+     "rhyme": 0,
+     "score": 0.145
+    },
+    {
+     "word": "anyway",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.13
+    },
+    {
+     "word": "because",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.121
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "And which it were nowhere;",
+   "syllables": 6,
+   "target": 7,
+   "partner": null,
+   "qwen_top": "to",
+   "meant": "gone",
+   "chosen": "nowhere",
+   "candidates": [
+    {
+     "word": "nowhere",
+     "p": 0.0149,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "never",
+     "p": 0.0104,
+     "rhyme": 0,
+     "score": 0.695
+    },
+    {
+     "word": "realized",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.681
+    },
+    {
+     "word": "before",
+     "p": 0.0096,
+     "rhyme": 0,
+     "score": 0.642
+    },
+    {
+     "word": "anyway",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.581
+    },
+    {
+     "word": "again",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.575
+    },
+    {
+     "word": "alone",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.55
+    },
+    {
+     "word": "going",
+     "p": 0.0053,
+     "rhyme": 0,
+     "score": 0.356
+    },
+    {
+     "word": "finally",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.339
+    },
+    {
+     "word": "suddenly",
+     "p": 0.0047,
+     "rhyme": 0,
+     "score": 0.318
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "For never a thought arose",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "knew",
+   "chosen": "arose",
+   "candidates": [
+    {
+     "word": "arose",
+     "p": 0.0241,
+     "rhyme": 0,
+     "score": 1.22
+    },
+    {
+     "word": "realized",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.604
+    },
+    {
+     "word": "inkling",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.422
+    },
+    {
+     "word": "arisen",
+     "p": 0.0083,
+     "rhyme": 0,
+     "score": 0.412
+    },
+    {
+     "word": "unaware",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.401
+    },
+    {
+     "word": "approached",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.4
+    },
+    {
+     "word": "awoke",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.4
+    },
+    {
+     "word": "emerged",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.385
+    },
+    {
+     "word": "shortly",
+     "p": 0.0077,
+     "rhyme": 0,
+     "score": 0.374
+    },
+    {
+     "word": "realised",
+     "p": 0.0029,
+     "rhyme": 0,
+     "score": 0.373
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "To be sure of my life again.",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "or",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.6953,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "finally",
+     "p": 0.0124,
+     "rhyme": 0,
+     "score": 0.018
+    },
+    {
+     "word": "until",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.015
+    },
+    {
+     "word": "before",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.007
+    },
+    {
+     "word": "somewhere",
+     "p": 0.0044,
+     "rhyme": 0,
+     "score": 0.006
+    },
+    {
+     "word": "anew",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.004
+    },
+    {
+     "word": "alone",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.003
+    },
+    {
+     "word": "returned",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.003
+    },
+    {
+     "word": "briefly",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.002
+    },
+    {
+     "word": "later",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.002
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "O that they might understand",
+   "syllables": 7,
+   "target": 7,
+   "partner": "arose",
+   "qwen_top": "know",
+   "meant": "know",
+   "chosen": "understand",
+   "candidates": [
+    {
+     "word": "understand",
+     "p": 0.0587,
+     "rhyme": 0,
+     "score": 1.0
+    },
+    {
+     "word": "believe",
+     "p": 0.0149,
+     "rhyme": 0,
+     "score": 0.253
+    },
+    {
+     "word": "forget",
+     "p": 0.0129,
+     "rhyme": 0,
+     "score": 0.219
+    },
+    {
+     "word": "remember",
+     "p": 0.0123,
+     "rhyme": 0,
+     "score": 0.209
+    },
+    {
+     "word": "able",
+     "p": 0.0086,
+     "rhyme": 0,
+     "score": 0.147
+    },
+    {
+     "word": "explain",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.139
+    },
+    {
+     "word": "realize",
+     "p": 0.0081,
+     "rhyme": 0.3,
+     "score": 0.137
+    },
+    {
+     "word": "discover",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.123
+    },
+    {
+     "word": "wonder",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.111
+    },
+    {
+     "word": "happened",
+     "p": 0.0062,
+     "rhyme": 0,
+     "score": 0.106
+    }
+   ]
+  }
+ ]
+}

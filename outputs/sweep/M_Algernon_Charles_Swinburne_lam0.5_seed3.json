@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 0.5,
+ "scheme": "AABB",
+ "seed": 3,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "But I am our Lord, alone,\nThe marvellous heart of heaven\nAnd the wild tongue of the cloudless sky.\nEven as we were one in glory high\nWith His own great love within,\nSo is He with us alone\nAs His own great law above.    5600cend again\nHe gives a shining hand to able,\nTo read and write as well together\nOn the great language of whether\nWe are alone or most begotten one,\nOr both for ever God's sake.    5610cend again",
+ "lines": [
+  {
+   "line": 1,
+   "text": "But I am our Lord, alone,",
+   "syllables": 8,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0323,
+     "rhyme": 0,
+     "score": 0.718
+    },
+    {
+     "word": "salvation",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "temptation",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.327
+    },
+    {
+     "word": "consecrated",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.312
+    },
+    {
+     "word": "crucified",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.307
+    },
+    {
+     "word": "again",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "nobody",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.277
+    },
+    {
+     "word": "afraid",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "whereupon",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "likewise",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.268
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The marvellous heart of heaven",
+   "syllables": 8,
+   "target": 9,
+   "partner": "alone",
+   "qwen_top": "god",
+   "meant": "god",
+   "chosen": "heaven",
+   "candidates": [
+    {
+     "word": "heaven",
+     "p": 0.0217,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "only",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.332
+    },
+    {
+     "word": "holy",
+     "p": 0.0011,
+     "rhyme": 0.6,
+     "score": 0.324
+    },
+    {
+     "word": "soldier",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.313
+    },
+    {
+     "word": "divine",
+     "p": 0.0033,
+     "rhyme": 0.3,
+     "score": 0.226
+    },
+    {
+     "word": "everyone",
+     "p": 0.001,
+     "rhyme": 0.3,
+     "score": 0.173
+    },
+    {
+     "word": "someone",
+     "p": 0.0005,
+     "rhyme": 0.3,
+     "score": 0.163
+    },
+    {
+     "word": "upon",
+     "p": 0.0005,
+     "rhyme": 0.3,
+     "score": 0.162
+    },
+    {
+     "word": "anyone",
+     "p": 0.0004,
+     "rhyme": 0.3,
+     "score": 0.159
+    },
+    {
+     "word": "again",
+     "p": 0.0004,
+     "rhyme": 0.3,
+     "score": 0.158
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "And the wild tongue of the cloudless sky.",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "sea",
+   "meant": "sky",
+   "chosen": "sky",
+   "candidates": [
+    {
+     "word": "sky",
+     "p": 0.3617,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "sea",
+     "p": 0.0485,
+     "rhyme": 0,
+     "score": 0.348
+    },
+    {
+     "word": "skies",
+     "p": 0.0814,
+     "rhyme": 0,
+     "score": 0.332
+    },
+    {
+     "word": "station",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.32
+    },
+    {
+     "word": "air",
+     "p": 0.053,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "day",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "tree",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "blue",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "gray",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.276
+    },
+    {
+     "word": "grey",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.276
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Even as we were one in glory high",
+   "syllables": 10,
+   "target": 11,
+   "partner": "sky",
+   "qwen_top": "and",
+   "meant": "born",
+   "chosen": "high",
+   "candidates": [
+    {
+     "word": "high",
+     "p": 0.0056,
+     "rhyme": 1.0,
+     "score": 0.73
+    },
+    {
+     "word": "i",
+     "p": 0.0039,
+     "rhyme": 1.0,
+     "score": 0.659
+    },
+    {
+     "word": "thy",
+     "p": 0.0009,
+     "rhyme": 1.0,
+     "score": 0.536
+    },
+    {
+     "word": "cry",
+     "p": 0.0008,
+     "rhyme": 1.0,
+     "score": 0.532
+    },
+    {
+     "word": "july",
+     "p": 0.0007,
+     "rhyme": 1.0,
+     "score": 0.527
+    },
+    {
+     "word": "born",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "now",
+     "p": 0.0117,
+     "rhyme": 0,
+     "score": 0.484
+    },
+    {
+     "word": "came",
+     "p": 0.0113,
+     "rhyme": 0,
+     "score": 0.466
+    },
+    {
+     "word": "bright",
+     "p": 0.0034,
+     "rhyme": 0.6,
+     "score": 0.44
+    },
+    {
+     "word": "finally",
+     "p": 0.0032,
+     "rhyme": 0.6,
+     "score": 0.433
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "With His own great love within,",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "and",
+   "meant": "christ",
+   "chosen": "within",
+   "candidates": [
+    {
+     "word": "within",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.717
+    },
+    {
+     "word": "dreaming",
+     "p": 0.0079,
+     "rhyme": 0,
+     "score": 0.61
+    },
+    {
+     "word": "divine",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.585
+    },
+    {
+     "word": "entombed",
+     "p": 0.0072,
+     "rhyme": 0,
+     "score": 0.581
+    },
+    {
+     "word": "alive",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.506
+    },
+    {
+     "word": "crucified",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.442
+    },
+    {
+     "word": "creation",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.4
+    },
+    {
+     "word": "consecrated",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.385
+    },
+    {
+     "word": "somewhere",
+     "p": 0.003,
+     "rhyme": 0,
+     "score": 0.383
+    },
+    {
+     "word": "revelation",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.381
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "So is He with us alone",
+   "syllables": 7,
+   "target": 8,
+   "partner": "within",
+   "qwen_top": "now",
+   "meant": "now",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0428,
+     "rhyme": 0.3,
+     "score": 0.65
+    },
+    {
+     "word": "going",
+     "p": 0.001,
+     "rhyme": 0.9,
+     "score": 0.462
+    },
+    {
+     "word": "even",
+     "p": 0.0008,
+     "rhyme": 0.9,
+     "score": 0.46
+    },
+    {
+     "word": "again",
+     "p": 0.0234,
+     "rhyme": 0.3,
+     "score": 0.423
+    },
+    {
+     "word": "together",
+     "p": 0.0308,
+     "rhyme": 0,
+     "score": 0.36
+    },
+    {
+     "word": "living",
+     "p": 0.0047,
+     "rhyme": 0.6,
+     "score": 0.355
+    },
+    {
+     "word": "exist",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.326
+    },
+    {
+     "word": "everything",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.32
+    },
+    {
+     "word": "simply",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.312
+    },
+    {
+     "word": "exists",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.312
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "As His own great law above.    5600cend again",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "end",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.753
+    },
+    {
+     "word": "return",
+     "p": 0.0049,
+     "rhyme": 0,
+     "score": 0.53
+    },
+    {
+     "word": "returned",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.503
+    },
+    {
+     "word": "entire",
+     "p": 0.0041,
+     "rhyme": 0,
+     "score": 0.495
+    },
+    {
+     "word": "july",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.384
+    },
+    {
+     "word": "division",
+     "p": 0.0028,
+     "rhyme": 0,
+     "score": 0.34
+    },
+    {
+     "word": "february",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.34
+    },
+    {
+     "word": "into",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "operations",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.327
+    },
+    {
+     "word": "january",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.323
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "He gives a shining hand to able,",
+   "syllables": 9,
+   "target": 10,
+   "partner": "again",
+   "qwen_top": "the",
+   "meant": "us",
+   "chosen": "able",
+   "candidates": [
+    {
+     "word": "able",
+     "p": 0.0027,
+     "rhyme": 0.6,
+     "score": 0.554
+    },
+    {
+     "word": "expected",
+     "p": 0.0022,
+     "rhyme": 0.6,
+     "score": 0.506
+    },
+    {
+     "word": "allow",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "ready",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.485
+    },
+    {
+     "word": "welcome",
+     "p": 0.0017,
+     "rhyme": 0.6,
+     "score": 0.459
+    },
+    {
+     "word": "accept",
+     "p": 0.0016,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "protect",
+     "p": 0.0014,
+     "rhyme": 0.6,
+     "score": 0.43
+    },
+    {
+     "word": "blessing",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.426
+    },
+    {
+     "word": "celebrate",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.413
+    },
+    {
+     "word": "heaven",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.413
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "To read and write as well together",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "as",
+   "meant": "together",
+   "chosen": "together",
+   "candidates": [
+    {
+     "word": "together",
+     "p": 0.0197,
+     "rhyme": 0,
+     "score": 0.61
+    },
+    {
+     "word": "alone",
+     "p": 0.0096,
+     "rhyme": 0,
+     "score": 0.463
+    },
+    {
+     "word": "again",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.376
+    },
+    {
+     "word": "combination",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.333
+    },
+    {
+     "word": "ability",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "consecrated",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "communicate",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.302
+    },
+    {
+     "word": "meditate",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.297
+    },
+    {
+     "word": "probably",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "within",
+     "p": 0.0023,
+     "rhyme": 0,
+     "score": 0.277
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "On the great language of whether",
+   "syllables": 8,
+   "target": 9,
+   "partner": "together",
+   "qwen_top": "the",
+   "meant": "mankind",
+   "chosen": "whether",
+   "candidates": [
+    {
+     "word": "whether",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 0.502
+    },
+    {
+     "word": "mankind",
+     "p": 0.1146,
+     "rhyme": 0,
+     "score": 0.5
+    },
+    {
+     "word": "eternity",
+     "p": 0.0997,
+     "rhyme": 0,
+     "score": 0.435
+    },
+    {
+     "word": "heaven",
+     "p": 0.0249,
+     "rhyme": 0.6,
+     "score": 0.409
+    },
+    {
+     "word": "heavens",
+     "p": 0.0145,
+     "rhyme": 0.6,
+     "score": 0.363
+    },
+    {
+     "word": "destiny",
+     "p": 0.0039,
+     "rhyme": 0.6,
+     "score": 0.317
+    },
+    {
+     "word": "forever",
+     "p": 0.0036,
+     "rhyme": 0.6,
+     "score": 0.316
+    },
+    {
+     "word": "resurrection",
+     "p": 0.0031,
+     "rhyme": 0.6,
+     "score": 0.313
+    },
+    {
+     "word": "himself",
+     "p": 0.0018,
+     "rhyme": 0.6,
+     "score": 0.308
+    },
+    {
+     "word": "heavenly",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.307
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "We are alone or most begotten one,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "one",
+   "meant": "one",
+   "chosen": "one",
+   "candidates": [
+    {
+     "word": "one",
+     "p": 0.0823,
+     "rhyme": 0,
+     "score": 0.695
+    },
+    {
+     "word": "well",
+     "p": 0.032,
+     "rhyme": 0,
+     "score": 0.446
+    },
+    {
+     "word": "two",
+     "p": 0.0249,
+     "rhyme": 0,
+     "score": 0.422
+    },
+    {
+     "word": "three",
+     "p": 0.0098,
+     "rhyme": 0,
+     "score": 0.34
+    },
+    {
+     "word": "all",
+     "p": 0.0216,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "they",
+     "p": 0.0088,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "so",
+     "p": 0.0102,
+     "rhyme": 0,
+     "score": 0.324
+    },
+    {
+     "word": "we",
+     "p": 0.0048,
+     "rhyme": 0,
+     "score": 0.31
+    },
+    {
+     "word": "way",
+     "p": 0.005,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "he",
+     "p": 0.0039,
+     "rhyme": 0,
+     "score": 0.304
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Or both for ever God's sake.    5610cend again",
+   "syllables": 10,
+   "target": 11,
+   "partner": "one",
+   "qwen_top": "again",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.8427,
+     "rhyme": 0.3,
+     "score": 0.65
+    },
+    {
+     "word": "unison",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.45
+    },
+    {
+     "word": "question",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.45
+    },
+    {
+     "word": "occasion",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.45
+    },
+    {
+     "word": "position",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.45
+    },
+    {
+     "word": "tension",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.45
+    },
+    {
+     "word": "season",
+     "p": 0.0001,
+     "rhyme": 0.9,
+     "score": 0.45
+    },
+    {
+     "word": "running",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.3
+    },
+    {
+     "word": "triumphantly",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.3
+    },
+    {
+     "word": "humming",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.3
+    }
+   ]
+  }
+ ]
+}

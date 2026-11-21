@@ -1,0 +1,876 @@
+{
+ "poet": "Algernon Charles Swinburne",
+ "system": "M",
+ "lam": 0.75,
+ "scheme": "AABB",
+ "seed": 0,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "This is my poor heart's life, o'er sixty years,\nThe love I had for thee; it has forgotten\nTo be contented again.\nLike the sun set on a darkening day,\nLike a light cloud in death or pleasure gone,\nOne thought of thy face to me; that alone\nIs life.  How shall I live then? alone?\nWhat, no one ever come and kiss again,\nNo more understand I by translation\nHow oft thou hast gazed at myself\nFor beauty's rapture, with desire\nOf other eyes than mine to behold",
+ "lines": [
+  {
+   "line": 1,
+   "text": "This is my poor heart's life, o'er sixty years,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "years",
+   "meant": "years",
+   "chosen": "years",
+   "candidates": [
+    {
+     "word": "years",
+     "p": 0.7308,
+     "rhyme": 0,
+     "score": 0.939
+    },
+    {
+     "word": "ago",
+     "p": 0.0309,
+     "rhyme": 0,
+     "score": 0.293
+    },
+    {
+     "word": "three",
+     "p": 0.0043,
+     "rhyme": 0,
+     "score": 0.285
+    },
+    {
+     "word": "he",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "we",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.281
+    },
+    {
+     "word": "day",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "today",
+     "p": 0.0,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "thirty",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "two",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.271
+    },
+    {
+     "word": "few",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.271
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The love I had for thee; it has forgotten",
+   "syllables": 11,
+   "target": 11,
+   "partner": "years",
+   "qwen_top": "been",
+   "meant": "been",
+   "chosen": "forgotten",
+   "candidates": [
+    {
+     "word": "forgotten",
+     "p": 0.0238,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "disappeared",
+     "p": 0.0165,
+     "rhyme": 0.6,
+     "score": 0.671
+    },
+    {
+     "word": "ago",
+     "p": 0.0189,
+     "rhyme": 0,
+     "score": 0.597
+    },
+    {
+     "word": "never",
+     "p": 0.0087,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "returned",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.255
+    },
+    {
+     "word": "survived",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.237
+    },
+    {
+     "word": "vanished",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.205
+    },
+    {
+     "word": "withdrawn",
+     "p": 0.0064,
+     "rhyme": 0,
+     "score": 0.202
+    },
+    {
+     "word": "decade",
+     "p": 0.0061,
+     "rhyme": 0,
+     "score": 0.193
+    },
+    {
+     "word": "until",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.193
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "To be contented again.",
+   "syllables": 7,
+   "target": 8,
+   "partner": null,
+   "qwen_top": "with",
+   "meant": "again",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.0414,
+     "rhyme": 0,
+     "score": 1.003
+    },
+    {
+     "word": "alone",
+     "p": 0.0239,
+     "rhyme": 0,
+     "score": 0.652
+    },
+    {
+     "word": "happily",
+     "p": 0.0285,
+     "rhyme": 0,
+     "score": 0.573
+    },
+    {
+     "word": "forever",
+     "p": 0.0131,
+     "rhyme": 0,
+     "score": 0.379
+    },
+    {
+     "word": "today",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.304
+    },
+    {
+     "word": "never",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "realized",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.296
+    },
+    {
+     "word": "anyway",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.295
+    },
+    {
+     "word": "nobody",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.292
+    },
+    {
+     "word": "consecrated",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.289
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "Like the sun set on a darkening day,",
+   "syllables": 10,
+   "target": 10,
+   "partner": "again",
+   "qwen_top": "sea",
+   "meant": "day",
+   "chosen": "day",
+   "candidates": [
+    {
+     "word": "day",
+     "p": 0.1869,
+     "rhyme": 0.6,
+     "score": 0.9
+    },
+    {
+     "word": "sky",
+     "p": 0.0955,
+     "rhyme": 0,
+     "score": 0.383
+    },
+    {
+     "word": "plain",
+     "p": 0.0016,
+     "rhyme": 1.0,
+     "score": 0.256
+    },
+    {
+     "word": "rain",
+     "p": 0.001,
+     "rhyme": 1.0,
+     "score": 0.254
+    },
+    {
+     "word": "when",
+     "p": 0.0005,
+     "rhyme": 1.0,
+     "score": 0.252
+    },
+    {
+     "word": "main",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 0.252
+    },
+    {
+     "word": "lane",
+     "p": 0.0004,
+     "rhyme": 1.0,
+     "score": 0.251
+    },
+    {
+     "word": "sea",
+     "p": 0.058,
+     "rhyme": 0,
+     "score": 0.233
+    },
+    {
+     "word": "sunset",
+     "p": 0.0044,
+     "rhyme": 0.6,
+     "score": 0.168
+    },
+    {
+     "word": "sunday",
+     "p": 0.0043,
+     "rhyme": 0.6,
+     "score": 0.167
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Like a light cloud in death or pleasure gone,",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "gone",
+   "meant": "gone",
+   "chosen": "gone",
+   "candidates": [
+    {
+     "word": "gone",
+     "p": 0.03,
+     "rhyme": 0,
+     "score": 0.934
+    },
+    {
+     "word": "lay",
+     "p": 0.0249,
+     "rhyme": 0,
+     "score": 0.898
+    },
+    {
+     "word": "dead",
+     "p": 0.019,
+     "rhyme": 0,
+     "score": 0.674
+    },
+    {
+     "word": "away",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 0.577
+    },
+    {
+     "word": "laid",
+     "p": 0.0097,
+     "rhyme": 0,
+     "score": 0.475
+    },
+    {
+     "word": "ill",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.4
+    },
+    {
+     "word": "flown",
+     "p": 0.0071,
+     "rhyme": 0,
+     "score": 0.398
+    },
+    {
+     "word": "fled",
+     "p": 0.0066,
+     "rhyme": 0,
+     "score": 0.363
+    },
+    {
+     "word": "go",
+     "p": 0.0032,
+     "rhyme": 0,
+     "score": 0.342
+    },
+    {
+     "word": "flee",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.342
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "One thought of thy face to me; that alone",
+   "syllables": 10,
+   "target": 11,
+   "partner": "gone",
+   "qwen_top": "i",
+   "meant": "day",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.014,
+     "rhyme": 0.3,
+     "score": 0.825
+    },
+    {
+     "word": "hour",
+     "p": 0.0111,
+     "rhyme": 0,
+     "score": 0.595
+    },
+    {
+     "word": "only",
+     "p": 0.011,
+     "rhyme": 0,
+     "score": 0.586
+    },
+    {
+     "word": "morning",
+     "p": 0.0078,
+     "rhyme": 0.6,
+     "score": 0.57
+    },
+    {
+     "word": "moment",
+     "p": 0.0097,
+     "rhyme": 0,
+     "score": 0.519
+    },
+    {
+     "word": "almost",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.369
+    },
+    {
+     "word": "darkness",
+     "p": 0.0068,
+     "rhyme": 0,
+     "score": 0.366
+    },
+    {
+     "word": "hours",
+     "p": 0.0065,
+     "rhyme": 0,
+     "score": 0.348
+    },
+    {
+     "word": "every",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "even",
+     "p": 0.0055,
+     "rhyme": 0,
+     "score": 0.296
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Is life.  How shall I live then? alone?",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "how",
+   "meant": "alone",
+   "chosen": "alone",
+   "candidates": [
+    {
+     "word": "alone",
+     "p": 0.0765,
+     "rhyme": 0,
+     "score": 0.968
+    },
+    {
+     "word": "again",
+     "p": 0.0082,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "anyway",
+     "p": 0.0057,
+     "rhyme": 0,
+     "score": 0.311
+    },
+    {
+     "word": "nobody",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.301
+    },
+    {
+     "word": "today",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "forget",
+     "p": 0.0042,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "tomorrow",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "probably",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "although",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.269
+    },
+    {
+     "word": "alas",
+     "p": 0.0081,
+     "rhyme": 0,
+     "score": 0.264
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "What, no one ever come and kiss again,",
+   "syllables": 10,
+   "target": 11,
+   "partner": "alone",
+   "qwen_top": "my",
+   "meant": "me",
+   "chosen": "again",
+   "candidates": [
+    {
+     "word": "again",
+     "p": 0.096,
+     "rhyme": 0.3,
+     "score": 0.825
+    },
+    {
+     "word": "going",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.165
+    },
+    {
+     "word": "nobody",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.157
+    },
+    {
+     "word": "hopefully",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.156
+    },
+    {
+     "word": "only",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.153
+    },
+    {
+     "word": "moment",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.153
+    },
+    {
+     "word": "myself",
+     "p": 0.0121,
+     "rhyme": 0,
+     "score": 0.094
+    },
+    {
+     "word": "someone",
+     "p": 0.0019,
+     "rhyme": 0.3,
+     "score": 0.09
+    },
+    {
+     "word": "everyone",
+     "p": 0.0012,
+     "rhyme": 0.3,
+     "score": 0.084
+    },
+    {
+     "word": "around",
+     "p": 0.0009,
+     "rhyme": 0.3,
+     "score": 0.082
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "No more understand I by translation",
+   "syllables": 10,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "thy",
+   "meant": "thee",
+   "chosen": "translation",
+   "candidates": [
+    {
+     "word": "translation",
+     "p": 0.0017,
+     "rhyme": 0,
+     "score": 0.883
+    },
+    {
+     "word": "remember",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.788
+    },
+    {
+     "word": "eternal",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.76
+    },
+    {
+     "word": "spirit",
+     "p": 0.0022,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "ours",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.746
+    },
+    {
+     "word": "memory",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.745
+    },
+    {
+     "word": "allah",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.698
+    },
+    {
+     "word": "singing",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.659
+    },
+    {
+     "word": "yourself",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.615
+    },
+    {
+     "word": "contemplation",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.59
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "How oft thou hast gazed at myself",
+   "syllables": 8,
+   "target": 9,
+   "partner": "translation",
+   "qwen_top": "me",
+   "meant": "me",
+   "chosen": "myself",
+   "candidates": [
+    {
+     "word": "myself",
+     "p": 0.0021,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "amazes",
+     "p": 0.001,
+     "rhyme": 0.6,
+     "score": 0.519
+    },
+    {
+     "word": "somebody",
+     "p": 0.0013,
+     "rhyme": 0,
+     "score": 0.481
+    },
+    {
+     "word": "everyone",
+     "p": 0.0005,
+     "rhyme": 0.9,
+     "score": 0.398
+    },
+    {
+     "word": "bothers",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.382
+    },
+    {
+     "word": "someone",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.359
+    },
+    {
+     "word": "anyone",
+     "p": 0.0004,
+     "rhyme": 0.9,
+     "score": 0.354
+    },
+    {
+     "word": "again",
+     "p": 0.0003,
+     "rhyme": 0.6,
+     "score": 0.274
+    },
+    {
+     "word": "everybody",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.258
+    },
+    {
+     "word": "always",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.24
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "For beauty's rapture, with desire",
+   "syllables": 9,
+   "target": 9,
+   "partner": null,
+   "qwen_top": "a",
+   "meant": "desire",
+   "chosen": "desire",
+   "candidates": [
+    {
+     "word": "desire",
+     "p": 0.0122,
+     "rhyme": 0,
+     "score": 0.947
+    },
+    {
+     "word": "admiration",
+     "p": 0.0085,
+     "rhyme": 0,
+     "score": 0.84
+    },
+    {
+     "word": "beauty",
+     "p": 0.0101,
+     "rhyme": 0,
+     "score": 0.74
+    },
+    {
+     "word": "affection",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.678
+    },
+    {
+     "word": "astonishment",
+     "p": 0.0091,
+     "rhyme": 0,
+     "score": 0.561
+    },
+    {
+     "word": "humility",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.532
+    },
+    {
+     "word": "innate",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.49
+    },
+    {
+     "word": "disdain",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.488
+    },
+    {
+     "word": "surprise",
+     "p": 0.004,
+     "rhyme": 0,
+     "score": 0.467
+    },
+    {
+     "word": "tenderness",
+     "p": 0.0069,
+     "rhyme": 0,
+     "score": 0.426
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Of other eyes than mine to behold",
+   "syllables": 9,
+   "target": 10,
+   "partner": "desire",
+   "qwen_top": "see",
+   "meant": "see",
+   "chosen": "behold",
+   "candidates": [
+    {
+     "word": "behold",
+     "p": 0.0177,
+     "rhyme": 0,
+     "score": 0.75
+    },
+    {
+     "word": "admire",
+     "p": 0.003,
+     "rhyme": 0.6,
+     "score": 0.277
+    },
+    {
+     "word": "compare",
+     "p": 0.006,
+     "rhyme": 0,
+     "score": 0.252
+    },
+    {
+     "word": "refer",
+     "p": 0.0006,
+     "rhyme": 0.9,
+     "score": 0.249
+    },
+    {
+     "word": "surprise",
+     "p": 0.0009,
+     "rhyme": 0.6,
+     "score": 0.187
+    },
+    {
+     "word": "decide",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.184
+    },
+    {
+     "word": "delighted",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.181
+    },
+    {
+     "word": "recognize",
+     "p": 0.0007,
+     "rhyme": 0.6,
+     "score": 0.179
+    },
+    {
+     "word": "alike",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.172
+    },
+    {
+     "word": "realize",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.171
+    }
+   ]
+  }
+ ]
+}

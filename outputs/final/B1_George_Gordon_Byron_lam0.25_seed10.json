@@ -1,0 +1,876 @@
+{
+ "poet": "George Gordon Byron",
+ "system": "B1",
+ "lam": 0.25,
+ "scheme": "ABAB",
+ "seed": 10,
+ "model": "lora",
+ "stop": "3 quatrains",
+ "poem": "Though, in a little walk by river,\nThe lovers' love was sharpest to behold;\nBut 'twere not their rosy lips they ever\nMay show the morning's fullst of emotion.\nYet some immortal hero ever\nAnd their martyr's prayer could quiet our\nLong-trodden thoughts - ere the lyre began her\nDebut, and the world sang England's renown;\nAnd henceforth, heal'd from all our grief,\nSoon more than he may seem, as our\nPoor piteous souls, shall hear again indeed\nThy immortal lines his tender power",
+ "lines": [
+  {
+   "line": 1,
+   "text": "Though, in a little walk by river,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "river",
+   "candidates": [
+    {
+     "word": "river",
+     "p": 0.0046,
+     "rhyme": 0,
+     "score": 0.365
+    },
+    {
+     "word": "our",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.364
+    },
+    {
+     "word": "sunset",
+     "p": 0.0033,
+     "rhyme": 0,
+     "score": 0.349
+    },
+    {
+     "word": "sunday",
+     "p": 0.0007,
+     "rhyme": 0,
+     "score": 0.306
+    },
+    {
+     "word": "many",
+     "p": 0.0027,
+     "rhyme": 0,
+     "score": 0.303
+    },
+    {
+     "word": "midnight",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.28
+    },
+    {
+     "word": "sunrise",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "canterbury",
+     "p": 0.0004,
+     "rhyme": 0,
+     "score": 0.266
+    },
+    {
+     "word": "waterloo",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.258
+    },
+    {
+     "word": "summer",
+     "p": 0.0026,
+     "rhyme": 0,
+     "score": 0.251
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "text": "The lovers' love was sharpest to behold;",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "be",
+   "meant": "be",
+   "chosen": "behold",
+   "candidates": [
+    {
+     "word": "behold",
+     "p": 0.0218,
+     "rhyme": 0,
+     "score": 0.439
+    },
+    {
+     "word": "display",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.279
+    },
+    {
+     "word": "betray",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.278
+    },
+    {
+     "word": "borrow",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.275
+    },
+    {
+     "word": "pursue",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "forget",
+     "p": 0.0018,
+     "rhyme": 0,
+     "score": 0.258
+    },
+    {
+     "word": "deny",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "declare",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "compare",
+     "p": 0.0005,
+     "rhyme": 0,
+     "score": 0.242
+    },
+    {
+     "word": "regret",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.24
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "text": "But 'twere not their rosy lips they ever",
+   "syllables": 10,
+   "target": 11,
+   "partner": "river",
+   "qwen_top": "shed",
+   "meant": "shed",
+   "chosen": "ever",
+   "candidates": [
+    {
+     "word": "ever",
+     "p": 0.0004,
+     "rhyme": 0.3,
+     "score": 0.281
+    },
+    {
+     "word": "behold",
+     "p": 0.002,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "adorn",
+     "p": 0.0016,
+     "rhyme": 0,
+     "score": 0.207
+    },
+    {
+     "word": "delight",
+     "p": 0.0015,
+     "rhyme": 0,
+     "score": 0.195
+    },
+    {
+     "word": "noted",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.152
+    },
+    {
+     "word": "cherish",
+     "p": 0.0012,
+     "rhyme": 0,
+     "score": 0.152
+    },
+    {
+     "word": "adorned",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.134
+    },
+    {
+     "word": "adore",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.134
+    },
+    {
+     "word": "displayed",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.111
+    },
+    {
+     "word": "display",
+     "p": 0.0008,
+     "rhyme": 0,
+     "score": 0.104
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "text": "May show the morning's fullst of emotion.",
+   "syllables": 10,
+   "target": 10,
+   "partner": "behold",
+   "qwen_top": "delight",
+   "meant": "delight",
+   "chosen": "emotion",
+   "candidates": [
+    {
+     "word": "emotion",
+     "p": 0.0019,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "devotion",
+     "p": 0.0012,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "romance",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "golden",
+     "p": 0.0002,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "revolt",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "delight",
+     "p": 0.5654,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "beauty",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.003
+    },
+    {
+     "word": "pleasure",
+     "p": 0.0059,
+     "rhyme": 0,
+     "score": 0.003
+    },
+    {
+     "word": "desire",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.002
+    },
+    {
+     "word": "sweetness",
+     "p": 0.0052,
+     "rhyme": 0,
+     "score": 0.002
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "text": "Yet some immortal hero ever",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "of",
+   "meant": "of",
+   "chosen": "ever",
+   "candidates": [
+    {
+     "word": "ever",
+     "p": 0.0025,
+     "rhyme": 0,
+     "score": 0.382
+    },
+    {
+     "word": "never",
+     "p": 0.0024,
+     "rhyme": 0,
+     "score": 0.376
+    },
+    {
+     "word": "cannot",
+     "p": 0.0014,
+     "rhyme": 0,
+     "score": 0.339
+    },
+    {
+     "word": "unseen",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.273
+    },
+    {
+     "word": "our",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.256
+    },
+    {
+     "word": "forget",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.254
+    },
+    {
+     "word": "upon",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "appears",
+     "p": 0.0006,
+     "rhyme": 0,
+     "score": 0.246
+    },
+    {
+     "word": "confess",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.244
+    },
+    {
+     "word": "appear",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.243
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "text": "And their martyr's prayer could quiet our",
+   "syllables": 10,
+   "target": 11,
+   "partner": null,
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0096,
+     "rhyme": 0,
+     "score": 0.479
+    },
+    {
+     "word": "despair",
+     "p": 0.0075,
+     "rhyme": 0,
+     "score": 0.432
+    },
+    {
+     "word": "away",
+     "p": 0.0011,
+     "rhyme": 0,
+     "score": 0.305
+    },
+    {
+     "word": "dismay",
+     "p": 0.001,
+     "rhyme": 0,
+     "score": 0.302
+    },
+    {
+     "word": "decay",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.284
+    },
+    {
+     "word": "delay",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.282
+    },
+    {
+     "word": "adversity",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.274
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0045,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "heaven",
+     "p": 0.0056,
+     "rhyme": 0,
+     "score": 0.265
+    },
+    {
+     "word": "again",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.261
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "text": "Long-trodden thoughts - ere the lyre began her",
+   "syllables": 10,
+   "target": 11,
+   "partner": "ever",
+   "qwen_top": "to",
+   "meant": "to",
+   "chosen": "her",
+   "candidates": [
+    {
+     "word": "her",
+     "p": 0.0002,
+     "rhyme": 0.9,
+     "score": 0.676
+    },
+    {
+     "word": "for",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.675
+    },
+    {
+     "word": "or",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.675
+    },
+    {
+     "word": "stir",
+     "p": 0.0,
+     "rhyme": 0.9,
+     "score": 0.675
+    },
+    {
+     "word": "again",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "yet",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "their",
+     "p": 0.0001,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "ye",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "there",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "as",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.45
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "text": "Debut, and the world sang England's renown;",
+   "syllables": 10,
+   "target": 11,
+   "partner": "our",
+   "qwen_top": "triumph",
+   "meant": "triumph",
+   "chosen": "renown",
+   "candidates": [
+    {
+     "word": "renown",
+     "p": 0.0212,
+     "rhyme": 0.6,
+     "score": 0.508
+    },
+    {
+     "word": "conquest",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0013,
+     "rhyme": 0.6,
+     "score": 0.454
+    },
+    {
+     "word": "renowned",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "homage",
+     "p": 0.0006,
+     "rhyme": 0.6,
+     "score": 0.452
+    },
+    {
+     "word": "harvest",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "hour",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "harmony",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "thousand",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.451
+    },
+    {
+     "word": "alarm",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.451
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "text": "And henceforth, heal'd from all our grief,",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "grief",
+   "meant": "grief",
+   "chosen": "grief",
+   "candidates": [
+    {
+     "word": "grief",
+     "p": 0.0407,
+     "rhyme": 0,
+     "score": 0.4
+    },
+    {
+     "word": "woes",
+     "p": 0.0279,
+     "rhyme": 0,
+     "score": 0.392
+    },
+    {
+     "word": "fears",
+     "p": 0.0297,
+     "rhyme": 0,
+     "score": 0.372
+    },
+    {
+     "word": "sor",
+     "p": 0.0232,
+     "rhyme": 0,
+     "score": 0.372
+    },
+    {
+     "word": "pain",
+     "p": 0.018,
+     "rhyme": 0,
+     "score": 0.365
+    },
+    {
+     "word": "cares",
+     "p": 0.0232,
+     "rhyme": 0,
+     "score": 0.334
+    },
+    {
+     "word": "despair",
+     "p": 0.015,
+     "rhyme": 0,
+     "score": 0.329
+    },
+    {
+     "word": "distress",
+     "p": 0.0169,
+     "rhyme": 0,
+     "score": 0.328
+    },
+    {
+     "word": "sorrow",
+     "p": 0.0247,
+     "rhyme": 0,
+     "score": 0.304
+    },
+    {
+     "word": "we",
+     "p": 0.0038,
+     "rhyme": 0,
+     "score": 0.304
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "text": "Soon more than he may seem, as our",
+   "syllables": 9,
+   "target": 10,
+   "partner": null,
+   "qwen_top": "he",
+   "meant": "he",
+   "chosen": "our",
+   "candidates": [
+    {
+     "word": "our",
+     "p": 0.0116,
+     "rhyme": 0,
+     "score": 0.479
+    },
+    {
+     "word": "nations",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.272
+    },
+    {
+     "word": "before",
+     "p": 0.0019,
+     "rhyme": 0,
+     "score": 0.27
+    },
+    {
+     "word": "upon",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.238
+    },
+    {
+     "word": "alone",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.225
+    },
+    {
+     "word": "many",
+     "p": 0.0031,
+     "rhyme": 0,
+     "score": 0.224
+    },
+    {
+     "word": "indeed",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.221
+    },
+    {
+     "word": "merry",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.22
+    },
+    {
+     "word": "always",
+     "p": 0.0003,
+     "rhyme": 0,
+     "score": 0.215
+    },
+    {
+     "word": "remains",
+     "p": 0.0002,
+     "rhyme": 0,
+     "score": 0.213
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "text": "Poor piteous souls, shall hear again indeed",
+   "syllables": 10,
+   "target": 11,
+   "partner": "grief",
+   "qwen_top": "the",
+   "meant": "the",
+   "chosen": "indeed",
+   "candidates": [
+    {
+     "word": "indeed",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "even",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "perceive",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "unseen",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "either",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "repeat",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "between",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "beneath",
+     "p": 0.0,
+     "rhyme": 0.6,
+     "score": 0.45
+    },
+    {
+     "word": "our",
+     "p": 0.0137,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "again",
+     "p": 0.0009,
+     "rhyme": 0,
+     "score": 0.016
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "text": "Thy immortal lines his tender power",
+   "syllables": 10,
+   "target": 11,
+   "partner": "our",
+   "qwen_top": "pen",
+   "meant": "pen",
+   "chosen": "power",
+   "candidates": [
+    {
+     "word": "power",
+     "p": 0.0006,
+     "rhyme": 1.0,
+     "score": 0.77
+    },
+    {
+     "word": "hour",
+     "p": 0.0015,
+     "rhyme": 0.6,
+     "score": 0.498
+    },
+    {
+     "word": "hours",
+     "p": 0.0008,
+     "rhyme": 0.6,
+     "score": 0.474
+    },
+    {
+     "word": "powers",
+     "p": 0.0005,
+     "rhyme": 0.6,
+     "score": 0.467
+    },
+    {
+     "word": "renown",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.464
+    },
+    {
+     "word": "homage",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.463
+    },
+    {
+     "word": "father",
+     "p": 0.0004,
+     "rhyme": 0.6,
+     "score": 0.462
+    },
+    {
+     "word": "sire",
+     "p": 0.0013,
+     "rhyme": 0.3,
+     "score": 0.267
+    },
+    {
+     "word": "spirit",
+     "p": 0.008,
+     "rhyme": 0,
+     "score": 0.25
+    },
+    {
+     "word": "choir",
+     "p": 0.0004,
+     "rhyme": 0.3,
+     "score": 0.238
+    }
+   ]
+  }
+ ]
+}
