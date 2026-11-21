@@ -197,6 +197,40 @@ python -c "from huggingface_hub import snapshot_download; snapshot_download('Qwe
 ```
 Everything ends up in `outputs/` (what each file is: see "What's in the repo" at the top). It also makes the 160 poems in `outputs/final/` we pick from (~30 mins more). If it crashes just run it again, poems that are already there get skipped.
 
+### What the symbols mean
+- **λ** (lambda): how much rhyme matters when picking the last word of a line, from 0 (only rhyme counts) to 1 (rhyme doesn't count at all). In the code it's `lam`
+- **·** and **×**: times. `λ · probability` = λ times the probability
+- **B1**: the system that picks line ends from Qwen's own most likely words
+- **M**: the system that picks line ends from the meaning head's words
+- **AABB / ABAB / ABCB / none**: rhyme schemes. Lines with the same letter rhyme: ABAB = line 1 rhymes with 3 and 2 with 4, AABB = 1 with 2 and 3 with 4, ABCB = only 2 with 4
+- **ppl**: perplexity, how surprised a bigger model is by the poem (lower = reads more naturally)
+- **seed**: the number that fixes the random choices, the same seed gives the same poem
+
+### How a poem is made
+1. Qwen (with our LoRA) gets `Author: <poet>` and writes the line word by word
+2. Every line gets a target length from the poet's profile (Byron 10-11 syllables). Once the line is within 3 syllables of it, we pick the last word ourselves
+3. Candidates: 300 words that keep the line the right length
+   - B1: Qwen's own most likely next words
+   - M: the meaning head guesses what the line "means", and we take the 300 words closest to that in GloVe
+4. Every candidate gets `λ · probability + (1 − λ) · rhyme` and the best one wins. λ 0 = only rhyme counts, λ 1 = rhyme doesn't count. Which line rhymes with which comes from the poet's scheme (ABAB, AABB, ABCB)
+5. Rhymed poets stop after 12 lines, Longfellow (unrhymed) stops when Qwen ends the poem
+
+### Results
+From `evaluate.ipynb` (120 poems: 3 rhymed poets × 4 seeds for every system and λ), every poem's scores are in `outputs/sweep_scores.csv`:
+- rhyme rate: share of the lines that should rhyme that actually do (higher = better)
+- ppl: perplexity under Qwen3-1.7B, how natural it reads (lower = better). Real poems by these poets score ~66
+- copied: share of lines with 5 words in a row from the training data. 3-4% everywhere, so it's not copying
+
+| λ | B1 rhyme | B1 ppl | M rhyme | M ppl |
+| - | - | - | - | - |
+| 0 | 0.68 | 88 | 0.85 | 119 |
+| 0.25 | 0.50 | 73 | 0.53 | 87 |
+| 0.5 | 0.37 | 78 | 0.28 | 84 |
+| 0.75 | 0.02 | 64 | 0.03 | 74 |
+| 1 | 0.02 | 64 | 0.02 | 68 |
+
+M gets the most rhyme, but B1 reads better for the same amount of rhyme. Without rhyme pressure both read like the real poems but almost never rhyme. The plot is `outputs/lambda_curve.png`.
+
 ### Which poems to use in the report
 - **The poems to present:** pick them from `outputs/final_poems.txt` (160 poems, all made after the method was fixed, none of them looked at while building it). Every poem has a header with poet, system, λ, seed and how many rhyme pairs rhyme, so search for e.g. `| B1 | λ 0.0` to jump to a group. Write down how many we read to pick them (e.g. "3 out of 160"), the report has to say that
 - **Where the good ones are:** λ 0 and 0.25 are the ones that actually rhyme. B1 reads better, M rhymes a bit more but has more grammar slips. λ 0.75 and 1 barely rhyme, so they're only good as a "without rhyme pressure" example. Skip poems that turned into Gutenberg footnotes or glossaries (numbers, "vol. i.", lists of names)
