@@ -12,7 +12,7 @@ A poem generator: a fine-tuned Qwen3-0.6B-Base writes the lines, and a controlle
 ### Sources
 | Use | Name | Link |
 | - | - | - |
-| LLM (writes the poems) | Qwen 3 Base (0.6B) | [[LINK]](https://huggingface.co/Qwen/Qwen3-0.6B-Base) |
+| LLM (poem generator) | Qwen 3 Base (0.6B) | [[LINK]](https://huggingface.co/Qwen/Qwen3-0.6B-Base) |
 | LLM (fluency score) | Qwen 3 Base (1.7B) | [[LINK]](https://huggingface.co/Qwen/Qwen3-1.7B-Base) |
 | Pronunciation database | CMUDict | [[LINK]](https://github.com/Alexir/CMUdict) |
 | Rhyme database | PeRDict Database | [[LINK]](https://github.com/scrosseye/PeRDict-database) |
